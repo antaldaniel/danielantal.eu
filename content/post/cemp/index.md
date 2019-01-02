@@ -1,5 +1,5 @@
 +++
-title = "Academic: the website designer for Hugo"
+title = "CEEMP Session: LICENSING, HOW TO TACKLE THE VALUE GAP AND A DISCUSSION ON LICENSING INITIATIVES"
 subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
 
 date = 2016-04-20T00:00:00

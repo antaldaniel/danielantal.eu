@@ -1,12 +1,12 @@
 +++
-title = "Example Talk"
+title = "CEEMP Session: Licensing, How To Tackle the Value Gap and a Discussion on Licensing Initiatives"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+time_start = 2017-09-28T13:00:00
+time_end = 2017-09-28T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Antal, CFA"]
@@ -16,14 +16,14 @@ abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuer
 abstract_short = "An example talk using Academic's Markdown slides feature."
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "CEEMPC (Central and Eastern European Music Publishers Congress)"
+event_url = "https://www.icmp-ciem.org/events/ceempc-central-and-eastern-european-music-publishers-congress"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Warsaw, Poland"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

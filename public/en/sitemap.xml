@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
+      <loc>/talk/ceemp/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -92,6 +92,14 @@
     
     <url>
     
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/cemp/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
@@ -100,8 +108,8 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <loc>/talk/makk/</loc>
+      <lastmod>2015-11-01T00:00:00+01:00</lastmod>
     </url>
     
   

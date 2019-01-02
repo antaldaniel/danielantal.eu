@@ -13,11 +13,22 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <title>CEEMP Session: Licensing, How To Tackle the Value Gap and a Discussion on Licensing Initiatives</title>
+      <link>/talk/ceemp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>/talk/ceemp/</guid>
+      <description>Click on the Slides button above to view the built-in slides feature.
+ Slides can be added in a few ways:
+ Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+    </item>
+    
+    <item>
+      <title>MAKK2015 International authors’ and creators’ conference</title>
+      <link>/talk/makk/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/makk/</guid>
       <description>Click on the Slides button above to view the built-in slides feature.
  Slides can be added in a few ways:
  Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
