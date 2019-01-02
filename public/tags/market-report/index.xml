@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>market-report on Daniel Antal, CFA</title>
+    <link>/tags/market-report/</link>
+    <description>Recent content in market-report on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Nov 2004 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/market-report/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A mellékvonalak lehetőségei az új európai vasútszabályozási környezetben, Közlekedéstudományi Szemle [Opportunities for branch lines in the new European regulatory environment]</title>
+      <link>/publication/hu_branch_lines_2004/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hu_branch_lines_2004/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>A vasúti áruszállítási piac első évének tanulságai az újraszabályozás szempontjából [Lessons from the first year of the liberalized rail freight market for re-regulation].</title>
+      <link>/publication/hu_rail_transport_2004/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/hu_rail_transport_2004/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

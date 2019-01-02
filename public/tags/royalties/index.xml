@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>royalties on Daniel Antal, CFA</title>
+    <link>/tags/royalties/</link>
+    <description>Recent content in royalties on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/royalties/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Az üreshordozó díjrendszer vizsgálata / Analysis of the Hungarian Private Copy Remuneration Scheme</title>
+      <link>/publication/pcr_hungary_2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/pcr_hungary_2013/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Daniel Antal, CFA</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>Click on the Slides button above to view the built-in slides feature.
+ Slides can be added in a few ways:
+ Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+    </item>
+    
+  </channel>
+</rss>

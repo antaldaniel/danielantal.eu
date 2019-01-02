@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>/usecase/example/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/usecase/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/iotables/</loc>
+      <lastmod>2017-11-29T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/hungary_report/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/hungary_report_2015/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/internal-project/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/example/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/cemp/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/hungary_music_industry_2014/</loc>
+      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/amchan_energy_2010/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/pcr_hungary_2013/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/hu_branch_lines_2004/</loc>
+      <lastmod>2004-11-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/hu_rail_transport_2004/</loc>
+      <lastmod>2004-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/0/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2004-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/4/</loc>
+      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/hungary/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/industry-reports/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pcr/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2017-11-29T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/r/</loc>
+      <lastmod>2017-11-29T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+    
+      <loc>/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/audiovisual/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/energy/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/environment/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/investments/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/market-report/</loc>
+      <lastmod>2004-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/music/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/railways/</loc>
+      <lastmod>2004-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/regulation/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/royalties/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

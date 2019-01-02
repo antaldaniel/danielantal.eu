@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+    
+      <loc>/hu/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
+    
+      <loc>/hu/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+    
+      <loc>/hu/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Daniel Antal, CFA</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iotables</title>
+      <link>/project/iotables/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/project/iotables/</guid>
+      <description>The symmetric input-output tables (SIOTs) are complex statistical products that present inter-related statistics in a predefined structure. They are often found in spreadsheets that follow this structure, or in the case Eurostat in a data repository. In both cases they in reproducible research must be downloaded and restructured to programmatically accessible form. Often these highly structured statistics need to be analyzed together with other data, for example, when employment effects and multipliers are calculated.</description>
+    </item>
+    
+    <item>
+      <title>iotables</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>The symmetric input-output tables (SIOTs) are complex statistical products that present inter-related statistics in a predefined structure. They are often found in spreadsheets that follow this structure, or in the case Eurostat in a data repository. In both cases they in reproducible research must be downloaded and restructured to programmatically accessible form. Often these highly structured statistics need to be analyzed together with other data, for example, when employment effects and multipliers are calculated.</description>
+    </item>
+    
+  </channel>
+</rss>
