@@ -69,8 +69,9 @@ enableGitInfo = false
   Email to book an appointment
   """
   skype = "antaldaniel.hu"
-  telegram = ""
+  telegram = "antaldaniel"
   keybase = ""  # Your keybase.io username.
+
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -119,7 +120,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "antaldaniel"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".

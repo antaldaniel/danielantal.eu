@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Analytics",
+    "Machine Learning",
+    "Pricing", 
+    "Relevant Markets / Competition Policy"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -20,6 +21,11 @@ weight = 5
   course = "CFA - Chartered Financial Analyst"
   institution = "CFA Institute"
   year = 2014
+  
+[[education.courses]]
+  course = "Certificate of Public Administration"
+  institution = "Hungarian Public Administration Institute, current name: Közigazgatási és Igazságügyi Hivatal"
+  year = 2004
 
 [[education.courses]]
   course = "MSc Economic Regulation and Competition Policy"
