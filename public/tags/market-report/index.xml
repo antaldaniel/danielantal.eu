@@ -28,7 +28,8 @@ In some countries of Europe, less then 10 percent of the population ever pays fo
       <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
       
       <guid>/post/sharpe_18/</guid>
-      <description>The Working with Eurostat data article shows how to work with real-life, current, SNA2010 compatible data from the Eurostat data warehouse. It contains some comparative results between Czechia and Slovakia. The package is in itself is extending the functionality of the eurostat package, and it is released with eurostat in the rOpenGov community.</description>
+      <description>You can review the slides here.
+           </description>
     </item>
     
     <item>

@@ -17,7 +17,7 @@ summary = "We presented the most important findings of the Slovak Music Industry
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["market-report"]
+# projects = ["market-report", "royalties"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -37,54 +37,55 @@ summary = "We presented the most important findings of the Slovak Music Industry
 [[gallery_item]]
 album = "gallery"
 image = "Slide1.JPG"
-caption = "Default"
+caption = "Slovak Music Industry Report"
 
 [[gallery_item]]
 album = "gallery"
 image = "Slide2.JPG"
-caption = "Default"
+caption = "Music industry has a great potential to create jobs…"
 
 [[gallery_item]]
 album = "gallery"
 image = "Slide3.JPG"
-caption = "Default"
+caption = "Mapping the Slovak Music Industry"
 
 [[gallery_item]]
 album = "gallery"
 image = "Slide4.JPG"
-caption = "Default"
+caption = "Mapping the Slovak Music industry"
 
 [[gallery_item]]
 album = "gallery"
 image = "Slide5.JPG"
-caption = "Default"
+caption = "The importance of the changing VAT regulation"
 
 [[gallery_item]]
 album = "gallery"
 image = "Slide6.JPG"
-caption = "Default"
+caption = "The need of stronger copyright protection and higher royalty values"
 
 [[gallery_item]]
 album = "gallery"
 image = "Slide7.JPG"
-caption = "Default"
+caption = "Critical size in the global market requires strong national players"
 
 [[gallery_item]]
 album = "gallery"
 image = "Slide8.JPG"
-caption = "Default"
+caption = "Part of an animation, not animated here."
 
 [[gallery_item]]
 album = "gallery"
 image = "Slide9.JPG"
-caption = "Default"
+caption = "Short-term growth with foreign revenues"
 
 [[gallery_item]]
 album = "gallery"
 image = "Slide10.JPG"
-caption = "Default"
+caption = "Get involved"
 +++
 
 
+You can review the slides here.
 
-The [Working with Eurostat data article](http://iotables.ceemid.eu/articles/working_with_eurostat.html) shows how to work with real-life, current, SNA2010 compatible data from the Eurostat data warehouse. It contains some comparative results between Czechia and Slovakia.  The package is in itself is extending the functionality of the eurostat package, and it is released with eurostat in the rOpenGov community.
+{{< gallery >}}
