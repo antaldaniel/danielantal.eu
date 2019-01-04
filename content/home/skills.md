@@ -22,7 +22,7 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "work"
+  icon = "briefcase"
   icon_pack = "fas"
   name = "Management Consulting"
   description = "I help my clientst to understand strategic challenges, measurement of the issue and creating data-driven interventions for measureable results."  

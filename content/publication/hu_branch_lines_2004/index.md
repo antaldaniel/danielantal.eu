@@ -1,5 +1,5 @@
 +++
-title = "A mellékvonalak lehetőségei az új európai vasútszabályozási környezetben, Közlekedéstudományi Szemle [Opportunities for branch lines in the new European regulatory environment]"
+title = "Opportunities for branch lines in the new European regulatory environment"
 date = 2004-11-01T00:00:00
 draft = false
 
@@ -41,7 +41,7 @@ tags = ["railways", "regulation", "market-report", "Hungary"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Közlekedéstudományi Szemle [Scientific Review of Transport] vol. 55. 9. pp. 322-332.", url = "http://old.ktenet.hu/061kozl_szemle/binx/11_2004.pdf"}]
+url_custom = [{name = "pdf", url = "http://old.ktenet.hu/061kozl_szemle/binx/11_2004.pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -60,4 +60,4 @@ math = false
   focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+Original title in Hungarian: _A mellékvonalak lehetőségei az új európai vasútszabályozási környezetben_, in: Közlekedéstudományi Szemle

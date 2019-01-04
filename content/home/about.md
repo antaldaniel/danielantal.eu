@@ -34,7 +34,7 @@ weight = 5
 
 [[education.courses]]
   course = "MSc Economics, major: Actuary Science, minor: Applied Operational Research"
-  institution = "Budapest Corvinus University-Universiteit Maasricth"
+  institution = "Budapest Corvinus University-Universiteit Maastricht"
   year = 2001
   
 [[education.courses]]
@@ -46,8 +46,8 @@ weight = 5
 
 # Biography
 
-I am an experienced management consultant and data scientist.  My main professional focus is strategy and pricing in heavily regulated industries, such as banking, energy, transport and music. As an experienced consultant and former railway regulator, I have about 20 years of experience in setting regulated prices and conducing price reviews on a competition law or other regulatory basis.
+I am an experienced management consultant and data scientist. My main professional focus is strategy and pricing in heavily regulated industries, such as banking, energy, transport and music. As an experienced consultant and former railway regulator, I have about 20 years of experience in setting regulated prices and conducing price reviews on a competition law or other regulatory basis.
 
-As a data scientist and strategist, I am experienced in designing data collection, surveys and data integration, re-using interntional survey data, open statistics, internal financial and transactional data, internet-based “big data” and other data sources to create various analytical models.  My experience with governmental statistics, company KPIs and other data sources is combined with programmatic approaches to data analytics (predictive, machine learnings, forecasting) in a reproducible research philosophy.  I created software-based reports that are updating annual-, advocacy- or internal management reports with the latest data and their visualizations, and regulatory filings that are self-contained and automatically refreshing wit the latest data.
+As a data scientist and strategist, I am experienced in designing data collection, surveys and data integration, re-using international survey data, open statistics, internal financial and transactional data, internet-based “big data” and other data sources to create various analytical models. My experience with governmental statistics, company KPIs and other data sources is combined with programmatic approaches to data analytics (predictive, machine learnings, forecasting) in a reproducible research philosophy. I created software-based reports that are updating annual-, advocacy- or internal management reports with the latest data and their visualizations, and regulatory filings that are self-contained and automatically refreshing with the latest data.
 
-Having worked on cases in a many industries, I am able to work in a broad range of corporate cultures and work with very different technologies. Currently I am mainly focused on creative industries and write most of my code in R.
+Having worked on cases in several industries, I am able to work in a broad range of corporate cultures and work with very different technologies. Currently I am mainly focused on creative industries and write most of my code in R.
