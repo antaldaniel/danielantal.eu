@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,19 +15,19 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Academic</title>
+      <title>Daniel Antal</title>
       <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,8 +36,8 @@
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Daniel Antal, CFA is an experienced management consultant and data scientist. His main focus is strategy and pricing in heavily regulated industries, such as banking, energy, transport and music. As an experienced consultant and former railway regulator, he has about 20 years of experience in setting regulated prices and conducing price reviews on a competition law or other regulatory basis.
-As a data scientist and strategist, Daniel is experienced in designing data collection and integration, re-using interntional survey data, open statistics, internal financial and transactional data, internet-based “big data” and other data sources.</description>
+      <description>Biography I am an experienced management consultant and data scientist. My main professional focus is strategy and pricing in heavily regulated industries, such as banking, energy, transport and music. As an experienced consultant and former railway regulator, I have about 20 years of experience in setting regulated prices and conducing price reviews on a competition law or other regulatory basis.
+As a data scientist and strategist, I am experienced in designing data collection, surveys and data integration, re-using interntional survey data, open statistics, internal financial and transactional data, internet-based “big data” and other data sources to create various analytical models.</description>
     </item>
     
     <item>
@@ -113,14 +113,12 @@ As a data scientist and strategist, Daniel is experienced in designing data coll
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <title>Photography</title>
+      <link>/home/photography/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <guid>/home/photography/</guid>
+      <description>My hobby is analogue photography. I have been making photos since my childhood. I develop and print my black and white photos. My collection of analogue cameras is ranging from half-frame cameras taht use a film size of 18x24 mm to early 20th century large format 9x12 cm folders. I almost always carry a camera that is older than me, on working trips usually a tiny halfframe, and on vacation a large-format folding and several other cameras.</description>
     </item>
     
     <item>

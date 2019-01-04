@@ -265,6 +265,11 @@ enableGitInfo = false
     icon = "linkedin"
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/antaldaniel/"
+    
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0001-7513-6760"  
 
   [[params.social]]
     icon = "twitter"
@@ -275,6 +280,17 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/antaldaniel"
+
+  [[params.social]]
+    icon = "dataverse"
+    icon_pack = "ai"
+    link = "https://dataverse.harvard.edu/dataverse/harvard?q=%28dvName%3ADaniel+dvName%3AAntal%29+OR+%28authorName%3ADaniel+authorName%3AAntal%29"
+
+  [[params.social]]
+    icon = "figshare"
+    icon_pack = "ai"
+    link = "https://figshare.com/authors/_/3739732"
+
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -314,12 +330,17 @@ enableGitInfo = false
 [[menu.main]]
   name = "Use Cases"
   url = "/usecase/"
+  weight = 5
+  
+[[menu.main]]
+  name = "Photography"
+  url = "#photography"
   weight = 6
   
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -362,9 +383,11 @@ enableGitInfo = false
 [languages.hu]
 languageCode = "hu-HU"
 title = "Antal Dániel személyes honlapja"
+
 [languages.hu.params]
     name = "Antal Dániel"
     role = "tapasztalt vezetői tanácsadó és data scientist"
+
 [[languages.hu.menu.main]]
     name = "Rólam"
     url = "#about"

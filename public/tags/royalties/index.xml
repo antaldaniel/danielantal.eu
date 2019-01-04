@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/royalties/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Royalties</title>
+      <link>/project/royalties/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/project/royalties/</guid>
+      <description>Royalites are &amp;hellip;</description>
+    </item>
     
     <item>
       <title>Az üreshordozó díjrendszer vizsgálata / Analysis of the Hungarian Private Copy Remuneration Scheme</title>

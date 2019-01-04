@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slovakia on Daniel Antal, CFA</title>
+    <link>/tags/slovakia/</link>
+    <description>Recent content in Slovakia on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 18 Apr 2018 19:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/slovakia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slovak Music Industry Report</title>
+      <link>/post/sharpe_18/</link>
+      <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
+      
+      <guid>/post/sharpe_18/</guid>
+      <description>The Working with Eurostat data article shows how to work with real-life, current, SNA2010 compatible data from the Eurostat data warehouse. It contains some comparative results between Czechia and Slovakia. The package is in itself is extending the functionality of the eurostat package, and it is released with eurostat in the rOpenGov community.</description>
+    </item>
+    
+  </channel>
+</rss>

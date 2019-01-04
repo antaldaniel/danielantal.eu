@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview2 on Daniel Antal, CFA</title>
+    <title>Use Cases on Daniel Antal, CFA</title>
     <link>/usecase/</link>
-    <description>Recent content in Overview2 on Daniel Antal, CFA</description>
+    <description>Recent content in Use Cases on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/usecase/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Page</title>
-      <link>/usecase/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      <title>Royalty Setting</title>
+      <link>/usecase/royalty_setting/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>/usecase/example/</guid>
-      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
-Tip 1 &amp;hellip;
-Tip 2 &amp;hellip;</description>
+      <guid>/usecase/royalty_setting/</guid>
+      <description>The following steps apply to collective rights management, which is most of rights management in the Central, Eastern and Southern European markets. In individual rights managements, some of these techniques can be useful, but further methods can be used, because they are usually not limited to the same extent by competition law restrictions.
+CEEMID, the Central Eastern European Music Industry Database was set up after a memorandum was signed by several collective management entities and my former consulting company.</description>
     </item>
     
   </channel>

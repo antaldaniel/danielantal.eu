@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CEEMID</title>
       <link>/tags/ceemid/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/ceemid/</guid>
       <description></description>
@@ -51,7 +42,7 @@
     <item>
       <title>Industry Reports</title>
       <link>/tags/industry-reports/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       
       <guid>/tags/industry-reports/</guid>
       <description></description>
@@ -69,18 +60,45 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Slovakia</title>
+      <link>/tags/slovakia/</link>
+      <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
+      
+      <guid>/tags/slovakia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>audiovisual</title>
       <link>/tags/audiovisual/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/audiovisual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cee</title>
+      <link>/tags/cee/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/cee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economic-impact</title>
+      <link>/tags/economic-impact/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/tags/economic-impact/</guid>
       <description></description>
     </item>
     
@@ -114,9 +132,18 @@
     <item>
       <title>market-report</title>
       <link>/tags/market-report/</link>
-      <pubDate>Mon, 01 Nov 2004 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/market-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multipliers</title>
+      <link>/tags/multipliers/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/tags/multipliers/</guid>
       <description></description>
     </item>
     
@@ -132,9 +159,27 @@
     <item>
       <title>music-industry</title>
       <link>/tags/music-industry/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/music-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-publishing</title>
+      <link>/tags/music-publishing/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/music-publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pcr</title>
+      <link>/tags/pcr/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/pcr/</guid>
       <description></description>
     </item>
     
@@ -159,9 +204,27 @@
     <item>
       <title>royalties</title>
       <link>/tags/royalties/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/tags/royalties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/tags/software/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value-gap</title>
+      <link>/tags/value-gap/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/value-gap/</guid>
       <description></description>
     </item>
     
