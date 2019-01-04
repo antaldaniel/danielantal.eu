@@ -1,12 +1,12 @@
 +++
-title = "My economic impact package, iotables, has a much updated released on CRAN"
+title = "Market size of the re-usable public sector information in Hungary"
 
-date = 2019-01-04T19:00:00
-lastmod = 2019-01-04T19:00:00
+date = 2009-01-04T19:00:00
+lastmod = 2009-01-04T19:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal"]
+authors = ["Daniel Antal", "Rita Kiss"]
 
 tags = ["economic-impact", "R", "multipliers"]
 
