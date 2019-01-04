@@ -12,6 +12,26 @@
     
     <item>
       <title>My economic impact package, iotables, has a much updated released on CRAN</title>
+      <link>/post/hungary_psi_2009/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/post/hungary_psi_2009/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://zenodo.org/badge/latestdoi/108267715&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/108267715.svg&#34; alt=&#34;DOI&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This package was related to several of my works for Slovak, Hungarian and Croatian music industry and the Hungarian Film Fund, and my collaboration with Eeconomic impacT s.r.o in the Czech Republic. My R package downloads symmetric input-output and related tax, margins, use tables from the Eurostat bulk data warehouse, and organizes them for macroeconomic analysis.&lt;/p&gt;
+
+&lt;p&gt;The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors. The package creates a programmatic interface to compare economic impact changes in time, or compare any country with any country in the European Union.&lt;/p&gt;
+
+&lt;p&gt;The package is accompanied by three articles (or ‘vignettes’).  The &lt;a href=&#34;http://iotables.ceemid.eu/articles/germany_1990.html&#34; target=&#34;_blank&#34;&gt;Germany 1990&lt;/a&gt; re-creataes almost all of the practical examples of the &lt;a href=&#34;http://ec.europa.eu/eurostat/documents/3859598/5902113/KS-RA-07-013-EN.PDF/b0b3d71e-3930-4442-94be-70b36cea9b39?version=1.0&#34; target=&#34;_blank&#34;&gt;Eurostat Manual of Supply, Use and Input-Output Tables&lt;/a&gt; by Jörg Beutel.  This may be used as a tutorial to input-ouput analysis or understanding the package interface. Furthermore, it creates as a verification tool in the package testthat infrastructure to make sure that the functions correctly return all published, verified examples by Prof. Beutel.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://iotables.ceemid.eu/articles/united_kingdom_2010.html&#34; target=&#34;_blank&#34;&gt;United Kingdom Input-Output Analyitcal Tables&lt;/a&gt; article similarly recreates the analytical results, such as GVA and employment cost effects for the &lt;a href=&#34;https://webarchive.nationalarchives.gov.uk/20160114044923tf_/http://www.ons.gov.uk/ons/rel/input-output/input-output-analytical-tables/2010/index.html&#34; target=&#34;_blank&#34;&gt;United Kingdom 2010&lt;/a&gt; table.  While the current UK tables and standard Eurstat tables are somewhat different, this table is accompanied by Richard Wild’s excellent article and published analytical results.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://iotables.ceemid.eu/articles/working_with_eurostat.html&#34; target=&#34;_blank&#34;&gt;Working with Eurostat data article&lt;/a&gt; shows how to work with real-life, current, SNA2010 compatible data from the Eurostat data warehouse. It contains some comparative results between Czechia and Slovakia.  The package is in itself is extending the functionality of the eurostat package, and it is released with eurostat in the rOpenGov community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My economic impact package, iotables, has a much updated released on CRAN</title>
       <link>/post/iotables_04/</link>
       <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
       
@@ -560,16 +580,6 @@ Comparing household cultural spending with digital music revenues in Europe’s 
       <description>&lt;p&gt;The report was compiled with joining data and knowledge from collective management agencies for composer, producer and performer royalties, and market leading companies Sziget (organizer of Sziget festival and many more festivals), WMMD music distribution company, market-leading Schubert Music Publishing and A38, Hungary’s leading music club, together with producer and audience survey data, tax authority data and other government sources.&lt;/p&gt;
 
 &lt;p&gt;The report was presented in the Music Hungary Conference in 2015 and became the prototype of further Hungarian and regional reports.  It was commissioned by &lt;a href=&#34;http://www.proart.hu/&#34; target=&#34;_blank&#34;&gt;ProArt&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AmCham Energy and Environment Committee published Position Brief</title>
-      <link>/publication/amchan_energy_2010/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/amchan_energy_2010/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

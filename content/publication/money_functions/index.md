@@ -1,10 +1,10 @@
 +++
 title = "Lessons from the first year of the liberalized rail freight market for re-regulation"
-date = 2004-09-01T00:00:00
+date = 1998-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal"]
+authors = ["Daniel Antal", "Géza László"]
 
 # Publication type.
 # Legend:
@@ -15,17 +15,17 @@ authors = ["Daniel Antal"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Közlekedéstudományi Szemle [Scientific Review of Transport]"
-publication_short = "Scientific Review of Transport"
+publication = "Bankról, pénzről, tőzsdéről"
+publication_short = "Bankról, pénzről, tőzsdéről"
 
 # Abstract and optional shortened version.
-abstract = "An empirical review of various problems in Hungary's newly liberalized rail freight market. I conducted the survey with the help of railway undertakings and authorities in my capacity as Commissioner for Rail Regulation. The findings were used to support the government bill to establish the rules of the liberalized railways in Hungary, subsequently the Act on Rail Transport 2005/183."
+abstract = "An overview of the mainstream economics view of money functions and the sociological and Austrian views. While microeconomic theories of money try to understand it as a medium of exchange, unit of account and store of value, the conclusion of payment transactions is a distinct function. Lessons for new money-like instrument creation and electronic payment systems from the evolution of money."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -33,15 +33,15 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["market-report"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["railways", "regulation", "market-report", "Hungary"]
+tags = ["economics", "finance"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "pdf", url = "http://old.ktenet.hu/061kozl_szemle/binx/09_2005.pdf"}]
+url_custom = [{name = "Prezi", url = "http://prezi.com/emqi9ylcpuyr/psi-magyarorszagi-piac/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -53,11 +53,11 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**tau280**](https://www.flickr.com/photos/tau280/10420891243)"
+  caption = "Image credit: [**John Liu*](https://www.flickr.com/photos/8047705@N02/5427063703/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
 
-Original title in Hungarian: _A vasúti áruszállítási piac első évének tanulságai az újraszabályozás szempontjából_.
+Original title in Hungarian: _Pénzfunkciók fejlődésben_.

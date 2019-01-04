@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/hungary_psi_2009/</loc>
+      <lastmod>2019-01-04T19:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/iotables_04/</loc>
       <lastmod>2019-01-04T19:00:00+01:00</lastmod>
     </url>
@@ -172,7 +180,7 @@
     
     <url>
     
-      <loc>/publication/hu_rail_transport_2004-copy/</loc>
+      <loc>/publication/hu_rail_transport_2004/</loc>
       <lastmod>2004-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -180,8 +188,8 @@
     
     <url>
     
-      <loc>/publication/hu_rail_transport_2004/</loc>
-      <lastmod>2004-09-01T00:00:00+02:00</lastmod>
+      <loc>/publication/money_functions/</loc>
+      <lastmod>1998-09-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -208,6 +216,15 @@
     
       <loc>/publication_types/4/</loc>
       <lastmod>2015-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/6/</loc>
+      <lastmod>1998-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -376,6 +393,15 @@
     
     <url>
     
+      <loc>/tags/economics/</loc>
+      <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/energy/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -387,6 +413,15 @@
     
       <loc>/tags/environment/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/finance/</loc>
+      <lastmod>1998-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
