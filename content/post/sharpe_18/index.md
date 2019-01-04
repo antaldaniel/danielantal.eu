@@ -81,7 +81,7 @@ caption = "Short-term growth with foreign revenues"
 
 [[gallery_item]]
 album = "gallery"
-image = "Slide10.JPG"
+image = "Slidez10.JPG"
 caption = "Get involved"
 +++
 
