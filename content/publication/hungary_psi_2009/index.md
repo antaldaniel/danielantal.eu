@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Antal", "Rita Kiss"]
 
-tags = ["market-size", "data", "psi", "Hungary"]
+tags = ["market-size", "data", "psi", "Hungary", "pricing"]
 
 summary = ""
 

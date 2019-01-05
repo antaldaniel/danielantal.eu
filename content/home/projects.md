@@ -41,12 +41,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
+  name = "Market Reports"
+  tag = "market-report"
+
+[[filter]]
   name = "Royalties"
-  tag = "Royalties"
+  tag = "royalties"
 
 [[filter]]
   name = "Pricing"
-  tag = "Pricing"
+  tag = "pricing"
   
 [[filter]]
   name = "R"

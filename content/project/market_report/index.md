@@ -6,7 +6,7 @@ title = "Market Reports"
 date = 2017-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "The combined size of live and recording music, income, taxation and investments in Hungary"
+summary = "Market sizing, research and forecasting reports."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["market-report", "report", "Hungary"]`
@@ -37,7 +37,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
