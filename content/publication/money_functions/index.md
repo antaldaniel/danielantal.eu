@@ -1,5 +1,5 @@
 +++
-title = "Lessons from the first year of the liberalized rail freight market for re-regulation"
+title = "The development of money functions"
 date = 1998-09-01T00:00:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Daniel Antal", "Géza László"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Bankról, pénzről, tőzsdéről"
+publication = "Bankról, pénzről, tőzsdéről [On Banks, Money and Exchanges]"
 publication_short = "Bankról, pénzről, tőzsdéről"
 
 # Abstract and optional shortened version.

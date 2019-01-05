@@ -10,7 +10,10 @@ authors = ["Daniel Antal", "Rita Kiss"]
 
 tags = ["market-size", "data", "psi", "Hungary", "pricing"]
 
-summary = ""
+summary = "A localization of the measuring European Public Sector Information resources for Hungary in the fields of Business information, geographic information, legal information, meteorological information, social data and transport information. Market sizing, service levels, pricing."
+
+publication = "A közintézmények újrahasznosítható információinak piaca Magyarországon"
+publication_short = "A közintézmények újrahasznosítható információinak piaca Magyarországon"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -18,7 +21,7 @@ summary = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["R"]
+# projects = ["market-report"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
