@@ -18,8 +18,8 @@ authors = ["Daniel Antal"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "For *ProArt Szövetség a szerzői jogokért*, ProArt."
-publication_short = "In *Proart*"
+publication = "AmCham Position Brief 8"
+publication_short = "AmCham Position Brief 8"
 
 # Abstract and optional shortened version.
 abstract = "It is AmCham’s view that Hungary does not have a consistent energy policy evaluation framework that would enable policymakers and investors to correctly establish priorities and create a roadmap towards energy security. In the current situation, Hungarians on average, both consumer and industrial, pay relatively more for their energy while using it less efficiently than their Western European counterparts. This weakens Hungary’s national competitiveness while simultaneously lowering consumer spending on non-energy categories. By reviewing leading manufacturing-oriented, energy-dependent countries, it shows that Hungary’s problems are not a given. Germany uses less than half the amount of energy Hungary uses to create a single euro of GDP. Japan has an excellent evaluation, planning and policy mix that resulted in exemplary energy savings in the past three decades. The Hungarian government can take a number of actions in the domestic economy to improve this situation, as well as initiate better co-operation regionally."
