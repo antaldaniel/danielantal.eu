@@ -60,4 +60,4 @@ math = false
   focal_point = ""
 +++
 
-Original title in Hungarian: _A vasúti áruszállítási piac első évének tanulságai az újraszabályozás szempontjából_.
+

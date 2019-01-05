@@ -59,6 +59,12 @@ weight = 7
   name = "R"
   description = "I mainly work in the R language with Rmarkdown and bookdown for reproducible reporting. I have experience in C++, Python, GAMS, Pascal, Javascript languages, too."
   
+[[feature]]
+  icon = "language"
+  icon_pack = "fab"
+  name = "Languages"
+  description = "My mother tongue is Hungarian. English: C2, near native.  Dutch: passive C1, active B2. German: passive C1, active B2."
+ 
   
 [[feature]]
   icon = "camera-retro"
