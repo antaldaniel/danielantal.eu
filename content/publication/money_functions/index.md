@@ -41,7 +41,6 @@ tags = ["economics", "finance"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Prezi", url = "http://prezi.com/emqi9ylcpuyr/psi-magyarorszagi-piac/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
