@@ -60,6 +60,14 @@
     
     <url>
     
+      <loc>/post/cee_mini_17/</loc>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/ceemp/</loc>
       <lastmod>2017-09-29T00:00:00+02:00</lastmod>
     </url>
@@ -78,6 +86,14 @@
     
       <loc>/project/royalties/</loc>
       <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/made_in_hungary/</loc>
+      <lastmod>2017-01-22T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -232,7 +248,7 @@
     <url>
     
       <loc>/publication_types/6/</loc>
-      <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-01-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -393,7 +409,7 @@
     <url>
     
       <loc>/tags/cee/</loc>
-      <lastmod>2017-09-29T00:00:00+02:00</lastmod>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -428,6 +444,15 @@
     
     <url>
     
+      <loc>/tags/emerging-markets/</loc>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/energy/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -448,6 +473,15 @@
     
       <loc>/tags/finance/</loc>
       <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/hungary/</loc>
+      <lastmod>2015-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -537,7 +571,7 @@
     <url>
     
       <loc>/tags/pricing/</loc>
-      <lastmod>2009-12-15T19:00:00+01:00</lastmod>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
