@@ -442,6 +442,15 @@
     
     <url>
     
+      <loc>/tags/cisac/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/data/</loc>
       <lastmod>2009-12-15T19:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -498,6 +507,15 @@
     
       <loc>/tags/finance/</loc>
       <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/hedonic-pricing/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -604,6 +622,15 @@
     
     <url>
     
+      <loc>/tags/private-copying/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/psi/</loc>
       <lastmod>2009-12-15T19:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -624,6 +651,15 @@
     
       <loc>/tags/regulation/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/restaurants/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -660,6 +696,15 @@
     
       <loc>/tags/survey/</loc>
       <lastmod>2015-11-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/valuation/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
