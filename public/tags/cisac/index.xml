@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>royalties on Daniel Antal, CFA</title>
-    <link>/tags/royalties/</link>
-    <description>Recent content in royalties on Daniel Antal, CFA</description>
+    <title>CISAC on Daniel Antal, CFA</title>
+    <link>/tags/cisac/</link>
+    <description>Recent content in CISAC on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2013 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/royalties/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/cisac/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Royalties</title>
-      <link>/project/royalties/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/project/royalties/</guid>
-      <description>Royalites are &amp;hellip;</description>
-    </item>
     
     <item>
       <title>Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting</title>
@@ -30,15 +21,6 @@
       <description>You can review the slides here.
   Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting  from Dániel Antal 
 Contents: 2. 2 Private copying: blank carriers, technology-driven challenges 3. 3 Technological changes coupled with arbitrage opportunities on the Single Market undermine revenue collection in some jurisdictions 4. Benchmarking breaks down if race starts to the bottom. You can adjust your tariffs to the neighbor without in-depth analysis as long your neighbor charges the right amount.</description>
-    </item>
-    
-    <item>
-      <title>Analysis of the Hungarian Private Copy Remuneration Scheme</title>
-      <link>/publication/pcr_hungary_2013/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/pcr_hungary_2013/</guid>
-      <description>The original title in Hungarian is Az üreshordozó díjrendszer vizsgálata.</description>
     </item>
     
   </channel>

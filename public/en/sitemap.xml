@@ -100,7 +100,7 @@
     
     <url>
     
-      <loc>/talk/ceemp/</loc>
+      <loc>/talk/cisac_gg_13/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -166,6 +166,22 @@
     
       <loc>/post/proart_report_15/</loc>
       <lastmod>2015-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/cisac_goodg_13/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/ceemp/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -267,6 +283,15 @@
     
       <loc>/tags/ceemid/</loc>
       <lastmod>2018-06-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cisac/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
