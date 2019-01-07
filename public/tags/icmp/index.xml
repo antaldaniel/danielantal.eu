@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICMP on Daniel Antal, CFA</title>
+    <link>/tags/icmp/</link>
+    <description>Recent content in ICMP on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 29 Sep 2017 22:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/icmp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CEEMPC session: Licensing, How To Tackle The Value Gap And A Discussion On Licensing Initiatives</title>
+      <link>/talk/ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
+      
+      <guid>/talk/ceempc/</guid>
+      <description>More information in the blogpost.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 22:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/royalties/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CEEMPC session: Licensing, How To Tackle The Value Gap And A Discussion On Licensing Initiatives</title>
+      <link>/talk/ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
+      
+      <guid>/talk/ceempc/</guid>
+      <description>More information in the blogpost.</description>
+    </item>
     
     <item>
       <title>Royalties</title>
@@ -19,17 +28,6 @@
       
       <guid>/project/royalties/</guid>
       <description>Royalites are &amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting</title>
-      <link>/talk/ceemp/</link>
-      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/ceemp/</guid>
-      <description>You can review the slides here.
-  Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting  from Dániel Antal 
-Contents: 2. 2 Private copying: blank carriers, technology-driven challenges 3. 3 Technological changes coupled with arbitrage opportunities on the Single Market undermine revenue collection in some jurisdictions 4. Benchmarking breaks down if race starts to the bottom. You can adjust your tariffs to the neighbor without in-depth analysis as long your neighbor charges the right amount.</description>
     </item>
     
     <item>
