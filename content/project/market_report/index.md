@@ -10,7 +10,7 @@ summary = "Market sizing, research and forecasting reports."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["market-report", "report", "Hungary"]`
-tags = ["market-report"]
+tags = ["market-report", "Market Reports"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -31,7 +31,7 @@ url_code = "https://www.ceemid.eu"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/antaldaniel"}]
+#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/antaldaniel"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
