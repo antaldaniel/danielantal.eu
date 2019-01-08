@@ -10,7 +10,7 @@ summary = "Optimize pricing or review regulated prices"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["royalties", "pcr"]`
-tags = ["pricing"]
+tags = ["pricing", "value-gap"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
