@@ -10,7 +10,7 @@ summary = "Valuing music, film, and projecting royalty flows."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["royalties", "pcr"]`
-tags = ["royalties", "pcr"]
+tags = ["royalties", "pcr", "Royalties"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -21,7 +21,7 @@ external_link = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+slides = ""
 
 # Links (optional).
 url_pdf = ""
