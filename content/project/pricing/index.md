@@ -27,11 +27,11 @@ slides = "example-slides"
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/rOpenGov/iotables/"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -44,5 +44,9 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
   focal_point = "Smart"
 +++
 
-Royalites are ...
+At a very early stage of my career I specialized in regulated prices and acquired a second degree in Economic Regulation and Competition Policy.  As an advisor to the minister, I set up a regulatory framework with new regulation for Hungarian freight railways.  As a regulator or as a consultant to the authority I participated in price reviews.  As a consultant to regulated industries, I helped making legally allowed pricing decisions or helped to challenge regulatory decisions.
+
+Strategic pricing decisions have a profound impact on the value of companies and regulatory targets, too.  As a CFA charterholder, and as a person trained in competition policy and regulation, I understand both aspects.
+
+In the first decade of the 21st century I worked in newly liberalized industries, including telecommunications, banks, insurance, transport and energy.    Later I focused more and more services with intangible assets, including data pricing and royalty pricing where I consider myself one of the most accomplished professionals in Europe. 
 
