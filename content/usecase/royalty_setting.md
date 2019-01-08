@@ -15,6 +15,9 @@ linktitle = "Royalty Setting"
   weight = 1
 +++
 
+The copyright royalty is the wage of the music performer, composer and producer. Musicians earn their income after their recorded performances when it is played in a public performance or when it is mechanically copied.   Like wages and services in a market economy, the remuneration for the use of their work should reflect some sort of market value.  In the case of copyrighted music, this market value is a part of the added value in a service. 
+
+##CEEMID
 The following steps apply to collective rights management, which is most of rights management in the Central, Eastern and Southern European markets.  In individual rights managements, some of these techniques can be useful, but further methods can be used, because they are usually not limited to the same extent by competition law restrictions.
 
 CEEMID, the Central Eastern European Music Industry Database was set up after a memorandum was signed by several collective management entities and my former consulting company.  Its main objective was to collect and organize data in a way that allows to calculate the economic value added of music and other relevant data for setting the price of music. CEEMID contains hundreds of indicators about music consumption, price, and related economic, sociocultural and consumption data.

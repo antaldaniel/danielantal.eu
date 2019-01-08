@@ -3,7 +3,7 @@
 title = "Market Reports"
 
 # Date this page was created.
-date = 2017-04-27T00:00:00
+date = 2019-01-02T00:00:00
 
 # Project summary to display on homepage.
 summary = "Market sizing, research and forecasting reports."
@@ -44,5 +44,12 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
   focal_point = "Smart"
 +++
 
-I have been creating market reports for 20 years. 
+I have been creating market reports for 20 years, mainly in emerging markets where data is scarce and often has little history.  
+
+Starting as a junior consultant, I learned a lot about data acquisition. Later I held a 'strategic information management' position in the Ministry of Economy and Transport in Hungary with oversight on the national statistical data collection. As a senior consultant and a former lecture, I used to train junior colleagues and journalists on data acquisition. Nowadays most of my data collection is automatized via custom software developed for CEEMID. This leaves a bit of extra time to think about novel ways to add to the picture.
+
+I work completely in the reproducible research paradigm, where my consulting slide presentations and reports include all the data used, the program code to manipulate, organize them, and the models applied for forecasting, calculation, estimation.  As a CFA charterholder I follow very strict data retention and transparency rules and I found this the state of the art method to comply with the ever growing client and regulatory expectations in this field.
+
+
+
 
