@@ -50,3 +50,4 @@ Strategic pricing decisions have a profound impact on the value of companies and
 
 In the first decade of the 21st century I worked in newly liberalized industries, including telecommunications, banks, insurance, transport and energy.    Later I focused more and more services with intangible assets, including data pricing and royalty pricing where I consider myself one of the most accomplished professionals in Europe. 
 
+_Press the tag below to see more examples_

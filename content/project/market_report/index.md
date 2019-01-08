@@ -10,7 +10,7 @@ summary = "Market sizing, research and forecasting reports."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["market-report", "report", "Hungary"]`
-tags = ["market-report", "Market Reports"]
+tags = ["market-report"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -50,6 +50,6 @@ Starting as a junior consultant, I learned a lot about data acquisition. Later I
 
 I work completely in the reproducible research paradigm, where my consulting slide presentations and reports include all the data used, the program code to manipulate, organize them, and the models applied for forecasting, calculation, estimation.  As a CFA charterholder I follow very strict data retention and transparency rules and I found this the state of the art method to comply with the ever growing client and regulatory expectations in this field.
 
-
+_Press the tag below to see more examples_
 
 
