@@ -381,7 +381,7 @@ enableGitInfo = false
 
 # Uncomment the lines below to configure your website in a second language.
 [languages.hu]
-languageCode = "hu-HU"
+languageCode = "hu-hU"
 title = "Antal Dániel személyes honlapja"
 
 [languages.hu.params]
