@@ -1,5 +1,5 @@
 +++
-title = "Esettanulmányok"
+title = "Esetek"
 
 date = 2019-01-03T00:00:00
 # lastmod = 2019-01-03T00:00:00
