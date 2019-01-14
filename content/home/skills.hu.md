@@ -62,14 +62,14 @@ weight = 7
 [[feature]]
   icon = "language"
   icon_pack = "fab"
-  name = "Languages"
-  description = "My mother tongue is Hungarian. English: C2, near native.  Dutch: passive C1, active B2. German: passive C1, active B2."
+  name = "Nyelvek"
+  description = "A magyar az anyanyelven. Angol: C2, majdnem anyanyelvi szint.  Holland: passzív C1, aktív B1/B2. Német: passzív C1, aktív B1/B2."
  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Analogue Photography"
+  name = "Analóg fényképezés"
   description = "This is my hobby  - I usually carry around a camera that is older than I am. You can find me on instagram or Flickr if you want to see my pictures."
 
 +++
