@@ -37,27 +37,27 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "All"
+  name = "Minden"
   tag = "*"
 
 [[filter]]
-  name = "Market Reports"
+  name = "Piaci jelentések"
   tag = "market-report"
 
 [[filter]]
-  name = "Royalties"
+  name = "Jogdijak"
   tag = "royalties"
 
 [[filter]]
-  name = "Pricing"
+  name = "Árazás"
   tag = "pricing"
   
 [[filter]]
-  name = "R"
+  name = "R programozás"
   tag = "R"
 
 [[filter]]
-  name = "Other"
+  name = "Egyéb"
   tag = "Demo"
 
 +++
