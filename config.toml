@@ -380,38 +380,42 @@ enableGitInfo = false
 [languages.en]
   languageCode = "en-us"
 
-# Uncomment the lines below to configure your website in a second language.
-[languages.zh]
-  languageCode = "zh-Hans"
-  title = "Chinese website title..."
-  [languages.zh.params]
-    name = "Your name in Chinese..."
-    role = "Your role in Chinese..."
-  [[languages.zh.menu.main]]
-    name = "Wo"
-    url = "#about"
-    weight = 1
-
 [languages.hu]
-  languageName = "Magyar"
   languageCode = "hu"
   title = "Antal Dániel személyes honlapja"
   [languages.hu.params]
     name = "Antal Dániel"
-    role = "amatőr fényképész"
+    role = "tapasztalt vezetőti tanácsadó és data scientist"
   [[languages.hu.menu.main]]
     name = "Rólam"
     url = "#about"
     weight = 1
+  [[languages.hu.menu.main]]
+  name = "Publikációk"
+  url = "#publications_selected"
+  weight = 2
+  [[languages.hu.menu.main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 3
+  [[languages.hu.menu.main]]
+  name = "Projektek"
+  url = "#projects"
+  weight = 4
     
-[languages.de]
-  languageName = "Deutsch"
-  languageCode = "de"
-  title = "Antal Dániel személyes honlapja"
-  [languages.de.params]
-    name = "Antal Dániel"
-    role = "amatőr fényképész"
-  [[languages.de.menu.main]]
-    name = "Rólam"
-    url = "#about"
-    weight = 1
+ [[languages.hu.menu.main]]
+  name = "Esettanulmányok"
+  url = "/usecase/"
+  weight = 5
+  
+[[languages.hu.menu.main]]
+  name = "Fényképezés"
+  url = "#photography"
+  weight = 6
+  
+[[languages.hu.menu.main]]
+  name = "Kapcsolat"
+  url = "#contact"
+  weight = 7
+    
+
