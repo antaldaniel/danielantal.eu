@@ -376,19 +376,19 @@ enableGitInfo = false
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the website.
-[Languages.en]
+[languages.en]
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-[Languages.hu]
+[languages.hu]
 languageCode = "hu-hU"
 title = "Antal Dániel személyes honlapja"
 
-[Languages.hu.params]
+[languages.hu.params]
     name = "Antal Dániel"
     role = "tapasztalt vezetői tanácsadó és data scientist"
 
-[[Languages.hu.menu.main]]
+[[languages.hu.menu.main]]
     name = "Rólam"
     url = "#rolam"
     weight = 1
