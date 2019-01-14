@@ -9,9 +9,19 @@
 	</sitemap>
 	
 	<sitemap>
+	   	<loc>/zh/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>/hu/sitemap.xml</loc>
 		
 	   	<lastmod>2018-12-28T00:00:00+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/de/sitemap.xml</loc>
 		
 	</sitemap>
 	

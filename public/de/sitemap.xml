@@ -4,13 +4,12 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/de/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/zh/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="/" hreflang="en"/>
     
-      <loc>/hu/</loc>
-      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
+      <loc>/de/</loc>
       <priority>0</priority>
     </url>
     
@@ -18,12 +17,12 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/de/categories/" hreflang="de"/>
       <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/zh/categories/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="/de/categories/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
     
-      <loc>/hu/categories/</loc>
+      <loc>/de/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -31,12 +30,12 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/" hreflang="de"/>
       <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/zh/publication_types/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
     
-      <loc>/hu/publication_types/</loc>
+      <loc>/de/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -44,12 +43,12 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/de/tags/" hreflang="de"/>
       <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/zh/tags/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="/de/tags/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
     
-      <loc>/hu/tags/</loc>
+      <loc>/de/tags/</loc>
       <priority>0</priority>
     </url>
     
