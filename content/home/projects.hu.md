@@ -2,13 +2,13 @@
 # Projects widget.
 widget = "projects"
 active = true
-date = 2019-01-02T00:00:00
+date = 2019-01-03T00:00:00
 
 title = "Projektek"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 51
 
 # Content.
 # Display content from the following folder.
