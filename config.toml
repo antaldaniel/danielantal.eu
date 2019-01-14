@@ -384,7 +384,7 @@ enableGitInfo = false
   languageCode = "hu"
   title = "Antal Dániel személyes honlapja"
   [languages.hu.params]
-    name = "Antal Dániel"
+    name = "Antal Dániel, CFA"
     role = "tapasztalt vezetőti tanácsadó és data scientist"
   [[languages.hu.menu.main]]
     name = "Rólam"
