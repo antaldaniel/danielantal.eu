@@ -1,5 +1,5 @@
 +++
-title = "Use Cases"
+title = "Esettanulmányok"
 
 date = 2019-01-03T00:00:00
 # lastmod = 2019-01-03T00:00:00
@@ -9,8 +9,8 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.usecase]
-  name = "Music pricing"
+[menu.esetek]
+  name = "Jogdíjak meghatározása"
   weight = 1
 +++
 

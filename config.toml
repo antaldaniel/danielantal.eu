@@ -404,8 +404,8 @@ enableGitInfo = false
   weight = 4
     
  [[languages.hu.menu.main]]
-  name = "Esettanulmányok"
-  url = "/usecase/"
+  name = "Esetek"
+  url = "/esetek/"
   weight = 5
   
 [[languages.hu.menu.main]]
