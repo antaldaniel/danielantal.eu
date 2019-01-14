@@ -45,7 +45,7 @@ filter_default = 0
   tag = "market-report"
 
 [[filter]]
-  name = "Jogdijak"
+  name = "Jogdíjak"
   tag = "royalties"
 
 [[filter]]
