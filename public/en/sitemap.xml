@@ -28,6 +28,14 @@
     
     <url>
     
+      <loc>/project/market_report/</loc>
+      <lastmod>2019-01-02T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+02:00</lastmod>
     </url>
@@ -84,7 +92,7 @@
     
     <url>
     
-      <loc>/project/market_report/</loc>
+      <loc>/project/pricing/</loc>
       <lastmod>2017-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -360,7 +368,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2017-11-29T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -382,6 +390,15 @@
     
       <loc>/tags/r/</loc>
       <lastmod>2019-01-04T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/royalties/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -543,7 +560,7 @@
     <url>
     
       <loc>/tags/market-report/</loc>
-      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

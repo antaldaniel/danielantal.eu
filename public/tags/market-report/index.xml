@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/market-report/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Market Reports</title>
+      <link>/project/market_report/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/project/market_report/</guid>
+      <description>I have been creating market reports for 20 years, mainly in emerging markets where data is scarce and often has little history.
+Starting as a junior consultant, I learned a lot about data acquisition. Later I held a &amp;lsquo;strategic information management&amp;rsquo; position in the Ministry of Economy and Transport in Hungary with oversight on the national statistical data collection. As a senior consultant and a former lecture, I used to train junior colleagues and journalists on data acquisition.</description>
+    </item>
     
     <item>
       <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
@@ -29,7 +39,7 @@ In some countries of Europe, less then 10 percent of the population ever pays fo
       
       <guid>/post/sharpe_18/</guid>
       <description>You can review the slides here.
-           </description>
+ </description>
     </item>
     
     <item>
@@ -40,15 +50,6 @@ In some countries of Europe, less then 10 percent of the population ever pays fo
       <guid>/post/ceempc/</guid>
       <description>CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.
 Jules from Spotify spoke about their new initiative, Spotify for Publishers.</description>
-    </item>
-    
-    <item>
-      <title>Market Reports</title>
-      <link>/project/market_report/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/project/market_report/</guid>
-      <description>I have been creating market reports for 20 years.</description>
     </item>
     
     <item>

@@ -38,7 +38,10 @@
       <guid>/usecase/royalty_setting/</guid>
       <description>
 
-&lt;p&gt;The following steps apply to collective rights management, which is most of rights management in the Central, Eastern and Southern European markets.  In individual rights managements, some of these techniques can be useful, but further methods can be used, because they are usually not limited to the same extent by competition law restrictions.&lt;/p&gt;
+&lt;p&gt;The copyright royalty is the wage of the music performer, composer and producer. Musicians earn their income after their recorded performances when it is played in a public performance or when it is mechanically copied.   Like wages and services in a market economy, the remuneration for the use of their work should reflect some sort of market value.  In the case of copyrighted music, this market value is a part of the added value in a service.&lt;/p&gt;
+
+&lt;p&gt;##CEEMID
+The following steps apply to collective rights management, which is most of rights management in the Central, Eastern and Southern European markets.  In individual rights managements, some of these techniques can be useful, but further methods can be used, because they are usually not limited to the same extent by competition law restrictions.&lt;/p&gt;
 
 &lt;p&gt;CEEMID, the Central Eastern European Music Industry Database was set up after a memorandum was signed by several collective management entities and my former consulting company.  Its main objective was to collect and organize data in a way that allows to calculate the economic value added of music and other relevant data for setting the price of music. CEEMID contains hundreds of indicators about music consumption, price, and related economic, sociocultural and consumption data.&lt;/p&gt;
 
@@ -71,6 +74,22 @@
 &lt;h2 id=&#34;adding-original-valuation-1&#34;&gt;Adding original valuation&lt;/h2&gt;
 
 &lt;h2 id=&#34;documentation-and-data-maintenance&#34;&gt;Documentation and data maintenance&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Market Reports</title>
+      <link>/project/market_report/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/project/market_report/</guid>
+      <description>&lt;p&gt;I have been creating market reports for 20 years, mainly in emerging markets where data is scarce and often has little history.&lt;/p&gt;
+
+&lt;p&gt;Starting as a junior consultant, I learned a lot about data acquisition. Later I held a &amp;lsquo;strategic information management&amp;rsquo; position in the Ministry of Economy and Transport in Hungary with oversight on the national statistical data collection. As a senior consultant and a former lecture, I used to train junior colleagues and journalists on data acquisition. Nowadays most of my data collection is automatized via custom software developed for CEEMID. This leaves a bit of extra time to think about novel ways to add to the picture.&lt;/p&gt;
+
+&lt;p&gt;I work completely in the reproducible research paradigm, where my consulting slide presentations and reports include all the data used, the program code to manipulate, organize them, and the models applied for forecasting, calculation, estimation.  As a CFA charterholder I follow very strict data retention and transparency rules and I found this the state of the art method to comply with the ever growing client and regulatory expectations in this field.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Press the tag below to see more examples&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -521,12 +540,18 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     </item>
     
     <item>
-      <title>Market Reports</title>
-      <link>/project/market_report/</link>
+      <title>Pricing</title>
+      <link>/project/pricing/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>/project/market_report/</guid>
-      <description>&lt;p&gt;I have been creating market reports for 20 years.&lt;/p&gt;
+      <guid>/project/pricing/</guid>
+      <description>&lt;p&gt;At a very early stage of my career I specialized in regulated prices and acquired a second degree in Economic Regulation and Competition Policy.  As an advisor to the minister, I set up a regulatory framework with new regulation for Hungarian freight railways.  As a regulator or as a consultant to the authority I participated in price reviews.  As a consultant to regulated industries, I helped making legally allowed pricing decisions or helped to challenge regulatory decisions.&lt;/p&gt;
+
+&lt;p&gt;Strategic pricing decisions have a profound impact on the value of companies and regulatory targets, too.  As a CFA charterholder, and as a person trained in competition policy and regulation, I understand both aspects.&lt;/p&gt;
+
+&lt;p&gt;In the first decade of the 21st century I worked in newly liberalized industries, including telecommunications, banks, insurance, transport and energy.    Later I focused more and more services with intangible assets, including data pricing and royalty pricing where I consider myself one of the most accomplished professionals in Europe.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Press the tag below to see more examples&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -579,30 +604,6 @@ Comparing household cultural spending with digital music revenues in Europe’s 
       
       <guid>/publication/creating_better_2015/</guid>
       <description>&lt;iframe id=&#34;iframe_container&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; fullscreen&#34; width=&#34;550&#34; height=&#34;400&#34; src=&#34;https://prezi.com/embed/oar71vqxjoq4/?bgcolor=ffffff&amp;amp;lock_to_path=0&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0dCs2TTYrQjNOY0VXWUFnaGUySS9RVnRnPT0&amp;amp;landing_sign=SrA-iYgwejSc75tmUrPjHaAHQpUXuxhxq6DZcREMEGk&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MAKK2015 International authors’ and creators’ conference</title>
-      <link>/talk/makk/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/makk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

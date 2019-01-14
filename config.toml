@@ -390,5 +390,36 @@ title = "Antal Dániel személyes honlapja"
 
 [[languages.hu.menu.main]]
     name = "Rólam"
-    url = "#about"
+    url = "#rolam"
     weight = 1
+
+[[languages.hu.menu.main]]
+  name = "Publikációk"
+  url = "#publications_selected"
+  weight = 2
+
+[[languages.hu.menu.main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 3
+
+[[languages.hu.menu.main]]
+  name = "Projektek"
+  url = "#projects"
+  weight = 4
+
+[[languages.hu.menu.main]]
+  name = "Esettanulmányok"
+  url = "/usecase/"
+  weight = 5
+  
+[[languages.hu.menu.main]]
+  name = "Fényképezés"
+  url = "#photography"
+  weight = 6
+  
+[[languages.hu.menu.main]]
+  name = "Kapcsolat"
+  url = "#contact"
+  weight = 7
+
