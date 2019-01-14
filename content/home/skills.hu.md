@@ -24,19 +24,19 @@ weight = 7
 [[feature]]
   icon = "briefcase"
   icon_pack = "fas"
-  name = "Management Consulting"
+  name = "Vezetői tanácsadás"
   description = "I help my clientst to understand strategic challenges, measurement of the issue and creating data-driven interventions for measureable results."  
   
 [[feature]]
   icon = "file-invoice-dollar"
   icon_pack = "fas"
-  name = "Valuation"
+  name = "Értékelés"
   description = "As a CFA charterholder with a degree in Competition Policy and strategy consultant I am very experienced with making valuations. My speciality is valuing intangible assets and pricing royalties."
 
 [[feature]]
   icon = "gavel"
   icon_pack = "fas"
-  name = "Regulation"
+  name = "Szabályozás"
   description = "As a consultant to regulated companies and a former railway network regulator, I am very experienced with regulatory and competition issues, and I work on RegTech applications that make regulatory filings and cases faster, more accurate and less burdensome."
 
   
@@ -50,7 +50,7 @@ weight = 7
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Data collection and Design"
+  name = "Adatgyűjtések"
   description = "I support my work by creating statistics, data gathering, survey design, sampling, pre-processing and integration with your existing management data."
   
 [[feature]]
