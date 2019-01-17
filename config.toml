@@ -378,11 +378,17 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [languages.en]
-  languageCode = "en-us"
+ languageName =  "English"
+ languageCode = "en-us"
+ weight = 1
+ contentDir= "content/english
 
 [languages.hu]
+  languageName = "Magyar"
   languageCode = "hu"
-  title = "Antal Dániel személyes honlapja"
+  title = "Hungarian website title..."
+  contentDir = "content/hungarian"
+  weight = 2
   [languages.hu.params]
     name = "Antal Dániel, CFA"
     role = "tapasztalt vezetőti tanácsadó és data scientist"
