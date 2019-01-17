@@ -74,7 +74,7 @@ enableGitInfo = false
 
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url = ""
+    appointment_url = "calendly.com/antaldaniel"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
