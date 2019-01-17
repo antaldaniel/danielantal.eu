@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Use Cases on Hungarian website title...</title>
+    <link>/hu/esetek/</link>
+    <description>Recent content in Use Cases on Hungarian website title...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/hu/esetek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jogdíjak meghatározása</title>
+      <link>/hu/esetek/jogdijak_meghatorozasa/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/esetek/jogdijak_meghatorozasa/</guid>
+      <description>The copyright royalty is the wage of the music performer, composer and producer. Musicians earn their income after their recorded performances when it is played in a public performance or when it is mechanically copied. Like wages and services in a market economy, the remuneration for the use of their work should reflect some sort of market value. In the case of copyrighted music, this market value is a part of the added value in a service.</description>
+    </item>
+    
+  </channel>
+</rss>

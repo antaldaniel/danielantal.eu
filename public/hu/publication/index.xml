@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Hungarian website title...</title>
+    <link>/hu/publication/</link>
+    <description>Recent content in Publications on Hungarian website title...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/hu/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Growth of the Hungarian Popular Music Repertoire: Who Creates It And How Does It Find An Audience</title>
+      <link>/hu/publication/made_in_hungary/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/made_in_hungary/</guid>
+      <description>Being visible in the world is always difficult in the Central and Eastern European region. Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region. A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book.
+ </description>
+    </item>
+    
+    <item>
+      <title>Creating better national cultural statistics with Eurobarometer datasets and ESSNet-Culture technical recommendations</title>
+      <link>/hu/publication/creating_better_2015/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/creating_better_2015/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Hungarian Music Industry Report</title>
+      <link>/hu/publication/hungary_music_industry_2014/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/hungary_music_industry_2014/</guid>
+      <description>A ProArt zeneipari jelentése  from Dániel Antal</description>
+    </item>
+    
+    <item>
+      <title>AmCham Energy and Environment Committee published Position Brief</title>
+      <link>/hu/publication/amchan_energy_2010/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/amchan_energy_2010/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Hungarian Private Copy Remuneration Scheme</title>
+      <link>/hu/publication/pcr_hungary_2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/pcr_hungary_2013/</guid>
+      <description>The original title in Hungarian is Az üreshordozó díjrendszer vizsgálata.</description>
+    </item>
+    
+    <item>
+      <title>Market size of the re-usable public sector information in Hungary</title>
+      <link>/hu/publication/hungary_psi_2009/</link>
+      <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/hungary_psi_2009/</guid>
+      <description>Original title in Hungarian: - A közintézmények újrahasznosítható információinak piaca Magyarországon</description>
+    </item>
+    
+    <item>
+      <title>Opportunities for branch lines in the new European regulatory environment</title>
+      <link>/hu/publication/hu_branch_lines_2004/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/hu_branch_lines_2004/</guid>
+      <description>Original title in Hungarian: A mellékvonalak lehetőségei az új európai vasútszabályozási környezetben, in: Közlekedéstudományi Szemle</description>
+    </item>
+    
+    <item>
+      <title>Lessons from the first year of the liberalized rail freight market for re-regulation</title>
+      <link>/hu/publication/hu_rail_transport_2004/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/hu_rail_transport_2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The development of money functions</title>
+      <link>/hu/publication/money_functions/</link>
+      <pubDate>Tue, 01 Sep 1998 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/money_functions/</guid>
+      <description>Original title in Hungarian: Pénzfunkciók fejlődésben.</description>
+    </item>
+    
+  </channel>
+</rss>

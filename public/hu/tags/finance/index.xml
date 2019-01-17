@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finance on Hungarian website title...</title>
+    <link>/hu/tags/finance/</link>
+    <description>Recent content in finance on Hungarian website title...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Sep 1998 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/hu/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The development of money functions</title>
+      <link>/hu/publication/money_functions/</link>
+      <pubDate>Tue, 01 Sep 1998 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/money_functions/</guid>
+      <description>Original title in Hungarian: Pénzfunkciók fejlődésben.</description>
+    </item>
+    
+  </channel>
+</rss>

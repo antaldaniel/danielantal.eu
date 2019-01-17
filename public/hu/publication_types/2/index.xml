@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Hungarian website title...</title>
+    <link>/hu/publication_types/2/</link>
+    <description>Recent content in 2 on Hungarian website title...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Nov 2004 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/hu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opportunities for branch lines in the new European regulatory environment</title>
+      <link>/hu/publication/hu_branch_lines_2004/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/hu_branch_lines_2004/</guid>
+      <description>Original title in Hungarian: A mellékvonalak lehetőségei az új európai vasútszabályozási környezetben, in: Közlekedéstudományi Szemle</description>
+    </item>
+    
+    <item>
+      <title>Lessons from the first year of the liberalized rail freight market for re-regulation</title>
+      <link>/hu/publication/hu_rail_transport_2004/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/hu_rail_transport_2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

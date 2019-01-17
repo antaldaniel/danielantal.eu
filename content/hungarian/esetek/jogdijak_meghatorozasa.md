@@ -8,9 +8,7 @@ draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
-# Add menu entry to sidebar.
-linktitle = "Jogdíjak meghatározása"
-[menu.usecase]
+[menu.esetek]
   parent = "Jogdíjak meghatározása"
   weight = 1
 +++

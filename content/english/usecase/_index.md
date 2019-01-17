@@ -9,8 +9,8 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.esetek]
-  name = "Jogdíjak meghatározása"
+[menu.usecase]
+  name = "Royalty settings"
   weight = 1
 +++
 

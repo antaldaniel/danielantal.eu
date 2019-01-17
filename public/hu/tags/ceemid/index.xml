@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CEEMID on Hungarian website title...</title>
+    <link>/hu/tags/ceemid/</link>
+    <description>Recent content in CEEMID on Hungarian website title...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/hu/tags/ceemid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
+      <link>/hu/post/how_many_ever_pay/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/post/how_many_ever_pay/</guid>
+      <description>In our recent private copying reports we compiled European survey data relevant to analysis. In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.
+In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.</description>
+    </item>
+    
+    <item>
+      <title>The Growth of the Hungarian Popular Music Repertoire: Who Creates It And How Does It Find An Audience</title>
+      <link>/hu/publication/made_in_hungary/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/made_in_hungary/</guid>
+      <description>Being visible in the world is always difficult in the Central and Eastern European region. Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region. A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book.
+ </description>
+    </item>
+    
+    <item>
+      <title>Mapping the Croatian Music Industry</title>
+      <link>/hu/post/makk15/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/post/makk15/</guid>
+      <description>Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference (Međunarodna autorska kreativna konferencija, #MAKK2015) in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.
+The Central European music industry, as shown by processing the data of more than 2000 musicians in the region is even more reliant on live performances than the British music industry.</description>
+    </item>
+    
+  </channel>
+</rss>

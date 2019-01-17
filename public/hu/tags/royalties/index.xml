@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>royalties on Hungarian website title...</title>
+    <link>/hu/tags/royalties/</link>
+    <description>Recent content in royalties on Hungarian website title...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 29 Sep 2017 22:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/hu/tags/royalties/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CEEMPC session: Licensing, How To Tackle The Value Gap And A Discussion On Licensing Initiatives</title>
+      <link>/hu/talk/ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
+      
+      <guid>/hu/talk/ceempc/</guid>
+      <description>More information in the blogpost.</description>
+    </item>
+    
+    <item>
+      <title>Royalties</title>
+      <link>/hu/project/royalties/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/project/royalties/</guid>
+      <description>Royalites are &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Hungarian Private Copy Remuneration Scheme</title>
+      <link>/hu/publication/pcr_hungary_2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/pcr_hungary_2013/</guid>
+      <description>The original title in Hungarian is Az üreshordozó díjrendszer vizsgálata.</description>
+    </item>
+    
+  </channel>
+</rss>

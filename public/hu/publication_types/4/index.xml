@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Hungarian website title...</title>
+    <link>/hu/publication_types/4/</link>
+    <description>Recent content in 4 on Hungarian website title...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 May 2015 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/hu/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hungarian Music Industry Report</title>
+      <link>/hu/publication/hungary_music_industry_2014/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/hungary_music_industry_2014/</guid>
+      <description>A ProArt zeneipari jelentése  from Dániel Antal</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Hungarian Private Copy Remuneration Scheme</title>
+      <link>/hu/publication/pcr_hungary_2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/publication/pcr_hungary_2013/</guid>
+      <description>The original title in Hungarian is Az üreshordozó díjrendszer vizsgálata.</description>
+    </item>
+    
+  </channel>
+</rss>

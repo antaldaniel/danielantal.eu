@@ -1,14 +1,625 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Antal Dániel személyes honlapja on Antal Dániel személyes honlapja</title>
+    <title>Hungarian website title... on Hungarian website title...</title>
     <link>/hu/</link>
-    <description>Recent content in Antal Dániel személyes honlapja on Antal Dániel személyes honlapja</description>
+    <description>Recent content in Hungarian website title... on Hungarian website title...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0100</lastBuildDate>
     <atom:link href="/hu/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My economic impact package, iotables, has a much updated released on CRAN</title>
+      <link>/hu/post/iotables_04/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/hu/post/iotables_04/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://zenodo.org/badge/latestdoi/108267715&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/108267715.svg&#34; alt=&#34;DOI&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This package was related to several of my works for Slovak, Hungarian and Croatian music industry and the Hungarian Film Fund, and my collaboration with Eeconomic impacT s.r.o in the Czech Republic. My R package downloads symmetric input-output and related tax, margins, use tables from the Eurostat bulk data warehouse, and organizes them for macroeconomic analysis.&lt;/p&gt;
+
+&lt;p&gt;The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors. The package creates a programmatic interface to compare economic impact changes in time, or compare any country with any country in the European Union.&lt;/p&gt;
+
+&lt;p&gt;The package is accompanied by three articles (or ‘vignettes’).  The &lt;a href=&#34;http://iotables.ceemid.eu/articles/germany_1990.html&#34; target=&#34;_blank&#34;&gt;Germany 1990&lt;/a&gt; re-creataes almost all of the practical examples of the &lt;a href=&#34;http://ec.europa.eu/eurostat/documents/3859598/5902113/KS-RA-07-013-EN.PDF/b0b3d71e-3930-4442-94be-70b36cea9b39?version=1.0&#34; target=&#34;_blank&#34;&gt;Eurostat Manual of Supply, Use and Input-Output Tables&lt;/a&gt; by Jörg Beutel.  This may be used as a tutorial to input-ouput analysis or understanding the package interface. Furthermore, it creates as a verification tool in the package testthat infrastructure to make sure that the functions correctly return all published, verified examples by Prof. Beutel.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://iotables.ceemid.eu/articles/united_kingdom_2010.html&#34; target=&#34;_blank&#34;&gt;United Kingdom Input-Output Analyitcal Tables&lt;/a&gt; article similarly recreates the analytical results, such as GVA and employment cost effects for the &lt;a href=&#34;https://webarchive.nationalarchives.gov.uk/20160114044923tf_/http://www.ons.gov.uk/ons/rel/input-output/input-output-analytical-tables/2010/index.html&#34; target=&#34;_blank&#34;&gt;United Kingdom 2010&lt;/a&gt; table.  While the current UK tables and standard Eurstat tables are somewhat different, this table is accompanied by Richard Wild’s excellent article and published analytical results.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://iotables.ceemid.eu/articles/working_with_eurostat.html&#34; target=&#34;_blank&#34;&gt;Working with Eurostat data article&lt;/a&gt; shows how to work with real-life, current, SNA2010 compatible data from the Eurostat data warehouse. It contains some comparative results between Czechia and Slovakia.  The package is in itself is extending the functionality of the eurostat package, and it is released with eurostat in the rOpenGov community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jogdíjak meghatározása</title>
+      <link>/hu/esetek/jogdijak_meghatorozasa/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/esetek/jogdijak_meghatorozasa/</guid>
+      <description>
+
+&lt;p&gt;The copyright royalty is the wage of the music performer, composer and producer. Musicians earn their income after their recorded performances when it is played in a public performance or when it is mechanically copied.   Like wages and services in a market economy, the remuneration for the use of their work should reflect some sort of market value.  In the case of copyrighted music, this market value is a part of the added value in a service.&lt;/p&gt;
+
+&lt;p&gt;##CEEMID
+The following steps apply to collective rights management, which is most of rights management in the Central, Eastern and Southern European markets.  In individual rights managements, some of these techniques can be useful, but further methods can be used, because they are usually not limited to the same extent by competition law restrictions.&lt;/p&gt;
+
+&lt;p&gt;CEEMID, the Central Eastern European Music Industry Database was set up after a memorandum was signed by several collective management entities and my former consulting company.  Its main objective was to collect and organize data in a way that allows to calculate the economic value added of music and other relevant data for setting the price of music. CEEMID contains hundreds of indicators about music consumption, price, and related economic, sociocultural and consumption data.&lt;/p&gt;
+
+&lt;h2 id=&#34;appropirate-benchmarks&#34;&gt;Appropirate benchmarks&lt;/h2&gt;
+
+&lt;p&gt;The jurisprudence of the Court of the European Union has touched upon music collective royalties with increasing frequency in the last decade.  I believe that currently the most applicable case law is &lt;a href=&#34;http://curia.europa.eu/juris/document/document.jsf?text=&amp;amp;docid=194436&amp;amp;pageIndex=0&amp;amp;doclang=EN&amp;amp;mode=lst&amp;amp;dir=&amp;amp;occ=first&amp;amp;part=1&amp;amp;cid=273330&#34; target=&#34;_blank&#34;&gt;Autortiesību un komunicēšanās konsultāciju aģentūra/Latvijas Autoru apvienība v Konkurences padome&lt;/a&gt;, or shortly, &lt;em&gt;AKKA/LAA vs Konkurences padome&lt;/em&gt;. A notable precursor to this decision the one made in the Czech case between the Czech collective management organization OSA and hotels, &lt;a href=&#34;http://curia.europa.eu/juris/liste.jsf?oqp=&amp;amp;for=&amp;amp;mat=or&amp;amp;lgrec=en&amp;amp;jge=&amp;amp;td=%3BALL&amp;amp;jur=C%2CT%2CF&amp;amp;num=C-351%252F12&amp;amp;page=1&amp;amp;dates=&amp;amp;pcs=Oor&amp;amp;lg=&amp;amp;pro=&amp;amp;nat=or&amp;amp;cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&amp;amp;language=en&amp;amp;avg=&amp;amp;cid=1996526&#34; target=&#34;_blank&#34;&gt;OSA v Léčebné lázně Mariánské Lázně&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;According the Court decision, significant differences between royalty prices on the European Single Market must be based on objective differences of economic, sociocultural factors and consumption habits.  In the past 5 years, CEEMID has collected hundreds of economic, sociocultural consumption indicators to understand the differences of European markets in live music, recorded music, and in the important connecting markets of films, software games, restaurants, hotels, tv, radio and other big users of music.&lt;/p&gt;
+
+&lt;h2 id=&#34;international-comparison&#34;&gt;International comparison&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;adding-original-valuation&#34;&gt;Adding original valuation&lt;/h2&gt;
+
+&lt;p&gt;An important problem with international comparison is that it will create a deadly vortex to the bottom if it is not applied in all territories, and no independent valuations are made.  The international comparison is a benchmarking exercise at most, but it gives no direct valuation of music royalties. It is a very useful start, but it should be combined with true valuation.&lt;/p&gt;
+
+&lt;p&gt;The value of music, when used by business entities, such as radio stations, restaurants, or software game producers is based on the value in use, or the value added by combining music with some other service or product.  A study commissioned by IFPI, the international record industry body, has enumerated several methods to value music in &lt;a href=&#34;https://www.ifpi.org/content/library/valuing_the_use_of_recorded_music.pdf&#34; target=&#34;_blank&#34;&gt;a study&lt;/a&gt;  created by PWC.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Analysing ‘comparable’ market outcomes&lt;/strong&gt; is a very powerful tool, because it uses information that is most trusted by auditors and courts: market prices. The CEEMID full market model, powered by CEEMID indicators and nationally representative special consumer surveys, is very advanced application of the comparable market outcomes model, and it can be used to measure the value gap, set the value of private copying, or price collectively managed or individually managed royalties.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Analysing the value music adds to businesses&lt;/strong&gt; has an economic and a financial model.  The financial model is not very useful in Central and Eastern Europe because of the lack of information, but the hedonic pricing economic model is a very powerful tool. We used it with CEE clients for setting restaurant and hotel tariffs.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Analysing the behaviour and preferences of consumers&lt;/strong&gt; leads to various experimental models, such as test screenings / hearings.  They are widely used in the radio, film, television industry, and generally they are a very good tool for individual royalties.  However, we also used them successfully to establish royalty tariffs for restaurants and department stores.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Which model to choose? In my experience, the best is to use as many as possible, because data limitations, and limitations of competition authorities or regulators to understand the models may not be foreseen.  A good international comparison following the guidelines of the CJEU and at least two independent valuations usually wins the argument.&lt;/p&gt;
+
+&lt;h2 id=&#34;adding-original-valuation-1&#34;&gt;Adding original valuation&lt;/h2&gt;
+
+&lt;h2 id=&#34;documentation-and-data-maintenance&#34;&gt;Documentation and data maintenance&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Market Reports</title>
+      <link>/hu/project/market_report/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/project/market_report/</guid>
+      <description>&lt;p&gt;I have been creating market reports for 20 years, mainly in emerging markets where data is scarce and often has little history.&lt;/p&gt;
+
+&lt;p&gt;Starting as a junior consultant, I learned a lot about data acquisition. Later I held a &amp;lsquo;strategic information management&amp;rsquo; position in the Ministry of Economy and Transport in Hungary with oversight on the national statistical data collection. As a senior consultant and a former lecture, I used to train junior colleagues and journalists on data acquisition. Nowadays most of my data collection is automatized via custom software developed for CEEMID. This leaves a bit of extra time to think about novel ways to add to the picture.&lt;/p&gt;
+
+&lt;p&gt;I work completely in the reproducible research paradigm, where my consulting slide presentations and reports include all the data used, the program code to manipulate, organize them, and the models applied for forecasting, calculation, estimation.  As a CFA charterholder I follow very strict data retention and transparency rules and I found this the state of the art method to comply with the ever growing client and regulatory expectations in this field.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Press the tag below to see more examples&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
+      <link>/hu/post/how_many_ever_pay/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/post/how_many_ever_pay/</guid>
+      <description>&lt;p&gt;In our recent private copying reports we compiled European survey data relevant to analysis.  In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.&lt;/p&gt;
+
+&lt;p&gt;In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.  These survey data, accompanied by other objective data, can help explaining 96% of the variance among digital music sales levels within the EU countries, and it is highly relevant in calculating the economic benefit of home copying for users, and the harm for rightsholders.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slovak Music Industry Report</title>
+      <link>/hu/post/sharpe_18/</link>
+      <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
+      
+      <guid>/hu/post/sharpe_18/</guid>
+      <description>&lt;p&gt;You can review the slides here.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slide1.JPG&#34; data-caption=&#34;Slovak Music Industry Report&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slide1.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slide2.JPG&#34; data-caption=&#34;Music industry has a great potential to create jobs…&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slide2.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slide3.JPG&#34; data-caption=&#34;Mapping the Slovak Music Industry&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slide3.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slide4.JPG&#34; data-caption=&#34;Mapping the Slovak Music industry&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slide4.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slide5.JPG&#34; data-caption=&#34;The importance of the changing VAT regulation&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slide5.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slide6.JPG&#34; data-caption=&#34;The need of stronger copyright protection and higher royalty values&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slide6.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slide7.JPG&#34; data-caption=&#34;Critical size in the global market requires strong national players&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slide7.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slide8.JPG&#34; data-caption=&#34;Part of an animation, not animated here.&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slide8.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slide9.JPG&#34; data-caption=&#34;Short-term growth with foreign revenues&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slide9.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/sharpe_18/gallery/Slidez10.JPG&#34; data-caption=&#34;Get involved&#34;&gt;
+  &lt;img src=&#34;/hu/post/sharpe_18/gallery/Slidez10.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/hu/project/r/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/project/r/</guid>
+      <description>&lt;p&gt;The symmetric input-output tables (SIOTs) are complex statistical products that present inter-related statistics in a predefined structure. They are often found in spreadsheets that follow this structure, or in the case Eurostat in a data repository. In both cases they in reproducible research must be downloaded and restructured to programmatically accessible form. Often these highly structured statistics need to be analyzed together with other data, for example, when employment effects and multipliers are calculated. In this case processing the employment data to SIOT conforming format is a significant preprocessing challenge.&lt;/p&gt;
+
+&lt;p&gt;The iotables are exactly designed for these tasks. Currently the package downloads and processes standardized European SIOTs conforming to the latest statistical regulations, i.e. SIOTs starting from the year 2010.&lt;/p&gt;
+
+&lt;p&gt;In order to test the analytical functions of the package and to have a manageable sized example data set, we use the real-life data from the Eurostat manual. The calculation of induced effects (Type-II multipliers) are following the Input-Output Multipliers Specification Sheet and Supporting Material, Spicosa Project Report. The analytical functions are tested against this example, too.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CEE Mini Recording Industry Workshop</title>
+      <link>/hu/post/cee_mini_17/</link>
+      <pubDate>Wed, 01 Nov 2017 09:00:00 +0100</pubDate>
+      
+      <guid>/hu/post/cee_mini_17/</guid>
+      <description>&lt;p&gt;I presented my market view and experience with distinguished colleagues from the Baltic states, Central Europe and the Balkan, representatives of WIN and IFPI and the international indie distributor State 51. We had a lively discussion on why emerging markets are emerging so slowly in the new digital music business.&lt;/p&gt;
+
+&lt;p&gt;After a decade of decline due to piracy and change in business model, the global music business is steadily growing.  However, defying some economic expectation, to growth is stronger in mature markets than in most emerging markets, and most of the global growth came from the United States. The dollar-based IFPI Global Music Report hides the fact that mature and emerging Europe is truly lagging behind the United States.&lt;/p&gt;
+
+&lt;p&gt;The European music scene is very fragmented, has many languages and the lack of critical market size often leads to neglect by innovative global players. In a world where most music is soled by big data driven algorithms in subscription streams, the lack of large repertoires, data analytics capabilities and critical audience masses puts the smaller European repertoires into a competitive disadvantage.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/cee_mini_17/gallery/digital_gap.jpg&#34; data-caption=&#34;Digital gap: share in household recreational spending and digital music revenues.&#34;&gt;
+  &lt;img src=&#34;/hu/post/cee_mini_17/gallery/digital_gap.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/hu/post/cee_mini_17/gallery/featured.png&#34; data-caption=&#34;The source of growth has been mainly the United States so far.&#34;&gt;
+  &lt;img src=&#34;/hu/post/cee_mini_17/gallery/featured.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;p&gt;We had a very interesting discussion that will lead to hopefully many new initiatives on a number of problems, including low market prices in collectively managed and private channels, distribution problems, the difficulties and opportunities in regional cooperation and a number of other topics.
+The presentation and the working paper is not public, but the similar workshops in the future may help growing a more mature network of CEE industry players and the adoption of new business models, pricing and promotion methods and more coordinated planning and marketing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CEEMPC session: Licensing, How To Tackle The Value Gap And A Discussion On Licensing Initiatives</title>
+      <link>/hu/talk/ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
+      
+      <guid>/hu/talk/ceempc/</guid>
+      <description>&lt;p&gt;More information in the &lt;a href=&#34;./post/ceemp/&#34;&gt;blogpost&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives</title>
+      <link>/hu/post/ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/post/ceempc/</guid>
+      <description>&lt;p&gt;CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.&lt;/p&gt;
+
+&lt;p&gt;Jules from Spotify spoke about their new initiative, Spotify for Publishers.  Spotify pays out about 20% of its royalties to publishers.  Because the labels are the bigger stakeholders, they often do not provide the necessary information for work identification in the case of publishers.&lt;/p&gt;
+
+&lt;p&gt;Dominic from Netflix is already one of the biggest buyers of music, and I believe that his company’s footprint will just continue growing.  His time buys licenses only 10% of their music from publishers. They mainly use original film music, and to a significant degree, catalogs.&lt;/p&gt;
+
+&lt;p&gt;Ben made a presentation about their innovation efforts at ICE digital rights management. Working with some of the largest repertoires represented by PRS, GEMA and STIM, they really offer world class services. Next year they promise to scale services to smaller repertoires, who can immediately benefit from low-cost identification from the cleaned data of these large societies.&lt;/p&gt;
+
+&lt;p&gt;Digital gap between household cultural spending and CE / S European music industry revenues in the digital world
+Comparing household cultural spending with digital music revenues in Europe’s main regions.&lt;/p&gt;
+
+&lt;p&gt;Daniel’s short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending that it is thought by the music industry, because the music industry is really lagging its Western and Nordic peers in tapping into this pool of money.  There are many reasons for this, all a bit touched upon the other speaker’s issues, and their implementation difficulties n the CEE region, especially different revenue stream breakup, strong collective management and relatively underdeveloped publishing.  The region is about 200% or more below its benchmark in the sales we were talking about in this session.  The conversation will continue in Brussels, Prague, Budapest, Bratislava and Warsaw in the coming weeks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>/hu/project/pricing/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/project/pricing/</guid>
+      <description>&lt;p&gt;At a very early stage of my career I specialized in regulated prices and acquired a second degree in Economic Regulation and Competition Policy.  As an advisor to the minister, I set up a regulatory framework with new regulation for Hungarian freight railways.  As a regulator or as a consultant to the authority I participated in price reviews.  As a consultant to regulated industries, I helped making legally allowed pricing decisions or helped to challenge regulatory decisions.&lt;/p&gt;
+
+&lt;p&gt;Strategic pricing decisions have a profound impact on the value of companies and regulatory targets, too.  As a CFA charterholder, and as a person trained in competition policy and regulation, I understand both aspects.&lt;/p&gt;
+
+&lt;p&gt;In the first decade of the 21st century I worked in newly liberalized industries, including telecommunications, banks, insurance, transport and energy.    Later I focused more and more services with intangible assets, including data pricing and royalty pricing where I consider myself one of the most accomplished professionals in Europe.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Press the tag below to see more examples&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Royalties</title>
+      <link>/hu/project/royalties/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/project/royalties/</guid>
+      <description>&lt;p&gt;Royalites are &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Growth of the Hungarian Popular Music Repertoire: Who Creates It And How Does It Find An Audience</title>
+      <link>/hu/publication/made_in_hungary/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/made_in_hungary/</guid>
+      <description>&lt;p&gt;Being visible in the world is always difficult in the Central and Eastern European region.  Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region.   A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book.&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:0px&#34; src=&#34;https://books.google.hu/books?id=9KvZDQAAQBAJ&amp;lpg=PA1980&amp;pg=PA1980&amp;output=embed&#34; width=500 height=700&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapping the Croatian Music Industry</title>
+      <link>/hu/post/makk15/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/post/makk15/</guid>
+      <description>&lt;p&gt;Daniel Antal presented the preliminary findings of the Croatian music industry research in the &lt;a href=&#34;http://www.makk.hr/web/en/&#34; target=&#34;_blank&#34;&gt;International Authors’ and Creators’ Conference (Međunarodna autorska kreativna konferencija, #MAKK2015)&lt;/a&gt; in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.&lt;/p&gt;
+
+&lt;p&gt;The Central European music industry, as shown by processing the data of more than 2000 musicians in the region is even more reliant on live performances than the British music industry.  Even though Croatia appears to be more similar to the UK than the region, a deeper analysis of the data reveals that this is not the case. The most important difference between mature markets and emerging markets is the lack of good distribution and monetization strategy for recorded music.&lt;/p&gt;
+
+&lt;p&gt;Collecting and analyzing industry data is very important for small, national music industries that do not have a large enough repertoire that can be easily promoted on global platforms such as Spotify, Deezer or YouTube.  New digital platforms produce relatively low income for Central and Southeastern European artists and labels, but they are growing at a rate similar to mature markets with a short, 1-5 years lag. Understanding the different strategies of global service providers, forthcoming liberalization and data-driven analytics are very important to maintain the share of domestic music in the radio and television channels and further expand it in the new channels.&lt;/p&gt;
+
+&lt;p&gt;More insights will be published on our blog and the forthcoming Regional music industry report. To be involved in the data collection and sharing of the Croatian national industry report please contact HDS-ZAMP, ZAPRAF, HGU or Unison in Croatian or CEEMID in English.&lt;/p&gt;
+
+&lt;p&gt;You can view the presentation slides below.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/peCdp6CFF02xZX&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/preliminary-results-of-mapping-the-croatian-music-industry&#34; title=&#34;Preliminary results of mapping the Croatian music industry&#34; target=&#34;_blank&#34;&gt;Preliminary results of mapping the Croatian music industry&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating better national cultural statistics with Eurobarometer datasets and ESSNet-Culture technical recommendations</title>
+      <link>/hu/publication/creating_better_2015/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/creating_better_2015/</guid>
+      <description>&lt;iframe id=&#34;iframe_container&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; fullscreen&#34; width=&#34;550&#34; height=&#34;400&#34; src=&#34;https://prezi.com/embed/oar71vqxjoq4/?bgcolor=ffffff&amp;amp;lock_to_path=0&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0dCs2TTYrQjNOY0VXWUFnaGUySS9RVnRnPT0&amp;amp;landing_sign=SrA-iYgwejSc75tmUrPjHaAHQpUXuxhxq6DZcREMEGk&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAKK2015 International authors’ and creators’ conference</title>
+      <link>/hu/talk/makk/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/talk/makk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
