@@ -9,7 +9,7 @@ authors = ["Daniel Antal"]
 
 tags = ["pricing", "emerging-markets", "cee", "music-industry"]
 
-summary = "I presented my market view and experience with distinguished colleagues from the Baltic states, Central Europe and the Balkan, representatives of WIN and IFPI and the international indie distributor State 51. We had a lively discussion on why emerging markets are emerging so slowly in the new digital music business."
+summary = "A Baltikumtól a Balkánig tartó zenei piacképemet prezentáltam kiváló kollégáknak a State51 budapesti workshopján, amelyen a WIN és az IFPI vezetői is részt vettek. Élénk vita alakult ki a résztvevőkkel arról, hogy a feltörekvő piacok miért olyan lassan törekszenek a fejlett piacok után a digitális zenei életben."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -35,12 +35,12 @@ summary = "I presented my market view and experience with distinguished colleagu
 [[gallery_item]]
 album = "gallery"
 image = "digital_gap.jpg"
-caption = "Digital gap: share in household recreational spending and digital music revenues."
+caption = "Digitális szakadék: különbség a háztartások szórakozási költségei és a zenei költései között. "
 
 [[gallery_item]]
 album = "gallery"
 image = "featured.png"
-caption = "The source of growth has been mainly the United States so far."
+caption = "Egyelőre a növekedés forrása szinte kizárólag az Amerikai Egyesült Álllamok."
 
 
 +++
@@ -49,13 +49,12 @@ caption = "The source of growth has been mainly the United States so far."
 I presented my market view and experience with distinguished colleagues from the Baltic states, Central Europe and the Balkan, representatives of WIN and IFPI and the international indie distributor State 51. We had a lively discussion on why emerging markets are emerging so slowly in the new digital music business.
 
 
-After a decade of decline due to piracy and change in business model, the global music business is steadily growing.  However, defying some economic expectation, to growth is stronger in mature markets than in most emerging markets, and most of the global growth came from the United States. The dollar-based IFPI Global Music Report hides the fact that mature and emerging Europe is truly lagging behind the United States.
+A kalózkodás okozta bő évtizedes mélyrepülés után a világ zenei üzleti modellje megváltozott és a globális piac biztos alapokon nő.  Ennek ellenére, sok várakozással és az általánosan elvárható növekedési modellel szemben a növekedés elsősorban az érett és nem a feltörekvő piacokon erős.  A globális növekedés szinte egésze az Egyesült Államok számlájára írható.  A dollár-bázisú IPFI Global Music Report számai elrejtik azt a tényt, hogy az érett és feltörekvő európai piacok is messze lemaradva követik az Egyesült Államokat.
 
-The European music scene is very fragmented, has many languages and the lack of critical market size often leads to neglect by innovative global players. In a world where most music is soled by big data driven algorithms in subscription streams, the lack of large repertoires, data analytics capabilities and critical audience masses puts the smaller European repertoires into a competitive disadvantage.
+Az európai zenei széna nagyon szétaprózodott, a sok nyelv és a kritikus piacméret miatt az innovatív  globális szereplők pedig gyakran elhanyagolják.  Ebben az új zenei világban, ahol a legtöbb zenét a big data algoritmusok adják el előfizetőknek, a nagy repertoárok és adatelemző képességek hiánya, a kritikus tömegméret hiánya a kisebb európai repertoárokat versenyhátrányba hozza, még a saját piacaikon is.The European music scene is very fragmented, has many languages and the lack of critical market size often leads to neglect by innovative global players. In a world where most music is soled by big data driven algorithms in subscription streams, the lack of large repertoires, data analytics capabilities and critical audience masses puts the smaller European repertoires into a competitive disadvantage.
 
 {{< gallery >}}
 
-We had a very interesting discussion that will lead to hopefully many new initiatives on a number of problems, including low market prices in collectively managed and private channels, distribution problems, the difficulties and opportunities in regional cooperation and a number of other topics. 
-The presentation and the working paper is not public, but the similar workshops in the future may help growing a more mature network of CEE industry players and the adoption of new business models, pricing and promotion methods and more coordinated planning and marketing. 
+Ezekről a témákról nagyon érdekes, élénk beszélgetést folytattunk, ami remélhetőleg több problémára új megközelítést fog adni.  Biztosan foglalkozni kell azzal, hogy a zene ára miért olyan alacsony a kollektív és egyéni jogkezelésű csatornákban az egész régióban, miért nem működik jól a terjesztés, és milyen nehézségek és lehetőségek rejlenek a regionális együttműködésben.We had a very interesting discussion that will lead to hopefully many new initiatives on a number of problems, including low market prices in collectively managed and private channels, distribution problems, the difficulties and opportunities in regional cooperation and a number of other topics. 
 
-
+Sajnos a prezentációm és a munkaanyag, ami a műhelyszemináriumra készült, nem nyilvános, de remélhetőleg a jövőben több ilyen regionális fórumon is alkalmunk lesz a piaci szereplőkkel alaposan átbeszélni ezeket a problémáka . Mindez a közép- és kelet-európai piaci szereplőknek segíthet jobb árakat elérni vagy  bekapcsolódni a modern promóciós technikák használatába, és jobban megalapozhatja a marketing és tervezési erőfeszítéseiket. 
