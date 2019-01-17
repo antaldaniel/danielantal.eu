@@ -381,7 +381,7 @@ enableGitInfo = false
  languageName =  "English"
  languageCode = "en-us"
  weight = 1
- contentDir= "content/english
+ contentDir= "content/english"
 
 [languages.hu]
   languageName = "Magyar"
