@@ -16,12 +16,10 @@ weight = 60
 
 +++
 
-My hobby is analogue photography.  I have been making photos since my childhood.  I develop and print my black and white photos. My collection of analogue cameras is ranging from half-frame cameras that use a film size of 18x24 mm to early 20th century large format 9x12 cm folders.  I almost always carry a camera that is older than I, on working trips usually a tiny halfframe, and on vacation a large-format folding and several other cameras.  
+A hobbim az analóg fényképezés.  Gyerekkorom óta készítek fényképeket, a fekete-fehér képeimet magam hívom és nagyítom.  A gyűjteményemben a 18x24 miliméteres „felezős” kameráktól a kora 20. századi 9x12 centiméteres nagyformátumú harmonikás gépekig minden filmméret megtalálható.  Szinte mindig van nálam egy nálam idősebb kamera, üzleti utakon általában egy kis felezős, szabadságon meg egy nagyformátumú harmonikás gép pár másik társaságában.
+{{< figure library="1" src="liberty.jpg" title="Szabadság Ensign Selfixszel és Rodinallal" >}}
 
-{{< figure library="1" src="liberty.jpg" title="Liberty with Ensign Selfix and Rodinal" >}}
-
-I am always happy to meet friend, fellow colleauges or collectors and contact with them via [flickr](https://www.flickr.com/people/antaldaniel/) or [instagram](https://www.instagram.com/antaldaniel/).
-
+A fotózás iránt érdeklődő barátaimmal, kollégáimmal vagy más gyűjtőkkel mindig szívesen találkozom egy közös fotózásra vagy csak egy online kapcsolatfelvételre a [flickr](https://www.flickr.com/people/antaldaniel/) vagy az [instagram](https://www.instagram.com/antaldaniel/) oldalamon.
 
 
     
