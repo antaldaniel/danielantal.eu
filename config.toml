@@ -386,7 +386,7 @@ enableGitInfo = false
 [languages.hu]
   languageName = "Magyar"
   languageCode = "hu"
-  title = "Hungarian website title..."
+  title = "Antal Dániel, CFA"
   contentDir = "content/hungarian"
   weight = 2
   [languages.hu.params]
