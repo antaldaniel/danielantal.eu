@@ -354,6 +354,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+    
+      <loc>/hu/</loc>
+      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/hu/tags/cap/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/tags/cap/" hreflang="en"/>
     
@@ -406,18 +418,6 @@
     
       <loc>/hu/tags/croatia/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-    
-      <loc>/hu/</loc>
-      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

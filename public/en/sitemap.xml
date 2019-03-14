@@ -108,6 +108,14 @@
     
     <url>
     
+      <loc>/project/grants/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/project/pricing/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/project/pricing/" hreflang="hu"/>
     
@@ -674,11 +682,38 @@
     
     <url>
     
+      <loc>/tags/ex-ante/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ex-post/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tags/finance/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/tags/finance/" hreflang="hu"/>
     
       <loc>/tags/finance/</loc>
       <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/grants/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
