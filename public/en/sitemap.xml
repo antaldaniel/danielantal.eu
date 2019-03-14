@@ -193,6 +193,14 @@
     
     <url>
     
+      <loc>/post/cstp_15/</loc>
+      <lastmod>2015-11-12T19:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/creating_better_2015/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/publication/creating_better_2015/" hreflang="hu"/>
     
@@ -809,7 +817,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/music/" hreflang="hu"/>
     
       <loc>/tags/music/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2015-11-12T19:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
