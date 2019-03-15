@@ -16,7 +16,7 @@ summary = "In Europe, there is a big difference between the use of electronic en
 
 # Projects (optional).
 
-projects = ["market-report", "CEEMID"]
+projects = ["market-report", "ceemid"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

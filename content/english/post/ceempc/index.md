@@ -3,13 +3,12 @@ title = "CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion 
 subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
 
 date = 2017-09-29T00:00:00
-lastmod = 2017-09-29T00:00:00
+lastmod = 2019-03-14T09:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Antal"]
 
-tags = ["value-gap", "market-report", "cee", "music-publishing"]
+tags = ["value-gap", "market-report", "ceemid", "music-publishing"]
 
 summary = "CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK."
 

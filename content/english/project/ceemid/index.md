@@ -9,7 +9,7 @@ date = 2019-02-27T00:00:00
 summary = "CEEMID"
 
 # Tags: can be used for filtering projects.
-tags = ["CEEMID", "surveys"]
+tags = ["ceemid", "surveys"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

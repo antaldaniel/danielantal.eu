@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CEEMID on Daniel Antal, CFA</title>
+    <title>ceemid on Daniel Antal, CFA</title>
     <link>/tags/ceemid/</link>
-    <description>Recent content in CEEMID on Daniel Antal, CFA</description>
+    <description>Recent content in ceemid on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/ceemid/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>CEEMID</title>
-      <link>/project/ceemid/</link>
-      <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/ceemid/</guid>
-      <description>CEEMID (Central and Eastern European Music Industry Databases) were created by Consultant Daniel Antal, CFA and three collective management societies in 2014 as a platform to collect, share and integrate data for royalty price setting, economic impact evaluation and taxation on music. The aim was to bring emerging market stakeholders to the information level of mature market stakeholders.
-CEEMID uses various forms of data collection.
- Nationally representative surveys of music users and film viewers.</description>
-    </item>
     
     <item>
       <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>

@@ -18,7 +18,7 @@ summary = "In our survey, we ask musicians about the most important milestones o
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 
-projects = ["market-report", "CEEMID"]
+projects = ["market-report", "ceemid"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
