@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CEEMID</title>
+      <link>/project/ceemid/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/project/ceemid/</guid>
+      <description>CEEMID (Central and Eastern European Music Industry Databases) were created by Consultant Daniel Antal, CFA and three collective management societies in 2014 as a platform to collect, share and integrate data for royalty price setting, economic impact evaluation and taxation on music. The aim was to bring emerging market stakeholders to the information level of mature market stakeholders.
+CEEMID uses various forms of data collection. * Nationally representative surveys of music users and film viewers * Anonymous surveys of musicians and filmmakers about their work, incomes and costs * Big data sources from various geolocational applications about events and location visits * Automatic data retrieval from open data sources * Industry data sources such as the CISAC and IFPI global reports, the European Audiovisual Yearbook, etc.</description>
+    </item>
     
     <item>
       <title>Market Reports</title>

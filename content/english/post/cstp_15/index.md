@@ -16,7 +16,8 @@ summary = "The data and intelligence of CEEMID was used in Hungary to create an 
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["market-report", "royalties"]
+
+projects = ["grants", "CEEMID"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

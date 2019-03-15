@@ -20,7 +20,8 @@ summary = "In Europe, there is a big difference between the use of electronic en
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["market-report"]
+
+projects = ["market-report", "CEEMID"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>surveys on Daniel Antal, CFA</title>
+    <link>/tags/surveys/</link>
+    <description>Recent content in surveys on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/surveys/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CEEMID</title>
+      <link>/project/ceemid/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/project/ceemid/</guid>
+      <description>CEEMID (Central and Eastern European Music Industry Databases) were created by Consultant Daniel Antal, CFA and three collective management societies in 2014 as a platform to collect, share and integrate data for royalty price setting, economic impact evaluation and taxation on music. The aim was to bring emerging market stakeholders to the information level of mature market stakeholders.
+CEEMID uses various forms of data collection. * Nationally representative surveys of music users and film viewers * Anonymous surveys of musicians and filmmakers about their work, incomes and costs * Big data sources from various geolocational applications about events and location visits * Automatic data retrieval from open data sources * Industry data sources such as the CISAC and IFPI global reports, the European Audiovisual Yearbook, etc.</description>
+    </item>
+    
+    <item>
+      <title>Changing Musician Career Paths</title>
+      <link>/post/career_path/</link>
+      <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
+      
+      <guid>/post/career_path/</guid>
+      <description>In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.
+In the 21st century the live music stream is far more important than the recordings.</description>
+    </item>
+    
+  </channel>
+</rss>

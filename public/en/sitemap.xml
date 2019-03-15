@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/project/ceemid/</loc>
+      <lastmod>2019-02-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/post/iotables_04/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/post/iotables_04/" hreflang="hu"/>
     
@@ -132,6 +140,14 @@
     
       <loc>/project/royalties/</loc>
       <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/career_path/</loc>
+      <lastmod>2019-03-14T19:00:00+01:00</lastmod>
     </url>
     
   
@@ -398,7 +414,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
     
       <loc>/tags/ceemid/</loc>
-      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
+      <lastmod>2019-02-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -493,7 +509,7 @@
       <xhtml:link rel="alternate" href="/hu/project/" hreflang="hu"/>
     
       <loc>/project/</loc>
-      <lastmod>2019-01-02T00:00:00+01:00</lastmod>
+      <lastmod>2019-02-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -974,6 +990,15 @@
     
       <loc>/tags/survey/</loc>
       <lastmod>2015-11-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/surveys/</loc>
+      <lastmod>2019-02-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
