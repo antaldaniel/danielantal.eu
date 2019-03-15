@@ -15,11 +15,6 @@ summary = "In Europe, there is a big difference between the use of electronic en
 
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 
 projects = ["market-report", "CEEMID"]
 

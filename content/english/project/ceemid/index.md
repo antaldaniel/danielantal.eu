@@ -46,10 +46,15 @@ url_code = ""
 CEEMID (Central and Eastern European Music Industry Databases) were created by Consultant Daniel Antal, CFA and three collective management societies in 2014 as a platform to collect, share and integrate data for royalty price setting, economic impact evaluation and taxation on music. The aim was to bring emerging market stakeholders to the information level of mature market stakeholders.
 
 CEEMID uses various forms of data collection.
-* Nationally representative surveys of music users and film viewers
-* Anonymous surveys of musicians and filmmakers about their work, incomes and costs
-* Big data sources from various geolocational applications about events and location visits
-* Automatic data retrieval from open data sources
+
+* Nationally representative surveys of music users and film viewers.
+
+* Anonymous surveys of musicians and filmmakers about their work, incomes and costs.
+
+* Big data sources from various geolocational applications about events and location visits.
+
+* Automatic data retrieval from open data sources.
+
 * Industry data sources such as the CISAC and IFPI global reports, the European Audiovisual Yearbook, etc.
 
 The CEEMID Music Professional Surveys are anonymous surveys about the live music and recording markets and granting schemes.  The surveys have been filled out by about 4000 musicians, technicians, managers (and 2000 filmmakers) about the tour destinations, concert budgets and average audiences, various royalty receipts from streaming services, physical and digital sales, YouTube, Bandcamp.  We are also creating comparable statistics with all EU national statistics on life satisfaction, economic expectations, income and economic situation and other characteristics of music and filmmaker professionals.
