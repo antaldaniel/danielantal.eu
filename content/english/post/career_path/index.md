@@ -43,10 +43,15 @@ In the 21st century the live music stream is far more important than the recordi
 What does it mean for the musician and the manager?  First and foremost that traditional career development strategies do not work anymore. A convincing stage performance is mandatory with a good touring strategy.  Recordings are often not profitable, but equally important in building the audience. Making the recording stream a revenue stream instead of the cost stream requires a very good understanding of the costs and benefits of the different digital channels. CEEMID also contains market information on these issues.
 
 Career information in CEEMID
+
 * Milestones of the musician’s career
+
 * Level of professionalization, secondary career paths
+
 * Income level and basic live standards information
+
 * Production and concert volumes
+
 * Revenue breakup in all the three major income streams, i.e. publishing, recording and live.
 
 The data is available for Croatia, Hungary and Slovakia. Breakup by genre, gender, birth year, age cohort, capital  / countryside is also possible.  Similar surveys are being conducted in the film production industry.
