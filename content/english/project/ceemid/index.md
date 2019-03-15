@@ -43,13 +43,13 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-CEEMID (Central and Eastern European Music Industry Databases) were created by Consultant Daniel Antal, CFA and three collective management societies in 2014 as a platform to collect, share and integrate data for royalty price setting, economic impact evaluation and taxation on music. The aim was to bring emerging market stakeholders to the information level of mature market stakeholders.
+[CEEMID](https://danielantal.eu/tags/ceemid/) (Central and Eastern European Music Industry Databases) were created by Consultant Daniel Antal, CFA and three collective management societies in 2014 as a platform to collect, share and integrate data for royalty price setting, economic impact evaluation and taxation on music. The aim was to bring emerging market stakeholders to the information level of mature market stakeholders.
 
 CEEMID uses various forms of data collection.
 
 * Nationally representative surveys of music users and film viewers.
 
-* Anonymous surveys of musicians and filmmakers about their work, incomes and costs.
+* Anonymous surveys of musicians and filmmakers about their work, incomes and costs. See example [blog post](https://danielantal.eu/post/career_path/).
 
 * Big data sources from various geolocational applications about events and location visits.
 
