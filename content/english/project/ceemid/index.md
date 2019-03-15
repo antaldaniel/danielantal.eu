@@ -51,11 +51,11 @@ CEEMID uses various forms of data collection.
 
 * Anonymous surveys of musicians and filmmakers about their work, incomes and costs. See example [blog post](https://danielantal.eu/post/career_path/).
 
-* Big data sources from various geolocational applications about events and location visits.
+* Big data sources from various geolocational applications about events and location visits [small video](https://www.youtube.com/watch?v=3lW8bhQ2fbY).
 
-* Automatic data retrieval from open data sources.
+* Automatic data retrieval from open data sources, including statistical data and EU-funded research. See example [blog post](https://danielantal.eu/post/how_many_ever_pay/)
 
-* Industry data sources such as the CISAC and IFPI global reports, the European Audiovisual Yearbook, etc.
+* Industry data sources such as the CISAC and IFPI global reports, the European Audiovisual Yearbook, etc. See example [blog post](https://danielantal.eu/post/cee_mini_17/)
 
 The CEEMID Music Professional Surveys are anonymous surveys about the live music and recording markets and granting schemes.  The surveys have been filled out by about 4000 musicians, technicians, managers (and 2000 filmmakers) about the tour destinations, concert budgets and average audiences, various royalty receipts from streaming services, physical and digital sales, YouTube, Bandcamp.  We are also creating comparable statistics with all EU national statistics on life satisfaction, economic expectations, income and economic situation and other characteristics of music and filmmaker professionals.
 
