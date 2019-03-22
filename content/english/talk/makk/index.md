@@ -72,4 +72,9 @@ More insights will be published on our blog and the forthcoming Regional music i
 
 You can view the presentation slides below.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/peCdp6CFF02xZX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/antaldaniel/preliminary-results-of-mapping-the-croatian-music-industry" title="Preliminary results of mapping the Croatian music industry" target="_blank">Preliminary results of mapping the Croatian music industry</a> </strong> from <strong><a href="https://www.slideshare.net/antaldaniel" target="_blank">Dániel Antal</a></strong> </div>
+<iframe
+  style="width: 100%; height: 585px;" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  src="//www.slideshare.net/slideshow/embed_code/key/peCdp6CFF02xZX?rel=0" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+<br><br>
+
+<div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/antaldaniel/preliminary-results-of-mapping-the-croatian-music-industry" title="Preliminary results of mapping the Croatian music industry" target="_blank">Preliminary results of mapping the Croatian music industry</a> </strong> from <strong><a href="https://www.slideshare.net/antaldaniel" target="_blank">Dániel Antal</a></strong> </div>
