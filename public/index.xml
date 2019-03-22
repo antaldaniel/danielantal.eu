@@ -11,6 +11,30 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Presentation of the Slovak Music Industry Report 2019</title>
+      <link>/talk/slovak_report19/</link>
+      <pubDate>Tue, 26 Mar 2019 13:00:00 +0100</pubDate>
+      
+      <guid>/talk/slovak_report19/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CEEMID</title>
       <link>/project/ceemid/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
@@ -39,6 +63,14 @@
 &lt;p&gt;We make sure that the Client&amp;rsquo;s data (collective management organizations, music distributors, music export offices, music granting agencies) are correctly integrated with our survey data, statistical and big data sources, with industry data and the Client&amp;rsquo;s own transactional financial, licensing, granting or processed data. We are handling professionally data errors, missing data, currency translations and other problem areas.&lt;/p&gt;
 
 &lt;p&gt;We are also offering the opportunity to new partners do start surveying in Belarus, Bosnia and Herzegovina, Bulgaria and Lithuania.  In these countries we are aiming to create smaller data samples that allow a factual comparison with the five fully covered countries and the United Kingdom as a benchmark, and to pave the way to include these countries in the core CEEMID data collection on a yearly or biannual basis.&lt;/p&gt;
+
+&lt;p&gt;##Use Cases&lt;/p&gt;
+
+&lt;p&gt;In combination with collective management data and industry data the music professional surveys can help establish the value of certain rights, or estimate the compensation needed for home copying or the value transfer to platforms like YouTube.&lt;/p&gt;
+
+&lt;p&gt;In combination with granting data, it can be used for both ex ante evaluation to design better aimed, more cost-efficient and helpful grant calls, or to ex post evaluate the efficiency of grants and the (perceived) honesty and professionalism of the granting process.&lt;/p&gt;
+
+&lt;p&gt;In combination with the anonymized State51 test data set, it can support machine learning and deep learning (AI) algorithms to establish the potential foreign markets of certain songs, artists or national repertoires, or asses the value of recordings to optimize promotion.&lt;/p&gt;
 </description>
     </item>
     
@@ -623,18 +655,6 @@ Comparing household cultural spending with digital music revenues in Europe’s 
 &lt;/ul&gt;
 
 &lt;p&gt;The data is available for Croatia, Hungary and Slovakia. Breakup by genre, gender, birth year, age cohort, capital  / countryside is also possible.  Similar surveys are being conducted in the film production industry.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Growth of the Hungarian Popular Music Repertoire: Who Creates It And How Does It Find An Audience</title>
-      <link>/publication/made_in_hungary/</link>
-      <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/made_in_hungary/</guid>
-      <description>&lt;p&gt;Being visible in the world is always difficult in the Central and Eastern European region.  Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region.   A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book.&lt;/p&gt;
-
-&lt;iframe frameborder=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:0px&#34; src=&#34;https://books.google.hu/books?id=9KvZDQAAQBAJ&amp;lpg=PA1980&amp;pg=PA1980&amp;output=embed&#34; width=500 height=700&gt;&lt;/iframe&gt;
 </description>
     </item>
     

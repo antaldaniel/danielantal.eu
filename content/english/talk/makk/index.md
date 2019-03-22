@@ -12,8 +12,9 @@ time_end = 2015-11-30T15:00:00
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-abstract_short = "An example talk using Academic's Markdown slides feature."
+abstract = "The Central European music industry, as shown by processing the data of more than 2000 musicians in the region is even more reliant on live performances than the British music industry.  Even though Croatia appears to be more similar to the UK than the region, a deeper analysis of the data reveals that this is not the case. The most important difference between mature markets and emerging markets is the lack of good distribution and monetization strategy for recorded music."
+
+abstract_short = "Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference (Međunarodna autorska kreativna konferencija, #MAKK2015) in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases."
 
 # Name of event and optional event URL.
 event = "MAKK2015 (Međunarodna autorska kreativna konferencija)"
@@ -65,14 +66,10 @@ math = true
   focal_point = "Right"
 +++
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
+Collecting and analyzing industry data is very important for small, national music industries that do not have a large enough repertoire that can be easily promoted on global platforms such as Spotify, Deezer or YouTube.  New digital platforms produce relatively low income for Central and Southeastern European artists and labels, but they are growing at a rate similar to mature markets with a short, 1-5 years lag. Understanding the different strategies of global service providers, forthcoming liberalization and data-driven analytics are very important to maintain the share of domestic music in the radio and television channels and further expand it in the new channels.
 
-Slides can be added in a few ways:
+More insights will be published on our blog and the forthcoming Regional music industry report. To be involved in the data collection and sharing of the Croatian national industry report please contact HDS-ZAMP, ZAPRAF, HGU or Unison in Croatian or CEEMID in English.
 
-- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+You can view the presentation slides below.
 
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/peCdp6CFF02xZX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/antaldaniel/preliminary-results-of-mapping-the-croatian-music-industry" title="Preliminary results of mapping the Croatian music industry" target="_blank">Preliminary results of mapping the Croatian music industry</a> </strong> from <strong><a href="https://www.slideshare.net/antaldaniel" target="_blank">Dániel Antal</a></strong> </div>

@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Presentation of the Slovak Music Industry Report 2019</title>
+      <link>/talk/slovak_report19/</link>
+      <pubDate>Tue, 26 Mar 2019 13:00:00 +0100</pubDate>
+      
+      <guid>/talk/slovak_report19/</guid>
+      <description>Click on the Slides button above to view the built-in slides feature.
+Slides can be added in a few ways:
+ Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+    </item>
+    
+    <item>
       <title>CEEMPC session: Licensing, How To Tackle The Value Gap And A Discussion On Licensing Initiatives</title>
       <link>/talk/ceempc/</link>
       <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
@@ -27,9 +38,7 @@
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>/talk/makk/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
-Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+      <description>Collecting and analyzing industry data is very important for small, national music industries that do not have a large enough repertoire that can be easily promoted on global platforms such as Spotify, Deezer or YouTube. New digital platforms produce relatively low income for Central and Southeastern European artists and labels, but they are growing at a rate similar to mature markets with a short, 1-5 years lag. Understanding the different strategies of global service providers, forthcoming liberalization and data-driven analytics are very important to maintain the share of domestic music in the radio and television channels and further expand it in the new channels.</description>
     </item>
     
   </channel>
