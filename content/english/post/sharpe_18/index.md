@@ -12,11 +12,6 @@ tags = ["market-report", "Slovakia", "multipliers", "music-industry"]
 summary = "We presented the most important findings of the Slovak Music Industry Report with the project sponsor, Mgr. Tomas Miks, member of SOZA’s management team in the first SHARPE music conference in Bratislava."
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 # projects = ["market-report", "royalties"]
 
 # Featured image
@@ -88,4 +83,6 @@ caption = "Get involved"
 
 You can review the slides here.
 
-{{< gallery >}}
+{{< gallery >}} 
+
+or on [Slideshare](https://www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018).
