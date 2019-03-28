@@ -18,9 +18,9 @@ authors = ["Daniel Antal"]
 publication_types = ["4"]
 
 # Abstract and optional shortened version.
-abstract = "Hungary's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Hungary in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry. There is an extensive business development and policy conclusions chapter in the 143-pages report, which is the first in a series about the Central European music industry."
+abstract = "Az első átfogó magyar zeneipari jelentés.  A három jövedelmáramlás modelljével összegeztük a zenészek által szerzett, élőben és hangfelvételen előadott műveinek jövedelmét, közönségét, értékét.  Kiszámoltuk a gazdasághoz adott érték, a befektetések a foglalkoztatási hatás mértékét. Ez a 143-oldalas tanulmány több hasonló közép-európai tanulmány előfutára volt."
 
-abstract_short = "Hungary's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Hungary in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry."
+abstract_short = "Az első átfogó magyar zeneipari jelentés.  A három jövedelmáramlás modelljével összegeztük a zenészek által szerzett, élőben és hangfelvételen előadott műveinek jövedelmét, közönségét, értékét.  Kiszámoltuk a gazdasághoz adott érték, a befektetések a foglalkoztatási hatás mértékét."
 
 # Is this a selected publication? (true/false)
 selected = true

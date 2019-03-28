@@ -11,6 +11,20 @@
     <atom:link href="/hu/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Szlovák zeneipari jelentés</title>
+      <link>/hu/publication/slovak_music_industry_2019/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/slovak_music_industry_2019/</guid>
+      <description>&lt;p&gt;SME: &lt;a href=&#34;Čítajte viac: https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html#ixzz5jT6Ir8Fu&#34; target=&#34;_blank&#34;&gt;SOZA predstavila prvú Správu o slovenskom hudobnom priemysle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Egy hosszabb interjú fog megjelenni az Új Szóban, amit majd később ide fogok linkelni.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/86x5wKAlsIetxA&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018&#34; title=&#34;Spáva o hudobnom priemysle na Slovensku&#34; target=&#34;_blank&#34;&gt;Spáva o hudobnom priemysle na Slovensku&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My economic impact package, iotables, has a much updated released on CRAN</title>
       <link>/hu/post/iotables_04/</link>
       <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
@@ -595,30 +609,6 @@ Comparing household cultural spending with digital music revenues in Europe’s 
       
       <guid>/hu/publication/creating_better_2015/</guid>
       <description>&lt;iframe id=&#34;iframe_container&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; fullscreen&#34; width=&#34;550&#34; height=&#34;400&#34; src=&#34;https://prezi.com/embed/oar71vqxjoq4/?bgcolor=ffffff&amp;amp;lock_to_path=0&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0dCs2TTYrQjNOY0VXWUFnaGUySS9RVnRnPT0&amp;amp;landing_sign=SrA-iYgwejSc75tmUrPjHaAHQpUXuxhxq6DZcREMEGk&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MAKK2015 International authors’ and creators’ conference</title>
-      <link>/hu/talk/makk/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/hu/talk/makk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
