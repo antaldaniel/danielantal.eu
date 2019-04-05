@@ -12,10 +12,6 @@ tags = ["market-report", "surveys", "CEEMID", "music-industry"]
 summary = "In our survey, we ask musicians about the most important milestones of their career and their achievement in the past 12 month. So far we have surveyed more than 2000 music professionals and 900 film production professionals in Croatia, Hungary and Slovakia."
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 
 projects = ["market-report", "ceemid"]
