@@ -11,7 +11,7 @@ authors = ["Daniel Antal"]
 publication_types = ["4"]
 
 # Abstract and optional shortened version.
-abstract = "Slovakia's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Slovakia in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry. There is an extensive business development and policy conclusions chapter in the 227-pages report, which follows a similar Hungarian report."
+abstract = "Slovakia's first music industry report. Following the three income streams model from creation till audience, we summarized for the the number of works that were created, recorded, staged in Slovakia in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry. There is an extensive business development and policy conclusions chapter in the 227-pages report, which follows a similar Hungarian report."
 
 abstract_short = "Slovakia's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Hungary in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry."
 
@@ -68,5 +68,8 @@ Press reports in Slovak:
 SME: [SOZA predstavila prvú Správu o slovenskom hudobnom priemysle](Čítajte viac: https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html#ixzz5jT6Ir8Fu)
 
 Új Szó: [Tudományosan a hazai zeneiparról](https://ujszo.com/kultura/tudomanyosan-a-hazai-zeneiparrol)
+
+
+Kreatívna Europa: [Historicky prvá Správa o slovenskom hudobnom priemysle prináša okrem analýz aj odporúčania pre budúcnosť](http://www.cedslovakia.eu/clanky/sprava-o-slovenskom-hudobnom-priemysle)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/86x5wKAlsIetxA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018" title="Spáva o hudobnom priemysle na Slovensku" target="_blank">Spáva o hudobnom priemysle na Slovensku</a> </strong> from <strong><a href="//www.slideshare.net/antaldaniel" target="_blank">Dániel Antal</a></strong> </div>
