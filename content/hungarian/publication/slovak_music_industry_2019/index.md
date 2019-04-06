@@ -61,9 +61,16 @@ math = true
   focal_point = ""
 +++
 
-SME: [SOZA predstavila prvú Správu o slovenskom hudobnom priemysle](Čítajte viac: https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html#ixzz5jT6Ir8Fu)
+Az egész jelentés ingyenesen letölthető.
 
+Sajtóbeszámolók:
+
+Magyarul:
 Új Szó: [Tudományosan a hazai zeneiparról](https://ujszo.com/kultura/tudomanyosan-a-hazai-zeneiparrol)
+
+Szlovákul:
+
+SME: [SOZA predstavila prvú Správu o slovenskom hudobnom priemysle](Čítajte viac: https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html#ixzz5jT6Ir8Fu)
 
 Kreatívna Europa: [Historicky prvá Správa o slovenskom hudobnom priemysle prináša okrem analýz aj odporúčania pre budúcnosť](http://www.cedslovakia.eu/clanky/sprava-o-slovenskom-hudobnom-priemysle)
 
