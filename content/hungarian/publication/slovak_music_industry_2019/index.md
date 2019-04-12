@@ -61,7 +61,7 @@ math = true
   focal_point = ""
 +++
 
-Az egész jelentés ingyenesen letölthető.
+Az egész jelentés ingyenesen letölthető [a SOZA honlapjáról](http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle).
 
 Sajtóbeszámolók:
 
@@ -70,7 +70,7 @@ Magyarul:
 
 Szlovákul:
 
-SME: [SOZA predstavila prvú Správu o slovenskom hudobnom priemysle](Čítajte viac: https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html#ixzz5jT6Ir8Fu)
+SME: [SOZA predstavila prvú Správu o slovenskom hudobnom priemysle](https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html)
 
 Kreatívna Europa: [Historicky prvá Správa o slovenskom hudobnom priemysle prináša okrem analýz aj odporúčania pre budúcnosť](http://www.cedslovakia.eu/clanky/sprava-o-slovenskom-hudobnom-priemysle)
 
