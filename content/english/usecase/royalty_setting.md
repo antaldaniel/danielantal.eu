@@ -20,6 +20,8 @@ Royalty royaly setting example page
 
 ## International Comparisons
 
+The CEEMID international comparison models are based on the implicit econometric model set out in the [AKKA/LAA vs Konkurences padome case](http://curia.europa.eu/juris/liste.jsf?language=en&num=C-177/16)  which goes far beyond the regional comparison suggested by the earlier Czech [Léčebné lázně Mariánské Lázně v OSA case](http://curia.europa.eu/juris/liste.jsf?&num=C-351/12). 
+
 ## Market Comparators
 
 Market market 

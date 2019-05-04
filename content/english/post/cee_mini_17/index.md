@@ -11,12 +11,6 @@ tags = ["pricing", "emerging-markets", "cee", "music-industry"]
 
 summary = "I presented my market view and experience with distinguished colleagues from the Baltic states, Central Europe and the Balkan, representatives of WIN and IFPI and the international indie distributor State 51. We had a lively discussion on why emerging markets are emerging so slowly in the new digital music business."
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 # projects = ["market-report", "royalties", "pricing"]
 
 # Featured image
