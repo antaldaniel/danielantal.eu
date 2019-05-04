@@ -29,35 +29,39 @@ While in the original American model sound recordings are the “main” income 
 
 
 
-##CEEMID Music Professionals 2019
+## CEEMID Music Professionals 2019
 
 The CEEMID Music Professionals Survey is under way in 12 countries.
 
 
-##Music Professionals Hungary 2018
+## Music Professionals Hungary 2018
 
 This survey was used 
 
-##Music Professionals Hungary 2017
+## Music Professionals Hungary 2017
 
 
 This survey was used 
 
-##Music Professionals Slovakia 2017
+## Music Professionals Slovakia 2017
 
-This survey was used  to create the [Slovak Music Industry Report](https://danielantal.eu/publication/slovak_music_industry_2019/) and to make various legislative impact assessment presentations during the modification of the Slovak Copyright Law on private copying and radio quotas.
+This survey was used  update the [Slovak Music Industry Report](https://danielantal.eu/publication/slovak_music_industry_2019/).
 
-##Music Professionals Hungary 2015
+## Music Professionals Hungary 2015
 
 The data and intelligence of CEEMID was used in Hungary to create an [ex ante evaluation](https://danielantal.eu/post/cstp_15/) of the new Cseh Tamás Program to support popular music development in Hungary. The programme is currently named Hangfoglaló.
 
-##Music Professionals Croatia 2015
+## Music Professionals Croatia 2015
 
 The Music Professionals Croatia 2015 survey was designed for the creation of the Private Copying in Croatia report, which is prepared for the forthcoming Croatian Copyright legislation changes on private copying and the value gap.  
 
-##Musicians Slovakia 2015
+## Musicians Slovakia 2015
 
-##Musicians Hungary 2014
+This survey was used  to create the [Slovak Music Industry Report](https://danielantal.eu/publication/slovak_music_industry_2019/) and to make various legislative impact assessment presentations during the modification of the Slovak Copyright Law on private copying and radio quotas.
+
+## Musicians Hungary 2014
+
+This survey was used  to create the [Hungarian Music Industry Report](https://danielantal.eu/publication/hungary_music_industry_2014/).
 
 
 
