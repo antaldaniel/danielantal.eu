@@ -25,9 +25,7 @@ The three income streams model is essentially a value chain based model that was
 
 While in the original American model sound recordings are the “main” income stream, currently, especially in Central Europe the live performance stream earns the most income for a typical musician. The author’s stream is the oldest, traditionally and analytically first part of the music industry that includes revenue streams based on musical works exploited by music publishers and via author’s CMO societies such as HDS. In the US it is called the publishing stream, but in Central Europe it is dominated by authors’ societies, so we modified the label.
 
-{{< gallery >}}
-
-
+![The CEEMID Adoptation of the Three Income Stream Model](img/three_income_streams_croatia.png)
 
 ## CEEMID Music Professionals 2019
 
