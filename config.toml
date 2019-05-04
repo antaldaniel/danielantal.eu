@@ -329,7 +329,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Use Cases"
-  url = "/usecase/"
+  url = "#usecase"
   weight = 5
   
 [[menu.main]]
