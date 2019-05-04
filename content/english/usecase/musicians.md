@@ -51,7 +51,7 @@ The data and intelligence of CEEMID was used in Hungary to create an [ex ante ev
 
 ## Music Professionals Croatia 2015
 
-The Music Professionals Croatia 2015 survey was designed for the creation of the Private Copying in Croatia report, which is prepared for the forthcoming Croatian Copyright legislation changes on private copying and the value gap.  
+The Music Professionals Croatia 2015 survey was designed for the creation of the Private Copying in Croatia report, which is prepared for the forthcoming Croatian Copyright legislation changes on private copying and the value gap. It was first presented on the [MAKK 2015 conference](/post/makk15/).  
 
 ## Musicians Slovakia 2015
 
