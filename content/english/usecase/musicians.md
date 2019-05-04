@@ -25,7 +25,7 @@ The three income streams model is essentially a value chain based model that was
 
 While in the original American model sound recordings are the “main” income stream, currently, especially in Central Europe the live performance stream earns the most income for a typical musician. The author’s stream is the oldest, traditionally and analytically first part of the music industry that includes revenue streams based on musical works exploited by music publishers and via author’s CMO societies such as HDS. In the US it is called the publishing stream, but in Central Europe it is dominated by authors’ societies, so we modified the label.
 
-![The CEEMID Adoptation of the Three Income Stream Model](img/three_income_streams_croatia.png)
+![The CEEMID Adoptation of the Three Income Stream Model](/img/three_income_streams_croatia.png)
 
 ## CEEMID Music Professionals 2019
 
@@ -43,11 +43,11 @@ This survey was used
 
 ## Music Professionals Slovakia 2017
 
-This survey was used  update the [Slovak Music Industry Report](https://danielantal.eu/publication/slovak_music_industry_2019/).
+This survey was used  update the [Slovak Music Industry Report](/publication/slovak_music_industry_2019/).
 
 ## Music Professionals Hungary 2015
 
-The data and intelligence of CEEMID was used in Hungary to create an [ex ante evaluation](https://danielantal.eu/post/cstp_15/) of the new Cseh Tamás Program to support popular music development in Hungary. The programme is currently named Hangfoglaló.
+The data and intelligence of CEEMID was used in Hungary to create an [ex ante evaluation](/post/cstp_15/) of the new Cseh Tamás Program to support popular music development in Hungary. The programme is currently named Hangfoglaló.
 
 ## Music Professionals Croatia 2015
 
@@ -59,7 +59,7 @@ This survey was used  to create the [Slovak Music Industry Report](/publication/
 
 ## Musicians Hungary 2014
 
-This survey was used  to create the [Hungarian Music Industry Report](https://danielantal.eu/publication/hungary_music_industry_2014/).
+This survey was used  to create the [Hungarian Music Industry Report](/publication/hungary_music_industry_2014/).
 
 
 
