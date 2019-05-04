@@ -36,14 +36,24 @@ The CEEMID Music Professionals Survey is under way in 12 countries.
 
 ##Music Professionals Hungary 2018
 
+This survey was used 
 
 ##Music Professionals Hungary 2017
 
+
+This survey was used 
+
 ##Music Professionals Slovakia 2017
+
+This survey was used  to create the [Slovak Music Industry Report](https://danielantal.eu/publication/slovak_music_industry_2019/) and to make various legislative impact assessment presentations during the modification of the Slovak Copyright Law on private copying and radio quotas.
 
 ##Music Professionals Hungary 2015
 
-##Musicians Croatia 2015
+The data and intelligence of CEEMID was used in Hungary to create an [ex ante evaluation](https://danielantal.eu/post/cstp_15/) of the new Cseh Tamás Program to support popular music development in Hungary. The programme is currently named Hangfoglaló.
+
+##Music Professionals Croatia 2015
+
+The Music Professionals Croatia 2015 survey was designed for the creation of the Private Copying in Croatia report, which is prepared for the forthcoming Croatian Copyright legislation changes on private copying and the value gap.  
 
 ##Musicians Slovakia 2015
 
