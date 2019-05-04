@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 linktitle = "Big Data"
 [menu.usecase]
   parent = "Experimental Data Sources"
-  weight = 5
+  weight = 1
 +++
 
 Big Data 
