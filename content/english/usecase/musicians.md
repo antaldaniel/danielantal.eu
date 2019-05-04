@@ -55,7 +55,7 @@ The Music Professionals Croatia 2015 survey was designed for the creation of the
 
 ## Musicians Slovakia 2015
 
-This survey was used  to create the [Slovak Music Industry Report](https://danielantal.eu/publication/slovak_music_industry_2019/) and to make various legislative impact assessment presentations during the modification of the Slovak Copyright Law on private copying and radio quotas.
+This survey was used  to create the [Slovak Music Industry Report](/publication/slovak_music_industry_2019/) and to make various legislative impact assessment presentations during the modification of the Slovak Copyright Law on private copying and radio quotas.
 
 ## Musicians Hungary 2014
 
