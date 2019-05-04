@@ -10,11 +10,8 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.usecase]
-  name = "Royalty Settings"
+  name = "Use Cases"
   weight = 1
-[menu.data]
-  name = "Data Sources"
-  weight = 2
 
 +++
 

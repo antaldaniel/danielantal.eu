@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Music Professionals surveys"
-[menu.data]
+[menu.usecase]
   parent = "Surveys"
   weight = 3
 +++

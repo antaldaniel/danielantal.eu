@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Cultural Access and Participation surveys"
-[menu.data]
+[menu.usecase]
   parent = "Surveys"
   weight = 2
 +++
