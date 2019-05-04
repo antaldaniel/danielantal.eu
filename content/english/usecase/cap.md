@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 linktitle = "Cultural Access and Participation surveys"
 [menu.usecase]
   parent = "Surveys"
-  weight = 2
+  weight = 4
 +++
 
 Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc.  They are based on various quantative sociological models and had been standardized by the Eurostat working group [ESSNet-Culture](http://ec.europa.eu/assets/eac/culture/library/reports/ess-net-report_en.pdf).
