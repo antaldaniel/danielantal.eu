@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Big Data</title>
+      <link>/usecase/big_data/</link>
+      <pubDate>Sat, 04 May 2019 19:36:00 +0200</pubDate>
+      
+      <guid>/usecase/big_data/</guid>
+      <description>
+
+&lt;p&gt;Big Data&lt;/p&gt;
+
+&lt;h2 id=&#34;google-trends&#34;&gt;Google Trends&lt;/h2&gt;
+
+&lt;h2 id=&#34;youtube&#34;&gt;YouTube&lt;/h2&gt;
+
+&lt;h2 id=&#34;geolocational-data&#34;&gt;Geolocational data&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Economic Impact Assessment</title>
       <link>/usecase/impact/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0200</pubDate>
@@ -665,16 +683,6 @@
 
 &lt;p&gt;We had a very interesting discussion that will lead to hopefully many new initiatives on a number of problems, including low market prices in collectively managed and private channels, distribution problems, the difficulties and opportunities in regional cooperation and a number of other topics.
 The presentation and the working paper is not public, but the similar workshops in the future may help growing a more mature network of CEE industry players and the adoption of new business models, pricing and promotion methods and more coordinated planning and marketing.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CEEMPC session: Licensing, How To Tackle The Value Gap And A Discussion On Licensing Initiatives</title>
-      <link>/talk/ceempc/</link>
-      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
-      
-      <guid>/talk/ceempc/</guid>
-      <description>&lt;p&gt;More information in the &lt;a href=&#34;./post/ceemp/&#34;&gt;blogpost&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
