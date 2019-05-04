@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Private Copying Remuneration</title>
+      <link>/usecase/pcr/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/usecase/pcr/</guid>
+      <description>&lt;p&gt;Private Copying Remuneration&lt;/p&gt;
+
+&lt;p&gt;PCR PCR PCR&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Presentation of the Slovak Music Industry Report 2019</title>
       <link>/talk/slovak_report19/</link>
       <pubDate>Tue, 26 Mar 2019 13:00:00 +0100</pubDate>
@@ -26,11 +38,18 @@
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>/publication/slovak_music_industry_2019/</guid>
-      <description>&lt;p&gt;Press reports in Slovak:&lt;/p&gt;
+      <description>&lt;p&gt;The whole report can be downloaded for free from the &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34;&gt;homepage of SOZA&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;SME: &lt;a href=&#34;Čítajte viac: https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html#ixzz5jT6Ir8Fu&#34; target=&#34;_blank&#34;&gt;SOZA predstavila prvú Správu o slovenskom hudobnom priemysle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Press reports in Slovak:&lt;/p&gt;
 
-&lt;p&gt;Új Szó: &lt;a href=&#34;https://ujszo.com/kultura/tudomanyosan-a-hazai-zeneiparrol&#34; target=&#34;_blank&#34;&gt;Tudományosan a hazai zeneiparról&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SME: &lt;a href=&#34;Čítajte viac: https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html&#34; target=&#34;_blank&#34;&gt;SOZA predstavila prvú Správu o slovenskom hudobnom priemysle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kreatívna Europa: &lt;a href=&#34;http://www.cedslovakia.eu/clanky/sprava-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34;&gt;Historicky prvá Správa o slovenskom hudobnom priemysle prináša okrem analýz aj odporúčania pre budúcnosť&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In Hungarian:
+Új Szó: &lt;a href=&#34;https://ujszo.com/kultura/tudomanyosan-a-hazai-zeneiparrol&#34; target=&#34;_blank&#34;&gt;Tudományosan a hazai zeneiparról&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Slides:&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/86x5wKAlsIetxA&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018&#34; title=&#34;Spáva o hudobnom priemysle na Slovensku&#34; target=&#34;_blank&#34;&gt;Spáva o hudobnom priemysle na Slovensku&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 </description>
@@ -97,11 +116,11 @@
     </item>
     
     <item>
-      <title>Royalty Setting</title>
-      <link>/usecase/royalty_setting/</link>
+      <title>Cultural Access and Participation surveys</title>
+      <link>/usecase/cap/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>/usecase/royalty_setting/</guid>
+      <guid>/usecase/cap/</guid>
       <description>
 
 &lt;p&gt;Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc.  They are based on various quantative sociological models and had been standardized by the Eurostat working group &lt;a href=&#34;http://ec.europa.eu/assets/eac/culture/library/reports/ess-net-report_en.pdf&#34; target=&#34;_blank&#34;&gt;ESSNet-Culture&lt;/a&gt;.&lt;/p&gt;
@@ -127,6 +146,38 @@
 &lt;h2 id=&#34;cap-europe-2007&#34;&gt;CAP EUrope 2007&lt;/h2&gt;
 
 &lt;p&gt;We use the data of the CAP 2007 survey for understanding cross-country dynamics and long-term changes, because it includes all EU countries. For example, we can determine in which countries visit &lt;code&gt;Generation Z&lt;/code&gt; 20-years-old people more concerts or cinemas than their &lt;code&gt;Generation X&lt;/code&gt; and &lt;code&gt;Generation Y&lt;/code&gt; peers when they were 20-years-old.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Professionals surveys</title>
+      <link>/usecase/musicians/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/usecase/musicians/</guid>
+      <description>&lt;p&gt;Music professional surveys.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Royalty Setting</title>
+      <link>/usecase/royalty_setting/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/usecase/royalty_setting/</guid>
+      <description>
+
+&lt;p&gt;Royalty royaly setting example page&lt;/p&gt;
+
+&lt;h2 id=&#34;international-comparisons&#34;&gt;International Comparisons&lt;/h2&gt;
+
+&lt;h2 id=&#34;market-comparators&#34;&gt;Market Comparators&lt;/h2&gt;
+
+&lt;p&gt;Market market&lt;/p&gt;
+
+&lt;h2 id=&#34;direct-estimates&#34;&gt;Direct Estimates&lt;/h2&gt;
+
+&lt;h2 id=&#34;hedonic-pricing&#34;&gt;Hedonic Pricing&lt;/h2&gt;
 </description>
     </item>
     
@@ -581,54 +632,6 @@ The presentation and the working paper is not public, but the similar workshops 
 Comparing household cultural spending with digital music revenues in Europe’s main regions.&lt;/p&gt;
 
 &lt;p&gt;Daniel’s short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending that it is thought by the music industry, because the music industry is really lagging its Western and Nordic peers in tapping into this pool of money.  There are many reasons for this, all a bit touched upon the other speaker’s issues, and their implementation difficulties n the CEE region, especially different revenue stream breakup, strong collective management and relatively underdeveloped publishing.  The region is about 200% or more below its benchmark in the sales we were talking about in this session.  The conversation will continue in Brussels, Prague, Budapest, Bratislava and Warsaw in the coming weeks.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Grants</title>
-      <link>/project/grants/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/project/grants/</guid>
-      <description>&lt;p&gt;Governments, the EU, international organizations and private donors often support causes of public interest with grants and donations. In some cases, these grants are aimed to help starting or sustaining economic activities. In other cases, they are supporting artistic activities or education.&lt;/p&gt;
-
-&lt;p&gt;I had been involved in the professional assessment of granting schemes and grant applications since 2000. I have learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.&lt;/p&gt;
-
-&lt;p&gt;Since I work with the creative industries, I had transferred some of this methodology to supporting music and film creation. Grants are essential to maintain the diversity and artistic quality of European music and films, and they can be essential to jump start young industries like smartphone application development.&lt;/p&gt;
-
-&lt;p&gt;In my experience, many music grants schemes are inefficient, because they are not based on an objective assessment of musician’s needs and market conditions. In some cases, they are supporting politically interesting ‘pet projects’ that have little lasting effects. Occasionally they give too large or too many grants for certain activities that crowds out private investment of artists.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pricing</title>
-      <link>/project/pricing/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/project/pricing/</guid>
-      <description>&lt;p&gt;At a very early stage of my career I specialized in regulated prices and acquired a second degree in Economic Regulation and Competition Policy.  As an advisor to the minister, I set up a regulatory framework with new regulation for Hungarian freight railways.  As a regulator or as a consultant to the authority I participated in price reviews.  As a consultant to regulated industries, I helped making legally allowed pricing decisions or helped to challenge regulatory decisions.&lt;/p&gt;
-
-&lt;p&gt;Strategic pricing decisions have a profound impact on the value of companies and regulatory targets, too.  As a CFA charterholder, and as a person trained in competition policy and regulation, I understand both aspects.&lt;/p&gt;
-
-&lt;p&gt;In the first decade of the 21st century I worked in newly liberalized industries, including telecommunications, banks, insurance, transport and energy.    Later I focused more and more services with intangible assets, including data pricing and royalty pricing where I consider myself one of the most accomplished professionals in Europe.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Press the tag below to see more examples&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Royalties</title>
-      <link>/project/royalties/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/project/royalties/</guid>
-      <description>&lt;p&gt;Royalties are earnings on intellectual properties.  In music, they are the earnings of the music composer, the performer and the producer and the recorded performance.  Creators of films, books, software, and other artistic works or intellectual products are entitled to various forms of royalties.&lt;/p&gt;
-
-&lt;p&gt;Many royalties are collectively managed, like the musicians pay after radio or restaurant plays.  Other royalties, like revenues of app developers, are directly or indirectly paid to them by the buyer of their products.&lt;/p&gt;
-
-&lt;p&gt;While the valuation of intellectual properties and their resulting fair earnings in the forms in royalties appears to be simple in economic theory, in practice it is very complicated.&lt;/p&gt;
-
-&lt;p&gt;In the last decade I have used many valuation methods to establish the fair (price) level of various royalties or the fair value of an intellectual property. Most of these assignments went around the value of music.&lt;/p&gt;
 </description>
     </item>
     

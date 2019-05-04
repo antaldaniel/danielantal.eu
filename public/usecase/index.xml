@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Esetek on Daniel Antal, CFA</title>
+    <title>Use Cases on Daniel Antal, CFA</title>
     <link>/usecase/</link>
-    <description>Recent content in Esetek on Daniel Antal, CFA</description>
+    <description>Recent content in Use Cases on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,13 +13,43 @@
     
     
     <item>
+      <title>Private Copying Remuneration</title>
+      <link>/usecase/pcr/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/usecase/pcr/</guid>
+      <description>Private Copying Remuneration
+PCR PCR PCR</description>
+    </item>
+    
+    <item>
+      <title>Cultural Access and Participation surveys</title>
+      <link>/usecase/cap/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/usecase/cap/</guid>
+      <description>Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc. They are based on various quantative sociological models and had been standardized by the Eurostat working group ESSNet-Culture.
+The CEEMID CAP surveys are usually live interviews that allow cross-country comparison, and they are used both for market forcasting, market analytics, royalty and compensation value setting.</description>
+    </item>
+    
+    <item>
+      <title>Music Professionals surveys</title>
+      <link>/usecase/musicians/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/usecase/musicians/</guid>
+      <description>Music professional surveys.</description>
+    </item>
+    
+    <item>
       <title>Royalty Setting</title>
       <link>/usecase/royalty_setting/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/usecase/royalty_setting/</guid>
-      <description>Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc. They are based on various quantative sociological models and had been standardized by the Eurostat working group ESSNet-Culture.
-The CEEMID CAP surveys are usually live interviews that allow cross-country comparison, and they are used both for market forcasting, market analytics, royalty and compensation value setting.</description>
+      <description> Royalty royaly setting example page
+International Comparisons Market Comparators Market market
+Direct Estimates Hedonic Pricing </description>
     </item>
     
   </channel>

@@ -389,10 +389,10 @@ enableGitInfo = false
   title = "Antal Dániel, CFA"
   contentDir = "content/hungarian"
   weight = 2
-  [languages.hu.params]
+[languages.hu.params]
     name = "Antal Dániel, CFA"
     role = "tapasztalt vezetőti tanácsadó és data scientist"
-  [[languages.hu.menu.main]]
+[[languages.hu.menu.main]]
     name = "Rólam"
     url = "#about"
     weight = 1
