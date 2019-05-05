@@ -25,7 +25,7 @@ We use the data of the CAP 2013 survey for cross-country comparisons and for mod
 
 ![Comparative Demography with CAP EU 2013](/img/cee_concert_demography_16x9.jpg)
 
-## CAP EUrope 2007
+## CAP Europe 2007
 We use the data of the CAP 2007 survey for understanding cross-country dynamics and long-term changes, because it includes all EU countries. For example, we can determine in which countries visit `Generation Z` 20-years-old people more concerts or cinemas than their `Generation X` and `Generation Y` peers when they were 20-years-old. 
 
 ## CAP Hungary 2019
@@ -34,8 +34,11 @@ The CAP Hungary 2019 survey fieldwork is under way.
 
 ## CAP Hungary 2018
 
+The CAP Hungary 2018 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying, the value transfer to YouTube and other media platforms, and the development of the audidence for Hungarian films. 
+
 ## CAP Hungary 2017
 
+The CAP Hungary 2017 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying. A separate mini-CAP survey was designed to capture the value transfer to YouTube, which was later incorporated into the CAP Hungary 2018-2019 surveys. 
 
 ## CAP Croatia 2017
 
@@ -53,4 +56,4 @@ The survey was conducted by TNS Hoffmann (currently named Kantar Hoffmann.)
 
 ## CAP Hungary 2014
 
-
+The CAP Hungary 2014 was a non-representative, large-sample online survey to pilot the later surveys. 
