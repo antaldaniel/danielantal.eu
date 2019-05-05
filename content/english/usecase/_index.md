@@ -22,6 +22,6 @@ In this section I will give a few examples of how I work.  Please review my appr
 
 * [Economic Impact Assessments](/usecase/impact/) including private copying remuneration and value transfer calculations;
 
-* [Surveys](/usecase/musicians/) ;
+* [Surveys](/usecase/musicians/) about cultural access and participation and about creating value and jobs in the music and film sector;
 
 * [Experimental and Innovative Data Sources](/usecase/big_data/) such as re-use of public sector information and big data sources.
