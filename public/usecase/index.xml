@@ -13,13 +13,22 @@
     
     
     <item>
+      <title>Re-use Public Sector Information</title>
+      <link>/usecase/psi/</link>
+      <pubDate>Sun, 05 May 2019 19:36:00 +0200</pubDate>
+      
+      <guid>/usecase/psi/</guid>
+      <description>I have been involved in the regulatory work and application building on re-use of public sector information. The European governments, and the EU itself, collects information that is worth billions of euros for the commercial and non-governmental sector.
+While PSI is generally free, or very cheap in the EU, the re-use of these information sources usually requires deep knowledge and further investment, given that these public information sources were never designed for the secondary public or commercial need.</description>
+    </item>
+    
+    <item>
       <title>Big Data</title>
       <link>/usecase/big_data/</link>
       <pubDate>Sat, 04 May 2019 19:36:00 +0200</pubDate>
       
       <guid>/usecase/big_data/</guid>
-      <description> Big Data
-Google Trends YouTube Geolocational data   </description>
+      <description>CEEMID was made out of necessity in EU member states when official statistics are missing key elements of the music or other creative industries. We had been experimenting with big data sources since 2017, especially to find ways to break down statistics to regional or city level, and to find leading indictors or estimators where government statistics are not available, or available only with a very long time delay.</description>
     </item>
     
     <item>
@@ -49,7 +58,7 @@ PCR PCR PCR</description>
       
       <guid>/usecase/cap/</guid>
       <description>Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc. They are based on various quantative sociological models and had been standardized by the Eurostat working group ESSNet-Culture.
-The CEEMID CAP surveys are usually live interviews that allow cross-country comparison, and they are used both for market forcasting, market analytics, royalty and compensation value setting.</description>
+The CEEMID CAP surveys are usually live interviews that allow cross-country comparison, and they are used both for market forecasting, market analytics, royalty and compensation value setting.</description>
     </item>
     
     <item>
@@ -58,7 +67,7 @@ The CEEMID CAP surveys are usually live interviews that allow cross-country comp
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/usecase/musicians/</guid>
-      <description>The three income streams model is essentially a value chain based model that was developed in the United Statesand adopted by the European Commission’s Joint Research Center for European CCI policy purposes. We made minor adaptations in the three income model for applicability in Central Europe.
+      <description>The three income streams model is essentially a value chain based model that was developed in the United States and adopted by the European Commission’s Joint Research Center for European CCI policy purposes pdf download. We made minor adaptations in the three income model for applicability in Central Europe.
 While in the original American model sound recordings are the “main” income stream, currently, especially in Central Europe the live performance stream earns the most income for a typical musician.</description>
     </item>
     
