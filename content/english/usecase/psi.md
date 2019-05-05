@@ -23,6 +23,6 @@ CEEMID has built hundreds of indicators from various EU public information sourc
 
 * We are creating new music and audiovisual industry related statistics from raw data collected for other purposes, such as inflation measurement or public policy assessment in the EU using our proprietary software and some open source software. 
 
-* Our economic impact assessment tool is, for example, builds heavily on our [iotables software](http://iotables.ceemid.eu/) that we realeased as an open source software within the framwork for the [rOpenGov] collaboration.
+* Our economic impact assessment tool is, for example, builds heavily on our [iotables software](http://iotables.ceemid.eu/) that we realeased as an open source software within the framwork for the [rOpenGov](http://ropengov.github.io/) collaboration.
 
 
