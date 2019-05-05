@@ -28,12 +28,11 @@ The CEEMID Music Professionals Survey is under way in 12 countries.
 
 ## Music Professionals Hungary 2018
 
-This survey was used 
+This survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying. Furthermore, we cooperated with the [MOKK Centre for Media Research and Education](http://mokk.bme.hu/en/) in a not-yet published research about gender roles and career perspectives of women in the Hungarian music scene.
 
 ## Music Professionals Hungary 2017
 
-
-This survey was used 
+This survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying. 
 
 ## Music Professionals Slovakia 2017
 
