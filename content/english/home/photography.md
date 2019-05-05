@@ -20,9 +20,9 @@ My hobby is analogue photography.  I have been making photos since my childhood.
 
 {{< figure library="1" src="liberty.jpg" title="Liberty with Ensign Selfix and Rodinal" >}}
 
-I am always happy to meet friend, fellow colleauges or collectors and contact via [flickr](https://www.flickr.com/people/antaldaniel/) or [instagram](https://www.instagram.com/antaldaniel/).
+I am always happy to meet friend, fellow colleauges or collectors and contact via [flickr](https://www.flickr.com/people/antaldaniel/) or .
 
-Find me on instagram:
+Find me on [instagram](https://www.instagram.com/antaldaniel/):
 
 {{< instagram BxEz4SzpoPH >}}
 
