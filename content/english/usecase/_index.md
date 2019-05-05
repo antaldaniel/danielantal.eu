@@ -16,4 +16,12 @@ type = "docs"  # Do not modify.
 
 +++
 
-In this section I will give a few examples of how I work.  Please review my approach to 
+In this section I will give a few examples of how I work.  Please review my approach to:
+
+* [Royalty Setting](/usecase/royalty_setting/) including private copying remuneration and value transfer calculations;
+
+* [Economic Impact Assessments](/usecase/impact/) including private copying remuneration and value transfer calculations;
+
+* [Surveys](/usecase/musicians/) ;
+
+* [Experimental and Innovative Data Sources](/usecase/big_data/) such as re-use of public sector information and big data sources.
