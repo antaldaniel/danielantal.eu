@@ -24,8 +24,8 @@ CEEMID was made out of necessity in EU member states when official statistics ar
 
 Google Trends creates a fully anonymous sample of Google search traffic. Because of the way Google allows the use of Google Trends and scales results, it is very complicated to use Google Trends across regions and countries.  However, our experience shows that Google Trends is an excellent short-term forecasting tool for ticket sales.  It also means that it can serve as a good estimator for ticket sales for regions and territories where few reliable data sources exist. 
 
+![CEE concert seasonality analysis](/img/seasonality_plot.jpg)
 
-## YouTube
 
 ## Geolocational data
 
