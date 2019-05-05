@@ -21,10 +21,18 @@ Such calculations require in the background very large amount of highly structur
 
 ## iotables
 
-My open source [iotables](http://iotables.ceemid.eu/) software, released within the scope of the rOpenGov collaboration, is aimed at correctly structuring data and conducting must of the algebraic work related to these tasks. 
+My open source [iotables](http://iotables.ceemid.eu/) software, released within the scope of the rOpenGov collaboration, is aimed at correctly structuring data and conducting must of the algebraic work related to these tasks. Read [more about iotables](/post/iotables_04/) among my blog posts. 
 
-I am working together with [KulKal](http://kulkal.cz/?lang=en) to make this online cultural calculator usable in all EU member states in the future using some of the features of iotables. 
+I am working together with [KulKal](http://kulkal.cz/?lang=en) to make this online cultural calculator usable in all EU member states in the future using some of the features of iotables. Our cooperation started with using some of iotables and CEEMID data in [Shared Cities](https://www.sharedcities.eu/).
 
 ## Impact assessment
 
 Economic impact assessment, apart from the use of highly structured national accounts data and algebraic knowledge require organization or national association specific financial data, accounting data or user survey data.  Currently I am working on various applications to standardize these tools, so that each festival organizer, music export office, film fund and tax shelter and other similar organization can use it according to its needs.  While I do not believe that economic impact assessment for large grants or policy evaluation can be fully automated, the most painful part of the process, the gathering of correctly structured data and the most difficult calculations can be automated. 
+
+*  Creation of the economic impact analysis of the Hungarian film production and extending the Hungarian tax shelter in cooperation with OrienTax.
+
+*  Economic impact assessment of the Slovak music industry within the [Slovak Music Industry Report](/publication/slovak_music_industry_2019/)
+
+* _Ex ante_ [grant assessement](https://danielantal.eu/project/grants/) for Hungary's Hangfoglaló program
+
+

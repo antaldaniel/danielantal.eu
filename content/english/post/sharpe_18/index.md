@@ -2,7 +2,7 @@
 title = "Slovak Music Industry Report"
 
 date = 2018-04-18T19:00:00
-lastmod = 2018-04-28T19:00:00
+lastmod = 2019-05-05T19:00:00
 draft = false
 
 authors = ["Daniel Antal"]
@@ -86,3 +86,5 @@ You can review the slides here.
 {{< gallery >}} 
 
 or on [Slideshare](https://www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018).
+
+The [Slovak Music Industy Report](/publication/slovak_music_industry_2019/) can be downloaded from [here](http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle). 
