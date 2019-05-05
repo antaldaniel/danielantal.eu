@@ -20,15 +20,15 @@ My hobby is analogue photography.  I have been making photos since my childhood.
 
 {{< figure library="1" src="liberty.jpg" title="Liberty with Ensign Selfix and Rodinal" >}}
 
-I am always happy to meet friend, fellow colleauges or collectors and contact via [flickr](https://www.flickr.com/people/antaldaniel/) or .
+I am always happy to meet friends, fellow colleauges or collectors.
 
 Find me on [instagram](https://www.instagram.com/antaldaniel/):
 
 {{< instagram BxEz4SzpoPH >}}
 
-Or on Flickr:
+Or on [flickr](https://www.flickr.com/people/antaldaniel/):
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/antaldaniel/46861776865" title="Gellérthegy utca 31."><img src="https://live.staticflickr.com/65535/46861776865_1d7684e86a_n.jpg" width="320" height="213" alt="Budapest 100 / Bauhaus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/antaldaniel/46861776865" title="Gellérthegy utca 31."><img src="https://live.staticflickr.com/65535/46861776865_1d7684e86a_n.jpg" width="550" height="367" alt="Budapest 100 / Bauhaus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
     
