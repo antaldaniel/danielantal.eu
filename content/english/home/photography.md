@@ -28,7 +28,7 @@ Find me on [instagram](https://www.instagram.com/antaldaniel/):
 
 Or on [flickr](https://www.flickr.com/people/antaldaniel/):
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/antaldaniel/46861776865" title="Gellérthegy utca 31."><img src="https://live.staticflickr.com/65535/46861776865_1d7684e86a_n.jpg" width="600" height="400" alt="Budapest 100 / Bauhaus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/antaldaniel/46861776865" title="Gellérthegy utca 31."><img src="https://live.staticflickr.com/65535/46861776865_1d7684e86a_n.jpg" width="650" height="417" alt="Budapest 100 / Bauhaus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
     
