@@ -31,8 +31,8 @@ We used such estimates in the Slovak Music Industry Report, in the calculation o
 ## Direct Estimates & Hypothetical Evaluations
 
 Direct estimates are measuring quantities of unknown uses and they relate them to known market prices.  Hypothetical evaluations ask the willingness of users to pay for uses.  These models are easier to create, require less information, but they can be more easily challenged by regulators, licensees or auditors, because they do not rely only on independent and arms-length transaction data. 
+
 ## Hedonic Pricing
 
 Hedonic price models are econometric price models that establish the residua value of music in complex services like hoteling or restaurant services.  We have used hedonic price modelling to establish the value of music use in the HORECA sector.  Technically these models could be used to evaluate the use in television or radio but the data requirements are extensive. 
-
 
