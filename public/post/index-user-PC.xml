@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Daniel Antal, CFA</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My economic impact package, iotables, has a much updated released on CRAN</title>
+      <link>/post/iotables_04/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/post/iotables_04/</guid>
+      <description>This package was related to several of my works for Slovak, Hungarian and Croatian music industry and the Hungarian Film Fund, and my collaboration with Eeconomic impacT s.r.o in the Czech Republic. My R package downloads symmetric input-output and related tax, margins, use tables from the Eurostat bulk data warehouse, and organizes them for macroeconomic analysis.
+The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors.</description>
+    </item>
+    
+    <item>
+      <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
+      <link>/post/how_many_ever_pay/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/post/how_many_ever_pay/</guid>
+      <description>In our recent private copying reports we compiled European survey data relevant to analysis. In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.
+In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.</description>
+    </item>
+    
+    <item>
+      <title>Slovak Music Industry Report</title>
+      <link>/post/sharpe_18/</link>
+      <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
+      
+      <guid>/post/sharpe_18/</guid>
+      <description>You can review the slides here.
+ or on Slideshare.</description>
+    </item>
+    
+    <item>
+      <title>CEE Mini Recording Industry Workshop</title>
+      <link>/post/cee_mini_17/</link>
+      <pubDate>Wed, 01 Nov 2017 09:00:00 +0100</pubDate>
+      
+      <guid>/post/cee_mini_17/</guid>
+      <description>I presented my market view and experience with distinguished colleagues from the Baltic states, Central Europe and the Balkan, representatives of WIN and IFPI and the international indie distributor State 51. We had a lively discussion on why emerging markets are emerging so slowly in the new digital music business.
+After a decade of decline due to piracy and change in business model, the global music business is steadily growing. However, defying some economic expectation, to growth is stronger in mature markets than in most emerging markets, and most of the global growth came from the United States.</description>
+    </item>
+    
+    <item>
+      <title>CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives</title>
+      <link>/post/ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/post/ceempc/</guid>
+      <description>CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.
+Jules from Spotify spoke about their new initiative, Spotify for Publishers.</description>
+    </item>
+    
+    <item>
+      <title>Changing Musician Career Paths</title>
+      <link>/post/career_path/</link>
+      <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
+      
+      <guid>/post/career_path/</guid>
+      <description>In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.
+In the 21st century the live music stream is far more important than the recordings.</description>
+    </item>
+    
+    <item>
+      <title>Mapping the Croatian Music Industry</title>
+      <link>/post/makk15/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/makk15/</guid>
+      <description>Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference (Međunarodna autorska kreativna konferencija, #MAKK2015) in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.
+The Central European music industry, as shown by processing the data of more than 2000 musicians in the region is even more reliant on live performances than the British music industry.</description>
+    </item>
+    
+    <item>
+      <title>Granting And Policy Evaluation For Musicians In Hungary</title>
+      <link>/post/cstp_15/</link>
+      <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
+      
+      <guid>/post/cstp_15/</guid>
+      <description>The data and intelligence of CEEMID was used in Hungary to create an ex ante evaluation of the new Cseh Tamás Program to support popular music development in Hungary. Our mandate was to create concrete granting proposals that have a high chance of making a change in terms of the later royalty earning capabilities of artists.
+In the first phase of the project, we made two workshops with the eight fields development method to understand the challenges and existing working practices that result in a low level of royalties paid out in Hungary.</description>
+    </item>
+    
+    <item>
+      <title>The first national Hungarian Music Industry Report</title>
+      <link>/post/proart_report_15/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/post/proart_report_15/</guid>
+      <description>The report was compiled with joining data and knowledge from collective management agencies for composer, producer and performer royalties, and market leading companies Sziget (organizer of Sziget festival and many more festivals), WMMD music distribution company, market-leading Schubert Music Publishing and A38, Hungary’s leading music club, together with producer and audience survey data, tax authority data and other government sources.
+The report was presented in the Music Hungary Conference in 2015 and became the prototype of further Hungarian and regional reports.</description>
+    </item>
+    
+    <item>
+      <title>Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting</title>
+      <link>/post/cisac_goodg_13/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/post/cisac_goodg_13/</guid>
+      <description>You can review the slides below.
+  Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting  from Dániel Antal 
+Contents: 2. Private copying: blank carriers, technology-driven challenges
+ Technological changes coupled with arbitrage opportunities on the Single Market undermine revenue collection in some jurisdictions
+ Benchmarking breaks down if race starts to the bottom. You can adjust your tariffs to the neighbor without in-depth analysis as long your neighbor charges the right amount.</description>
+    </item>
+    
+  </channel>
+</rss>

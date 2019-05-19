@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slovakia on Daniel Antal, CFA</title>
+    <link>/tags/slovakia/</link>
+    <description>Recent content in Slovakia on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/slovakia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slovak Music Industry Report</title>
+      <link>/publication/slovak_music_industry_2019/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/slovak_music_industry_2019/</guid>
+      <description>The whole report can be downloaded for free from the homepage of SOZA.
+Press reports in Slovak:
+SME: SOZA predstavila prvú Správu o slovenskom hudobnom priemysle
+Kreatívna Europa: Historicky prvá Správa o slovenskom hudobnom priemysle prináša okrem analýz aj odporúčania pre budúcnosť
+In Hungarian: Új Szó: Tudományosan a hazai zeneiparról
+Slides:
+  Spáva o hudobnom priemysle na Slovensku  from Dániel Antal</description>
+    </item>
+    
+    <item>
+      <title>Slovak Music Industry Report</title>
+      <link>/post/sharpe_18/</link>
+      <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
+      
+      <guid>/post/sharpe_18/</guid>
+      <description>You can review the slides here.
+ or on Slideshare.</description>
+    </item>
+    
+  </channel>
+</rss>

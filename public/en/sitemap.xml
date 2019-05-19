@@ -4,6 +4,46 @@
     
     <url>
     
+      <loc>/talk/impala_cee_2019/</loc>
+      <lastmod>2019-05-17T10:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/usecase/psi/</loc>
+      <lastmod>2019-05-05T19:36:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/usecase/big_data/</loc>
+      <lastmod>2019-05-04T19:36:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/usecase/impact/</loc>
+      <lastmod>2019-05-04T19:36:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/usecase/pcr/</loc>
+      <lastmod>2019-05-04T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/slovak_report19/</loc>
       <lastmod>2019-03-26T13:00:00+01:00</lastmod>
     </url>
@@ -42,7 +82,15 @@
     
     <url>
     
-      <loc>/usecase/</loc>
+      <loc>/usecase/cap/</loc>
+      <lastmod>2019-01-03T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/usecase/musicians/</loc>
       <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -51,6 +99,14 @@
     <url>
     
       <loc>/usecase/royalty_setting/</loc>
+      <lastmod>2019-05-17T15:33:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/usecase/</loc>
       <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -84,7 +140,7 @@
       <xhtml:link rel="alternate" href="/hu/post/sharpe_18/" hreflang="hu"/>
     
       <loc>/post/sharpe_18/</loc>
-      <lastmod>2018-04-28T19:00:00+02:00</lastmod>
+      <lastmod>2019-05-05T19:00:00+02:00</lastmod>
     </url>
     
   
@@ -381,6 +437,15 @@
     
     <url>
     
+      <loc>/tags/2019/</loc>
+      <lastmod>2019-05-17T10:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/publication_types/4/" hreflang="hu"/>
     
@@ -433,7 +498,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
     
       <loc>/tags/ceemid/</loc>
-      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-17T10:30:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -609,7 +674,16 @@
       <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
     
       <loc>/tags/</loc>
-      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-05-17T10:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/algorithms/</loc>
+      <lastmod>2019-05-17T10:30:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -642,7 +716,16 @@
     <url>
     
       <loc>/tags/ceemid/</loc>
-      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-17T10:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/charts/</loc>
+      <lastmod>2019-05-17T10:30:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>charts on Daniel Antal, CFA</title>
+    <link>/tags/charts/</link>
+    <description>Recent content in charts on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 17 May 2019 10:30:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/charts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IMPALA CEE Workshop 2019</title>
+      <link>/talk/impala_cee_2019/</link>
+      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/talk/impala_cee_2019/</guid>
+      <description>You can view the presentation slides below.   IMPALA CEE 2019 Workshop  from Dániel Antal</description>
+    </item>
+    
+  </channel>
+</rss>

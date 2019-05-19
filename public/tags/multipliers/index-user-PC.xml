@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multipliers on Daniel Antal, CFA</title>
+    <link>/tags/multipliers/</link>
+    <description>Recent content in multipliers on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 04 Jan 2019 19:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/multipliers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My economic impact package, iotables, has a much updated released on CRAN</title>
+      <link>/post/iotables_04/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/post/iotables_04/</guid>
+      <description>This package was related to several of my works for Slovak, Hungarian and Croatian music industry and the Hungarian Film Fund, and my collaboration with Eeconomic impacT s.r.o in the Czech Republic. My R package downloads symmetric input-output and related tax, margins, use tables from the Eurostat bulk data warehouse, and organizes them for macroeconomic analysis.
+The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors.</description>
+    </item>
+    
+    <item>
+      <title>Slovak Music Industry Report</title>
+      <link>/post/sharpe_18/</link>
+      <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
+      
+      <guid>/post/sharpe_18/</guid>
+      <description>You can review the slides here.
+ or on Slideshare.</description>
+    </item>
+    
+  </channel>
+</rss>

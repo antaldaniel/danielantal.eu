@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 09 Nov 2015 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 17 May 2019 10:30:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019</title>
+      <link>/tags/2019/</link>
+      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/tags/2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CAP</title>
@@ -33,7 +42,7 @@
     <item>
       <title>CEEMID</title>
       <link>/tags/ceemid/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
       
       <guid>/tags/ceemid/</guid>
       <description></description>
@@ -112,6 +121,15 @@
     </item>
     
     <item>
+      <title>algorithms</title>
+      <link>/tags/algorithms/</link>
+      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>audiovisual</title>
       <link>/tags/audiovisual/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
@@ -132,9 +150,18 @@
     <item>
       <title>ceemid</title>
       <link>/tags/ceemid/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
       
       <guid>/tags/ceemid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>charts</title>
+      <link>/tags/charts/</link>
+      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/tags/charts/</guid>
       <description></description>
     </item>
     

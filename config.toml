@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://danielantal.eu/"
 
 # Title of your site
 title = "Daniel Antal, CFA"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 - &copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -389,10 +389,10 @@ enableGitInfo = false
   title = "Antal Dániel, CFA"
   contentDir = "content/hungarian"
   weight = 2
-  [languages.hu.params]
+[languages.hu.params]
     name = "Antal Dániel, CFA"
     role = "tapasztalt vezetőti tanácsadó és data scientist"
-  [[languages.hu.menu.main]]
+[[languages.hu.menu.main]]
     name = "Rólam"
     url = "#about"
     weight = 1

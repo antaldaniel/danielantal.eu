@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Daniel Antal, CFA</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentation of the Slovak Music Industry Report 2019</title>
+      <link>/talk/slovak_report19/</link>
+      <pubDate>Tue, 26 Mar 2019 13:00:00 +0100</pubDate>
+      
+      <guid>/talk/slovak_report19/</guid>
+      <description>The venue is V klub, Národné Osvetové Centrum.</description>
+    </item>
+    
+    <item>
+      <title>CEEMPC session: Licensing, How To Tackle The Value Gap And A Discussion On Licensing Initiatives</title>
+      <link>/talk/ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
+      
+      <guid>/talk/ceempc/</guid>
+      <description>More information in the blogpost.</description>
+    </item>
+    
+    <item>
+      <title>MAKK2015 International authors’ and creators’ conference</title>
+      <link>/talk/makk/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/makk/</guid>
+      <description>Collecting and analyzing industry data is very important for small, national music industries that do not have a large enough repertoire that can be easily promoted on global platforms such as Spotify, Deezer or YouTube. New digital platforms produce relatively low income for Central and Southeastern European artists and labels, but they are growing at a rate similar to mature markets with a short, 1-5 years lag. Understanding the different strategies of global service providers, forthcoming liberalization and data-driven analytics are very important to maintain the share of domestic music in the radio and television channels and further expand it in the new channels.</description>
+    </item>
+    
+  </channel>
+</rss>
