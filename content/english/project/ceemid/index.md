@@ -55,9 +55,9 @@ CEEMID works together with music granting agencies, music export offices and col
 
 ## Data sources
 
-* Nationally representative surveys of music users and film viewers.
+* Nationally representative [CAP surveys](https://danielantal.eu/usecase/cap/) of music users and film viewers.
 
-* Anonymous surveys of musicians and filmmakers about their work, incomes and costs. See example [blog post](https://danielantal.eu/post/career_path/).
+* Anonymous [CEEMID Music Professional Surveys](https://danielantal.eu/usecase/musicians/) and *CEEMID Audiovisual Professional Surveys* about their work, incomes and costs. See example [blog post](https://danielantal.eu/post/career_path/).
 
 * Big data sources from various geolocational applications about events and location visits [small video](https://www.youtube.com/watch?v=3lW8bhQ2fbY).
 
