@@ -9,7 +9,7 @@ authors = ["Daniel Antal"]
 
 tags = ["pricing", "regulation", "DSM Directive", "value gap", "pcr"]
 
-summary = "."
+summary = "We see common threats and common opportunities with the national implementations of the DSM Directive.  While it is not addressing private copying, it is aiming to re-arrange the power balance between users and rightsholders of certain unlicensed, or not fully-licensed and compensated uses."
 
 # projects = ["market-report", "royalties", "pricing"]
 
@@ -43,7 +43,7 @@ Private copying after 60 years remains a very important way of spreading recorde
 
 While the new [DSM Directive](https://eur-lex.europa.eu/eli/dir/2019/790/oj)
 
-We see __common threats and common opportunities__.  The implementation of the [DSM Directive](https://eur-lex.europa.eu/eli/dir/2019/790/oj).  While it is not addressing these issues, it is aiming to re-arrange the power balance between users and rightsholders of certain unlicensed, or not fully-licensed and compensated uses. Especially in the CEE region, many harware manufacturers who enjoy the benefits of the earlier regime will lobby their governments to dampen the affects of the directive. Worse still, as it will re-open the national copyright legislation in all EU countries, there will be renewed pressure from hardware manufacturers, telecom companies and Pirate Parties to minimalize the private copying remuneration. Google/YouTube/Alphabet is likely to place previously unseen, coordinated pressure on each country to minimize the value transfer compensation and at the same time minimize or abolish private copying remuneration - in all EU capitals from Sofia to Paris, from Den Haag to Prague. 
+We see __common threats and common opportunities__ with the national implementations of the [DSM Directive](https://eur-lex.europa.eu/eli/dir/2019/790/oj).  While it is not addressing these issues, it is aiming to re-arrange the power balance between users and rightsholders of certain unlicensed, or not fully-licensed and compensated uses. Especially in the CEE region, many harware manufacturers who enjoy the benefits of the earlier regime will lobby their governments to dampen the affects of the directive. Worse still, as it will re-open the national copyright legislation in all EU countries, there will be renewed pressure from hardware manufacturers, telecom companies and Pirate Parties to minimalize the private copying remuneration. Google/YouTube/Alphabet is likely to place previously unseen, coordinated pressure on each country to minimize the value transfer compensation and at the same time minimize or abolish private copying remuneration - in all EU capitals from Sofia to Paris, from Den Haag to Prague. 
 
 {{< gallery >}}
 
