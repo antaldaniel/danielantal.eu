@@ -9,7 +9,7 @@ authors = ["Daniel Antal"]
 
 tags = ["pricing", "regulation", "DSM Directive", "value gap", "pcr"]
 
-summary = "We see common threats and common opportunities with the national implementations of the DSM Directive.  While it is not addressing private copying, it is aiming to re-arrange the power balance between users and rightsholders of certain unlicensed, or not fully-licensed and compensated uses."
+summary = "We see common threats and common opportunities with the national implementations of the DSM Directive.  While it is not addressing private copying, it is aiming to re-arrange the power balance between users and rightsholders of certain unlicensed, or not fully-licensed and compensated uses. Users will use this opportunity to keep as much as possible from the value transfer to their media platforms, and hardware manufacturers will try to freeze very low private copying remuneration levels in the region. Or worse still: to reduce them."
 
 # projects = ["market-report", "royalties", "pricing"]
 
