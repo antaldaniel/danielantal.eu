@@ -1,8 +1,8 @@
 +++
 title = "DSM Directive, Value Gap & Private Copying Levies"
 
-date = 2017-11-01T09:00:00
-lastmod = 2017-11-01T19:00:00
+date = 2019-07-16T17:00:00
+lastmod = 2019-07-16T17:00:00
 draft = false
 
 authors = ["Daniel Antal"]
