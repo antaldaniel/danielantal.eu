@@ -28,13 +28,8 @@ summary = "We see common threats and common opportunities with the national impl
 
 [[gallery_item]]
 album = "gallery"
-image = "digital_gap.jpg"
-caption = "Digital gap: share in household recreational spending and digital music revenues."
-
-[[gallery_item]]
-album = "gallery"
-image = "featured.png"
-caption = "The source of growth has been mainly the United States so far."
+image = "conversion_to_payer.png"
+caption = "Conversion over a decade: people start to pay online, but they are not everywhere turning for paid music and film sources."
 
 
 +++
