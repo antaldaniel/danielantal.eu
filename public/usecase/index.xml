@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Music Export</title>
+      <link>/usecase/music_export/</link>
+      <pubDate>Tue, 16 Jul 2019 15:00:00 +0200</pubDate>
+      
+      <guid>/usecase/music_export/</guid>
+      <description>Music export is complicated to define, because music has a live and recorded element. In recorded music, the author, the performer and the producer are eligible for copyright and neighboring right royalties. In live music, the author and the performer are eligible for revenues, and they may or may not have a different nationality, and the concert promoter and booking manager may earn profits in another country.
+Finding out the domestic country for the author, the performer and the producer may be a very difficult task.</description>
+    </item>
+    
+    <item>
       <title>Re-use Public Sector Information</title>
       <link>/usecase/psi/</link>
       <pubDate>Sun, 05 May 2019 19:36:00 +0200</pubDate>

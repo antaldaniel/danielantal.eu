@@ -11,6 +11,47 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Music Export</title>
+      <link>/usecase/music_export/</link>
+      <pubDate>Tue, 16 Jul 2019 15:00:00 +0200</pubDate>
+      
+      <guid>/usecase/music_export/</guid>
+      <description>
+
+&lt;p&gt;Music export is complicated to define, because music has a live and recorded element.  In recorded music, the author, the performer and the producer are eligible for copyright and neighboring right royalties.  In live music, the author and the performer are eligible for revenues, and they may or may not have a different nationality, and the concert promoter and booking manager may earn profits in another country.&lt;/p&gt;
+
+&lt;p&gt;Finding out the domestic country for the author, the performer and the producer may be a very difficult task. While language is very important in most genres of popular music and in world music, language affiliation is usually a help only in small nation repertoires.  But the language of a song is so important that it may be the target variable of cultural policy tools such as radio or audiovisual quotas.
+In classical and world music, the author may not be known or eligible for royalties anymore.  In popular music and some jazz, the author and performer are usually the same artists.  Nevertheless, the complexity remains. In contemporary classical music, jazz and some genres of popular music, language is not an issue because the music is instrumental, or the human voice has no real natural language connection.&lt;/p&gt;
+
+&lt;h2 id=&#34;music-export-music-import&#34;&gt;Music Export &amp;amp; Music Import&lt;/h2&gt;
+
+&lt;p&gt;In our view, music export and music import cannot be separated from each other.  Every single European market is a net importer of recorded music, given that there are no music markets where the domestic music market share exceeds 50%.  In live music, domestic music traditionally is market leader in all markets, but the concentration of ticket revenues in large arena concerts and the growth of festivals is threatening the positions of domestic live music.  The competition among songs, label and national repertoires is increasing very significantly with the rise of global streaming.&lt;/p&gt;
+
+&lt;p&gt;In the recorded markets, radio and audiovisual quotas and an activist role of public broadcasters could maintain a 15-30 percent market share for local artists even in smaller markets. The rise of music streaming and SVOD streaming in audiovisual works makes many of these gatekeepers irrelevant unless they find their audience and role in the new streaming channels.&lt;/p&gt;
+
+&lt;p&gt;In the live performances, some countries, especially Hungary, Serbia, Croatia and Poland found ways to create very significant export revenues for programming large festivals aimed at Western European audiences.  While these solutions create vital export revenues for the music ecosystem, i.e. for promoters and technicians, it creates less opportunity for local artists.  There is a growing pressure on domestic bands to extend their tour network abroad, given that the depth of domestic tour network is shrinking due to global and EU-wide small venue problem.&lt;/p&gt;
+
+&lt;h2 id=&#34;artificial-intelligence-and-algorithms&#34;&gt;Artificial intelligence and algorithms&lt;/h2&gt;
+
+&lt;p&gt;In the 21st century the total global repertoire of the last 60 years is in simultaneous competition with each other. Close to 100 million sound recordings are available in most markets.  In this global competition, most music is sold by AI algorithms.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-ceemid-intelligence-can-help&#34;&gt;How CEEMID intelligence can help?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Teach new algorithms that help defending the declining domestic markets, and recommend vibrant, new local music to local audiences, and connect them on live performances, too;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Extend market insight and tour scheduling for the whole European market, with cost, audience demography, audience taste, revenue forecast intelligence;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Design quota schemes and public broadcaster strategies that maintain the public mandate in the 21st century;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Design music grants that give the correct incentives to the right people.  Help both foreign market reach and domestic market cultivation with correct ex ante and ex post evaluations;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Given the complexity of the concept of ‘music export’ in the context of cultural affiliation, language, artist residence, potential separation of composer, performer and producer, music export and import is a difficult topic that requires professional, fact-driven advocacy.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CEEMID Music Professionals Survey 2019</title>
       <link>/post/ceemid_19/</link>
       <pubDate>Fri, 07 Jun 2019 15:00:00 +0200</pubDate>
@@ -175,31 +216,39 @@
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/ceemid/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://danielantal.eu/tags/ceemid/&#34; target=&#34;_blank&#34;&gt;CEEMID&lt;/a&gt; (Central and Eastern European Music Industry Databases) were created by Consultant Daniel Antal, CFA and three collective management societies in 2014 as a platform to collect, share and integrate data for royalty price setting, economic impact evaluation and taxation on music. The aim was to bring emerging market stakeholders to the information level of mature market stakeholders.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;CEEMID uses various forms of data collection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://danielantal.eu/tags/ceemid/&#34; target=&#34;_blank&#34;&gt;CEEMID&lt;/a&gt; (Central and Eastern European Music Industry Databases)  was created out of necessity following a CISAC Good Governance Seminar for European Societies in 2013.  The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in the region.&lt;/p&gt;
+
+&lt;p&gt;In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-&amp;#224;-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts.&lt;/p&gt;
+
+&lt;p&gt;CEEMID by designed aimed to follow the best European practices on statistical harmonization and was already featured as an innovative &lt;a href=&#34;https://danielantal.eu/publication/creating_better_2015/&#34; target=&#34;_blank&#34;&gt;best practice&lt;/a&gt; in the 40th anniversary of Pan European Surveying seminar in 2015.  As an initiative born out of necessity, it aimed fill in the gaps of underdeveloped official cultural statics by following the guidelines of Eurostat&amp;rsquo;s ESSNet.&lt;/p&gt;
+
+&lt;p&gt;From the originally envisioned, centralized, permission-based data structure, due to practical considerations, CEEMID switched to a more flexible, decentralized approach. This approach is based on continuous data integration, which requires permissions to use business confidential information only in use. This allowed a rapid extension of CEEMID to the whole of Europe and go even beyond.  As a result of continous data integration it already includes hundreds of indicators foreseen in all pillars of the planned European Music Observatory.&lt;/p&gt;
+
+&lt;p&gt;CEEMID works together with music granting agencies, music export offices and collective management societies to reach a representative segment of all professional, semi-professional and amateur artists in the countries covered: Hungary, Slovakia and Croatia, which will be extended this year to the Czech Republic and Serbia.&lt;/p&gt;
+
+&lt;h2 id=&#34;data-sources&#34;&gt;Data sources&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Nationally representative surveys of music users and film viewers.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nationally representative &lt;a href=&#34;https://danielantal.eu/usecase/cap/&#34; target=&#34;_blank&#34;&gt;CAP surveys&lt;/a&gt; of music users and film viewers.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Anonymous surveys of musicians and filmmakers about their work, incomes and costs. See example &lt;a href=&#34;https://danielantal.eu/post/career_path/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Anonymous &lt;a href=&#34;https://danielantal.eu/usecase/musicians/&#34; target=&#34;_blank&#34;&gt;CEEMID Music Professional Surveys&lt;/a&gt; and &lt;em&gt;CEEMID Audiovisual Professional Surveys&lt;/em&gt; about their work, incomes and costs. See example &lt;a href=&#34;https://danielantal.eu/post/career_path/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Big data sources from various geolocational applications about events and location visits &lt;a href=&#34;https://www.youtube.com/watch?v=3lW8bhQ2fbY&#34; target=&#34;_blank&#34;&gt;small video&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Automatic data retrieval from open data sources, including statistical data and EU-funded research. See example &lt;a href=&#34;https://danielantal.eu/post/how_many_ever_pay/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Industry data sources such as the CISAC and IFPI global reports, the European Audiovisual Yearbook, etc. See example &lt;a href=&#34;https://danielantal.eu/post/cee_mini_17/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;continous-data-integration&#34;&gt;Continous data integration&lt;/h2&gt;
+
+&lt;p&gt;While CEEMID is aware of and uses the metadata of CISAC&amp;rsquo;s, IFPI&amp;rsquo;s, EAO&amp;rsquo;s, and other industry sources&amp;rsquo; data, it does not contain this data, only when a user with permission for the use of these industry sources requires the integration of such data with other CEEMID data, or user-specific data.  While this approach makes sharing results more cumbersome, it provided a path to increase the number of useful indicators from a few dozens to around a thousand. Furthermore, it exponentially increases the value of CISAC&amp;rsquo;s, IFPI&amp;rsquo;s or EAO&amp;rsquo;s data, especially when designing better royalty rates, or creating economic evidence for litigation. Take a look at a simple, non-confidential example &lt;a href=&#34;https://danielantal.eu/post/cee_mini_17/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The CEEMID Music Professional Surveys are anonymous surveys about the live music and recording markets and granting schemes.  The surveys have been filled out by about 4000 musicians, technicians, managers (and 2000 filmmakers) about the tour destinations, concert budgets and average audiences, various royalty receipts from streaming services, physical and digital sales, YouTube, Bandcamp.  We are also creating comparable statistics with all EU national statistics on life satisfaction, economic expectations, income and economic situation and other characteristics of music and filmmaker professionals.&lt;/p&gt;
 
-&lt;p&gt;CEEMID works together with music granting agencies, music export offices and collective management societies to reach a representative segment of all professional, semi-professional and amateur artists in the countries covered: Hungary, Slovakia and Croatia, which will be extended this year to the Czech Republic and Serbia.&lt;/p&gt;
+&lt;p&gt;CEEMID makes sure that the Client&amp;rsquo;s data (collective management organizations, music distributors, music export offices, music granting agencies) are correctly integrated with our survey data, statistical and big data sources, with industry data and the Client&amp;rsquo;s own transactional financial, licensing, granting or processed data. We are handling professionally data errors, missing data, currency translations and other problem areas.&lt;/p&gt;
 
-&lt;p&gt;We make sure that the Client&amp;rsquo;s data (collective management organizations, music distributors, music export offices, music granting agencies) are correctly integrated with our survey data, statistical and big data sources, with industry data and the Client&amp;rsquo;s own transactional financial, licensing, granting or processed data. We are handling professionally data errors, missing data, currency translations and other problem areas.&lt;/p&gt;
-
-&lt;p&gt;We are also offering the opportunity to new partners do start surveying in Belarus, Bosnia and Herzegovina, Bulgaria and Lithuania.  In these countries we are aiming to create smaller data samples that allow a factual comparison with the five fully covered countries and the United Kingdom as a benchmark, and to pave the way to include these countries in the core CEEMID data collection on a yearly or biannual basis.&lt;/p&gt;
-
-&lt;p&gt;##Use Cases&lt;/p&gt;
+&lt;h2 id=&#34;use-cases&#34;&gt;Use Cases&lt;/h2&gt;
 
 &lt;p&gt;In combination with collective management data and industry data the music professional surveys can help establish the value of certain rights, or estimate the compensation needed for home copying or the value transfer to platforms like YouTube.&lt;/p&gt;
 
@@ -374,18 +423,6 @@
 &lt;p&gt;I work completely in the reproducible research paradigm, where my consulting slide presentations and reports include all the data used, the program code to manipulate, organize them, and the models applied for forecasting, calculation, estimation.  As a CFA charterholder I follow very strict data retention and transparency rules and I found this the state of the art method to comply with the ever growing client and regulatory expectations in this field.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Press the tag below to see more examples&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
-      <link>/post/how_many_ever_pay/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/post/how_many_ever_pay/</guid>
-      <description>&lt;p&gt;In our recent private copying reports we compiled European survey data relevant to analysis.  In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.&lt;/p&gt;
-
-&lt;p&gt;In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.  These survey data, accompanied by other objective data, can help explaining 96% of the variance among digital music sales levels within the EU countries, and it is highly relevant in calculating the economic benefit of home copying for users, and the harm for rightsholders.&lt;/p&gt;
 </description>
     </item>
     

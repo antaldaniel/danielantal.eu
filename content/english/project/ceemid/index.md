@@ -45,7 +45,8 @@ url_code = ""
 
 [CEEMID](https://danielantal.eu/tags/ceemid/) (Central and Eastern European Music Industry Databases)  was created out of necessity following a CISAC Good Governance Seminar for European Societies in 2013.  The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in the region.
 
-In 2014 three societies, SOZA, Artisjus and HDS realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-à-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts. 
+In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-&#224;-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts.
+
 
 CEEMID by designed aimed to follow the best European practices on statistical harmonization and was already featured as an innovative [best practice](https://danielantal.eu/publication/creating_better_2015/) in the 40th anniversary of Pan European Surveying seminar in 2015.  As an initiative born out of necessity, it aimed fill in the gaps of underdeveloped official cultural statics by following the guidelines of Eurostat's ESSNet.
 

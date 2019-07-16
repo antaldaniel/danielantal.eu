@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/usecase/music_export/</loc>
+      <lastmod>2019-07-16T15:33:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/post/ceemid_19/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/post/ceemid_19/" hreflang="hu"/>
     
@@ -173,6 +181,14 @@
       <xhtml:link rel="alternate" href="/hu/post/cee_mini_17/" hreflang="hu"/>
     
       <loc>/post/cee_mini_17/</loc>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/dsm_pcr_19/</loc>
       <lastmod>2017-11-01T19:00:00+01:00</lastmod>
     </url>
     
@@ -533,6 +549,15 @@
     
       <loc>/tags/croatia/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/dsm-directive/</loc>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1051,7 +1076,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/regulation/" hreflang="hu"/>
     
       <loc>/tags/regulation/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1133,6 +1158,15 @@
     
       <loc>/tags/valuation/</loc>
       <lastmod>2013-11-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/value-gap/</loc>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
