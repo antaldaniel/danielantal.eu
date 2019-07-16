@@ -31,7 +31,6 @@ album = "gallery"
 image = "conversion_to_payer.png"
 caption = "Conversion over a decade: people start to pay online, but they are not everywhere turning for paid music and film sources."
 
-
 +++
 
 Private copying after 60 years remains a very important way of spreading recorded music, books and audiovisual works, and a very important source of revenue for artists, composers, writers, film writers and performers if managed properly.   According to our research, the value of private copying is far bigger these days than when most CEE private copying remuneration mechanisms were set up.
