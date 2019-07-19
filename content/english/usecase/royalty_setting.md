@@ -32,7 +32,7 @@ The structure of the music and audiovisual industries makes the use of Level 1 i
 
 In the absence of high-level valuation input data, we must use level 2 (public) and level 3 (private) data sources that are by nature subject to interpretation.  Such interpretation is subjective in the language of the standard because it is personally made by an objective analyst.  The reliability of the valuation depends not only on the quality of the data, which is the case with level 1 data, but on the sound analysis of a competent analyst.
 
-CEEMID made a huge effort in the last 5 years to use high quality, publicly observable data and private data to create meaningful and objective social, economic and cultural indicators as set out in the EUCJ preliminary decision. 
+CEEMID made a large effort in the last 5 years to use high quality, publicly observable data and private data to create meaningful and objective social, economic and cultural indicators as set out in the EUCJ preliminary decision. 
 
 ## Market Comparators
 
