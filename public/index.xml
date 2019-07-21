@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Musicians’ life satisfaction</title>
+      <link>/post/life_sat_19/</link>
+      <pubDate>Sun, 21 Jul 2019 16:00:00 +0200</pubDate>
+      
+      <guid>/post/life_sat_19/</guid>
+      <description>&lt;p&gt;How satisfied are musicians in the CEE region with their lives?  Generally, rather satisfied.&lt;/p&gt;
+
+&lt;p&gt;Self-reported life satisfaction levels are collected in the European surveys for decades, and there are other global measurements available.&lt;/p&gt;
+
+&lt;p&gt;Average life satisfaction is in a country is &lt;a href=&#34;https://ourworldindata.org/happiness-and-life-satisfaction&#34; target=&#34;_blank&#34;&gt;greatly determined&lt;/a&gt; by national income and general health level, measured by life expectancy. Richer EU members states report higher life satisfaction, and generally life satisfaction tends to increase as the economy advances… up to a point. Other factors, such as vocation, work-life balance and political factors play a role, too. Working in an emerging economy is more stressful than in a mature economy – making ends is more difficult, risks are greater and usually rules change faster.&lt;/p&gt;
+
+&lt;p&gt;To avoid the bias of higher satisfaction levels in richer environments, we measure musician’s self-reported life satisfaction levels against the national averages, scaled between the numerical values of -2 (not at all satisfied) to 2 (very satisfied).&lt;/p&gt;
+
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/musician_charts/life_satisfaction_levels.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Comparing the life satisfaction levels of musicians with the general public, 2018-2019.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Our comparison shows that in most countries, musicians are more satisfied with their lives than the average person.  Of course, age, and other factors can contribute to this, but a vocational calling is certainly an important aspect, too.  The exceptions are, interestingly, Austria and Slovenia, where the general population has a very high level of life satisfaction, and where musicians are generally more satisfied with their lives than in the other countries.  In Serbia our sample is too small to draw real conclusions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DSM Directive, Value Gap &amp; Private Copying Levies</title>
       <link>/post/dsm_pcr_19/</link>
       <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
@@ -47,42 +83,6 @@
 &lt;p&gt;However, in many countries, no serious PCR regimes were created after the EU accession.  In these countries, according to our calculations, only 10-30% or even less of the equitable remuneration is collected due to legal constraints.&lt;/p&gt;
 
 &lt;p&gt;If the changes initiated by the &lt;em&gt;DSM Directive&lt;/em&gt; will be watered down, and equitable private copying remuneration will not be helped by new legislation, the music industries of these countries will conserve their huge gap compared to mature EU markets for further decades.  If they follow the lead of those countries that made significant progres in this field, they can make a big step to close that &lt;a href=&#34;https://danielantal.eu/post/cee_mini_17/&#34; target=&#34;_blank&#34;&gt;gap&lt;/a&gt;.  This will require fact-based, rational, effective adovacy material that can convince the general public, the media, legislators, and when necessary, judges about the position of the music industry.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Musicians’ life satisfaction</title>
-      <link>/post/life_sat_19/</link>
-      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
-      
-      <guid>/post/life_sat_19/</guid>
-      <description>&lt;p&gt;How satisfied are musicians in the CEE region with their lives?  Generally, rather satisfied.&lt;/p&gt;
-
-&lt;p&gt;Self-reported life satisfaction levels are collected in the European surveys for decades, and there are other global measurements available.&lt;/p&gt;
-
-&lt;p&gt;Average life satisfaction is in a country is &lt;a href=&#34;https://ourworldindata.org/happiness-and-life-satisfaction&#34; target=&#34;_blank&#34;&gt;greatly determined&lt;/a&gt; by national income and general health level, measured by life expectancy. Richer EU members states report higher life satisfaction, and generally life satisfaction tends to increase as the economy advances… up to a point. Other factors, such as vocation, work-life balance and political factors play a role, too. Working in an emerging economy is more stressful than in a mature economy – making ends is more difficult, risks are greater and usually rules change faster.&lt;/p&gt;
-
-&lt;p&gt;To avoid the bias of higher satisfaction levels in richer environments, we measure musician’s self-reported life satisfaction levels against the national averages, scaled between the numerical values of -2 (not at all satisfied) to 2 (very satisfied).&lt;/p&gt;
-
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/musician_charts/life_satisfaction_levels.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;A caption&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;Our comparison shows that in most countries, musicians are more satisfied with their lives than the average person.  Of course, age, and other factors can contribute to this, but a vocational calling is certainly an important aspect, too.  The exceptions are, interestingly, Austria and Slovenia, where the general population has a very high level of life satisfaction, and where musicians are generally more satisfied with their lives than in the other countries.  In Serbia our sample is too small to draw real conclusions.&lt;/p&gt;
 </description>
     </item>
     

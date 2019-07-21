@@ -1,8 +1,8 @@
 +++
 title = "Musicians’ life satisfaction"
 
-date = 2019-07-16T17:00:00
-lastmod = 2019-07-16T17:00:00
+date = 2019-07-21T16:00:00
+lastmod = 2019-07-21T17:00:00
 draft = true
 
 authors = ["Daniel Antal"]
@@ -41,6 +41,6 @@ Average life satisfaction is in a country is [greatly determined](https://ourwor
 
 To avoid the bias of higher satisfaction levels in richer environments, we measure musician’s self-reported life satisfaction levels against the national averages, scaled between the numerical values of -2 (not at all satisfied) to 2 (very satisfied). 
 
-{{< figure library="1" src="musician_charts/life_satisfaction_levels.jpg" title="A caption" >}}
+{{< figure library="1" src="musician_charts/life_satisfaction_levels.jpg" title="Comparing the life satisfaction levels of musicians with the general public, 2018-2019." >}}
 
 Our comparison shows that in most countries, musicians are more satisfied with their lives than the average person.  Of course, age, and other factors can contribute to this, but a vocational calling is certainly an important aspect, too.  The exceptions are, interestingly, Austria and Slovenia, where the general population has a very high level of life satisfaction, and where musicians are generally more satisfied with their lives than in the other countries.  In Serbia our sample is too small to draw real conclusions.
