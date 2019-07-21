@@ -1,8 +1,8 @@
 +++
-title = "Musicians’ Living Standards And Life Satisfaction"
+title = "Musicians’ Living Standards And Life Satisfaction In The CEE Region"
 
-date = 2019-07-21T16:00:00
-lastmod = 2019-07-21T17:00:00
+date = 2019-07-21T18:00:00
+lastmod = 2019-07-21T19:45:00
 draft = true
 
 authors = ["Daniel Antal"]
