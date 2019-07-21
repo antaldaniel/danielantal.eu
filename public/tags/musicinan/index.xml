@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>musicinan on Daniel Antal, CFA</title>
+    <link>/tags/musicinan/</link>
+    <description>Recent content in musicinan on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 21 Jul 2019 16:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/musicinan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Musicians’ Living Standards And Life Satisfaction</title>
+      <link>/post/life_sat_19/</link>
+      <pubDate>Sun, 21 Jul 2019 16:00:00 +0200</pubDate>
+      
+      <guid>/post/life_sat_19/</guid>
+      <description>In order to get a high-level comparison among the living standards of musicians, we use the standard survey question used in Eurobarometer surveys for decades: how often have had the respondent difficulties with paying bills in the past year? This is a very good starting point because it makes comparable the rough material standards of musicians and other professional groups in the EU, irrespective of local earnings and living costs.</description>
+    </item>
+    
+  </channel>
+</rss>

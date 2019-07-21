@@ -1,36 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>value gap on Daniel Antal, CFA</title>
+    <title>value-gap on Daniel Antal, CFA</title>
     <link>/tags/value-gap/</link>
-    <description>Recent content in value gap on Daniel Antal, CFA</description>
+    <description>Recent content in value-gap on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 21 Jul 2019 16:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/value-gap/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Musicians’ life satisfaction</title>
-      <link>/post/life_sat_19/</link>
-      <pubDate>Sun, 21 Jul 2019 16:00:00 +0200</pubDate>
+      <title>CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives</title>
+      <link>/post/ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>/post/life_sat_19/</guid>
-      <description>How satisfied are musicians in the CEE region with their lives? Generally, rather satisfied.
-Self-reported life satisfaction levels are collected in the European surveys for decades, and there are other global measurements available.
-Average life satisfaction is in a country is greatly determined by national income and general health level, measured by life expectancy. Richer EU members states report higher life satisfaction, and generally life satisfaction tends to increase as the economy advances… up to a point.</description>
+      <guid>/post/ceempc/</guid>
+      <description>CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.
+Jules from Spotify spoke about their new initiative, Spotify for Publishers.</description>
     </item>
     
     <item>
-      <title>DSM Directive, Value Gap &amp; Private Copying Levies</title>
-      <link>/post/dsm_pcr_19/</link>
-      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
+      <title>Pricing</title>
+      <link>/project/pricing/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>/post/dsm_pcr_19/</guid>
-      <description>Private copying after 60 years remains a very important way of spreading recorded music, books and audiovisual works, and a very important source of revenue for artists, composers, writers, film writers and performers if managed properly. According to our research, the value of private copying is far bigger these days than when most CEE private copying remuneration mechanisms were set up.
-While the new DSM Directive is not addressing these issues, it is aiming to re-arrange the power balance between users and rightsholders of certain unlicensed, or not fully-licensed and compensated uses.</description>
+      <guid>/project/pricing/</guid>
+      <description>At a very early stage of my career I specialized in regulated prices and acquired a second degree in Economic Regulation and Competition Policy. As an advisor to the minister, I set up a regulatory framework with new regulation for Hungarian freight railways. As a regulator or as a consultant to the authority I participated in price reviews. As a consultant to regulated industries, I helped making legally allowed pricing decisions or helped to challenge regulatory decisions.</description>
     </item>
     
   </channel>
