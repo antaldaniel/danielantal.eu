@@ -18,8 +18,7 @@
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/hu/project/market_report/</guid>
-      <description>I have been creating market reports for 20 years, mainly in emerging markets where data is scarce and often has little history.
-Starting as a junior consultant, I learned a lot about data acquisition. Later I held a &amp;lsquo;strategic information management&amp;rsquo; position in the Ministry of Economy and Transport in Hungary with oversight on the national statistical data collection. As a senior consultant and a former lecture, I used to train junior colleagues and journalists on data acquisition.</description>
+      <description>Market sizing, research and forecasting reports.</description>
     </item>
     
     <item>
@@ -28,7 +27,7 @@ Starting as a junior consultant, I learned a lot about data acquisition. Later I
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
       
       <guid>/hu/project/r/</guid>
-      <description>The symmetric input-output tables (SIOTs) are complex statistical products that present inter-related statistics in a predefined structure. They are often found in spreadsheets that follow this structure, or in the case Eurostat in a data repository. In both cases they in reproducible research must be downloaded and restructured to programmatically accessible form. Often these highly structured statistics need to be analyzed together with other data, for example, when employment effects and multipliers are calculated.</description>
+      <description>Creation of the economic impact assessement package iotables.</description>
     </item>
     
     <item>
@@ -37,7 +36,7 @@ Starting as a junior consultant, I learned a lot about data acquisition. Later I
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/hu/project/pricing/</guid>
-      <description>At a very early stage of my career I specialized in regulated prices and acquired a second degree in Economic Regulation and Competition Policy. As an advisor to the minister, I set up a regulatory framework with new regulation for Hungarian freight railways. As a regulator or as a consultant to the authority I participated in price reviews. As a consultant to regulated industries, I helped making legally allowed pricing decisions or helped to challenge regulatory decisions.</description>
+      <description>Optimize pricing or review regulated prices</description>
     </item>
     
     <item>
@@ -46,7 +45,7 @@ Starting as a junior consultant, I learned a lot about data acquisition. Later I
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/hu/project/royalties/</guid>
-      <description>Royalites are &amp;hellip;</description>
+      <description>Valuing music, film, and projecting royalty flows.</description>
     </item>
     
   </channel>

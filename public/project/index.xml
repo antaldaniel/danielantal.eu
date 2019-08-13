@@ -18,8 +18,7 @@
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/ceemid/</guid>
-      <description>CEEMID (Central and Eastern European Music Industry Databases) was created out of necessity following a CISAC Good Governance Seminar for European Societies in 2013. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in the region.
-In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-&amp;#224;-vis domestic governments, international organizations like CISAC and GESAC and the European Union.</description>
+      <description>CEEMID</description>
     </item>
     
     <item>
@@ -28,8 +27,7 @@ In 2014 three societies, Artisjus, HDS and SOZA realized that need to make furth
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/market_report/</guid>
-      <description>I have been creating market reports for 20 years, mainly in emerging markets where data is scarce and often has little history.
-Starting as a junior consultant, I learned a lot about data acquisition. Later I held a &amp;lsquo;strategic information management&amp;rsquo; position in the Ministry of Economy and Transport in Hungary with oversight on the national statistical data collection. As a senior consultant and a former lecture, I used to train junior colleagues and journalists on data acquisition.</description>
+      <description>Market sizing, research and forecasting reports.</description>
     </item>
     
     <item>
@@ -38,7 +36,7 @@ Starting as a junior consultant, I learned a lot about data acquisition. Later I
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
       
       <guid>/project/r/</guid>
-      <description>The symmetric input-output tables (SIOTs) are complex statistical products that present inter-related statistics in a predefined structure. They are often found in spreadsheets that follow this structure, or in the case Eurostat in a data repository. In both cases they in reproducible research must be downloaded and restructured to programmatically accessible form. Often these highly structured statistics need to be analyzed together with other data, for example, when employment effects and multipliers are calculated.</description>
+      <description>Creation of the economic impact assessement package iotables.</description>
     </item>
     
     <item>
@@ -47,8 +45,7 @@ Starting as a junior consultant, I learned a lot about data acquisition. Later I
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/grants/</guid>
-      <description>Governments, the EU, international organizations and private donors often support causes of public interest with grants and donations. In some cases, these grants are aimed to help starting or sustaining economic activities. In other cases, they are supporting artistic activities or education.
-I had been involved in the professional assessment of granting schemes and grant applications since 2000. I have learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.</description>
+      <description>Ex ante and ex post grant evaluation</description>
     </item>
     
     <item>
@@ -57,7 +54,7 @@ I had been involved in the professional assessment of granting schemes and grant
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/pricing/</guid>
-      <description>At a very early stage of my career I specialized in regulated prices and acquired a second degree in Economic Regulation and Competition Policy. As an advisor to the minister, I set up a regulatory framework with new regulation for Hungarian freight railways. As a regulator or as a consultant to the authority I participated in price reviews. As a consultant to regulated industries, I helped making legally allowed pricing decisions or helped to challenge regulatory decisions.</description>
+      <description>Optimize pricing or review regulated prices</description>
     </item>
     
     <item>
@@ -66,8 +63,7 @@ I had been involved in the professional assessment of granting schemes and grant
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/royalties/</guid>
-      <description>Royalties are earnings on intellectual properties. In music, they are the earnings of the music composer, the performer and the producer and the recorded performance. Creators of films, books, software, and other artistic works or intellectual products are entitled to various forms of royalties.
-Many royalties are collectively managed, like the musicians pay after radio or restaurant plays. Other royalties, like revenues of app developers, are directly or indirectly paid to them by the buyer of their products.</description>
+      <description>Valuing music, film, and projecting royalty flows.</description>
     </item>
     
   </channel>

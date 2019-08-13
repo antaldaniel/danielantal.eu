@@ -18,8 +18,7 @@
       <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
       
       <guid>/hu/post/iotables_04/</guid>
-      <description>This package was related to several of my works for Slovak, Hungarian and Croatian music industry and the Hungarian Film Fund, and my collaboration with Eeconomic impacT s.r.o in the Czech Republic. My R package downloads symmetric input-output and related tax, margins, use tables from the Eurostat bulk data warehouse, and organizes them for macroeconomic analysis.
-The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors.</description>
+      <description>The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors. The package creates a programmatic interface to compare economic impact changes in time, or compare any country with any country in the European Union.</description>
     </item>
     
   </channel>

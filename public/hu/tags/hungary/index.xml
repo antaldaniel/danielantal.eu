@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hungary on Antal Dániel, CFA</title>
+    <title>Hungary on Antal Dániel, CFA</title>
     <link>/hu/tags/hungary/</link>
-    <description>Recent content in hungary on Antal Dániel, CFA</description>
+    <description>Recent content in Hungary on Antal Dániel, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 01 May 2015 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/hu/tags/hungary/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Growth of the Hungarian Popular Music Repertoire: Who Creates It And How Does It Find An Audience</title>
+      <link>/hu/publication/made_in_hungary/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/made_in_hungary/</guid>
+      <description>Being visible in the world is always difficult in the Central and Eastern European region. Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region. A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book.
+ </description>
+    </item>
     
     <item>
       <title>Hungarian Music Industry Report</title>
@@ -45,7 +55,7 @@
       <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
       
       <guid>/hu/publication/hungary_psi_2009/</guid>
-      <description>Original title in Hungarian: - A közintézmények újrahasznosítható információinak piaca Magyarországon</description>
+      <description>A localization of the measuring European Public Sector Information resources for Hungary in the fields of Business information, geographic information, legal information, meteorological information, social data and transport information. Market sizing, service levels, pricing.</description>
     </item>
     
     <item>

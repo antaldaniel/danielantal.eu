@@ -7,53 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 17 May 2019 10:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 18:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2019</title>
-      <link>/tags/2019/</link>
-      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
+      <title>career</title>
+      <link>/tags/career/</link>
+      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
       
-      <guid>/tags/2019/</guid>
+      <guid>/tags/career/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CAP</title>
-      <link>/tags/cap/</link>
-      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
+      <title>living standards</title>
+      <link>/tags/living-standards/</link>
+      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
       
-      <guid>/tags/cap/</guid>
+      <guid>/tags/living-standards/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CEE</title>
-      <link>/tags/cee/</link>
-      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
+      <title>musicinan</title>
+      <link>/tags/musicinan/</link>
+      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
       
-      <guid>/tags/cee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CEEMID</title>
-      <link>/tags/ceemid/</link>
-      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
-      
-      <guid>/tags/ceemid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Croatia</title>
-      <link>/tags/croatia/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/croatia/</guid>
+      <guid>/tags/musicinan/</guid>
       <description></description>
     </item>
     
@@ -67,65 +49,65 @@
     </item>
     
     <item>
-      <title>Hungary</title>
-      <link>/tags/hungary/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/hungary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ICMP</title>
-      <link>/tags/icmp/</link>
-      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
-      
-      <guid>/tags/icmp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industry Reports</title>
-      <link>/tags/industry-reports/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/industry-reports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PCR</title>
+      <title>pcr</title>
       <link>/tags/pcr/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
       
       <guid>/tags/pcr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      <title>pricing</title>
+      <link>/tags/pricing/</link>
+      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>/tags/pricing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Royalties</title>
-      <link>/tags/royalties/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      <title>regulation</title>
+      <link>/tags/regulation/</link>
+      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
       
-      <guid>/tags/royalties/</guid>
+      <guid>/tags/regulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Slovakia</title>
-      <link>/tags/slovakia/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
+      <title>value-gap</title>
+      <link>/tags/value-gap/</link>
+      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
       
-      <guid>/tags/slovakia/</guid>
+      <guid>/tags/value-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market-report</title>
+      <link>/tags/market-report/</link>
+      <pubDate>Fri, 07 Jun 2019 15:00:00 +0200</pubDate>
+      
+      <guid>/tags/market-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>/tags/2019/</link>
+      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/tags/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEEMID</title>
+      <link>/tags/ceemid/</link>
+      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/tags/ceemid/</guid>
       <description></description>
     </item>
     
@@ -139,42 +121,6 @@
     </item>
     
     <item>
-      <title>audiovisual</title>
-      <link>/tags/audiovisual/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/audiovisual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>career</title>
-      <link>/tags/career/</link>
-      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
-      
-      <guid>/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cee</title>
-      <link>/tags/cee/</link>
-      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
-      
-      <guid>/tags/cee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ceemid</title>
-      <link>/tags/ceemid/</link>
-      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
-      
-      <guid>/tags/ceemid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>charts</title>
       <link>/tags/charts/</link>
       <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
@@ -184,20 +130,38 @@
     </item>
     
     <item>
-      <title>cisac</title>
-      <link>/tags/cisac/</link>
-      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      <title>Slovakia</title>
+      <link>/tags/slovakia/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>/tags/cisac/</guid>
+      <guid>/tags/slovakia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>data</title>
-      <link>/tags/data/</link>
-      <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
+      <title>music-industry</title>
+      <link>/tags/music-industry/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>/tags/data/</guid>
+      <guid>/tags/music-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surveys</title>
+      <link>/tags/surveys/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/surveys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
@@ -211,11 +175,38 @@
     </item>
     
     <item>
-      <title>economics</title>
-      <link>/tags/economics/</link>
-      <pubDate>Tue, 01 Sep 1998 00:00:00 +0200</pubDate>
+      <title>multipliers</title>
+      <link>/tags/multipliers/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
       
-      <guid>/tags/economics/</guid>
+      <guid>/tags/multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audiovisual</title>
+      <link>/tags/audiovisual/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/audiovisual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/tags/software/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cee</title>
+      <link>/tags/cee/</link>
+      <pubDate>Wed, 01 Nov 2017 09:00:00 +0100</pubDate>
+      
+      <guid>/tags/cee/</guid>
       <description></description>
     </item>
     
@@ -229,20 +220,29 @@
     </item>
     
     <item>
-      <title>energy</title>
-      <link>/tags/energy/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <title>ICMP</title>
+      <link>/tags/icmp/</link>
+      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
       
-      <guid>/tags/energy/</guid>
+      <guid>/tags/icmp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>environment</title>
-      <link>/tags/environment/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <title>music-publishing</title>
+      <link>/tags/music-publishing/</link>
+      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
       
-      <guid>/tags/environment/</guid>
+      <guid>/tags/music-publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>royalties</title>
+      <link>/tags/royalties/</link>
+      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
+      
+      <guid>/tags/royalties/</guid>
       <description></description>
     </item>
     
@@ -265,15 +265,6 @@
     </item>
     
     <item>
-      <title>finance</title>
-      <link>/tags/finance/</link>
-      <pubDate>Tue, 01 Sep 1998 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>grants</title>
       <link>/tags/grants/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
@@ -283,74 +274,20 @@
     </item>
     
     <item>
-      <title>hedonic-pricing</title>
-      <link>/tags/hedonic-pricing/</link>
-      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/hedonic-pricing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hungary</title>
+      <title>Hungary</title>
       <link>/tags/hungary/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>/tags/hungary/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>investments</title>
-      <link>/tags/investments/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <title>Croatia</title>
+      <link>/tags/croatia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/tags/investments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>living standards</title>
-      <link>/tags/living-standards/</link>
-      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
-      
-      <guid>/tags/living-standards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>market-report</title>
-      <link>/tags/market-report/</link>
-      <pubDate>Fri, 07 Jun 2019 15:00:00 +0200</pubDate>
-      
-      <guid>/tags/market-report/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>market-size</title>
-      <link>/tags/market-size/</link>
-      <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
-      
-      <guid>/tags/market-size/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methodology</title>
-      <link>/tags/methodology/</link>
-      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/methodology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multipliers</title>
-      <link>/tags/multipliers/</link>
-      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
-      
-      <guid>/tags/multipliers/</guid>
+      <guid>/tags/croatia/</guid>
       <description></description>
     </item>
     
@@ -364,110 +301,20 @@
     </item>
     
     <item>
-      <title>music-industry</title>
-      <link>/tags/music-industry/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
+      <title>CAP</title>
+      <link>/tags/cap/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
       
-      <guid>/tags/music-industry/</guid>
+      <guid>/tags/cap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>music-publishing</title>
-      <link>/tags/music-publishing/</link>
-      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
+      <title>methodology</title>
+      <link>/tags/methodology/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
       
-      <guid>/tags/music-publishing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>musicinan</title>
-      <link>/tags/musicinan/</link>
-      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
-      
-      <guid>/tags/musicinan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pcr</title>
-      <link>/tags/pcr/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/pcr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pricing</title>
-      <link>/tags/pricing/</link>
-      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
-      
-      <guid>/tags/pricing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>private-copying</title>
-      <link>/tags/private-copying/</link>
-      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/private-copying/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>psi</title>
-      <link>/tags/psi/</link>
-      <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
-      
-      <guid>/tags/psi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>railways</title>
-      <link>/tags/railways/</link>
-      <pubDate>Mon, 01 Nov 2004 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/railways/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regulation</title>
-      <link>/tags/regulation/</link>
-      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
-      
-      <guid>/tags/regulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>restaurants</title>
-      <link>/tags/restaurants/</link>
-      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/restaurants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>royalties</title>
-      <link>/tags/royalties/</link>
-      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
-      
-      <guid>/tags/royalties/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software</title>
-      <link>/tags/software/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/software/</guid>
+      <guid>/tags/methodology/</guid>
       <description></description>
     </item>
     
@@ -490,11 +337,47 @@
     </item>
     
     <item>
-      <title>surveys</title>
-      <link>/tags/surveys/</link>
-      <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
+      <title>Industry Reports</title>
+      <link>/tags/industry-reports/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       
-      <guid>/tags/surveys/</guid>
+      <guid>/tags/industry-reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cisac</title>
+      <link>/tags/cisac/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/cisac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hedonic-pricing</title>
+      <link>/tags/hedonic-pricing/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/hedonic-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private-copying</title>
+      <link>/tags/private-copying/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/private-copying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restaurants</title>
+      <link>/tags/restaurants/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/restaurants/</guid>
       <description></description>
     </item>
     
@@ -508,20 +391,83 @@
     </item>
     
     <item>
-      <title>value gap</title>
-      <link>/tags/value-gap/</link>
-      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
+      <title>energy</title>
+      <link>/tags/energy/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
       
-      <guid>/tags/value-gap/</guid>
+      <guid>/tags/energy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>value-gap</title>
-      <link>/tags/value-gap/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
+      <title>environment</title>
+      <link>/tags/environment/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
       
-      <guid>/tags/value-gap/</guid>
+      <guid>/tags/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investments</title>
+      <link>/tags/investments/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/investments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>/tags/data/</link>
+      <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
+      
+      <guid>/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market-size</title>
+      <link>/tags/market-size/</link>
+      <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
+      
+      <guid>/tags/market-size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psi</title>
+      <link>/tags/psi/</link>
+      <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
+      
+      <guid>/tags/psi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>railways</title>
+      <link>/tags/railways/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/railways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economics</title>
+      <link>/tags/economics/</link>
+      <pubDate>Tue, 01 Sep 1998 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finance</title>
+      <link>/tags/finance/</link>
+      <pubDate>Tue, 01 Sep 1998 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/finance/</guid>
       <description></description>
     </item>
     
