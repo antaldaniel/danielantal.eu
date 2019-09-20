@@ -1,6 +1,6 @@
-+++
+﻿+++
 title = "Panelbeszélgetés az első Közép-európai Zeneipari Jelentésről"
-date = 2019-09-20T12:16:00  # Schedule page publish date.
+date = 2019-09-20T10:16:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
