@@ -7,33 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 20 Sep 2019 12:16:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 10:30:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>concerts</title>
-      <link>/tags/concerts/</link>
-      <pubDate>Fri, 20 Sep 2019 12:16:00 +0200</pubDate>
+      <title>Spotify</title>
+      <link>/tags/spotify/</link>
+      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
       
-      <guid>/tags/concerts/</guid>
+      <guid>/tags/spotify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>export</title>
       <link>/tags/export/</link>
-      <pubDate>Fri, 20 Sep 2019 12:16:00 +0200</pubDate>
+      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
       
       <guid>/tags/export/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>hitlists</title>
+      <link>/tags/hitlists/</link>
+      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/tags/hitlists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-industry</title>
+      <link>/tags/music-industry/</link>
+      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/tags/music-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concerts</title>
+      <link>/tags/concerts/</link>
+      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
+      
+      <guid>/tags/concerts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>royalties</title>
       <link>/tags/royalties/</link>
-      <pubDate>Fri, 20 Sep 2019 12:16:00 +0200</pubDate>
+      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
       
       <guid>/tags/royalties/</guid>
       <description></description>
@@ -42,7 +69,7 @@
     <item>
       <title>survey</title>
       <link>/tags/survey/</link>
-      <pubDate>Fri, 20 Sep 2019 12:16:00 +0200</pubDate>
+      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
       
       <guid>/tags/survey/</guid>
       <description></description>
@@ -171,15 +198,6 @@
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>/tags/slovakia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music-industry</title>
-      <link>/tags/music-industry/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/music-industry/</guid>
       <description></description>
     </item>
     

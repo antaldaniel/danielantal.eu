@@ -6,13 +6,85 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 20 Sep 2019 12:16:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 10:30:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>National Market Shares on Spotify Hitlists</title>
+      <link>/post/cross_border_2019/</link>
+      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/post/cross_border_2019/</guid>
+      <description>&lt;p&gt;If we take a look at the streaming charts of the region, we usually find that the vast majority of the streamed songs are foreign songs - except for Austria, U.S. songs.  For comparison, we added a similar, middle-income emerging market (Argentina) and a rich, small-population English-speaking country, Australia to the chart. These countries seem to be in a similar position to the CEE countries.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/cross_border_2019/gallery/eu_cross_border_hits_20190915.png&#34; data-caption=&#34;European hits on an other European country&amp;#39;s Spotify hitlist, 15 September 2019.&#34;&gt;
+  &lt;img src=&#34;/post/cross_border_2019/gallery/eu_cross_border_hits_20190915.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/cross_border_2019/gallery/spotify_chart_mkt_share_20190915.png&#34; data-caption=&#34;National repertoire market shares on national Spotify hitlists, 15 September 2019.&#34;&gt;
+  &lt;img src=&#34;/post/cross_border_2019/gallery/spotify_chart_mkt_share_20190915.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;p&gt;Arguably, the strongest countries of songwriting are the United States and Brazil - these are the countries that have ran out of the ISRC recording identifier range. Their charts are full with their domestic songs, but they are not alone.  Japan, France, and the bigger EU countries, France, Germany and Poland have very strong domestic performance, too.&lt;/p&gt;
+
+&lt;p&gt;Of course, there are many factor at play here. Large countries with large artist populations generate a lot more recordings, so they local fans always have thousands of new songs to select from.  In small countries, the total annual creations, from pop to jazz, from authentic folk to classical amounts to a few thousand tracks. But it is not only size that matters.  Sweden&amp;rsquo;s population is similar to that of Austria, Hungary and Czechia, yet the Swedish repertoire performs better in Sweden, and as we will see in the next chart, abroad, too.&lt;/p&gt;
+
+&lt;p&gt;We created a second chart to visualize how hits are travelling accross the borders. To make the chart easier to read, we omitted the United States, Brazil and Japan as countries of origin, and concentrated only on intra-European hit flows.&lt;/p&gt;
+
+&lt;p&gt;The second week of September 2019 was not an exceptional week. Most EU countries&amp;rsquo; producers did not score any hits in any other EU countries&amp;rsquo; Spotify Top 50 hits.  The UK exported many great hits to all over Europe, as usual, but there were other important hit flows. These hits mainly follow cultural proximity.&lt;/p&gt;
+
+&lt;p&gt;France exported hits to the two Francophone countries of Europe, Belgium and Romania, and furthermore to Greece, a Southern country with particularly unique chart composition. Germany exported many hits to Austria, another German-speaking country, and some hits to other Germanic countries. Dutch producers placed a few hits in the Germanic countries and in Belgium, where the Dutch-speaking Flemish community has its own radios, TVs, press and hitlists. The Netherlands is a powerhouse of electronic popmusic that are not bound by language which finds auidence in several countries.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;load ( file.path(&#39;plots&#39;, &#39;eu_charts_eu_share_plot_2019-09-15.rda&#39;)  )
+cross_border_plot
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The strength and competitive position of the national market where an artists is most known and has a fan base is usually a determining factor of track performance and revenue.  The overall revenue prospects and competition situation of a Hungarian or Croatian song is very different from a British or even a Polish song.  But overall, most European recordings are not bound to a domestic country. Because of cultural proximity, the presense of native minorities or new imigrant diasporas, even small-language songs are being listened to on a much wider territory than the artists&amp;rsquo; original country. Some relatively small EU countries, such as Sweden and the Netherlands successfully export their music on a regular basis.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, as the streaming services slowly overtake all other forms of use, the charts above depict a very fundamental market change.  Whereas in the traditional channels of physical sales, digital downloads and broadcasting, the CEE countries, like other small- and medium-sized EU countries, enjoyed 30-50% market share, among the streaming hits their producer&amp;rsquo;s share is below 10%. It is not unusual to find only domestic recordings in physical sales hitlists, while domestic songs rarely enter the streaming charts in the region, with the exception of Poland.&lt;/p&gt;
+
+&lt;p&gt;The traditional sales channels protected CEE markets in several ways.  After EU accession most import duties are gone, but phyisical products have very signifcant logistics costs, which gives local producers a competitive edge.  Because physical products are increasingly sold on concerts and festivals, where the market share of domestic performers is usually very high, the traditional, mechanically licensed sales had a protected market.&lt;/p&gt;
+
+&lt;p&gt;The broadcasting channel, which used the be the most important promotion channel, too, was protected in many European countries by national content quotas, or supported with generously funded national, regional, local public broadcasters who gave a preference to national composers, producers and performers. These market barriers are not present in the streaming markets, which poses many questions. Our research is aiming to answer these questions, but it took several years to build a data infrastructure that can help producing an accurate market overview.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Panel Discussion of the Central Euroepan Music Industry Report 2019</title>
       <link>/talk/waves_2019/</link>
-      <pubDate>Fri, 20 Sep 2019 12:16:00 +0200</pubDate>
+      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
       
       <guid>/talk/waves_2019/</guid>
       <description>&lt;p&gt;The panel discussion of the first comprehensive Central and Eastern European report (Albania, Armenia, Austria, Bulgaria, Croatia, Czechia, Estonia, Lithuania, Poland, Romania, Slovakia, Slovenia)  will be in held on the &lt;a href=&#34;https://www.wavesvienna.com/conference/conference-schedule/&#34; target=&#34;_blank&#34;&gt;Waves Music Showcase Festival and Conference&lt;/a&gt;.&lt;/p&gt;
@@ -394,60 +466,6 @@ In classical and world music, the author may not be known or eligible for royalt
 &lt;p&gt;The &lt;a href=&#34;http://iotables.ceemid.eu/articles/united_kingdom_2010.html&#34; target=&#34;_blank&#34;&gt;United Kingdom Input-Output Analyitcal Tables&lt;/a&gt; article similarly recreates the analytical results, such as GVA and employment cost effects for the &lt;a href=&#34;https://webarchive.nationalarchives.gov.uk/20160114044923tf_/http://www.ons.gov.uk/ons/rel/input-output/input-output-analytical-tables/2010/index.html&#34; target=&#34;_blank&#34;&gt;United Kingdom 2010&lt;/a&gt; table.  While the current UK tables and standard Eurstat tables are somewhat different, this table is accompanied by Richard Wild’s excellent article and published analytical results.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&#34;http://iotables.ceemid.eu/articles/working_with_eurostat.html&#34; target=&#34;_blank&#34;&gt;Working with Eurostat data article&lt;/a&gt; shows how to work with real-life, current, SNA2010 compatible data from the Eurostat data warehouse. It contains some comparative results between Czechia and Slovakia.  The package is in itself is extending the functionality of the eurostat package, and it is released with eurostat in the rOpenGov community.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cultural Access and Participation surveys</title>
-      <link>/usecase/cap/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/usecase/cap/</guid>
-      <description>
-
-&lt;p&gt;Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc.  They are based on various quantative sociological models and had been standardized by the Eurostat working group &lt;a href=&#34;http://ec.europa.eu/assets/eac/culture/library/reports/ess-net-report_en.pdf&#34; target=&#34;_blank&#34;&gt;ESSNet-Culture&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The CEEMID CAP surveys are usually live interviews that allow cross-country comparison, and they are used both for market forecasting, market analytics, royalty and compensation value setting.&lt;/p&gt;
-
-&lt;h2 id=&#34;cap-europe-2013&#34;&gt;CAP Europe 2013&lt;/h2&gt;
-
-&lt;p&gt;We use the data of the CAP 2013 survey for cross-country comparisons and for model calibration, because it includes all EU countries.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/cee_concert_demography_16x9.jpg&#34; alt=&#34;Comparative Demography with CAP EU 2013&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;cap-europe-2007&#34;&gt;CAP Europe 2007&lt;/h2&gt;
-
-&lt;p&gt;We use the data of the CAP 2007 survey for understanding cross-country dynamics and long-term changes, because it includes all EU countries. For example, we can determine in which countries visit &lt;code&gt;Generation Z&lt;/code&gt; 20-years-old people more concerts or cinemas than their &lt;code&gt;Generation X&lt;/code&gt; and &lt;code&gt;Generation Y&lt;/code&gt; peers when they were 20-years-old.&lt;/p&gt;
-
-&lt;h2 id=&#34;cap-hungary-2019&#34;&gt;CAP Hungary 2019&lt;/h2&gt;
-
-&lt;p&gt;The CAP Hungary 2019 survey fieldwork is under way.&lt;/p&gt;
-
-&lt;h2 id=&#34;cap-hungary-2018&#34;&gt;CAP Hungary 2018&lt;/h2&gt;
-
-&lt;p&gt;The CAP Hungary 2018 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying, the value transfer to YouTube and other media platforms, and the development of the audidence for Hungarian films.&lt;/p&gt;
-
-&lt;h2 id=&#34;cap-hungary-2017&#34;&gt;CAP Hungary 2017&lt;/h2&gt;
-
-&lt;p&gt;The CAP Hungary 2017 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying. A separate mini-CAP survey was designed to capture the value transfer to YouTube, which was later incorporated into the CAP Hungary 2018-2019 surveys.&lt;/p&gt;
-
-&lt;h2 id=&#34;cap-croatia-2017&#34;&gt;CAP Croatia 2017&lt;/h2&gt;
-
-&lt;p&gt;The CAP Croatia 2017 survey was designed for the creation of the Private Copying in Croatia report, which is prepared for the forthcoming Croatian Copyright legislation changes on private copying and the value gap.  The survey was conducted by Hendall on a sample of 800 respondents.&lt;/p&gt;
-
-&lt;h2 id=&#34;cap-slovakaia-2015&#34;&gt;CAP Slovakaia 2015&lt;/h2&gt;
-
-&lt;p&gt;The CAP Slovakia 2015 survey was designed as a part of a larger survey that also incorporated attitudes towards Slovak culture and non-standard survey questions designed by Focus.  The CAP Survey was used to create the &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34;&gt;Slovak Music Industry Report&lt;/a&gt; and to make various legislative impact assessment presentations during the modification of the Slovak Copyright Law on private copying and radio quotas.&lt;/p&gt;
-
-&lt;h2 id=&#34;cap-hungary-2015&#34;&gt;CAP Hungary 2015&lt;/h2&gt;
-
-&lt;p&gt;The CAP Hungary 2015 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors. It was used in the &lt;a href=&#34;http://www.gvh.hu/sajtoszoba/sajtokozlemenyek/2016_os_sajtokozlemenyek/az_ures_hordozoi_dij_fogasztoi_visszaigenylesenek_.html&#34; target=&#34;_blank&#34;&gt;competition authority case&lt;/a&gt; related to the Hungarian private copying regime and in a consulting project related to better finding the audience of Hungarian cinemas in their domestic theatrical market.&lt;/p&gt;
-
-&lt;p&gt;The survey was conducted by TNS Hoffmann (currently named Kantar Hoffmann.)&lt;/p&gt;
-
-&lt;h2 id=&#34;cap-hungary-2014&#34;&gt;CAP Hungary 2014&lt;/h2&gt;
-
-&lt;p&gt;The CAP Hungary 2014 was a non-representative, large-sample online survey to pilot the later surveys.&lt;/p&gt;
 </description>
     </item>
     

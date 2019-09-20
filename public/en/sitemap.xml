@@ -7,7 +7,7 @@
       <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
     
       <loc>/</loc>
-      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -15,11 +15,17 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/talk/waves_2019/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/talk/waves_2019/" hreflang="hu"/>
+      <loc>/post/cross_border_2019/</loc>
+      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+    </url>
     
-      <loc>/talk/waves_2019/</loc>
-      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+  
+    
+    <url>
+    
+      <loc>/tags/spotify/</loc>
+      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -30,19 +36,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
     
       <loc>/tags/</loc>
-      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/concerts/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/concerts/" hreflang="hu"/>
-    
-      <loc>/tags/concerts/</loc>
-      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -54,7 +48,51 @@
       <xhtml:link rel="alternate" href="/hu/tags/export/" hreflang="hu"/>
     
       <loc>/tags/export/</loc>
-      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/hitlists/</loc>
+      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
+    
+      <loc>/tags/music-industry/</loc>
+      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/talk/waves_2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/talk/waves_2019/" hreflang="hu"/>
+    
+      <loc>/talk/waves_2019/</loc>
+      <lastmod>2019-09-20T10:16:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/concerts/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/concerts/" hreflang="hu"/>
+    
+      <loc>/tags/concerts/</loc>
+      <lastmod>2019-09-20T10:16:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -66,7 +104,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/royalties/" hreflang="hu"/>
     
       <loc>/tags/royalties/</loc>
-      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <lastmod>2019-09-20T10:16:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -78,7 +116,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/survey/" hreflang="hu"/>
     
       <loc>/tags/survey/</loc>
-      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <lastmod>2019-09-20T10:16:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -346,18 +384,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/slovakia/" hreflang="hu"/>
     
       <loc>/tags/slovakia/</loc>
-      <lastmod>2019-05-05T19:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
-    
-      <loc>/tags/music-industry/</loc>
       <lastmod>2019-05-05T19:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
