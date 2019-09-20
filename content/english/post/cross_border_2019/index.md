@@ -47,6 +47,8 @@ If we take a look at the streaming charts of the region, we usually find that th
 
 {{< gallery >}} 
 
+_These findings will be open to discussion on_ [Waves Music Showcase Festival and Conference](https://danielantal.eu/talk/waves_2019/) [click for details] _on 27 September 2019._
+
 
 Arguably, the strongest countries of songwriting are the United States and Brazil - these are the countries that have ran out of the ISRC recording identifier range. Their charts are full with their domestic songs, but they are not alone.  Japan, France, and the bigger EU countries, France, Germany and Poland have very strong domestic performance, too.
 
