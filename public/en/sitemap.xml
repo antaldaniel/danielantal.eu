@@ -296,6 +296,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/talk/slovak_report19/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/talk/slovak_report19/" hreflang="hu"/>
+    
       <loc>/talk/slovak_report19/</loc>
       <lastmod>2019-03-26T13:00:00+01:00</lastmod>
     </url>

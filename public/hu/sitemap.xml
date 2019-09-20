@@ -86,6 +86,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/talk/slovak_report19/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/talk/slovak_report19/" hreflang="en"/>
+    
+      <loc>/hu/talk/slovak_report19/</loc>
+      <lastmod>2019-03-26T13:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/hu/publication_types/4/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
     

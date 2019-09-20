@@ -330,14 +330,19 @@ enableGitInfo = false
   weight = 5
   
 [[menu.main]]
+  name = "Talks"
+  url = "/talk/"
+  weight = 6  
+  
+[[menu.main]]
   name = "Photography"
   url = "#photography"
-  weight = 6
+  weight = 7
   
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -411,13 +416,19 @@ enableGitInfo = false
   url = "/esetek/"
   weight = 5
   
+  [[languages.hu.menu.main]]
+  name = "Előadások"
+  url = "/talk/"
+  weight = 6
+  
+  
 [[languages.hu.menu.main]]
   name = "Fényképezés"
   url = "#photography"
-  weight = 6
+  weight = 7
   
 [[languages.hu.menu.main]]
   name = "Kapcsolat"
   url = "#contact"
-  weight = 7
+  weight = 8
     
