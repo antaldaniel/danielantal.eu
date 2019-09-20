@@ -7,7 +7,7 @@
       <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
     
       <loc>/</loc>
-      <lastmod>2019-07-21T19:45:00+02:00</lastmod>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -15,8 +15,8 @@
     
     <url>
     
-      <loc>/post/life_sat_19/</loc>
-      <lastmod>2019-07-21T19:45:00+02:00</lastmod>
+      <loc>/talk/waves_2019/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
     </url>
     
   
@@ -27,8 +27,58 @@
       <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
     
       <loc>/tags/</loc>
-      <lastmod>2019-07-21T19:45:00+02:00</lastmod>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/concerts/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/export/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/royalties/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/royalties/" hreflang="hu"/>
+    
+      <loc>/tags/royalties/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/survey/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/survey/" hreflang="hu"/>
+    
+      <loc>/tags/survey/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/life_sat_19/</loc>
+      <lastmod>2019-07-21T19:45:00+02:00</lastmod>
     </url>
     
   
@@ -550,18 +600,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/royalties/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/royalties/" hreflang="hu"/>
-    
-      <loc>/tags/royalties/</loc>
-      <lastmod>2017-09-29T22:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/post/ceempc/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/post/ceempc/" hreflang="hu"/>
     
@@ -800,18 +838,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/statistics/" hreflang="hu"/>
     
       <loc>/tags/statistics/</loc>
-      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/survey/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/survey/" hreflang="hu"/>
-    
-      <loc>/tags/survey/</loc>
       <lastmod>2015-11-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>

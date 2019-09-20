@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>survey on Daniel Antal, CFA</title>
-    <link>/tags/survey/</link>
-    <description>Recent content in survey on Daniel Antal, CFA</description>
+    <title>export on Daniel Antal, CFA</title>
+    <link>/tags/export/</link>
+    <description>Recent content in export on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 20 Sep 2019 12:16:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/export/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>/talk/waves_2019/</guid>
       <description>The panel discussion of the first comprehensive Central and Eastern European report will be in held on the Waves Music Showcase Festival and Conference.
 CEEMID – Central &amp;amp; Eastern European Music Databases was created out of necessity: many Central and Eastern European countries are lacking effective cross-industry or governmental statistics on music or on cultural industries in general. The lack of data makes the work of tour planning, record promotion, grant evaluation or royalty tariff setting very difficult in those countries where the need would be even greater for such activities than in the most advanced markets.</description>
-    </item>
-    
-    <item>
-      <title>Creating better national cultural statistics with Eurobarometer datasets and ESSNet-Culture technical recommendations</title>
-      <link>/publication/creating_better_2015/</link>
-      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/creating_better_2015/</guid>
-      <description> </description>
     </item>
     
   </channel>

@@ -27,8 +27,6 @@ projects = ["market-report", "royalties"]
   preview_only = false
 
 +++
-
-
 The fragmentation of the music business into microenterprises and freelance carriers make the work of a musician very complex.  Most musicians do not only fulfill the artistic role of a performer, composer, lyricist or composer.  In most cases, artists perform two artistic roles, but it is equally frequent that they perform a different, but still music related engineering, educator or managerial role.  Given that that average size of creative enterprises in Europe is less than two people, musicians are forced to do several very different things.  In the 20th century, larger companies, especially record labels had the necessary marketing, management, engineering staff to take care of this issues, but in the 21st century most musicians need to master all of these skills to a certain extent – at least to the extent that they can hire other, mainly freelance music professionals to help them out.
 
 ![Three income streams model](/img/three_income_streams_croatia.png)
