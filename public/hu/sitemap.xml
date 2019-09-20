@@ -97,6 +97,27 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/tags/slovakia/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/slovakia/" hreflang="en"/>
+    
+      <loc>/hu/tags/slovakia/</loc>
+      <lastmod>2019-03-26T13:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/tags/national-reports/</loc>
+      <lastmod>2019-03-26T13:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/hu/publication_types/4/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
     
@@ -113,18 +134,6 @@
       <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
     
       <loc>/hu/publication_types/</loc>
-      <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/slovakia/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/slovakia/" hreflang="en"/>
-    
-      <loc>/hu/tags/slovakia/</loc>
       <lastmod>2019-03-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
