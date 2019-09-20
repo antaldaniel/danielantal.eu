@@ -1,4 +1,4 @@
-﻿+++
++++
 title = "Panel Discussion of the Central Euroepan Music Industry Report 2019"
 date = 2019-09-20T10:16:00  # Schedule page publish date.
 draft = false
@@ -60,6 +60,8 @@ math = false
 +++
 
 The panel discussion of the first comprehensive Central and Eastern European report (Albania, Armenia, Austria, Bulgaria, Croatia, Czechia, Estonia, Lithuania, Poland, Romania, Slovakia, Slovenia)  will be in held on the [Waves Music Showcase Festival and Conference](https://www.wavesvienna.com/conference/conference-schedule/). 
+
+You can read a related blogpost [here]().
 
 __Quoted from the conference agenda:__
 
