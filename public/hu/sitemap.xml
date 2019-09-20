@@ -3,11 +3,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/publication_types/4/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
     
-      <loc>/hu/publication_types/4/</loc>
-      <lastmod>2019-03-26T00:00:00+01:00</lastmod>
+      <loc>/hu/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -15,10 +15,81 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/talk/waves_2019/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/talk/waves_2019/" hreflang="en"/>
     
-      <loc>/hu/</loc>
+      <loc>/hu/talk/waves_2019/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+    
+      <loc>/hu/tags/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/concerts/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/concerts/" hreflang="en"/>
+    
+      <loc>/hu/tags/concerts/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/export/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/export/" hreflang="en"/>
+    
+      <loc>/hu/tags/export/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/royalties/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/royalties/" hreflang="en"/>
+    
+      <loc>/hu/tags/royalties/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/survey/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/survey/" hreflang="en"/>
+    
+      <loc>/hu/tags/survey/</loc>
+      <lastmod>2019-09-20T12:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/4/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/4/</loc>
       <lastmod>2019-03-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -56,18 +127,6 @@
     
       <loc>/hu/publication/slovak_music_industry_2019/</loc>
       <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-    
-      <loc>/hu/tags/</loc>
-      <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -346,18 +405,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/royalties/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/royalties/" hreflang="en"/>
-    
-      <loc>/hu/tags/royalties/</loc>
-      <lastmod>2017-09-29T22:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/post/ceempc/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/post/ceempc/" hreflang="en"/>
     
@@ -557,18 +604,6 @@
       <xhtml:link rel="alternate" href="/tags/statistics/" hreflang="en"/>
     
       <loc>/hu/tags/statistics/</loc>
-      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/survey/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/survey/" hreflang="en"/>
-    
-      <loc>/hu/tags/survey/</loc>
       <lastmod>2015-11-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>

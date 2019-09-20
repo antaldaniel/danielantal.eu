@@ -16,7 +16,7 @@ abstract = ""
 
 # Name of event and optional event URL.
 event = "Panel of the Central Euroepan Music Industry Report 2019"
-event_url = "http://soza.sk"
+event_url = "https://www.wavesvienna.com/conference/conference-schedule/"
 
 # Location of event.
 location = "WUK, Werkstätten- und Kulturhaus, Währinger Straße 59, 1090 Vienna"
@@ -59,7 +59,9 @@ math = false
   focal_point = "Right"
 +++
 
-The panel discussion of the first comprehensive Central and Eastern European report will be in held on the [Waves Music Showcase Festival and Conference](https://www.wavesvienna.com/conference/conference-schedule/). 
+The panel discussion of the first comprehensive Central and Eastern European report (Albania, Armenia, Austria, Bulgaria, Croatia, Czechia, Estonia, Lithuania, Poland, Romania, Slovakia, Slovenia)  will be in held on the [Waves Music Showcase Festival and Conference](https://www.wavesvienna.com/conference/conference-schedule/). 
+
+__Quoted from the conference agenda:__
 
 CEEMID – Central & Eastern European Music Databases was created out of necessity: many Central and Eastern European countries are lacking effective cross-industry or governmental statistics on music or on cultural industries in general. The lack of data makes the work of tour planning, record promotion, grant evaluation or royalty tariff setting very difficult in those countries where the need would be even greater for such activities than in the most advanced markets.
 

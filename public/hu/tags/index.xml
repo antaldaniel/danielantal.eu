@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 12:16:00 +0200</lastBuildDate>
     
 	<atom:link href="/hu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>concerts</title>
+      <link>/hu/tags/concerts/</link>
+      <pubDate>Fri, 20 Sep 2019 12:16:00 +0200</pubDate>
+      
+      <guid>/hu/tags/concerts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>export</title>
+      <link>/hu/tags/export/</link>
+      <pubDate>Fri, 20 Sep 2019 12:16:00 +0200</pubDate>
+      
+      <guid>/hu/tags/export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>royalties</title>
+      <link>/hu/tags/royalties/</link>
+      <pubDate>Fri, 20 Sep 2019 12:16:00 +0200</pubDate>
+      
+      <guid>/hu/tags/royalties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey</title>
+      <link>/hu/tags/survey/</link>
+      <pubDate>Fri, 20 Sep 2019 12:16:00 +0200</pubDate>
+      
+      <guid>/hu/tags/survey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Slovakia</title>
@@ -139,15 +175,6 @@
     </item>
     
     <item>
-      <title>royalties</title>
-      <link>/hu/tags/royalties/</link>
-      <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
-      
-      <guid>/hu/tags/royalties/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>value-gap</title>
       <link>/hu/tags/value-gap/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
@@ -207,15 +234,6 @@
       <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>/hu/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>survey</title>
-      <link>/hu/tags/survey/</link>
-      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/hu/tags/survey/</guid>
       <description></description>
     </item>
     

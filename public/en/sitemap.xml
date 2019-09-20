@@ -15,6 +15,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/talk/waves_2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/talk/waves_2019/" hreflang="hu"/>
+    
       <loc>/talk/waves_2019/</loc>
       <lastmod>2019-09-20T12:16:00+02:00</lastmod>
     </url>
@@ -35,6 +38,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/concerts/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/concerts/" hreflang="hu"/>
+    
       <loc>/tags/concerts/</loc>
       <lastmod>2019-09-20T12:16:00+02:00</lastmod>
       <priority>0</priority>
@@ -43,6 +49,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/tags/export/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/export/" hreflang="hu"/>
     
       <loc>/tags/export/</loc>
       <lastmod>2019-09-20T12:16:00+02:00</lastmod>
