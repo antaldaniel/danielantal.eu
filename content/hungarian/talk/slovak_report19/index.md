@@ -1,5 +1,5 @@
 +++
-title = "Presentation of the Slovak Music Industry Report 2019"
+title = "A Szlovák Zeneipari Jelentés 2019 bemutatója"
 date = 2019-03-26T13:00:00  # Schedule page publish date.
 draft = false
 
@@ -8,7 +8,6 @@ draft = false
 time_start = 2019-03-26T13:30:00
 time_end = 2019-03-26T15:30:00
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
@@ -19,7 +18,7 @@ event = "Presentation of the Slovak Music Industry Report 2019"
 event_url = "http://soza.sk"
 
 # Location of event.
-location = "Bratislava, Slovakia"
+location = "V Klub, Bratislava, Slovakia"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -29,7 +28,7 @@ projects = ["market-report"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Slovakia", "national reports"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
