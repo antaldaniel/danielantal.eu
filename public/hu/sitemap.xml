@@ -494,23 +494,23 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/publication/made_in_hungary/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/publication/made_in_hungary/" hreflang="en"/>
-    
-      <loc>/hu/publication/made_in_hungary/</loc>
-      <lastmod>2017-01-22T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/tags/hungary/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/tags/hungary/" hreflang="en"/>
     
       <loc>/hu/tags/hungary/</loc>
       <lastmod>2017-01-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication/made_in_hungary/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication/made_in_hungary/" hreflang="en"/>
+    
+      <loc>/hu/publication/made_in_hungary/</loc>
+      <lastmod>2017-01-22T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -951,6 +951,14 @@
     
       <loc>/hu/tags/finance/</loc>
       <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/slides/presentation/</loc>
       <priority>0</priority>
     </url>
     
