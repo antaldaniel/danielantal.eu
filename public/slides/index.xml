@@ -43,6 +43,18 @@ porridge = &amp;quot;blueberry&amp;quot; if porridge == &amp;quot;blueberry&amp;
     
     <item>
       <title>Slides</title>
+      <link>/slides/example-slides2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/example-slides2/</guid>
+      <description>Welcome to Slides Academic
+Features  Efficiently write slides in Markdown 3-in-1: Create, Present, and Publish your slides Supports speaker notes Mobile friendly slides  Images Controls  Next: Right Arrow or Space Previous: Left Arrow Start: Home Finish: End Overview: Esc Speaker notes: S Fullscreen: F Zoom: Alt + Click PDF Export: E  Code Highlighting Inline code: variable
+Code block:
+porridge = &amp;quot;blueberry&amp;quot; if porridge == &amp;quot;blueberry&amp;quot;: print(&amp;quot;Eating.</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
       <link>/slides/example-slides2/example-slides2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

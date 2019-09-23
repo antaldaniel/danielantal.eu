@@ -7,16 +7,8 @@
       <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
     
       <loc>/</loc>
-      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <lastmod>2019-09-24T09:00:00+02:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/cross_border_2019/</loc>
-      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
     </url>
     
   
@@ -24,8 +16,16 @@
     <url>
     
       <loc>/tags/spotify/</loc>
-      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <lastmod>2019-09-24T09:00:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/2019-09-24_index/</loc>
+      <lastmod>2019-09-24T09:00:00+02:00</lastmod>
     </url>
     
   
@@ -36,7 +36,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
     
       <loc>/tags/</loc>
-      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <lastmod>2019-09-24T09:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -44,11 +44,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/export/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/export/" hreflang="hu"/>
-    
-      <loc>/tags/export/</loc>
-      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <loc>/tags/dataanimation/</loc>
+      <lastmod>2019-09-24T09:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -57,7 +54,7 @@
     <url>
     
       <loc>/tags/hitlists/</loc>
-      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <lastmod>2019-09-24T09:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -69,7 +66,27 @@
       <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
     
       <loc>/tags/music-industry/</loc>
-      <lastmod>2019-09-20T10:30:00+02:00</lastmod>
+      <lastmod>2019-09-24T09:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/cross_border_2019/</loc>
+      <lastmod>2019-09-23T18:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/export/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/export/" hreflang="hu"/>
+    
+      <loc>/tags/export/</loc>
+      <lastmod>2019-09-23T18:30:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1231,6 +1248,13 @@
       <xhtml:link rel="alternate" href="/hu/slides/example-slides/" hreflang="hu"/>
     
       <loc>/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/example-slides2/</loc>
     </url>
     
   

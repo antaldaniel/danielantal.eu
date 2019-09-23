@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 20 Sep 2019 10:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,36 @@
     <item>
       <title>Spotify</title>
       <link>/tags/spotify/</link>
-      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
+      <pubDate>Tue, 24 Sep 2019 09:00:00 +0200</pubDate>
       
       <guid>/tags/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dataanimation</title>
+      <link>/tags/dataanimation/</link>
+      <pubDate>Tue, 24 Sep 2019 09:00:00 +0200</pubDate>
+      
+      <guid>/tags/dataanimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hitlists</title>
+      <link>/tags/hitlists/</link>
+      <pubDate>Tue, 24 Sep 2019 09:00:00 +0200</pubDate>
+      
+      <guid>/tags/hitlists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-industry</title>
+      <link>/tags/music-industry/</link>
+      <pubDate>Tue, 24 Sep 2019 09:00:00 +0200</pubDate>
+      
+      <guid>/tags/music-industry/</guid>
       <description></description>
     </item>
     
@@ -27,24 +54,6 @@
       <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
       
       <guid>/tags/export/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hitlists</title>
-      <link>/tags/hitlists/</link>
-      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
-      
-      <guid>/tags/hitlists/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music-industry</title>
-      <link>/tags/music-industry/</link>
-      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
-      
-      <guid>/tags/music-industry/</guid>
       <description></description>
     </item>
     
