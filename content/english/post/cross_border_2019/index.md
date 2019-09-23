@@ -51,7 +51,7 @@ _These findings will be open to discussion on_ [Waves Music Showcase Festival an
 
 Arguably, the strongest countries of songwriting are the United States and Brazil - these are the countries that have ran out of the ISRC recording identifier range. Their charts are full with their domestic songs, but they are not alone.  Japan, France, and the bigger EU countries, France, Germany and Poland have very strong domestic performance, too.
 
-![Market shares August-September 2019](/img/dataanimation/domestic_market_share_animation)
+![Market shares August-September 2019](/img/dataanimation/domestic_market_share_animation.gif)
 
 Of course, there are many factor at play here. Large countries with large artist populations generate a lot more recordings, so they local fans always have thousands of new songs to select from.  In small countries, the total annual creations, from pop to jazz, from authentic folk to classical amounts to a few thousand tracks. But it is not only size that matters.  Sweden's population is similar to that of Austria, Hungary and Czechia, yet the Swedish repertoire performs better in Sweden, and as we will see in the next chart, abroad, too.
 
