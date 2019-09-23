@@ -12,6 +12,24 @@
     
     
     <item>
+      <title></title>
+      <link>/slides/ceemid-observatory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/ceemid-observatory/</guid>
+      <description>Introducing the CEEMID Observatoryhtml, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal iframe,.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p, .reveal blockquote, .reveal pre,.reveal a, .reveal abbr, .reveal acronym, .reveal address, .reveal big, .reveal cite, .reveal code,.reveal del, .reveal dfn, .reveal em, .reveal img, .reveal ins, .reveal kbd, .reveal q, .reveal s, .reveal samp,.reveal small, .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slides/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/presentation/</guid>
+      <description>Example Presentationhtml, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal iframe,.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p, .reveal blockquote, .reveal pre,.reveal a, .reveal abbr, .reveal acronym, .reveal address, .reveal big, .reveal cite, .reveal code,.reveal del, .reveal dfn, .reveal em, .reveal img, .reveal ins, .reveal kbd, .reveal q, .reveal s, .reveal samp,.reveal small, .reveal strike, .</description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

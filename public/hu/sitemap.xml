@@ -958,6 +958,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/slides/presentation/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/slides/presentation/" hreflang="en"/>
+    
       <loc>/hu/slides/presentation/</loc>
       <priority>0</priority>
     </url>

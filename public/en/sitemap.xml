@@ -1186,6 +1186,25 @@
     
     <url>
     
+      <loc>/slides/ceemid-observatory/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/slides/presentation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/slides/presentation/" hreflang="hu"/>
+    
+      <loc>/slides/presentation/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
     
