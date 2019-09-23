@@ -36,32 +36,23 @@ caption = "National repertoire market shares on national Spotify hitlists, 15 Se
 album = "gallery"
 image = "eu_cross_border_hits_20190915.png"
 caption = "European hits on an other European country's Spotify hitlist, 15 September 2019."
-
-
-
-
 +++
 
 If we take a look at the streaming charts of the region, we usually find that the vast majority of the streamed songs are foreign songs - except for Austria, U.S. songs.  For comparison, we added a similar, middle-income emerging market (Argentina) and a rich, small-population English-speaking country, Australia to the chart. These countries seem to be in a similar position to the CEE countries.
 
-
-{{< gallery >}} 
-
-_These findings will be open to discussion on_ [Waves Music Showcase Festival and Conference](https://danielantal.eu/talk/waves_2019/) [click for details] _on 27 September 2019._
+![Market shares August-September 2019](/img/dataanimation/domestic_market_share_animation.gif)
 
 Arguably, the strongest countries of songwriting are the United States and Brazil - these are the countries that have ran out of the ISRC recording identifier range. Their charts are full with their domestic songs, but they are not alone.  Japan, France, and the bigger EU countries, France, Germany and Poland have very strong domestic performance, too.
 
-![Market shares August-September 2019](/img/dataanimation/domestic_market_share_animation.gif)
-
 Of course, there are many factor at play here. Large countries with large artist populations generate a lot more recordings, so they local fans always have thousands of new songs to select from.  In small countries, the total annual creations, from pop to jazz, from authentic folk to classical amounts to a few thousand tracks. But it is not only size that matters.  Sweden's population is similar to that of Austria, Hungary and Czechia, yet the Swedish repertoire performs better in Sweden, and as we will see in the next chart, abroad, too.
 
-We created a second chart to visualize how hits are travelling across the borders. To make the chart easier to read, we omitted the United States, Brazil and Japan as countries of origin, and concentrated only on intra-European hit flows.
+We created a second data animation to visualize how hits were travelling across the borders in the summer of 2ö19. To make the chart easier to read, we omitted the United States, Brazil and Japan as countries of origin, and concentrated only on intra-European hit flows.
+
+![Cross-border hits August-September 2019](/img/dataanimation/cross_border_plot-animation.gif)
 
 The second week of September 2019 was not an exceptional week. Most EU countries' producers did not score any hits in any other EU countries' Spotify Top 50 hits.  The UK exported many great hits to all over Europe, as usual, but there were other important hit flows. These hits mainly follow cultural proximity.
 
 France exported hits to the two Francophone countries of Europe, Belgium and Romania, and furthermore to Greece, a Southern country with particularly unique chart composition. Germany exported many hits to Austria, another German-speaking country, and some hits to other Germanic countries. Dutch producers placed a few hits in the Germanic countries and in Belgium, where the Dutch-speaking Flemish community has its own radios, TVs, press and hitlists. The Netherlands is a powerhouse of electronic popmusic that are not bound by language which finds audience in several countries.
-
-![Cross-border hits August-September 2019](/img/dataanimation/cross_border_plot-animation.gif)
 
 The strength and competitive position of the national market where an artists is most known and has a fan base is usually a determining factor of track performance and revenue.  The overall revenue prospects and competition situation of a Hungarian or Croatian song is very different from a British or even a Polish song.  But overall, most European recordings are not bound to a domestic country. Because of cultural proximity, the presence of native minorities or new immigrant diasporas, even small-language songs are being listened to on a much wider territory than the artists' original country. Some relatively small EU countries, such as Sweden and the Netherlands successfully export their music on a regular basis.
 
@@ -71,3 +62,6 @@ The traditional sales channels protected CEE markets in several ways.  After EU 
 
 The broadcasting channel, which used the be the most important promotion channel, too, was protected in many European countries by national content quotas, or supported with generously funded national, regional, local public broadcasters who gave a preference to national composers, producers and performers. These market barriers are not present in the streaming markets, which poses many questions. Our research is aiming to answer these questions, but it took several years to build a data infrastructure that can help producing an accurate market overview.
 
+{{< gallery >}} 
+
+_These findings will be open to discussion on_ [Waves Music Showcase Festival and Conference](https://danielantal.eu/talk/waves_2019/) [click for details] _on 27 September 2019._
