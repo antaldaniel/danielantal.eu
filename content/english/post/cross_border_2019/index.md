@@ -2,12 +2,12 @@
 title = "National Market Shares on Spotify Hitlists"
 
 date = 2019-09-20T10:30:00
-lastmod = 2019-09-20T10:30:00
+lastmod = 2019-09-23T18:30:00
 draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["hitlists", "Spotify", "export", "music-industry"]
+tags = ["hitlists", "Spotify", "export", "music-industry", "dataanimation"]
 
 summary = "Which are the European countries that can successfully export songs on a streaming platform? What are the differences in cross-border hits from the UK, France, Germany, the Netherlands and Sweden?"
 
