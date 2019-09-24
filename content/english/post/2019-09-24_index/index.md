@@ -1,8 +1,8 @@
 +++
 title = "Streaming Market Growth on European Markets"
 
-date = 2019-09-24T09:00:00
-lastmod = 2019-09-24T09:00:00
+date = 2019-09-23T19:00:00
+lastmod = 2019-09-23T19:00:00
 draft = false
 
 authors = ["Daniel Antal"]
