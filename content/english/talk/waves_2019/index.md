@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "Panel Discussion of the Central Euroepan Music Industry Report 2019"
 date = 2019-09-20T10:16:00  # Schedule page publish date.
 draft = false
@@ -63,7 +63,7 @@ The panel discussion of the first comprehensive Central and Eastern European rep
 
 [The presentation](/presentation/CEE_Music_Report.html) _10Mb self-contained HTML file, takes some time to load_
 
-You can read a related blogpost [here](https://danielantal.eu/post/cross_border_2019/).
+You can read a related blogpost [here](https://danielantal.eu/post/cross_border_2019/){target="_blank"}.
 
 __Quoted from the conference agenda:__
 
