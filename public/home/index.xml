@@ -129,5 +129,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

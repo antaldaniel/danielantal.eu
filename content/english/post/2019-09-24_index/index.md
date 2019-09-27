@@ -28,7 +28,8 @@ projects = ["market-report", "royalties"]
   preview_only = false
 
 +++
-I have never been a great fan of the headline figures reported by the recording industry about streaming growth.  I always felt that however dynamic are those charts, artists keep complaining that they do not feel these developments.  So I started to decompose those growth figures. 
+I have never been a great fan of the headline figures reported by the recording industry about streaming growth.  I always felt that however dynamic are those charts, artists keep complaining that they do not feel these developments.  So I started to decompose those growth figures.
+
 The Global Music Report quotes national streaming revenues on a dollar basis, which contains a lot of currency exchange noise.  And behind the national total there are too many factors: subscriber base growth and repertoire growth and the subscription fee.  The interplay of these forces is unpredictable. Whenever a local artist or producers sees a 10% reported national growth, they can never be sure if this will likely cause their sale to grow or shrink.
 
 Because of the changes in the subscriber base and the available competing repertoire, it is important to see if the artist’s segment is growing, and if the competition is growing. The sales platforms will never reveal such data, and anyway, there is a competition among many sales platforms.
