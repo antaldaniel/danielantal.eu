@@ -33,12 +33,12 @@ slides = ""
 tags = ["market-report", "Slovakia", "music-industry"]
 
 # Links (optional).
-url_pdf = "http://www.soza.sk/cms/content/files/Sprava_o_slovenskom_hudobnom_priemysle.pdf"
+url_pdf = "http://www.soza.sk/cms/content/files/Sprava_o_slovenskom_hudobnom_priemysle_marec2019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "https://www.slideshare.net/antaldaniel/a-proart-zeneipari-jelentse"
+url_slides = "https://www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018"
 url_video = ""
 url_poster = ""
 url_source = ""

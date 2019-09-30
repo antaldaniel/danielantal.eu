@@ -6,8 +6,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 23 Sep 2019 19:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 08:05:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Central European Music Industry Report Preview</title>
+      <link>/post/2019-09-27_cee_report/</link>
+      <pubDate>Mon, 30 Sep 2019 08:05:00 +0200</pubDate>
+      
+      <guid>/post/2019-09-27_cee_report/</guid>
+      <description>&lt;p&gt;We had the first public and panel discussion of the forthcoming Central European Music Industry Report.  After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You can review the whole &lt;a href=&#34;/presentation/CEE_Music_Report.html&#34;&gt;presentation here&lt;/a&gt; (10Mb self-contained HTML file, takes some time to load).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/ceemid/expenditure_private_cultural_cinema_theatre_concert_filled_plot.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After mapping and analysing in depth the music industries of several CEE countries (see the latest, Slovakia, &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;), I put together with the help of Consolidated Independent a regional report in previously unseen detail.&lt;/p&gt;
+
+&lt;p&gt;The live music part explains the different demography and other demand drivers of the CEE region for concerts, resulting in high seasonality, low venue profitability, an unusually high vulnerability of small venues – and as a result an unusually strong music festival scene.
+For recordings, the report shows the royalty gap in comparison to Western Europe and the difficulties of labels and publishers to create value added to musicians.  In the absence of a fully functional recording market, musicians are more reliant on collective management revenues than in the rest of Europe – yet in many countries collective management has profound difficulty in asking the correct price for music or collecting it.&lt;/p&gt;
+
+&lt;p&gt;When analysing the music flows among European countries, and the export-import flows of other emerging markets in Latin America and the worlds most stable ones, like that of the United States, Brazil and Japan, we must realize that these nations face an uphill battle to get into the better paying markets and at the same time to protect their domestic market from increasing import substitution.&lt;/p&gt;
+
+&lt;p&gt;Music grants could be an important tool to balance the disadvantaged position of CEE musicians in this global competition.  Austria and Hungary has a strong popular music support program, but usually the availability and suitability of grants is lower in those countries where musicians and their technical and managerial team would need it most.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/dataanimation/is_grant_animation_1000_no_loop.gif&#34; alt=&#34;Accessibility and suitability of music grants&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can review a some of the data and the discussion points here.  I am very grateful for Music Austria to put this report in the conference program and organizing a panel with it.  Maybe because of the Hungarian-Swedish focus of Waves this year, we ended up in a panel of Hungarians living in three countries.&lt;/p&gt;
+
+&lt;p&gt;I am very grateful for the support given by &lt;a href=&#34;https://ci-info.com/&#34; target=&#34;_blank&#34;&gt;Consolidated Independent&lt;/a&gt; in the making of this report. CI is the market leader in managed services for the digital music industry, connecting the best independent music with the opportunities of the global market. With their data science team, we put together data from about 700,000,000 royalty statement documents about the whole region. I believe that this is the first time that a global player releases large amounts of data to help understanding the changing music landscape in the era of digital streaming. Equally thankful for Franz Hergovich (Music Austria) for inviting us to discuss these findings on &lt;a href=&#34;https://danielantal.eu/talk/waves_2019/&#34; target=&#34;_blank&#34;&gt;Waves Music Showcase Festival and Conference&lt;/a&gt; [click for details] &lt;em&gt;on 27 September 2019.&lt;/em&gt;  with Márton Náray (SoundCzech) and Péter Benjámin Tóth (Artisjus).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://danielantal.eu/posts/2019-09-27_cee_report/&#34; target=&#34;_blank&#34;&gt;Central a&lt;/a&gt;
+You can find out more about the data sources &lt;a href=&#34;https://danielantal.eu/usecase/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The report will be shortly released in a free downloadable ebook, and musicians, who requested it, will receive their personalized mini-reports shortly.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;These findings were open for discussion on&lt;/em&gt;  I am particularly grateful for&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Streaming Market Growth on European Markets</title>
@@ -35,10 +73,10 @@ After many hours of work with the state51 data science team, and at least as muc
     
     <item>
       <title>National Market Shares on Spotify Hitlists</title>
-      <link>/post/cross_border_2019/</link>
+      <link>/post/2019-09-23_cross-border_europe/</link>
       <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
       
-      <guid>/post/cross_border_2019/</guid>
+      <guid>/post/2019-09-23_cross-border_europe/</guid>
       <description>&lt;p&gt;If we take a look at the streaming charts of the region, we usually find that the vast majority of the streamed songs are foreign songs - except for Austria, U.S. songs.  For comparison, we added a similar, middle-income emerging market (Argentina) and a rich, small-population English-speaking country, Australia to the chart. These countries seem to be in a similar position to the CEE countries.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/dataanimation/domestic_market_share_animation.gif&#34; alt=&#34;Market shares August-September 2019&#34; /&gt;&lt;/p&gt;
@@ -81,8 +119,8 @@ After many hours of work with the state51 data science team, and at least as muc
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/cross_border_2019/gallery/eu_cross_border_hits_20190915.png&#34; data-caption=&#34;European hits on an other European country&amp;#39;s Spotify hitlist, 15 September 2019.&#34;&gt;
-  &lt;img src=&#34;/post/cross_border_2019/gallery/eu_cross_border_hits_20190915.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915.png&#34; data-caption=&#34;European hits on an other European country&amp;#39;s Spotify hitlist, 15 September 2019.&#34;&gt;
+  &lt;img src=&#34;/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -95,8 +133,8 @@ After many hours of work with the state51 data science team, and at least as muc
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/cross_border_2019/gallery/spotify_chart_mkt_share_20190915.png&#34; data-caption=&#34;National repertoire market shares on national Spotify hitlists, 15 September 2019.&#34;&gt;
-  &lt;img src=&#34;/post/cross_border_2019/gallery/spotify_chart_mkt_share_20190915.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915.png&#34; data-caption=&#34;National repertoire market shares on national Spotify hitlists, 15 September 2019.&#34;&gt;
+  &lt;img src=&#34;/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -274,10 +312,10 @@ In classical and world music, the author may not be known or eligible for royalt
     
     <item>
       <title>CEEMID Music Professionals Survey 2019</title>
-      <link>/post/ceemid_19/</link>
+      <link>/post/2019-06-07_ceemid_survey/</link>
       <pubDate>Fri, 07 Jun 2019 15:00:00 +0200</pubDate>
       
-      <guid>/post/ceemid_19/</guid>
+      <guid>/post/2019-06-07_ceemid_survey/</guid>
       <description>
 
 &lt;p&gt;The fragmentation of the music business into microenterprises and freelance carriers make the work of a musician very complex.  Most musicians do not only fulfill the artistic role of a performer, composer, lyricist or composer.  In most cases, artists perform two artistic roles, but it is equally frequent that they perform a different, but still music related engineering, educator or managerial role.  Given that that average size of creative enterprises in Europe is less than two people, musicians are forced to do several very different things.  In the 20th century, larger companies, especially record labels had the necessary marketing, management, engineering staff to take care of this issues, but in the 21st century most musicians need to master all of these skills to a certain extent – at least to the extent that they can hire other, mainly freelance music professionals to help them out.&lt;/p&gt;
@@ -428,54 +466,6 @@ In classical and world music, the author may not be known or eligible for royalt
 &lt;p&gt;Slides:&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/86x5wKAlsIetxA&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018&#34; title=&#34;Spáva o hudobnom priemysle na Slovensku&#34; target=&#34;_blank&#34;&gt;Spáva o hudobnom priemysle na Slovensku&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CEEMID</title>
-      <link>/project/ceemid/</link>
-      <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/ceemid/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://danielantal.eu/tags/ceemid/&#34; target=&#34;_blank&#34;&gt;CEEMID&lt;/a&gt; (Central and Eastern European Music Industry Databases)  was created out of necessity following a CISAC Good Governance Seminar for European Societies in 2013.  The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in the region.&lt;/p&gt;
-
-&lt;p&gt;In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-&amp;#224;-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts.&lt;/p&gt;
-
-&lt;p&gt;CEEMID by designed aimed to follow the best European practices on statistical harmonization and was already featured as an innovative &lt;a href=&#34;https://danielantal.eu/publication/creating_better_2015/&#34; target=&#34;_blank&#34;&gt;best practice&lt;/a&gt; in the 40th anniversary of Pan European Surveying seminar in 2015.  As an initiative born out of necessity, it aimed fill in the gaps of underdeveloped official cultural statics by following the guidelines of Eurostat&amp;rsquo;s ESSNet.&lt;/p&gt;
-
-&lt;p&gt;From the originally envisioned, centralized, permission-based data structure, due to practical considerations, CEEMID switched to a more flexible, decentralized approach. This approach is based on continuous data integration, which requires permissions to use business confidential information only in use. This allowed a rapid extension of CEEMID to the whole of Europe and go even beyond.  As a result of continous data integration it already includes hundreds of indicators foreseen in all pillars of the planned European Music Observatory.&lt;/p&gt;
-
-&lt;p&gt;CEEMID works together with music granting agencies, music export offices and collective management societies to reach a representative segment of all professional, semi-professional and amateur artists in the countries covered: Hungary, Slovakia and Croatia, which will be extended this year to the Czech Republic and Serbia.&lt;/p&gt;
-
-&lt;h2 id=&#34;data-sources&#34;&gt;Data sources&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Nationally representative &lt;a href=&#34;https://danielantal.eu/usecase/cap/&#34; target=&#34;_blank&#34;&gt;CAP surveys&lt;/a&gt; of music users and film viewers.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Anonymous &lt;a href=&#34;https://danielantal.eu/usecase/musicians/&#34; target=&#34;_blank&#34;&gt;CEEMID Music Professional Surveys&lt;/a&gt; and &lt;em&gt;CEEMID Audiovisual Professional Surveys&lt;/em&gt; about their work, incomes and costs. See example &lt;a href=&#34;https://danielantal.eu/post/career_path/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Big data sources from various geolocational applications about events and location visits &lt;a href=&#34;https://www.youtube.com/watch?v=3lW8bhQ2fbY&#34; target=&#34;_blank&#34;&gt;small video&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Automatic data retrieval from open data sources, including statistical data and EU-funded research. See example &lt;a href=&#34;https://danielantal.eu/post/how_many_ever_pay/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;continous-data-integration&#34;&gt;Continous data integration&lt;/h2&gt;
-
-&lt;p&gt;While CEEMID is aware of and uses the metadata of CISAC&amp;rsquo;s, IFPI&amp;rsquo;s, EAO&amp;rsquo;s, and other industry sources&amp;rsquo; data, it does not contain this data, only when a user with permission for the use of these industry sources requires the integration of such data with other CEEMID data, or user-specific data.  While this approach makes sharing results more cumbersome, it provided a path to increase the number of useful indicators from a few dozens to around a thousand. Furthermore, it exponentially increases the value of CISAC&amp;rsquo;s, IFPI&amp;rsquo;s or EAO&amp;rsquo;s data, especially when designing better royalty rates, or creating economic evidence for litigation. Take a look at a simple, non-confidential example &lt;a href=&#34;https://danielantal.eu/post/cee_mini_17/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The CEEMID Music Professional Surveys are anonymous surveys about the live music and recording markets and granting schemes.  The surveys have been filled out by about 4000 musicians, technicians, managers (and 2000 filmmakers) about the tour destinations, concert budgets and average audiences, various royalty receipts from streaming services, physical and digital sales, YouTube, Bandcamp.  We are also creating comparable statistics with all EU national statistics on life satisfaction, economic expectations, income and economic situation and other characteristics of music and filmmaker professionals.&lt;/p&gt;
-
-&lt;p&gt;CEEMID makes sure that the Client&amp;rsquo;s data (collective management organizations, music distributors, music export offices, music granting agencies) are correctly integrated with our survey data, statistical and big data sources, with industry data and the Client&amp;rsquo;s own transactional financial, licensing, granting or processed data. We are handling professionally data errors, missing data, currency translations and other problem areas.&lt;/p&gt;
-
-&lt;h2 id=&#34;use-cases&#34;&gt;Use Cases&lt;/h2&gt;
-
-&lt;p&gt;In combination with collective management data and industry data the music professional surveys can help establish the value of certain rights, or estimate the compensation needed for home copying or the value transfer to platforms like YouTube.&lt;/p&gt;
-
-&lt;p&gt;In combination with granting data, it can be used for both ex ante evaluation to design better aimed, more cost-efficient and helpful grant calls, or to ex post evaluate the efficiency of grants and the (perceived) honesty and professionalism of the granting process.&lt;/p&gt;
-
-&lt;p&gt;In combination with the anonymized State51 test data set, it can support machine learning and deep learning (AI) algorithms to establish the potential foreign markets of certain songs, artists or national repertoires, or asses the value of recordings to optimize promotion.&lt;/p&gt;
 </description>
     </item>
     
