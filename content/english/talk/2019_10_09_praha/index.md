@@ -11,10 +11,10 @@ time_end = 2019-10-09T19:00:00
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "360-degree workshop with music professionals from the live, recording, publishing parts and the granting and collective management functions of the Czech music industry, organized by SoundCzech."
 
 # Name of event and optional event URL.
-event = "360-degree workshop with music professionals from the live, recording, publishing parts and the granting and collective management functions of the Czech music industry, organized by SoundCzech."
+event = "8-fields Music Development Workshop"
 event_url = "https://www.svet-hub.cz/"
 
 # Location of event.
