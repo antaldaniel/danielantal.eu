@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["hitlists", "Spotify", "export", "music-industry", "dataanimation"]
+tags = ["hitlists", "Spotify", "export", "music-industry", "dataanimation", "music-export"]
 
 summary = "Which are the European countries that can successfully export songs on a streaming platform? What are the differences in cross-border hits from the UK, France, Germany, the Netherlands and Sweden?"
 
