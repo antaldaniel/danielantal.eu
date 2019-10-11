@@ -22,6 +22,18 @@
     </item>
     
     <item>
+      <title>A Comprehensive Development Program for the Czech Music Industry</title>
+      <link>/talk/2019_11_15_bush/</link>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
+      
+      <guid>/talk/2019_11_15_bush/</guid>
+      <description>&lt;p&gt;I am going to present the Hungarian results from our regional &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34;&gt;Central European Music Industry Report&lt;/a&gt;, and look back on the recommendations 4 years later on .  I will also compare the problems of the Hungarian scene in 2015, 2019 with the current issues in Czechia, Slovakia and Austria.&lt;/p&gt;
+
+&lt;p&gt;I would like to provide an opportunity on BUSH to give personal feedback to the artists and professionals who gave their personal details in our annual CEEMID Music Professional Survey from Hungary, or anywhere else in the region if they make it to BUSH. More details will be sent to your e-mail addresses, provided you have given us one.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How We Would Like To Work in the Czech Music Industry in 2020</title>
       <link>/talk/2019_10_09_praha/</link>
       <pubDate>Fri, 04 Oct 2019 10:16:00 +0200</pubDate>
@@ -421,38 +433,6 @@ In classical and world music, the author may not be known or eligible for royalt
   &lt;iframe src=&#34;//www.youtube.com/embed/3lW8bhQ2fbY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>Economic Impact Assessment of Music Industry</title>
-      <link>/usecase/impact/</link>
-      <pubDate>Sat, 04 May 2019 19:36:00 +0200</pubDate>
-      
-      <guid>/usecase/impact/</guid>
-      <description>
-
-&lt;p&gt;Economic impact assessments, such as multiplier calculations, direct, indirect and induced employment-, tax-, value added effects calculations are very often needed for larger grants, or the design of grant calls; illegal state aid must be avoided, for example, when designing film tax shelters; or considering various policy options.&lt;/p&gt;
-
-&lt;p&gt;Such calculations require in the background very large amount of highly structure statistical data, which is very difficult to obtain and work with for non-specialist.   Such data must be accompanied by internal financial data or user survey data.&lt;/p&gt;
-
-&lt;h2 id=&#34;iotables&#34;&gt;iotables&lt;/h2&gt;
-
-&lt;p&gt;My open source &lt;a href=&#34;http://iotables.ceemid.eu/&#34; target=&#34;_blank&#34;&gt;iotables&lt;/a&gt; software, released within the scope of the rOpenGov collaboration, is aimed at correctly structuring data and conducting must of the algebraic work related to these tasks. Read &lt;a href=&#34;/post/iotables_04/&#34;&gt;more about iotables&lt;/a&gt; among my blog posts.&lt;/p&gt;
-
-&lt;p&gt;I am working together with &lt;a href=&#34;http://kulkal.cz/?lang=en&#34; target=&#34;_blank&#34;&gt;KulKal&lt;/a&gt; to make this online cultural calculator usable in all EU member states in the future using some of the features of iotables. Our cooperation started with using some of iotables and CEEMID data in &lt;a href=&#34;https://www.sharedcities.eu/&#34; target=&#34;_blank&#34;&gt;Shared Cities&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;impact-assessment&#34;&gt;Impact assessment&lt;/h2&gt;
-
-&lt;p&gt;Economic impact assessment, apart from the use of highly structured national accounts data and algebraic knowledge require organization or national association specific financial data, accounting data or user survey data.  Currently I am working on various applications to standardize these tools, so that each festival organizer, music export office, film fund and tax shelter and other similar organization can use it according to its needs.  While I do not believe that economic impact assessment for large grants or policy evaluation can be fully automated, the most painful part of the process, the gathering of correctly structured data and the most difficult calculations can be automated.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Creation of the economic impact analysis of the Hungarian film production and extending the Hungarian tax shelter in cooperation with OrienTax.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Economic impact assessment of the Slovak music industry within the &lt;a href=&#34;/publication/slovak_music_industry_2019/&#34;&gt;Slovak Music Industry Report&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Ex ante&lt;/em&gt; &lt;a href=&#34;https://danielantal.eu/project/grants/&#34; target=&#34;_blank&#34;&gt;grant assessement&lt;/a&gt; for Hungary&amp;rsquo;s Hangfoglaló program&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

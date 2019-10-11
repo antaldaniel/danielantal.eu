@@ -1,0 +1,64 @@
++++
+title = "A Comprehensive Development Program for the Czech Music Industry"
+date = 2019-10-11T10:16:00  
+draft = false
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2019-11-15T21:00:00
+time_end = 2019-11-15T13:30:00
+
+authors = ["Daniel Antal, CFA"]
+
+# Abstract and optional shortened version.
+abstract = "A Program based on the 360-degree workshop with music professionals from the live, recording, publishing parts and the granting  functions of the Czech music scene & feedback to artists from the CEEMID Music Professional Survey."
+
+# Name of event and optional event URL.
+event = "Budapest Showcase Hub discussion"
+event_url = "https://budapestshowcasehub.com"
+
+# Location of event.
+location = "Fészek Klub, Kertész u. 36, 1073 Budapest, Hungary"
+
+# Is this a selected talk? (true/false)
+selected = true
+
+# Projects (optional).
+projects = ["market-report", "music-export"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["grants", "export", "royalties", "concerts"]
+
+# Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Does the content use math formatting?
+math = false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  caption = "Budapest Showcase Hub"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Left"
++++
+
+I am going to present the Hungarian results from our regional [Central European Music Industry Report](https://danielantal.eu/post/2019-09-27_cee_report/), and look back on the recommendations 4 years later on .  I will also compare the problems of the Hungarian scene in 2015, 2019 with the current issues in Czechia, Slovakia and Austria.  
+
+I would like to provide an opportunity on BUSH to give personal feedback to the artists and professionals who gave their personal details in our annual CEEMID Music Professional Survey from Hungary, or anywhere else in the region if they make it to BUSH. More details will be sent to your e-mail addresses, provided you have given us one.
+
+
