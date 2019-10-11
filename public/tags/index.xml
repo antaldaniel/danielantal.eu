@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 30 Sep 2019 08:05:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 10:16:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>concerts</title>
+      <link>/tags/concerts/</link>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
+      
+      <guid>/tags/concerts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>export</title>
+      <link>/tags/export/</link>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
+      
+      <guid>/tags/export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grants</title>
+      <link>/tags/grants/</link>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
+      
+      <guid>/tags/grants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>royalties</title>
+      <link>/tags/royalties/</link>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
+      
+      <guid>/tags/royalties/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CEE</title>
@@ -40,6 +76,15 @@
     </item>
     
     <item>
+      <title>music-export</title>
+      <link>/tags/music-export/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/music-export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spotify</title>
       <link>/tags/spotify/</link>
       <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
@@ -63,33 +108,6 @@
       <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
       
       <guid>/tags/hitlists/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>export</title>
-      <link>/tags/export/</link>
-      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
-      
-      <guid>/tags/export/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>concerts</title>
-      <link>/tags/concerts/</link>
-      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
-      
-      <guid>/tags/concerts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>royalties</title>
-      <link>/tags/royalties/</link>
-      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
-      
-      <guid>/tags/royalties/</guid>
       <description></description>
     </item>
     
@@ -166,7 +184,7 @@
     </item>
     
     <item>
-      <title>value-gap</title>
+      <title>value gap</title>
       <link>/tags/value-gap/</link>
       <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
       
@@ -315,15 +333,6 @@
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/tags/ex-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>grants</title>
-      <link>/tags/grants/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/grants/</guid>
       <description></description>
     </item>
     

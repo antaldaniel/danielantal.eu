@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music-export on Daniel Antal, CFA</title>
+    <link>/tags/music-export/</link>
+    <description>Recent content in music-export on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/music-export/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Music Exports &amp; Imports</title>
+      <link>/project/music-export/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/project/music-export/</guid>
+      <description>Understanding how concerts, festival audiences and recordings are crossing borders</description>
+    </item>
+    
+    <item>
+      <title>National Market Shares on Spotify Hitlists</title>
+      <link>/post/2019-09-23_cross-border_europe/</link>
+      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
+      
+      <guid>/post/2019-09-23_cross-border_europe/</guid>
+      <description>Which are the European countries that can successfully export songs on a streaming platform? What are the differences in cross-border hits from the UK, France, Germany, the Netherlands and Sweden?</description>
+    </item>
+    
+  </channel>
+</rss>
