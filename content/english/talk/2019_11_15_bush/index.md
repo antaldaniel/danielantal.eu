@@ -1,5 +1,5 @@
 +++
-title = "A Comprehensive Development Program for the Czech Music Industry"
+title = "Central European Music Industry Report: Focus on Granting"
 date = 2019-10-11T10:16:00  
 draft = false
 
@@ -11,7 +11,7 @@ time_end = 2019-11-15T13:30:00
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "A Program based on the 360-degree workshop with music professionals from the live, recording, publishing parts and the granting  functions of the Czech music scene & feedback to artists from the CEEMID Music Professional Survey."
+abstract = "A review of the Hungarian & Czech grant needs assessments, the role of grants and the granting experience of musicians in the region."
 
 # Name of event and optional event URL.
 event = "Budapest Showcase Hub discussion"
@@ -22,13 +22,11 @@ location = "Fészek Klub, Kertész u. 36, 1073 Budapest, Hungary"
 
 # Is this a selected talk? (true/false)
 selected = true
-
-# Projects (optional).
-projects = ["market-report", "music-export"]
+projects = ["grants"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["grants", "export", "royalties", "concerts"]
+tags = ["grants"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
