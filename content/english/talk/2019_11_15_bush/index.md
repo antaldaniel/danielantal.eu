@@ -48,13 +48,12 @@ url_code = ""
 math = false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   caption = "Budapest Showcase Hub"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point = "Center"
 +++
 
 I am going to present the Hungarian results from our regional [Central European Music Industry Report](https://danielantal.eu/post/2019-09-27_cee_report/), and look back on the recommendations 4 years later on .  I will also compare the problems of the Hungarian scene in 2015, 2019 with the current issues in Czechia, Slovakia and Austria.  

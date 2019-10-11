@@ -48,9 +48,8 @@ url_code = ""
 math = false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-  caption = "Creating a Mindmap in 8 steps"
+  caption = "Nouvelle Prague Showcase Festival & Conference"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
