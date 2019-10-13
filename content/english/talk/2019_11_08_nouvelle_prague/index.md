@@ -1,24 +1,24 @@
 +++
-title = "A Comprehensive Development Program for the Czech Music Industry"
+title = "Comperative Study On The Music Markets of the CEE Region"
 date = 2019-10-11T10:16:00  
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2019-11-09T11:00:00
-time_end = 2019-11-09T12:00:00
+time_end = 2019-11-09T11:30:00
 
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "A Program based on the 360-degree workshop with music professionals from the live, recording, publishing parts and the granting  functions of the Czech music scene & feedback to artists from the CEEMID Music Professional Survey."
+abstract = "Presentation of the CEE Music Industry Report, with emphasis on Czech data compared with AT, DE, HU, PL, SK, in the context of the development program on on live, recording, publishing parts and the granting functions of the Czech music scene. Feedback to artists from the CEEMID Music Professional Survey."
 
 # Name of event and optional event URL.
 event = "Nouvelle Prague discussion"
 event_url = "https://nouvelleprague.com/"
 
 # Location of event.
-location = "Plynarni 1096/23, Prague, Czech Republic"
+location = "Plynarni 1096/23, Prague, Czech Republic, Workshop Room"
 
 # Is this a selected talk? (true/false)
 selected = true
