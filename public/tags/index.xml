@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Daniel Antal, CFA</title>
@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 11 Oct 2019 10:16:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Croatia</title>
+      <link>/tags/croatia/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      
+      <guid>/tags/croatia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market-report</title>
+      <link>/tags/market-report/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      
+      <guid>/tags/market-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pcr</title>
+      <link>/tags/pcr/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      
+      <guid>/tags/pcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private-copying</title>
+      <link>/tags/private-copying/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      
+      <guid>/tags/private-copying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value-gap</title>
+      <link>/tags/value-gap/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      
+      <guid>/tags/value-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value-transfer</title>
+      <link>/tags/value-transfer/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      
+      <guid>/tags/value-transfer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>concerts</title>
@@ -85,15 +139,6 @@
     </item>
     
     <item>
-      <title>Spotify</title>
-      <link>/tags/spotify/</link>
-      <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
-      
-      <guid>/tags/spotify/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>dataanimation</title>
       <link>/tags/dataanimation/</link>
       <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
@@ -108,6 +153,15 @@
       <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
       
       <guid>/tags/hitlists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotify</title>
+      <link>/tags/spotify/</link>
+      <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
+      
+      <guid>/tags/spotify/</guid>
       <description></description>
     </item>
     
@@ -157,15 +211,6 @@
     </item>
     
     <item>
-      <title>pcr</title>
-      <link>/tags/pcr/</link>
-      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
-      
-      <guid>/tags/pcr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pricing</title>
       <link>/tags/pricing/</link>
       <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
@@ -180,24 +225,6 @@
       <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
       
       <guid>/tags/regulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>value gap</title>
-      <link>/tags/value-gap/</link>
-      <pubDate>Tue, 16 Jul 2019 17:00:00 +0200</pubDate>
-      
-      <guid>/tags/value-gap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>market-report</title>
-      <link>/tags/market-report/</link>
-      <pubDate>Fri, 07 Jun 2019 15:00:00 +0200</pubDate>
-      
-      <guid>/tags/market-report/</guid>
       <description></description>
     </item>
     
@@ -247,15 +274,6 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>economic-impact</title>
       <link>/tags/economic-impact/</link>
       <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
@@ -270,6 +288,15 @@
       <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
       
       <guid>/tags/multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
@@ -346,15 +373,6 @@
     </item>
     
     <item>
-      <title>Croatia</title>
-      <link>/tags/croatia/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/croatia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>music</title>
       <link>/tags/music/</link>
       <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
@@ -414,15 +432,6 @@
       <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
       
       <guid>/tags/hedonic-pricing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>private-copying</title>
-      <link>/tags/private-copying/</link>
-      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/private-copying/</guid>
       <description></description>
     </item>
     
