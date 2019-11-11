@@ -3,6 +3,63 @@
     
     <url>
     
+      <loc>/talk/2019_11_14_hail/</loc>
+      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+    
+      <loc>/</loc>
+      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/labels/</loc>
+      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/see/</loc>
+      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/value-gap/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/value-gap/" hreflang="hu"/>
+    
+      <loc>/tags/value-gap/</loc>
+      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tags/cee/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/tags/cee/" hreflang="hu"/>
     
@@ -41,43 +98,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-    
-      <loc>/</loc>
-      <lastmod>2019-11-09T11:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
     
       <loc>/tags/music-industry/</loc>
-      <lastmod>2019-11-09T11:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-11-09T11:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/value-gap/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/value-gap/" hreflang="hu"/>
-    
-      <loc>/tags/value-gap/</loc>
       <lastmod>2019-11-09T11:00:00+01:00</lastmod>
     </url>
     

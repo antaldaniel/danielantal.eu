@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 09 Nov 2019 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 10:18:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>labels</title>
+      <link>/tags/labels/</link>
+      <pubDate>Mon, 11 Nov 2019 10:18:00 +0100</pubDate>
+      
+      <guid>/tags/labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEE</title>
+      <link>/tags/see/</link>
+      <pubDate>Mon, 11 Nov 2019 10:18:00 +0100</pubDate>
+      
+      <guid>/tags/see/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value-gap</title>
+      <link>/tags/value-gap/</link>
+      <pubDate>Mon, 11 Nov 2019 10:18:00 +0100</pubDate>
+      
+      <guid>/tags/value-gap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CEE</title>
@@ -45,15 +72,6 @@
       <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
       
       <guid>/tags/music-industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>value-gap</title>
-      <link>/tags/value-gap/</link>
-      <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
-      
-      <guid>/tags/value-gap/</guid>
       <description></description>
     </item>
     

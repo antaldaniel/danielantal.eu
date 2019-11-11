@@ -3,7 +3,7 @@ title = "Private Copying in Croatia"
 date = 2019-10-31T12:00:00
 draft = false
 
-authors = ["Daniel Antal"]
+authors = ["Daniel Antal, CFA"]
 
 # Publication type.
 # Legend:
