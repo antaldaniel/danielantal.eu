@@ -1,5 +1,5 @@
 +++
-title = "Challenges for Independent Labels in 2020"
+title = "Független kiadók kihívásai 2020-ban"
 date = 2019-11-11T10:18:00  
 draft = false
 
@@ -11,10 +11,10 @@ time_end = 2019-11-14T13:00:00
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "HAIL and its regional partners are organizing an closed workshop as a side-event of BUSH to discuss the latest market challenges for independent labels in the region. I am going to make the opening presentation and start the discussion."
+abstract = "A HAIL és regionális partnerei szervezik ezt a zárkörű megbeszélést a BUSH keretében.  A független kiadókat érintő jövő évi lehetőségeket, kihívásokat fogjuk áttekinteni. A szakmai nap nyitóelőadását én fogomo tartani, ha valakinek nincsen meghívója, keressen meg közvetlenül"
 
 # Name of event and optional event URL.
-event = "Budapest Showcase Hub discussion"
+event = "Budapest Showcase Hub - HAIL workshop"
 event_url = "https://budapestshowcasehub.com"
 
 # Location of event.
@@ -53,6 +53,6 @@ math = false
   focal_point = "Center"
 +++
 
-I am going to present the Hungarian results from our regional [Central European Music Industry Report](https://danielantal.eu/post/2019-09-27_cee_report/), and reflect on current challenges with promoting music in digital streaming and changes due to the new DSM directive. We will discuss some projects, including market development projects for the non-EU Balkans countries. 
+A Magyaországra és a Balkánra vonatkozó adatokat fogom kiemelni a [Central European Music Industry Report](https://danielantal.eu/post/2019-09-27_cee_report/) piacelemzésből, és a digitális csatornákon való terjesztés illetve a DSM Irányelv átültetésével kapcsolatos néhány aktuális témáról fogunk beszélgetni. Szóba fog kerülni egy, a balkáni zeneipar feltérképezését és fejlesztését célzó projekt is a helyi partnerekkel. 
 
-I would like to provide an opportunity on BUSH to give personal feedback to the artists and professionals who gave their personal details in our annual CEEMID Music Professional Survey from Hungary, or anywhere else in the region if they make it to BUSH. More details will be sent to your e-mail addresses, provided you have given us one.
+Egyúttal alkalmat szeretnék teremetni arra, hogy személyes visszajelzéseket adjak azoknak a zeneipari szakembereknek, akik megadták a személyes adataikat a CEEMID zeneipari szakemberek felmérése 2019 felmérésben.

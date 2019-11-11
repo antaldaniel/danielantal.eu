@@ -3,6 +3,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/talk/2019_11_14_hail/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/talk/2019_11_14_hail/" hreflang="hu"/>
+    
       <loc>/talk/2019_11_14_hail/</loc>
       <lastmod>2019-11-11T10:18:00+01:00</lastmod>
     </url>
@@ -22,6 +25,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/labels/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/labels/" hreflang="hu"/>
+    
       <loc>/tags/labels/</loc>
       <lastmod>2019-11-11T10:18:00+01:00</lastmod>
     </url>
@@ -29,6 +35,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/tags/see/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/see/" hreflang="hu"/>
     
       <loc>/tags/see/</loc>
       <lastmod>2019-11-11T10:18:00+01:00</lastmod>
@@ -210,6 +219,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/talk/2019_11_15_bush/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/talk/2019_11_15_bush/" hreflang="hu"/>
+    
       <loc>/talk/2019_11_15_bush/</loc>
       <lastmod>2019-10-11T10:16:00+02:00</lastmod>
     </url>
@@ -217,6 +229,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/talk/2019_11_08_nouvelle_prague/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/talk/2019_11_08_nouvelle_prague/" hreflang="hu"/>
     
       <loc>/talk/2019_11_08_nouvelle_prague/</loc>
       <lastmod>2019-10-11T10:16:00+02:00</lastmod>
@@ -247,6 +262,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/tags/grants/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/grants/" hreflang="hu"/>
     
       <loc>/tags/grants/</loc>
       <lastmod>2019-10-11T10:16:00+02:00</lastmod>

@@ -11,10 +11,10 @@ time_end = 2019-11-14T13:00:00
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "HAIL and its regional partners are organizing an closed workshop as a side-event of BUSH to discuss the latest market challenges for independent labels in the region. I am going to make the opening presentation and start the discussion."
+abstract = "HAIL and its regional partners are organizing an closed workshop as a side-event of BUSH to discuss the latest market challenges for independent labels in the region. I am going to make the opening presentation and start the discussion. The event is invitation only - if you are not invited, please get in touch with me."
 
 # Name of event and optional event URL.
-event = "Budapest Showcase Hub discussion"
+event = "Budapest Showcase Hub - HAIL Workshop"
 event_url = "https://budapestshowcasehub.com"
 
 # Location of event.

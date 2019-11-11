@@ -7,15 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 20 Sep 2019 10:16:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 10:18:00 +0100</lastBuildDate>
     
 	<atom:link href="/hu/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>labels</title>
+      <link>/hu/tags/labels/</link>
+      <pubDate>Mon, 11 Nov 2019 10:18:00 +0100</pubDate>
+      
+      <guid>/hu/tags/labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEE</title>
+      <link>/hu/tags/see/</link>
+      <pubDate>Mon, 11 Nov 2019 10:18:00 +0100</pubDate>
+      
+      <guid>/hu/tags/see/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value-gap</title>
+      <link>/hu/tags/value-gap/</link>
+      <pubDate>Mon, 11 Nov 2019 10:18:00 +0100</pubDate>
+      
+      <guid>/hu/tags/value-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>concerts</title>
       <link>/hu/tags/concerts/</link>
-      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
       
       <guid>/hu/tags/concerts/</guid>
       <description></description>
@@ -24,16 +51,25 @@
     <item>
       <title>export</title>
       <link>/hu/tags/export/</link>
-      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
       
       <guid>/hu/tags/export/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>grants</title>
+      <link>/hu/tags/grants/</link>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
+      
+      <guid>/hu/tags/grants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>royalties</title>
       <link>/hu/tags/royalties/</link>
-      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
       
       <guid>/hu/tags/royalties/</guid>
       <description></description>
@@ -180,15 +216,6 @@
       <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
       
       <guid>/hu/tags/music-publishing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>value-gap</title>
-      <link>/hu/tags/value-gap/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/hu/tags/value-gap/</guid>
       <description></description>
     </item>
     
