@@ -1,6 +1,6 @@
 ﻿+++
 title = "Building Practical Tools To Plan Better Tours, Record Promotion and Grants. Evidence from 10 countries"
-date = 2019-10-11T10:16:00  
+date = 2019-11-11T10:16:00  
 draft = false
 
 # Talk start and end times.

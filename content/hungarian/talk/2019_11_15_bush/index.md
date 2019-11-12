@@ -1,6 +1,6 @@
-+++
-title = "Central European Music Industry Report: Focus on Granting"
-date = 2019-10-11T10:16:00  
+﻿+++
+title = "Közös analitikai eszközök építése: jobb turnétervezés, belföldi és nemzetközi promóció"
+date = 2019-11-11T10:16:00  
 draft = false
 
 # Talk start and end times.
@@ -11,7 +11,7 @@ time_end = 2019-11-15T13:30:00
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "A review of the Hungarian & Czech grant needs assessments, the role of grants and the granting experience of musicians in the region."
+abstract = "A 2015. évi magyar és a 2019. évi cseh zenei szakemberek igényfelmérése, és 10 országvan végzett kutatási tapasztalatok alapján javasolt kutatási és HR együttműködés."
 
 # Name of event and optional event URL.
 event = "Budapest Showcase Hub discussion"
@@ -54,8 +54,7 @@ math = false
   focal_point = "Center"
 +++
 
-I am going to present the Hungarian results from our regional [Central European Music Industry Report](https://danielantal.eu/post/2019-09-27_cee_report/), and look back on the recommendations 4 years later on .  I will also compare the problems of the Hungarian scene in 2015, 2019 with the current issues in Czechia, Slovakia and Austria.  
+I am going to look back on the needs assessment of [Hungarian music professionals](https://danielantal.eu/talk/2019_10_09_praha/post/2015-11-12_cstp/) in 2015 and [Czechs](https://danielantal.eu/talk/2019_10_09_praha/) in 2019.I will also compare the problems of the Hungarian scene in 2015, 2019 with the current issues in Czechia, Slovakia and Austria.  
 
 I would like to provide an opportunity on BUSH to give personal feedback to the artists and professionals who gave their personal details in our annual CEEMID Music Professional Survey from Hungary, or anywhere else in the region if they make it to BUSH. More details will be sent to your e-mail addresses, provided you have given us one.
-
 
