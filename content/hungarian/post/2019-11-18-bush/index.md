@@ -11,8 +11,7 @@ tags = ["music-industry", "CEEMID", "Hungary", "CEE", "BUSH"]
 
 summary = "A HAIL szervezésében egy nagyon hasznos workshopon vettem részt a Budapest Showcase Hub konferencián.  Másnap koncertszervezőkkel és oktatókkal beszélgettünk az előadásom kapcsán."
 
-# Projects (optional).
-# projects = ["market-report"]
+projects = ["market_report", "music-export"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
