@@ -1,32 +1,32 @@
-﻿+++
-title = "Közös analitikai eszközök építése: jobb turnétervezés, belföldi és nemzetközi promóció"
-date = 2019-11-11T10:16:00  
++++
+title = "Digitáils zeneipar éves szeminárium"
+date = 2019-11-18T10:16:00  
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-11-15T12:00:00
-time_end = 2019-11-15T13:30:00
+time_start = 2019-11-18T12:00:00
+time_end = 2019-11-18T13:30:00
 
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "A 2015. évi magyar és a 2019. évi cseh zenei szakemberek igényfelmérése, és 10 országvan végzett kutatási tapasztalatok alapján javasolt kutatási és HR együttműködés."
+abstract = "Az éves rendszeres szemináriumom a MOKK Digitális zeneipar kurzusán."
 
 # Name of event and optional event URL.
-event = "Budapest Showcase Hub discussion"
-event_url = "https://budapestshowcasehub.com"
+event = "Digitiális zeneipar - éves szeminárium"
+event_url = "https://szoc.bme.hu/hu/home-hu-hu/hallgat%C3%B3knak/tant%C3%A1rgyak/147-digit%C3%A1lis-zeneipar.html"
 
 # Location of event.
 location = "Fészek Klub, Kertész u. 36, 1073 Budapest, Hungary"
 
 # Is this a selected talk? (true/false)
 selected = true
-projects = ["grants"]
+projects = ["CEEMID"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["grants"]
+tags = ["Hungary","music-industry"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -54,7 +54,19 @@ math = false
   focal_point = "Center"
 +++
 
-I am going to look back on the needs assessment of [Hungarian music professionals](https://danielantal.eu/talk/2019_10_09_praha/post/2015-11-12_cstp/) in 2015 and [Czechs](https://danielantal.eu/talk/2019_10_09_praha/) in 2019.I will also compare the problems of the Hungarian scene in 2015, 2019 with the current issues in Czechia, Slovakia and Austria.  
+Olvasnivalók:
 
-I would like to provide an opportunity on BUSH to give personal feedback to the artists and professionals who gave their personal details in our annual CEEMID Music Professional Survey from Hungary, or anywhere else in the region if they make it to BUSH. More details will be sent to your e-mail addresses, provided you have given us one.
+Antal Dániel, 2015. “A Proart zeneipari jelentése. [The Music Industry Report of Proart].” ProArt Szövetség a Szerzői Jogokért Egyesület. http://zeneipar.info/letoltes/proart-zeneipari-jelentes-2015.pdf.
+
+Az Európai Parlament és a Tanács (EU) 2019/790 irányelve (2019. április 17.) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról. 2019. Official Journal of the European Union. https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32019L0790.
+
+
+EYGM. 2014. “Creating Growth – Measuring Cultural and Creative Industries in Europe.” EYGM Limited. http://www.creatingeurope.eu/en/wp-content/uploads/2014/11/study-full-en.pdf.
+
+Haan, Jos de, and Andries van den Broek. 2012. “Nowadays Cultural Participation - an Update of What to Look for and Where to Look for It.” In _ESSnet-CULTURE, European Statistical System Network on Culture. Final Report_, 397–417. Luxembourg. http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf.
+
+Leurdijk, Adnra, and Nieuwenhuis Ottilie. 2012. “Statistical, Ecosystems and Competitiveness Analysis of the Media and Content Industries. The Music Industry.” 25277 EN. Edited by Jean Paul Simon. Luxembourg: Publications Office of the European Union, 2012: Joint Research Centre Institute for Prospective Technological Studies (IPTS). http://ftp.jrc.es/EURdoc/JRC69816.pdf.
+
+Music Venues Trust. 2015. “Understanding Small Music Venues.” Music Venues Trust. https://www.musicvenuetrust.com/wp-content/uploads/2015/03/music_venue_trust_Report_V5-1.pdf.
+
 
