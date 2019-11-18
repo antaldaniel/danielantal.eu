@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-11-18T12:00:00
-time_end = 2019-11-18T13:30:00
+time_start = 2019-11-19T16:15:00
+time_end = 2019-11-19T18:00:00
 
 authors = ["Daniel Antal, CFA"]
 
@@ -18,7 +18,7 @@ event = "Digitiális zeneipar - éves szeminárium"
 event_url = "https://szoc.bme.hu/hu/home-hu-hu/hallgat%C3%B3knak/tant%C3%A1rgyak/147-digit%C3%A1lis-zeneipar.html"
 
 # Location of event.
-location = "Fészek Klub, Kertész u. 36, 1073 Budapest, Hungary"
+location = "BMGE K épület"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -69,4 +69,5 @@ Leurdijk, Adnra, and Nieuwenhuis Ottilie. 2012. “Statistical, Ecosystems and C
 
 Music Venues Trust. 2015. “Understanding Small Music Venues.” Music Venues Trust. https://www.musicvenuetrust.com/wp-content/uploads/2015/03/music_venue_trust_Report_V5-1.pdf.
 
-
+Prezentáció:
+https://danielantal.eu/presentation/digitalis-zeneipar

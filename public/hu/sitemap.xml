@@ -91,6 +91,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/talk/2019_11_19_mokk/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/talk/2019_11_19_mokk/" hreflang="en"/>
+    
+      <loc>/hu/talk/2019_11_19_mokk/</loc>
+      <lastmod>2019-11-18T10:16:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/hu/talk/2019_11_14_hail/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/talk/2019_11_14_hail/" hreflang="en"/>
     
@@ -139,14 +150,6 @@
       <xhtml:link rel="alternate" href="/tags/grants/" hreflang="en"/>
     
       <loc>/hu/tags/grants/</loc>
-      <lastmod>2019-11-11T10:16:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/hu/talk/2019_11_15_bush-copy/</loc>
       <lastmod>2019-11-11T10:16:00+01:00</lastmod>
     </url>
     
