@@ -9,14 +9,9 @@ authors = ["Daniel Antal, CFA"]
 
 tags = ["music-industry", "CEEMID", "Hungary", "CEE", "BUSH"]
 
-summary = "We had a very interesting discussion day on the Budapest Showcase Hub with the regional independent labels in the workshop hosted by HAIL and with some concert promoters and music educators in the main conference program."
+summary = "A HAIL szervezésében egy nagyon hasznos workshopon vettem részt a Budapest Showcase Hub konferencián.  Másnap koncertszervezőkkel és oktatókkal beszélgettünk az előadásom kapcsán."
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 # projects = ["market-report"]
 
 # Featured image
@@ -34,10 +29,10 @@ summary = "We had a very interesting discussion day on the Budapest Showcase Hub
 
 +++
 
-We had a very interesting discussion day on the Budapest Showcase Hub with the regional independent labels in the workshop hosted by HAIL and with some concert promoters and music educators in the main conference program. 
+A HAIL szervezésében egy nagyon hasznos workshopon vettem részt a Budapest Showcase Hub konferencián.  Másnap koncertszervezőkkel és oktatókkal beszélgettünk az előadásom kapcsán.
 
-_You can find the full presentation, including slides not shown in the workshop [here](https://danielantal.eu/presentation/building-BUSH-2019). The presentation is a self-contained big file of 11Mb, takes time to load._
+_A nyilvános előadásom itt található meg [here](https://danielantal.eu/presentation/building-BUSH-2019). A prezentáció összesen közel 11Mb, eltart egy kis ideig amíg a böngésző betölti._
 
-And here you can review the recordings of the great bands and performers who participated in the showcase festival:
+A showcase fesztiválon fellépő kiváló zenekarok felvételeit pedig itt lehet meghallgatni:
 
 <iframe src="https://open.spotify.com/embed/playlist/4DHRVFk6U3pQzYE0I2lpJT" width="680" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

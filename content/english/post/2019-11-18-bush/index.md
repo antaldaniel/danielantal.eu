@@ -11,13 +11,7 @@ tags = ["music-industry", "CEEMID", "Hungary", "CEE", "BUSH"]
 
 summary = "We had a very interesting discussion day on the Budapest Showcase Hub with the regional independent labels in the workshop hosted by HAIL and with some concert promoters and music educators in the main conference program."
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["market-report"]
+projects = ["market_report", "music-export"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
