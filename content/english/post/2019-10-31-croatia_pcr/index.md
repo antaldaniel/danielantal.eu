@@ -12,12 +12,8 @@ tags = ["music-industry", "CEEMID", "Croatia", "pricing", "PCR", "value-gap"]
 summary = "My study, Private Copying in Croatia, argues for an overhaul of the Croatian private copying remuneration scheme and gives some empirical evidence for the transposition of the DSM Directive. Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century."
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["market-report"]
+
+projects = ["market_report", "pricing"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -36,7 +32,7 @@ summary = "My study, Private Copying in Croatia, argues for an overhaul of the C
 
 After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.
 
-_You can find the whole study in English, a Croatian language summary and a press release in the [Publications](https://danielantal.eu/publication/private_copying_croatia_2019/) section._
+You can find the whole study in English, a Croatian language summary and a press release in the [Publications](https://danielantal.eu/publication/private_copying_croatia_2019/) section.
 
 The models presented are simplified models of the Hungarian and Slovak models, with less detailed data. However, they show clearly that in less developed markets, compensation for unlicensed use remains a key issue. Only a very small fraction of households pay for music and film, and creators, performers, film writers are massively undercompensated in the Croatia, Bulgaria, Romania, Poland or the Baltic states of the EU.
 
