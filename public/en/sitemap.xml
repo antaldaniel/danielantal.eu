@@ -3,6 +3,25 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+    
+      <loc>/</loc>
+      <lastmod>2019-12-05T09:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/usecase/music_industry_mapping/</loc>
+      <lastmod>2019-12-05T09:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/post/2019-11-18-bush/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/post/2019-11-18-bush/" hreflang="hu"/>
     
@@ -40,17 +59,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
     
       <loc>/tags/ceemid/</loc>
-      <lastmod>2019-11-18T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-    
-      <loc>/</loc>
       <lastmod>2019-11-18T16:00:00+01:00</lastmod>
     </url>
     
