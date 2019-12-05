@@ -20,6 +20,8 @@ In this section I will give a few examples of how I work.  Please review my appr
 
 * [Royalty Setting](/usecase/royalty_setting/) including private copying remuneration and value transfer calculations;
 
+* [Mapping the Music Industry](/usecase/music_industry_mapping/) such as re-use of public sector information and big data sources.
+
 * [Economic Impact Assessments](/usecase/impact/) including private copying remuneration and value transfer calculations;
 
 * [Surveys](/usecase/musicians/) about cultural access and participation and about creating value and jobs in the music and film sector;
