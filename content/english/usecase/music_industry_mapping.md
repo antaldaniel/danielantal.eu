@@ -9,9 +9,9 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Tariff Setting"
+linktitle = "Mapping the Music Industry"
 [menu.usecase]
-  parent = "Royalty Setting"
+  parent = "Economic Impact Assessment"
   weight = 1
 +++
 
