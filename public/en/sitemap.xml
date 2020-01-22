@@ -25,6 +25,14 @@
     
     <url>
     
+      <loc>/tags/ceemid-observatory/</loc>
+      <lastmod>2020-01-22T14:16:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/2020_01_29_flip/</loc>
       <lastmod>2020-01-22T14:16:00+01:00</lastmod>
     </url>
@@ -44,10 +52,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
-    
-      <loc>/tags/music-industry/</loc>
+      <loc>/tags/european-music-observatory/</loc>
       <lastmod>2020-01-22T14:16:00+01:00</lastmod>
     </url>
     
@@ -55,7 +60,10 @@
     
     <url>
     
-      <loc>/tags/observatory/</loc>
+      <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
+    
+      <loc>/tags/music-industry/</loc>
       <lastmod>2020-01-22T14:16:00+01:00</lastmod>
     </url>
     

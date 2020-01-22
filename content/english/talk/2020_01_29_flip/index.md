@@ -25,7 +25,7 @@ selected = true
 projects = ["CEEMID"]
 
 # Tags (optional).
-tags = ["CEE","music-industry", "CEEMID", "Observatory"]
+tags = ["CEE","music-industry", "CEEMID", "CEEMID Observatory", "European Music Observatory", "value-gap", "PCR", "export", "pricing"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
