@@ -49,11 +49,47 @@
     </item>
     
     <item>
+      <title>export</title>
+      <link>/tags/export/</link>
+      <pubDate>Wed, 22 Jan 2020 14:16:00 +0100</pubDate>
+      
+      <guid>/tags/export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>music-industry</title>
       <link>/tags/music-industry/</link>
       <pubDate>Wed, 22 Jan 2020 14:16:00 +0100</pubDate>
       
       <guid>/tags/music-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCR</title>
+      <link>/tags/pcr/</link>
+      <pubDate>Wed, 22 Jan 2020 14:16:00 +0100</pubDate>
+      
+      <guid>/tags/pcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pricing</title>
+      <link>/tags/pricing/</link>
+      <pubDate>Wed, 22 Jan 2020 14:16:00 +0100</pubDate>
+      
+      <guid>/tags/pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value-gap</title>
+      <link>/tags/value-gap/</link>
+      <pubDate>Wed, 22 Jan 2020 14:16:00 +0100</pubDate>
+      
+      <guid>/tags/value-gap/</guid>
       <description></description>
     </item>
     
@@ -94,15 +130,6 @@
     </item>
     
     <item>
-      <title>value-gap</title>
-      <link>/tags/value-gap/</link>
-      <pubDate>Mon, 11 Nov 2019 10:18:00 +0100</pubDate>
-      
-      <guid>/tags/value-gap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ex ante</title>
       <link>/tags/ex-ante/</link>
       <pubDate>Mon, 11 Nov 2019 10:16:00 +0100</pubDate>
@@ -117,15 +144,6 @@
       <pubDate>Mon, 11 Nov 2019 10:16:00 +0100</pubDate>
       
       <guid>/tags/grants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pricing</title>
-      <link>/tags/pricing/</link>
-      <pubDate>Mon, 11 Nov 2019 10:16:00 +0100</pubDate>
-      
-      <guid>/tags/pricing/</guid>
       <description></description>
     </item>
     
@@ -157,15 +175,6 @@
     </item>
     
     <item>
-      <title>PCR</title>
-      <link>/tags/pcr/</link>
-      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      
-      <guid>/tags/pcr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>private-copying</title>
       <link>/tags/private-copying/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
@@ -189,15 +198,6 @@
       <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
       
       <guid>/tags/concerts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>export</title>
-      <link>/tags/export/</link>
-      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
-      
-      <guid>/tags/export/</guid>
       <description></description>
     </item>
     
