@@ -53,7 +53,7 @@ math = false
   focal_point = "Center"
 +++
 
-CEEMID & Consolidated Independent will present to the audience the _Central European Music Industry Report 2020_  on the [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
+CEEMID & Consolidated Independent will present to the audience the _Central European Music Industry Report 2020_ (will be availale in all formats on the presentation day) on the [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
 
 Creative FLIP stands for Finance, Learning, Innovation and Patenting is a Pilot project co-funded by the EU whose main objective is to support healthy and sustainable ecosystems for Cultural and Creative Industries (CCIs) with respect to these four key policy areas.
 
