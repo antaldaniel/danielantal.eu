@@ -14,6 +14,39 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/armenia/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/armenia/" hreflang="hu"/>
+    
+      <loc>/tags/armenia/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/austria/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/austria/" hreflang="hu"/>
+    
+      <loc>/tags/austria/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/bulgaria/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/bulgaria/" hreflang="hu"/>
+    
+      <loc>/tags/bulgaria/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2020-01-30-ceereport/</loc>
       <lastmod>2020-01-29T16:00:00+01:00</lastmod>
     </url>
@@ -33,10 +66,43 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/czechia/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/czechia/" hreflang="hu"/>
+    
+      <loc>/tags/czechia/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
     
       <loc>/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/hungary/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/hungary/" hreflang="hu"/>
+    
+      <loc>/tags/hungary/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/lithuania/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/lithuania/" hreflang="hu"/>
+    
+      <loc>/tags/lithuania/</loc>
       <lastmod>2020-01-29T16:00:00+01:00</lastmod>
     </url>
     
@@ -70,6 +136,28 @@
       <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
     
       <loc>/publication_types/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/serbia/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/serbia/" hreflang="hu"/>
+    
+      <loc>/tags/serbia/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/slovakia/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/slovakia/" hreflang="hu"/>
+    
+      <loc>/tags/slovakia/</loc>
       <lastmod>2020-01-29T16:00:00+01:00</lastmod>
     </url>
     
@@ -208,17 +296,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/hungary/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/hungary/" hreflang="hu"/>
-    
-      <loc>/tags/hungary/</loc>
-      <lastmod>2019-11-18T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/talk/2019_11_19_mokk/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/talk/2019_11_19_mokk/" hreflang="hu"/>
     
@@ -294,17 +371,6 @@
     <url>
     
       <loc>/post/2019-11-09-nouvelle-prague/</loc>
-      <lastmod>2019-11-09T11:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/czechia/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/czechia/" hreflang="hu"/>
-    
-      <loc>/tags/czechia/</loc>
       <lastmod>2019-11-09T11:00:00+01:00</lastmod>
     </url>
     
@@ -651,17 +717,6 @@
     
       <loc>/publication/slovak_music_industry_2019/</loc>
       <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/slovakia/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/slovakia/" hreflang="hu"/>
-    
-      <loc>/tags/slovakia/</loc>
-      <lastmod>2019-05-05T19:00:00+02:00</lastmod>
     </url>
     
   

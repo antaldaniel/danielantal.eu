@@ -25,6 +25,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/tags/armenia/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/armenia/" hreflang="en"/>
+    
       <loc>/hu/tags/armenia/</loc>
       <lastmod>2020-01-29T16:00:00+01:00</lastmod>
     </url>
@@ -33,6 +36,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/tags/austria/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/austria/" hreflang="en"/>
+    
       <loc>/hu/tags/austria/</loc>
       <lastmod>2020-01-29T16:00:00+01:00</lastmod>
     </url>
@@ -40,6 +46,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/bulgaria/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/bulgaria/" hreflang="en"/>
     
       <loc>/hu/tags/bulgaria/</loc>
       <lastmod>2020-01-29T16:00:00+01:00</lastmod>
@@ -82,6 +91,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/tags/lithuania/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/lithuania/" hreflang="en"/>
+    
       <loc>/hu/tags/lithuania/</loc>
       <lastmod>2020-01-29T16:00:00+01:00</lastmod>
     </url>
@@ -122,6 +134,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/serbia/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/serbia/" hreflang="en"/>
     
       <loc>/hu/tags/serbia/</loc>
       <lastmod>2020-01-29T16:00:00+01:00</lastmod>
