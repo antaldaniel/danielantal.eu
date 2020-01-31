@@ -30,7 +30,7 @@ projects = ["market-report"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "Hungary", "Slovakia", "Czechia", "Austria", "Bulgaria", "Lithuania", "Serbia", "Slovenia", "Armenia", music-industry"]
+tags = ["market-report", "Hungary", "Slovakia", "Czechia", "Austria", "Bulgaria", "Lithuania", "Serbia", "Slovenia", "Armenia", "music-industry"]
 
 # Links (optional).
 url_pdf = "http://ceereport2020.ceemid.eu/CEE_Report.pdf"

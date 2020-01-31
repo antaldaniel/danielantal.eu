@@ -19,7 +19,7 @@ abstract_short = "The results of the first Hungarian, Slovak, Croatian and Czech
 selected = true
 
 # Projects (optional).
-tags = ["market-report", "Hungary", "Slovakia", "Czechia", "Austria", "Bulgaria", "Lithuania", "Serbia", "Slovenia", "Armenia", music-industry"]
+tags = ["market-report", "Hungary", "Slovakia", "Czechia", "Austria", "Bulgaria", "Lithuania", "Serbia", "Slovenia", "Armenia", "music-industry"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
