@@ -62,7 +62,7 @@ math = false
   focal_point = ""
 +++
 
-CEEMID és a  Consolidated Independent bemutatta és az európai érdekeltekkel megvitatta az első _Közép- és kelet-európai Zeneipari jelentést_, mint a nemzeti (magyar, szlovák, cseh) és nemzetközi összehasonlító, tényalapú kulturális- és kreatívipari közpolitika alkotás egy esettanulmányát. Az eseménynek az Európai Bizottság és a Geothe Intézet társszervezésében megrendezett [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) adott helyszínt.
+CEEMID és a  Consolidated Independent bemutatta és az európai érdekeltekkel megvitatta az első [Közép- és kelet-európai Zeneipari jelentést](https://danielantal.eu/publication/ceereport_2020/), mint a nemzeti (magyar, szlovák, cseh) és nemzetközi összehasonlító, tényalapú kulturális- és kreatívipari közpolitika alkotás egy esettanulmányát. Az eseménynek az Európai Bizottság és a Geothe Intézet társszervezésében megrendezett [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) adott helyszínt.
 
 A kutatási eredményeinket korábban bemutattuk és megvitattuk a regionális érintettekkel Bécsben, Prágában, Budapesten és Pozsonyban.  
 A vontakozó korábbi prezentációk a [blog](#posts) szekcióban találhatók meg. 
