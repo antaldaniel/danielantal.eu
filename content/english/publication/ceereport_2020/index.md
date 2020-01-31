@@ -19,7 +19,7 @@ abstract_short = "The results of the first Hungarian, Slovak, Croatian and Czech
 selected = true
 
 # Projects (optional).
-tags = ["market-report", "Hungary", "Slovakia", "Czechia", "Austria", "Bulgaria", "Lithuania", "Serbia", "Slovenia", "Armenia", "music-industry"]
+projects = ["market_report", "music-export"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -28,9 +28,6 @@ tags = ["market-report", "Hungary", "Slovakia", "Czechia", "Austria", "Bulgaria"
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
-
-# Tags (optional).
-tags = ["market-report", "Slovakia", "music-industry"]
 
 # Links (optional).
 url_pdf = "http://ceereport2020.ceemid.eu/CEE_Report.pdf"

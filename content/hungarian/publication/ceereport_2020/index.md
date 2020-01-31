@@ -19,7 +19,7 @@ abstract_short = "Az első magyar, szlovák, horvát és cseh zeneipari jelenté
 selected = true
 
 # Projects (optional).
-projects = ["market-report"]
+projects = ["market_report", "music-export"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -29,8 +29,7 @@ projects = ["market-report"]
 #   Otherwise, set `slides = ""`.
 slides = ""
 
-# Tags (optional).
-tags = ["market-report", "Hungary", "Slovakia", "Czechia", "Austria", "Bulgaria", "Lithuania", "Serbia", "Slovenia", "Armenia", "music-industry"]
+tags = ["market-report", "music-industry", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
 
 # Links (optional).
 url_pdf = "http://ceereport2020.ceemid.eu/CEE_Report.pdf"

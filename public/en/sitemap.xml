@@ -3,6 +3,91 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication_types/4/" hreflang="hu"/>
+    
+      <loc>/publication_types/4/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/2020-01-30-ceereport/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/ceereport_2020/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication/ceereport_2020/" hreflang="hu"/>
+    
+      <loc>/publication/ceereport_2020/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+    
+      <loc>/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/market-report/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/market-report/" hreflang="hu"/>
+    
+      <loc>/tags/market-report/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
+    
+      <loc>/tags/music-industry/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tags/cee/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/tags/cee/" hreflang="hu"/>
     
@@ -41,17 +126,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-    
-      <loc>/</loc>
-      <lastmod>2020-01-22T14:16:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/european-music-observatory/</loc>
       <lastmod>2020-01-22T14:16:00+01:00</lastmod>
     </url>
@@ -64,17 +138,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/export/" hreflang="hu"/>
     
       <loc>/tags/export/</loc>
-      <lastmod>2020-01-22T14:16:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
-    
-      <loc>/tags/music-industry/</loc>
       <lastmod>2020-01-22T14:16:00+01:00</lastmod>
     </url>
     
@@ -97,17 +160,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/pricing/" hreflang="hu"/>
     
       <loc>/tags/pricing/</loc>
-      <lastmod>2020-01-22T14:16:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-    
-      <loc>/tags/</loc>
       <lastmod>2020-01-22T14:16:00+01:00</lastmod>
     </url>
     
@@ -249,19 +301,11 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/czechia/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/czechia/" hreflang="hu"/>
+    
       <loc>/tags/czechia/</loc>
       <lastmod>2019-11-09T11:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/publication_types/4/" hreflang="hu"/>
-    
-      <loc>/publication_types/4/</loc>
-      <lastmod>2019-10-31T12:00:00+01:00</lastmod>
     </url>
     
   
@@ -272,17 +316,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/croatia/" hreflang="hu"/>
     
       <loc>/tags/croatia/</loc>
-      <lastmod>2019-10-31T12:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/market-report/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/market-report/" hreflang="hu"/>
-    
-      <loc>/tags/market-report/</loc>
       <lastmod>2019-10-31T12:00:00+01:00</lastmod>
     </url>
     
@@ -310,17 +343,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/private-copying/" hreflang="hu"/>
     
       <loc>/tags/private-copying/</loc>
-      <lastmod>2019-10-31T12:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
-    
-      <loc>/publication_types/</loc>
       <lastmod>2019-10-31T12:00:00+01:00</lastmod>
     </url>
     
