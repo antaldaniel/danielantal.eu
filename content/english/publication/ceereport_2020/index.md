@@ -21,6 +21,8 @@ selected = true
 # Projects (optional).
 projects = ["market_report", "music-export"]
 
+tags = ["market-report", "music-industry", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
+
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
