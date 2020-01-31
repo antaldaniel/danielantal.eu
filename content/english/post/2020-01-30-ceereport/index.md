@@ -33,3 +33,5 @@ CEEMID & Consolidated Independent presented and discussed with stakeholders the 
 The CEE Report builds on the results of the first [Hungarian](https://danielantal.eu/publication/hungary_music_industry_2014/), [Slovak](https://danielantal.eu/publication/slovak_music_industry_2019/), [Croatian](https://danielantal.eu/publication/private_copying_croatia_2019/) and [Czech](http://czdev.ceemid.eu/) music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings. 
 
 Our research findings were earlier presented and discussed in [Vienna](https://danielantal.eu/post/2019-09-27_cee_report/), [Prague](https://danielantal.eu/post/2019-11-09-nouvelle-prague/), [Budapest](https://danielantal.eu/post/2019-11-18-bush/) and [Bratislava](https://danielantal.eu/talk/slovak_report19/) with stakeholders.
+
+You can follow Creative FLIP project on [Twitter](https://twitter.com/creativeflip_eu?lang=en). 
