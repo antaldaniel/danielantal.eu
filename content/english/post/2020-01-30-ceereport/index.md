@@ -9,7 +9,7 @@ authors = ["Daniel Antal, CFA"]
 
 tags = ["market-report", "music-industry", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
 
-summary = "CEEMID & Consolidated Independent presented and discussed with stakeholders the  Central & Eastern European Music Industry Report 2020 as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project."
+summary = "The Central & Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector."
 
 projects = ["market_report", "music-export"]
 
