@@ -37,7 +37,7 @@ This blog post is an edited version of my presentation and the subsequent panel 
 
 The CEE Report builds on the results of the first [Hungarian](https://danielantal.eu/publication/hungary_music_industry_2014/), [Slovak](https://danielantal.eu/publication/slovak_music_industry_2019/), [Croatian](https://danielantal.eu/publication/private_copying_croatia_2019/) and [Czech](http://czdev.ceemid.eu/) music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings. 
 
-![Central & Eastern European Music Industry Report 2020](/img/publications/cee_report_2020_frontcover)
+![Central & Eastern European Music Industry Report 2020](/img/publications/cee_report_2020_frontcover.jpg)
 
 ## Invisibility 
 
