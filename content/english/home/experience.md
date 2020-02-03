@@ -20,6 +20,17 @@ date_format = "2006-01-02"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Member of Cultural Policy Designers Network"
+  company = "Cultural Policy Designers Network"
+  company_url = "http://culturaldesigners.eu/en"
+  location = "Den Haag, Netherlands"
+  date_start = "2020-02-03"
+  date_end = ""
+  description = """
+  I became a member of the Cultural Policy Designers Network, which provide a collaborative platform for high quality advice, strategic planning and project implementation in the cultural and creative sectors alongside local and international policy-makers and all other interested stakeholders. I hope that I bring a unique angle with intellectual policy valuation, survey- and large dataset-based data science into this platform. 
+  
+   """
+[[experience]]
   title = "Senior management consultant and data scientist"
   company = "CEEMID / Visegrad Investments"
   company_url = ""

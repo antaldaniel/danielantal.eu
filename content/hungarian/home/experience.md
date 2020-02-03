@@ -20,6 +20,17 @@ date_format = "2006-01-02"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "A Cultural Policy Designers Network tagja"
+  company = "Cultural Policy Designers Network"
+  company_url = "http://culturaldesigners.eu/en"
+  location = ""
+  date_start = "2020-02-03"
+  date_end = ""
+  description = """
+  Tag lettem a Cultural Policy Designers Network kollaboratív platformon, amelynek célja a magas színvonalú tanácsadás, stratégiai tervezés és projekt implementáció megvalósítása a kreatív és kulturális szektorban.  A hálózat tagja aktívan közreműködnek a nemzetközi, elsősorban európai közpolitikai-alkotásban is.  Azt remélem, hogy a vállalatértékelési, immateriális eszközértékelési és a adattudományon alapuló módszereim új színt hoznak ebbe az együttműködésbe.
+  
+   """
+[[experience]]
   title = "Senior management consultant and data scientist"
   company = "CEEMID / Visegrad Investments"
   company_url = ""
