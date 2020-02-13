@@ -3,11 +3,60 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/ceemid/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
+    
+      <loc>/tags/ceemid/</loc>
+      <lastmod>2020-02-13T12:30:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
     
       <loc>/</loc>
-      <lastmod>2020-02-13T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-13T12:30:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/market-report/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/market-report/" hreflang="hu"/>
+    
+      <loc>/tags/market-report/</loc>
+      <lastmod>2020-02-13T12:30:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/2020-02-13-regional_eurostat/</loc>
+      <lastmod>2020-02-13T12:30:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ropengov/</loc>
+      <lastmod>2020-02-13T12:30:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-02-13T12:30:00+01:00</lastmod>
     </url>
     
   
@@ -34,17 +83,6 @@
       <xhtml:link rel="alternate" href="/hu/project/" hreflang="hu"/>
     
       <loc>/project/</loc>
-      <lastmod>2020-02-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-    
-      <loc>/tags/</loc>
       <lastmod>2020-02-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -104,17 +142,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/ceemid/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
-    
-      <loc>/tags/ceemid/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/publication/ceereport_2020/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/publication/ceereport_2020/" hreflang="hu"/>
     
@@ -159,17 +186,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/market-report/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/market-report/" hreflang="hu"/>
-    
-      <loc>/tags/market-report/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
     
@@ -189,26 +205,10 @@
     
     <url>
     
-      <loc>/post/2020-02-13-regional_eurostat/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
     
       <loc>/publication_types/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ropengov/</loc>
       <lastmod>2020-01-29T16:00:00+01:00</lastmod>
     </url>
     
