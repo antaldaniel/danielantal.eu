@@ -1,8 +1,8 @@
 +++
 title = "Programatic Approach To Work With European Regional Data Panels"
 
-date = 2020-01-29T16:00:00
-lastmod = 2020-01-29T16:00:00
+date = 2020-02-13T12:30:00
+lastmod = 2020-02-13T12:30:00
 draft = false
 
 authors = ["Daniel Antal, CFA"]
