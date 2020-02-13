@@ -442,9 +442,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/project/market_report/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/project/market_report/" hreflang="en"/>
-    
       <loc>/hu/project/market_report/</loc>
       <lastmod>2019-01-02T00:00:00+01:00</lastmod>
     </url>

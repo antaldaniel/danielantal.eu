@@ -5,10 +5,9 @@ date = 2019-01-04T19:00:00
 lastmod = 2019-01-04T19:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Antal"]
 
-tags = ["economic-impact", "R", "multipliers"]
+tags = ["economic-impact", "R", "multipliers", "open-data"]
 
 summary = "The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors. The package creates a programmatic interface to compare economic impact changes in time, or compare any country with any country in the European Union."
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opendata on Daniel Antal, CFA</title>
+    <link>/tags/opendata/</link>
+    <description>Recent content in opendata on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/opendata/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CCS Ecosystems: Evidence-Driven CCI Policy &amp; The Central &amp; Eastern European Music Industry Report</title>
+      <link>/post/2020-01-30-ceereport/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      
+      <guid>/post/2020-01-30-ceereport/</guid>
+      <description>The Central &amp;amp; Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector.</description>
+    </item>
+    
+  </channel>
+</rss>

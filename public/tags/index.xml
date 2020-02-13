@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>open-data</title>
+      <link>/tags/open-data/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/open-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Armenia</title>
@@ -36,6 +45,15 @@
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
       
       <guid>/tags/bulgaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEEMID</title>
+      <link>/tags/ceemid/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      
+      <guid>/tags/ceemid/</guid>
       <description></description>
     </item>
     
@@ -85,6 +103,24 @@
     </item>
     
     <item>
+      <title>opendata</title>
+      <link>/tags/opendata/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      
+      <guid>/tags/opendata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rOpenGov</title>
+      <link>/tags/ropengov/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      
+      <guid>/tags/ropengov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Serbia</title>
       <link>/tags/serbia/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
@@ -108,15 +144,6 @@
       <pubDate>Wed, 22 Jan 2020 14:16:00 +0100</pubDate>
       
       <guid>/tags/cee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CEEMID</title>
-      <link>/tags/ceemid/</link>
-      <pubDate>Wed, 22 Jan 2020 14:16:00 +0100</pubDate>
-      
-      <guid>/tags/ceemid/</guid>
       <description></description>
     </item>
     

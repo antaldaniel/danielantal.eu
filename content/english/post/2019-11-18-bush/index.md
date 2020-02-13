@@ -11,7 +11,7 @@ tags = ["music-industry", "CEEMID", "Hungary", "CEE", "BUSH"]
 
 summary = "We had a very interesting discussion day on the Budapest Showcase Hub with the regional independent labels in the workshop hosted by HAIL and with some concert promoters and music educators in the main conference program."
 
-projects = ["market_report", "music-export"]
+projects = ["market-report", "music-export"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

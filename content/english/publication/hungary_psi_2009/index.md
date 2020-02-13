@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Antal", "Rita Kiss"]
 
-tags = ["market-size", "data", "psi", "Hungary", "pricing"]
+tags = ["market-size", "data", "psi", "Hungary", "pricing", "open-data"]
 
 summary = "A localization of the measuring European Public Sector Information resources for Hungary in the fields of Business information, geographic information, legal information, meteorological information, social data and transport information. Market sizing, service levels, pricing."
 

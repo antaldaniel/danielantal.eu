@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-data on Daniel Antal, CFA</title>
+    <link>/tags/open-data/</link>
+    <description>Recent content in open-data on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenData</title>
+      <link>/project/opendata/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/project/opendata/</guid>
+      <description>Market sizing, research and forecasting reports.</description>
+    </item>
+    
+    <item>
+      <title>My economic impact package, iotables, has a much updated released on CRAN</title>
+      <link>/post/2019-01-04_iotables_released/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/post/2019-01-04_iotables_released/</guid>
+      <description>The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors. The package creates a programmatic interface to compare economic impact changes in time, or compare any country with any country in the European Union.</description>
+    </item>
+    
+    <item>
+      <title>Market size of the re-usable public sector information in Hungary</title>
+      <link>/publication/hungary_psi_2009/</link>
+      <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
+      
+      <guid>/publication/hungary_psi_2009/</guid>
+      <description>A localization of the measuring European Public Sector Information resources for Hungary in the fields of Business information, geographic information, legal information, meteorological information, social data and transport information. Market sizing, service levels, pricing.</description>
+    </item>
+    
+  </channel>
+</rss>

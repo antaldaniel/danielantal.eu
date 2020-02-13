@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 22 Jan 2020 14:16:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/ceemid/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programatic Approach To Work With European Regional Data Panels</title>
+      <link>/post/2020-02-13-regional_eurostat/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      
+      <guid>/post/2020-02-13-regional_eurostat/</guid>
+      <description>My open source program code was released within the 3.6.1 version of eurostat R package, making the painful boundary alignment with frequent region border changes, and resulting data imputation work automatic and less error-prone. As a result, more and more of my work, and particularly the music indicators of CEEMID are becoming available on provincial/regional level.</description>
+    </item>
     
     <item>
       <title>Central European Music Industry Report 2020</title>
