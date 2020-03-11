@@ -51,5 +51,7 @@ The combination of technical and artistic roles is also very frequent, and a siz
 Our research was not designed to identify new ESCO groups, but we believe that our data is very well suited for this. Interestingly, much of our research arrived at occupational groupings from a learning needs assessment or educational needs assessment perspective, which we believe to be very problematic in both the music and film industry.  Almost all creative industry professionals in the music and film industry work in microenterprises, a small minority in small enterprises, and only a very few people in medium-sized enterprises.  Micro-enterprises and small enterprises usually have no strategic HR functions, do not perform learning needs, do not offer in-house training, and do not have the ability to send workers to any regular formal training.  This leads to a very wasteful human resources management, because there is a huge workforce surplus present, but at the same time, because of skills shortages, key workers are extremely overworked, and generally there is a huge structural workforce shortage present.
 
 **Further reading:**
+
 * [ESCO handbook - European Skills, Competences,
 Qualifications and Occupations](https://ec.europa.eu/esco/portal/document/en/0a89839c-098d-4e34-846c-54cbd5684d24)
+* [Central Euorpean Music Industry Report 2020](http://ceereport2020.ceemid.eu/)
