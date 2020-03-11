@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["creative work", "CEEMID", "ESCO"]
+tags = ["creative work", "CEEMID", "ESCO", "CCI"]
 
 summary = "My open source program code was released within the 3.6.1 version of eurostat R package, making the painful boundary alignment with frequent region border changes, and resulting data imputation work automatic and less error-prone. As a result, more and more of my work, and particularly the music indicators of CEEMID are becoming available on provincial/regional level."
 
