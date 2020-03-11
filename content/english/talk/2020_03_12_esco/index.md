@@ -11,7 +11,7 @@ time_end = 2020-03-29T15:30:00
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "CEEMID has a large enough answer pool for an empirical clustering of occupations in terms of economic activity and work output, therefore I will participate in the ESCO Focus Group on CCI Occupations and Skills."
+abstract = "CEEMID has a large enough answer pool for an empirical clustering of occupations in terms of economic activity and work output, that is why I was invited to the ESCO Focus Group on CCI Occupations and Skills."
 
 # Name of event and optional event URL.
 event = "ESCO Focus group on Cultural and Creative Occupations and Skills"
