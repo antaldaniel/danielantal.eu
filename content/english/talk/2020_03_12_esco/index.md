@@ -14,8 +14,8 @@ authors = ["Daniel Antal, CFA"]
 abstract = "CEEMID has a large enough answer pool for an empirical clustering of occupations in terms of economic activity and work output, therefore I will participate in the ESCO Focus Group on CCI Occupations and Skills."
 
 # Name of event and optional event URL.
-event = "CCS Ecosystems: FLIPPING THE ODDS"
-event_url = "http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/"
+event = "ESCO Focus group on Cultural and Creative Occupations and Skills"
+event_url = "http://creativeflip.creativehubs.net/"
 
 # Location of event
 location = "Goethe-Institut Brussels, Avenue des Arts 58, 1000 Brussels, Belgium"
@@ -46,7 +46,7 @@ math = false
 
 # Featured image
 [image]
-  caption = "Central European Music Industry Report 2020"
+  caption = "Grouping of economic activities and jobs in typical music occupations"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
