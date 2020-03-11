@@ -11,7 +11,7 @@ time_end = 2020-03-29T15:30:00
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "We will present to the audience the Central European Music Industry Report 2020 on the CCS Ecosystems: FLIPPING THE ODDS” Conference – a two-day high-level stakeholder event jointly organized with the European Commission, DG Education and Culture."
+abstract = "CEEMID has a large enough answer pool for an empirical clustering of occupations in terms of economic activity and work output, therefore I will participate in the ESCO Focus Group on CCI Occupations and Skills."
 
 # Name of event and optional event URL.
 event = "CCS Ecosystems: FLIPPING THE ODDS"
@@ -55,4 +55,4 @@ math = false
 
 I will be participating in the __ESCO Focus group on Cultural and Creative Occupations and Skills__ of the [Creative FLIP](https://creativeflip.creativehubs.net/) project. 
 
-CEEMID has a large enough answer pool for an empirical clustering of occupations. We are able to perform clustering of job descriptions, earnings, educational levels, and work output (such as films, documentaries, TV programmes, live music performances, music compositions, etc) to empirically create groups with a “set of jobs whose main tasks and duties are characterised by a high degree of similarity” in terms of economic activity and work output. Furthre details in the [blog post here](/post/2020-03-11-esco/).
+CEEMID has a large enough answer pool for an empirical clustering of occupations. We are able to perform clustering of job descriptions, earnings, educational levels, and work output (such as films, documentaries, TV programmes, live music performances, music compositions, etc) to empirically create groups with a “set of jobs whose main tasks and duties are characterised by a high degree of similarity” in terms of economic activity and work output. Further details in the [blog post here](/post/2020-03-11-esco/).
