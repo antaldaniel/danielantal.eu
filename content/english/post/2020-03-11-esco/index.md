@@ -42,7 +42,7 @@ We have a large enough answer pool — sometimes proven to be representative of 
 
 It is a well-known fact that creative economic activities require complex mapping because freelancer, micro- and small enterprises are mixing heterogenous activities that are stretching across various economic activity (NACE) classes and ESCO occupational groups. 
 
-![Mixed Career Routes: Primary And Secondary Roles](/img/ceemid/rolepairs-ceereport-3-2.jpg)
+![Mixed Career Routes: Primary And Secondary Roles](/img/ceemid/rolepairs-ceereport-3-2.png)
 
 Empirically, we see that creative people are usually combining various artistic roles.(The chart above is taken from the [3.2 chapter](http://ceereport2020.ceemid.eu/supply.html#creators-of-music) of the Central European Music Industry Report) 
 
