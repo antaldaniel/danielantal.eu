@@ -1,9 +1,12 @@
 +++
-title = "ESCO"
+title = "An Empirical Approach To Modernizing The Cultural and Creative Occupations and Skills Classifications"
 
 date = 2020-03-11T12:30:00
 lastmod = 2020-03-11T12:30:00
 draft = false
+
+
+ESCO FOCUS GROUP on 
 
 authors = ["Daniel Antal, CFA"]
 
