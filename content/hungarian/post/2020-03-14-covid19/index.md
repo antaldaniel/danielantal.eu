@@ -1,8 +1,8 @@
 +++
 title = "A járvány megrengeti a kreatív iparágakat"
 
-date = 2020-03-19T18:30:00
-lastmod = 2020-03-20T10:30:00
+date = 2020-03-18T18:30:00
+lastmod = 2020-03-19T10:30:00
 draft = false
 
 authors = ["Daniel Antal, CFA"]
