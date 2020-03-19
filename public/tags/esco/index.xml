@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ESCO on Daniel Antal, CFA</title>
@@ -7,18 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 11 Mar 2020 12:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 14:16:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/esco/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ESCO</title>
+      <title>ESCO Focus Group on CCI Occupations and Skills</title>
+      <link>/talk/2020_03_12_esco/</link>
+      <pubDate>Wed, 11 Mar 2020 14:16:00 +0100</pubDate>
+      
+      <guid>/talk/2020_03_12_esco/</guid>
+      <description>I will be participating in the ESCO Focus group on Cultural and Creative Occupations and Skills of the Creative FLIP project.
+CEEMID has a large enough answer pool for an empirical clustering of occupations. We are able to perform clustering of job descriptions, earnings, educational levels, and work output (such as films, documentaries, TV programmes, live music performances, music compositions, etc) to empirically create groups with a “set of jobs whose main tasks and duties are characterised by a high degree of similarity” in terms of economic activity and work output.</description>
+    </item>
+    
+    <item>
+      <title>An Empirical Approach To Modernizing The Cultural and Creative Occupations and Skills Classifications</title>
       <link>/post/2020-03-11-esco/</link>
       <pubDate>Wed, 11 Mar 2020 12:30:00 +0100</pubDate>
       
       <guid>/post/2020-03-11-esco/</guid>
-      <description>My open source program code was released within the 3.6.1 version of eurostat R package, making the painful boundary alignment with frequent region border changes, and resulting data imputation work automatic and less error-prone. As a result, more and more of my work, and particularly the music indicators of CEEMID are becoming available on provincial/regional level.</description>
+      <description>CEEMID has been conducting surveys among music and film professionals for 6 years. So far, about 5000 music and 1500 film professionals filled out our detailed questionnaire about their working conditions, skills, tasks. Some of our surveys were related to training needs assessments, and other professional growth assessments.
+The ESCO system builds on occupations, skills and qualifications. Our general experience is that in the music and film industry, because of the lack of life-long learning opportunities, the absence of large employers, low level of unionization, and generally the mixed nature of occupations, informal learning practices play a very important role.</description>
     </item>
     
   </channel>

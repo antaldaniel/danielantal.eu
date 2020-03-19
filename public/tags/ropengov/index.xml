@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rOpenGov on Daniel Antal, CFA</title>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 13 Feb 2020 12:30:00 +0100</pubDate>
       
       <guid>/post/2020-02-13-regional_eurostat/</guid>
-      <description>My open source program code was released within the 3.6.1 version of eurostat R package, making the painful boundary alignment with frequent region border changes, and resulting data imputation work automatic and less error-prone. As a result, more and more of my work, and particularly the music indicators of CEEMID are becoming available on provincial/regional level.</description>
+      <description>A very important part of my work is to pre-process data, and integrate various data tables into tidy, comprehensive data tables or databases. This is particularly difficult but rewarding when I work with statistics on sub-national, regional level. While country borders are very rarely change in the world, regional boundaries are changing on average every three years withing the European Union. Putting together data with 2010, 2013, 2017 and the forthcoming 2021 regional boundaries is a very difficult task.</description>
     </item>
     
   </channel>

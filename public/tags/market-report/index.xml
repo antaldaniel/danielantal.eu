@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>market-report on Daniel Antal, CFA</title>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 13 Feb 2020 12:30:00 +0100</pubDate>
       
       <guid>/post/2020-02-13-regional_eurostat/</guid>
-      <description>My open source program code was released within the 3.6.1 version of eurostat R package, making the painful boundary alignment with frequent region border changes, and resulting data imputation work automatic and less error-prone. As a result, more and more of my work, and particularly the music indicators of CEEMID are becoming available on provincial/regional level.</description>
+      <description>A very important part of my work is to pre-process data, and integrate various data tables into tidy, comprehensive data tables or databases. This is particularly difficult but rewarding when I work with statistics on sub-national, regional level. While country borders are very rarely change in the world, regional boundaries are changing on average every three years withing the European Union. Putting together data with 2010, 2013, 2017 and the forthcoming 2021 regional boundaries is a very difficult task.</description>
     </item>
     
     <item>
@@ -27,7 +27,8 @@
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
       
       <guid>/post/2020-01-30-ceereport/</guid>
-      <description>The Central &amp;amp; Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector.</description>
+      <description>CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the Central &amp;amp; Eastern European Music Industry Report 2020 as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the CCS Ecosystems: FLIPPING THE ODDS Conference – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
+My presentation was focused around the question on invisibility of the CCI sector in the economic, education and labour policymaking, and the low level of data use in fact-based cultural policy design, and the following policy design problems.</description>
     </item>
     
     <item>
@@ -46,7 +47,8 @@ The CEE Report builds on the results of the first Hungarian, Slovak, Croatian an
       <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
       
       <guid>/post/2019-11-09-nouvelle-prague/</guid>
-      <description>A Progress Report on the Czech Music Development Program and problems in an international context. We would like to invite any Czech stakeholders, or even individuals to join our Research Consortium, because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools.</description>
+      <description>I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the How We Would Like To Work in the Czech Music Industry in 2020 ex ante evaluation workshop in the context of the comparative Central European Music Industry Report.
+You can find the full presentation, including slides not shown in the workshop here. The presentation is a self-contained big file of 20Mb, takes time to load.</description>
     </item>
     
     <item>
@@ -65,7 +67,7 @@ Short summary in Croatian: Privatno kopiranje u Hrvatskoj Full text in English: 
       <pubDate>Fri, 07 Jun 2019 15:00:00 +0200</pubDate>
       
       <guid>/post/2019-06-07_ceemid_survey/</guid>
-      <description>Since most music professional work in microenterprises, or as freelancers, they usually do not participate in economic statistical surveys, and their problems remain hidden from government officials and the general public. This is why we designed an developed an individual-level survey since 2014 which in 2019 already covers more than 10 countries.</description>
+      <description>The fragmentation of the music business into microenterprises and freelance carriers make the work of a musician very complex. Most musicians do not only fulfill the artistic role of a performer, composer, lyricist or composer. In most cases, artists perform two artistic roles, but it is equally frequent that they perform a different, but still music related engineering, educator or managerial role. Given that that average size of creative enterprises in Europe is less than two people, musicians are forced to do several very different things.</description>
     </item>
     
     <item>
@@ -89,7 +91,8 @@ Slides:
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/market-report/</guid>
-      <description>Market sizing, research and forecasting reports.</description>
+      <description>I have been creating market reports for 20 years, mainly in emerging markets where data is scarce and often has little history.
+Starting as a junior consultant, I learned a lot about data acquisition. Later I held a &amp;lsquo;strategic information management&amp;rsquo; position in the Ministry of Economy and Transport in Hungary with oversight on the national statistical data collection. As a senior consultant and a former lecture, I used to train junior colleagues and journalists on data acquisition.</description>
     </item>
     
     <item>
@@ -98,7 +101,8 @@ Slides:
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/post/how_many_ever_pay/</guid>
-      <description>In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.</description>
+      <description>In our recent private copying reports we compiled European survey data relevant to analysis. In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.
+In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.</description>
     </item>
     
     <item>
@@ -107,7 +111,9 @@ Slides:
       <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
       
       <guid>/post/sharpe_18/</guid>
-      <description>We presented the most important findings of the Slovak Music Industry Report with the project sponsor, Mgr. Tomas Miks, member of SOZA’s management team in the first SHARPE music conference in Bratislava.</description>
+      <description>You can review the slides here.
+ or on Slideshare.
+The Slovak Music Industy Report can be downloaded from here.</description>
     </item>
     
     <item>
@@ -116,7 +122,8 @@ Slides:
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>/post/ceempc/</guid>
-      <description>CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.</description>
+      <description>CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.
+Jules from Spotify spoke about their new initiative, Spotify for Publishers.</description>
     </item>
     
     <item>
@@ -125,7 +132,8 @@ Slides:
       <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
       
       <guid>/post/career_path/</guid>
-      <description>In our survey, we ask musicians about the most important milestones of their career and their achievement in the past 12 month. So far we have surveyed more than 2000 music professionals and 900 film production professionals in Croatia, Hungary and Slovakia.</description>
+      <description>In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.
+In the 21st century the live music stream is far more important than the recordings.</description>
     </item>
     
     <item>

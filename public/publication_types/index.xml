@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Daniel Antal, CFA</title>
@@ -7,28 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2015 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>4</title>
-      <link>/publication_types/4/</link>
-      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      
-      <guid>/publication_types/4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>6</title>
-      <link>/publication_types/6/</link>
-      <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/publication_types/6/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>0</title>
@@ -45,6 +27,24 @@
       <pubDate>Mon, 01 Nov 2004 00:00:00 +0100</pubDate>
       
       <guid>/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>/publication_types/4/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      
+      <guid>/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>/publication_types/6/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication_types/6/</guid>
       <description></description>
     </item>
     

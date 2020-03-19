@@ -1,79 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/publication_types/4/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
-    
-      <loc>/hu/publication_types/4/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-    
-      <loc>/hu/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/armenia/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/armenia/" hreflang="en"/>
-    
-      <loc>/hu/tags/armenia/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/austria/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/austria/" hreflang="en"/>
-    
-      <loc>/hu/tags/austria/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/bulgaria/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/bulgaria/" hreflang="en"/>
-    
-      <loc>/hu/tags/bulgaria/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/czechia/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/czechia/" hreflang="en"/>
-    
-      <loc>/hu/tags/czechia/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/hungary/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/hungary/" hreflang="en"/>
-    
-      <loc>/hu/tags/hungary/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <loc>/hu/post/2020-03-14-covid19/</loc>
+      <lastmod>2020-03-20T10:30:00+01:00</lastmod>
     </url>
     
   
@@ -91,120 +23,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/lithuania/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/lithuania/" hreflang="en"/>
-    
-      <loc>/hu/tags/lithuania/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/market-report/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/market-report/" hreflang="en"/>
-    
-      <loc>/hu/tags/market-report/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
-    
-      <loc>/hu/tags/music-industry/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
-    
-      <loc>/hu/publication_types/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/serbia/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/serbia/" hreflang="en"/>
-    
-      <loc>/hu/tags/serbia/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/slovakia/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/slovakia/" hreflang="en"/>
-    
-      <loc>/hu/tags/slovakia/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-    
-      <loc>/hu/tags/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/post/2019-11-18-bush/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/post/2019-11-18-bush/" hreflang="en"/>
     
       <loc>/hu/post/2019-11-18-bush/</loc>
-      <lastmod>2019-11-18T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/bush/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/bush/" hreflang="en"/>
-    
-      <loc>/hu/tags/bush/</loc>
-      <lastmod>2019-11-18T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/cee/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/cee/" hreflang="en"/>
-    
-      <loc>/hu/tags/cee/</loc>
-      <lastmod>2019-11-18T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/ceemid/" hreflang="en"/>
-    
-      <loc>/hu/tags/ceemid/</loc>
       <lastmod>2019-11-18T16:00:00+01:00</lastmod>
     </url>
     
@@ -234,50 +56,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/labels/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/labels/" hreflang="en"/>
-    
-      <loc>/hu/tags/labels/</loc>
-      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/see/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/see/" hreflang="en"/>
-    
-      <loc>/hu/tags/see/</loc>
-      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/value-gap/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/value-gap/" hreflang="en"/>
-    
-      <loc>/hu/tags/value-gap/</loc>
-      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/grants/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/grants/" hreflang="en"/>
-    
-      <loc>/hu/tags/grants/</loc>
-      <lastmod>2019-11-11T10:16:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/talk/2019_11_15_bush/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/talk/2019_11_15_bush/" hreflang="en"/>
     
@@ -300,54 +78,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/concerts/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/concerts/" hreflang="en"/>
-    
-      <loc>/hu/tags/concerts/</loc>
-      <lastmod>2019-10-11T10:16:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/export/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/export/" hreflang="en"/>
-    
-      <loc>/hu/tags/export/</loc>
-      <lastmod>2019-10-11T10:16:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/royalties/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/royalties/" hreflang="en"/>
-    
-      <loc>/hu/tags/royalties/</loc>
-      <lastmod>2019-10-11T10:16:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/talk/waves_2019/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/talk/waves_2019/" hreflang="en"/>
     
       <loc>/hu/talk/waves_2019/</loc>
-      <lastmod>2019-09-20T10:16:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/survey/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/survey/" hreflang="en"/>
-    
-      <loc>/hu/tags/survey/</loc>
       <lastmod>2019-09-20T10:16:00+02:00</lastmod>
     </url>
     
@@ -366,14 +100,6 @@
     
     <url>
     
-      <loc>/hu/tags/national-reports/</loc>
-      <lastmod>2019-03-26T13:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/publication/slovak_music_industry_2019/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/publication/slovak_music_industry_2019/" hreflang="en"/>
     
@@ -385,40 +111,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/economic-impact/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/economic-impact/" hreflang="en"/>
-    
-      <loc>/hu/tags/economic-impact/</loc>
-      <lastmod>2019-01-04T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/multipliers/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/multipliers/" hreflang="en"/>
-    
-      <loc>/hu/tags/multipliers/</loc>
-      <lastmod>2019-01-04T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/hu/post/iotables_04/</loc>
-      <lastmod>2019-01-04T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/r/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/r/" hreflang="en"/>
-    
-      <loc>/hu/tags/r/</loc>
       <lastmod>2019-01-04T19:00:00+01:00</lastmod>
     </url>
     
@@ -450,43 +143,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/project/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/project/" hreflang="en"/>
-    
-      <loc>/hu/project/</loc>
-      <lastmod>2019-01-02T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/audiovisual/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/audiovisual/" hreflang="en"/>
-    
-      <loc>/hu/tags/audiovisual/</loc>
-      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/post/how_many_ever_pay/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/post/how_many_ever_pay/" hreflang="en"/>
     
       <loc>/hu/post/how_many_ever_pay/</loc>
-      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/software/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/software/" hreflang="en"/>
-    
-      <loc>/hu/tags/software/</loc>
       <lastmod>2018-06-08T00:00:00+02:00</lastmod>
     </url>
     
@@ -535,54 +195,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/emerging-markets/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/emerging-markets/" hreflang="en"/>
-    
-      <loc>/hu/tags/emerging-markets/</loc>
-      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/pricing/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/pricing/" hreflang="en"/>
-    
-      <loc>/hu/tags/pricing/</loc>
-      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/talk/ceempc/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/talk/ceempc/" hreflang="en"/>
     
       <loc>/hu/talk/ceempc/</loc>
-      <lastmod>2017-09-29T22:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/icmp/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/icmp/" hreflang="en"/>
-    
-      <loc>/hu/tags/icmp/</loc>
-      <lastmod>2017-09-29T22:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/music-publishing/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/music-publishing/" hreflang="en"/>
-    
-      <loc>/hu/tags/music-publishing/</loc>
       <lastmod>2017-09-29T22:00:00+02:00</lastmod>
     </url>
     
@@ -595,17 +211,6 @@
     
       <loc>/hu/post/ceempc/</loc>
       <lastmod>2017-09-29T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/pcr/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/pcr/" hreflang="en"/>
-    
-      <loc>/hu/tags/pcr/</loc>
-      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -628,17 +233,6 @@
     
       <loc>/hu/project/royalties/</loc>
       <lastmod>2017-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/publication_types/6/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/publication_types/6/" hreflang="en"/>
-    
-      <loc>/hu/publication_types/6/</loc>
-      <lastmod>2017-01-22T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -689,41 +283,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/croatia/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/croatia/" hreflang="en"/>
-    
-      <loc>/hu/tags/croatia/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/hu/post/makk15/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/publication_types/0/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/publication_types/0/" hreflang="en"/>
-    
-      <loc>/hu/publication_types/0/</loc>
-      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/cap/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/cap/" hreflang="en"/>
-    
-      <loc>/hu/tags/cap/</loc>
-      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -734,28 +295,6 @@
       <xhtml:link rel="alternate" href="/publication/creating_better_2015/" hreflang="en"/>
     
       <loc>/hu/publication/creating_better_2015/</loc>
-      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/methodology/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/methodology/" hreflang="en"/>
-    
-      <loc>/hu/tags/methodology/</loc>
-      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/statistics/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/statistics/" hreflang="en"/>
-    
-      <loc>/hu/tags/statistics/</loc>
       <lastmod>2015-11-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -785,77 +324,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/industry-reports/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/industry-reports/" hreflang="en"/>
-    
-      <loc>/hu/tags/industry-reports/</loc>
-      <lastmod>2015-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/post/proart_report_15/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/post/proart_report_15/" hreflang="en"/>
     
       <loc>/hu/post/proart_report_15/</loc>
       <lastmod>2015-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/cisac/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/cisac/" hreflang="en"/>
-    
-      <loc>/hu/tags/cisac/</loc>
-      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/hedonic-pricing/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/hedonic-pricing/" hreflang="en"/>
-    
-      <loc>/hu/tags/hedonic-pricing/</loc>
-      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/private-copying/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/private-copying/" hreflang="en"/>
-    
-      <loc>/hu/tags/private-copying/</loc>
-      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/restaurants/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/restaurants/" hreflang="en"/>
-    
-      <loc>/hu/tags/restaurants/</loc>
-      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/valuation/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/valuation/" hreflang="en"/>
-    
-      <loc>/hu/tags/valuation/</loc>
-      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -895,110 +368,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/energy/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/energy/" hreflang="en"/>
-    
-      <loc>/hu/tags/energy/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/environment/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/environment/" hreflang="en"/>
-    
-      <loc>/hu/tags/environment/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/investments/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/investments/" hreflang="en"/>
-    
-      <loc>/hu/tags/investments/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/music/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
-    
-      <loc>/hu/tags/music/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/regulation/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/regulation/" hreflang="en"/>
-    
-      <loc>/hu/tags/regulation/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/data/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/data/" hreflang="en"/>
-    
-      <loc>/hu/tags/data/</loc>
-      <lastmod>2009-12-15T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/publication/hungary_psi_2009/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/publication/hungary_psi_2009/" hreflang="en"/>
     
       <loc>/hu/publication/hungary_psi_2009/</loc>
       <lastmod>2009-12-15T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/market-size/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/market-size/" hreflang="en"/>
-    
-      <loc>/hu/tags/market-size/</loc>
-      <lastmod>2009-12-15T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/psi/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/psi/" hreflang="en"/>
-    
-      <loc>/hu/tags/psi/</loc>
-      <lastmod>2009-12-15T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/publication_types/2/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/publication_types/2/" hreflang="en"/>
-    
-      <loc>/hu/publication_types/2/</loc>
-      <lastmod>2004-11-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -1016,44 +390,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/railways/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/railways/" hreflang="en"/>
-    
-      <loc>/hu/tags/railways/</loc>
-      <lastmod>2004-11-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/publication/hu_rail_transport_2004/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/publication/hu_rail_transport_2004/" hreflang="en"/>
     
       <loc>/hu/publication/hu_rail_transport_2004/</loc>
       <lastmod>2004-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/economics/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/economics/" hreflang="en"/>
-    
-      <loc>/hu/tags/economics/</loc>
-      <lastmod>1998-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/finance/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/finance/" hreflang="en"/>
-    
-      <loc>/hu/tags/finance/</loc>
-      <lastmod>1998-09-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -1075,6 +416,170 @@
       <xhtml:link rel="alternate" href="/slides/presentation/" hreflang="en"/>
     
       <loc>/hu/slides/presentation/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/0/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/0/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/0/</loc>
+      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/2/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/2/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/2/</loc>
+      <lastmod>2004-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/4/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/4/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/6/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/6/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/6/</loc>
+      <lastmod>2017-01-22T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+    
+      <loc>/hu/</loc>
+      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/armenia/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/armenia/" hreflang="en"/>
+    
+      <loc>/hu/tags/armenia/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/austria/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/austria/" hreflang="en"/>
+    
+      <loc>/hu/tags/austria/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/bush/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/bush/" hreflang="en"/>
+    
+      <loc>/hu/tags/bush/</loc>
+      <lastmod>2019-11-18T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/bulgaria/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/bulgaria/" hreflang="en"/>
+    
+      <loc>/hu/tags/bulgaria/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/cap/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/cap/" hreflang="en"/>
+    
+      <loc>/hu/tags/cap/</loc>
+      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/cci/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/cci/" hreflang="en"/>
+    
+      <loc>/hu/tags/cci/</loc>
+      <lastmod>2020-03-20T10:30:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/cee/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/cee/" hreflang="en"/>
+    
+      <loc>/hu/tags/cee/</loc>
+      <lastmod>2019-11-18T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/ceemid/" hreflang="en"/>
+    
+      <loc>/hu/tags/ceemid/</loc>
+      <lastmod>2019-11-18T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/tags/covid-19/</loc>
+      <lastmod>2020-03-20T10:30:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1086,6 +591,163 @@
       <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
     
       <loc>/hu/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/croatia/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/croatia/" hreflang="en"/>
+    
+      <loc>/hu/tags/croatia/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/czechia/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/czechia/" hreflang="en"/>
+    
+      <loc>/hu/tags/czechia/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/hungary/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/hungary/" hreflang="en"/>
+    
+      <loc>/hu/tags/hungary/</loc>
+      <lastmod>2020-03-20T10:30:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/icmp/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/icmp/" hreflang="en"/>
+    
+      <loc>/hu/tags/icmp/</loc>
+      <lastmod>2017-09-29T22:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/industry-reports/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/industry-reports/" hreflang="en"/>
+    
+      <loc>/hu/tags/industry-reports/</loc>
+      <lastmod>2015-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/lithuania/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/lithuania/" hreflang="en"/>
+    
+      <loc>/hu/tags/lithuania/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/pcr/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/pcr/" hreflang="en"/>
+    
+      <loc>/hu/tags/pcr/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/project/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/project/" hreflang="en"/>
+    
+      <loc>/hu/project/</loc>
+      <lastmod>2019-01-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/</loc>
+      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/r/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/r/" hreflang="en"/>
+    
+      <loc>/hu/tags/r/</loc>
+      <lastmod>2019-01-04T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/royalties/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/royalties/" hreflang="en"/>
+    
+      <loc>/hu/tags/royalties/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/see/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/see/" hreflang="en"/>
+    
+      <loc>/hu/tags/see/</loc>
+      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/serbia/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/serbia/" hreflang="en"/>
+    
+      <loc>/hu/tags/serbia/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -1096,6 +758,7 @@
       <xhtml:link rel="alternate" href="/slides/" hreflang="en"/>
     
       <loc>/hu/slides/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -1106,6 +769,492 @@
       <xhtml:link rel="alternate" href="/slides/example-slides/" hreflang="en"/>
     
       <loc>/hu/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/slovakia/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/slovakia/" hreflang="en"/>
+    
+      <loc>/hu/tags/slovakia/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+    
+      <loc>/hu/tags/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/audiovisual/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/audiovisual/" hreflang="en"/>
+    
+      <loc>/hu/tags/audiovisual/</loc>
+      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/cee/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/cee/" hreflang="en"/>
+    
+      <loc>/hu/tags/cee/</loc>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/cisac/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/cisac/" hreflang="en"/>
+    
+      <loc>/hu/tags/cisac/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/concerts/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/concerts/" hreflang="en"/>
+    
+      <loc>/hu/tags/concerts/</loc>
+      <lastmod>2019-10-11T10:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/data/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/data/" hreflang="en"/>
+    
+      <loc>/hu/tags/data/</loc>
+      <lastmod>2009-12-15T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/economic-impact/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/economic-impact/" hreflang="en"/>
+    
+      <loc>/hu/tags/economic-impact/</loc>
+      <lastmod>2019-01-04T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/economics/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/economics/" hreflang="en"/>
+    
+      <loc>/hu/tags/economics/</loc>
+      <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/emerging-markets/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/emerging-markets/" hreflang="en"/>
+    
+      <loc>/hu/tags/emerging-markets/</loc>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/energy/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/energy/" hreflang="en"/>
+    
+      <loc>/hu/tags/energy/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/environment/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/environment/" hreflang="en"/>
+    
+      <loc>/hu/tags/environment/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/export/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/export/" hreflang="en"/>
+    
+      <loc>/hu/tags/export/</loc>
+      <lastmod>2019-10-11T10:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/finance/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/finance/" hreflang="en"/>
+    
+      <loc>/hu/tags/finance/</loc>
+      <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/grants/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/grants/" hreflang="en"/>
+    
+      <loc>/hu/tags/grants/</loc>
+      <lastmod>2019-11-11T10:16:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/hedonic-pricing/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/hedonic-pricing/" hreflang="en"/>
+    
+      <loc>/hu/tags/hedonic-pricing/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/hungary/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/hungary/" hreflang="en"/>
+    
+      <loc>/hu/tags/hungary/</loc>
+      <lastmod>2020-03-20T10:30:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/investments/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/investments/" hreflang="en"/>
+    
+      <loc>/hu/tags/investments/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/labels/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/labels/" hreflang="en"/>
+    
+      <loc>/hu/tags/labels/</loc>
+      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/tags/magyarul/</loc>
+      <lastmod>2020-03-20T10:30:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/market-report/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/market-report/" hreflang="en"/>
+    
+      <loc>/hu/tags/market-report/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/market-size/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/market-size/" hreflang="en"/>
+    
+      <loc>/hu/tags/market-size/</loc>
+      <lastmod>2009-12-15T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/methodology/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/methodology/" hreflang="en"/>
+    
+      <loc>/hu/tags/methodology/</loc>
+      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/multipliers/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/multipliers/" hreflang="en"/>
+    
+      <loc>/hu/tags/multipliers/</loc>
+      <lastmod>2019-01-04T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/music/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
+    
+      <loc>/hu/tags/music/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
+    
+      <loc>/hu/tags/music-industry/</loc>
+      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/music-publishing/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/music-publishing/" hreflang="en"/>
+    
+      <loc>/hu/tags/music-publishing/</loc>
+      <lastmod>2017-09-29T22:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/tags/national-reports/</loc>
+      <lastmod>2019-03-26T13:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/pcr/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/pcr/" hreflang="en"/>
+    
+      <loc>/hu/tags/pcr/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/pricing/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/pricing/" hreflang="en"/>
+    
+      <loc>/hu/tags/pricing/</loc>
+      <lastmod>2017-11-01T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/private-copying/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/private-copying/" hreflang="en"/>
+    
+      <loc>/hu/tags/private-copying/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/psi/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/psi/" hreflang="en"/>
+    
+      <loc>/hu/tags/psi/</loc>
+      <lastmod>2009-12-15T19:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/railways/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/railways/" hreflang="en"/>
+    
+      <loc>/hu/tags/railways/</loc>
+      <lastmod>2004-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/regulation/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/regulation/" hreflang="en"/>
+    
+      <loc>/hu/tags/regulation/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/restaurants/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/restaurants/" hreflang="en"/>
+    
+      <loc>/hu/tags/restaurants/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/royalties/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/royalties/" hreflang="en"/>
+    
+      <loc>/hu/tags/royalties/</loc>
+      <lastmod>2019-10-11T10:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/software/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/software/" hreflang="en"/>
+    
+      <loc>/hu/tags/software/</loc>
+      <lastmod>2018-06-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/statistics/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/statistics/" hreflang="en"/>
+    
+      <loc>/hu/tags/statistics/</loc>
+      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/survey/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/survey/" hreflang="en"/>
+    
+      <loc>/hu/tags/survey/</loc>
+      <lastmod>2019-09-20T10:16:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/valuation/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/valuation/" hreflang="en"/>
+    
+      <loc>/hu/tags/valuation/</loc>
+      <lastmod>2013-11-18T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/value-gap/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/value-gap/" hreflang="en"/>
+    
+      <loc>/hu/tags/value-gap/</loc>
+      <lastmod>2019-11-11T10:18:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   

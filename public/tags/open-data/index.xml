@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open-data on Daniel Antal, CFA</title>
@@ -18,7 +18,8 @@
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>/project/opendata/</guid>
-      <description>Market sizing, research and forecasting reports.</description>
+      <description>I have been involved in various OpenData projects since 2007, shortly after the introduction of the groundbreaking Re-Use of Public Sector Information Directive (last year replaced with the new Open Data Directive) of the Euroepan Union. (A brief history of this important EU policy can be found here and its importance (pdf).)
+Press the tag below to see more examples</description>
     </item>
     
     <item>
@@ -27,7 +28,8 @@
       <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
       
       <guid>/post/2019-01-04_iotables_released/</guid>
-      <description>The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors. The package creates a programmatic interface to compare economic impact changes in time, or compare any country with any country in the European Union.</description>
+      <description>This package was related to several of my works for Slovak, Hungarian and Croatian music industry and the Hungarian Film Fund, and my collaboration with Eeconomic impacT s.r.o in the Czech Republic. My R package downloads symmetric input-output and related tax, margins, use tables from the Eurostat bulk data warehouse, and organizes them for macroeconomic analysis.
+The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors.</description>
     </item>
     
     <item>
@@ -36,7 +38,7 @@
       <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
       
       <guid>/publication/hungary_psi_2009/</guid>
-      <description>A localization of the measuring European Public Sector Information resources for Hungary in the fields of Business information, geographic information, legal information, meteorological information, social data and transport information. Market sizing, service levels, pricing.</description>
+      <description>Original title in Hungarian: - A közintézmények újrahasznosítható információinak piaca Magyarországon</description>
     </item>
     
   </channel>

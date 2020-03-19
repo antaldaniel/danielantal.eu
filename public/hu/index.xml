@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antal Dániel, CFA on Antal Dániel, CFA</title>
@@ -6,62 +7,405 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0100</lastBuildDate>
     <atom:link href="/hu/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Use Cases</title>
-      <link>/hu/esetek/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      <title>A járvány megrengeti a kreatív iparágakat</title>
+      <link>/hu/post/2020-03-14-covid19/</link>
+      <pubDate>Thu, 19 Mar 2020 18:30:00 +0100</pubDate>
       
-      <guid>/hu/esetek/</guid>
-      <description>&lt;p&gt;In this section I will give a few examples of how I work.  The first is music royalty pricing. Soon I will add a few examples of forecasting and economic impact analysis.&lt;/p&gt;
+      <guid>/hu/post/2020-03-14-covid19/</guid>
+      <description>&lt;p&gt;Bezártak a mozik, törölték a koncerteket és a színházi előadásokat, a stand-upokat. Nagyobb stábokkal lehetetlen filmet forgatni, a turnézás, az utazás szinte lehetetlenné vált. Európa egyes országaiban már bezárták az éttermeket, a kávézókat és a plázákat is. Ezek az intézkedések rövid távon borzalmas hatással lesznek a kreatív iparágakra, de általában a munkaerő-intenzív szolgáltató iparágakra, például a vendéglátásra, a hotelszolgáltatásokra is. A makrogazdasági értelemben ciklikus ágazatok mindig élesen reagálnak a kereslet változására, de ilyen drasztikus keresletváltozásra legfeljebb háborús időkben volt eddig példa.
+Amikor egy koncert elmarad, akkor nem csak négy, öt, vagy akár egy szimfonikus zenekarnyi művész marad munka nélkül, hanem az őket menedzselő csapat, a színpad-, fény-, és hangtechnikusok is. A legkisebb színpadokon is három-négy ember dolgozik a háttérben, a nagyobbakon meg több mint kétszáz. Hasonló a helyzet a színházban vagy egy stand-up show esetében is. A mozik bezárása nyilván érzékenyen érinti az ott lévőket, és a kapcsolódó büféket, de a magyar gazdaságra ennél sokkal nagyobb hatása van a filmforgatások elmaradásának. A magyar kreatív ágazatoknak, filmgyártóknak, utómunka-stúdióknak, zenészeknek, és az őket kiszolgáló szállodáknak, vendéglátó vállalkozásoknak ez több tízmilliárdos bevételkiesést okoz.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/j%C3%A1rv%C3%A1ny-megrengeti-kreat%C3%ADv-ipar%C3%A1gakat-d%C3%A1niel-antal/&#34; target=&#34;_blank&#34;&gt;LinkedIn változat annak, aki kapcsolatba szeretne lépni velem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A kreatív iparágak helyzete a korona-válság előtt sem volt könnyű Magyarországon vagy az Európai Unió keleti felén. Az adórendszer minden országban a nagymértékben automatizált gyártó iparágnak kedvezett, és nem a magas hozzáadott értékű, emberi munkára épülő kreatívoknak. A széttagolt, döntően mikrovállalatokból álló zeneipar, filmipar, design, építészet, vagy a KKV méretű színházak, fesztiválok nem épültek be kellően a gazdasági és társadalmi érdekegyeztetés rendszereibe, és nem tudták jól megszervezni a hozzáadott érték növeléséhez elengedhetetlenül szükséges élethosszig tartó tanulást.&lt;/p&gt;
+
+&lt;p&gt;A hvg360 koronavírus-válság körképében megjelenő &lt;a href=&#34;https://hvg.hu/360/20200318_Antal_Daniel_A_jarvany_megrengeti_a_kreativ_iparagakat&#34; target=&#34;_blank&#34;&gt;írásom&lt;/a&gt; más ágazatokról szóló cikkek, például a &lt;a href=&#34;https://hvg.hu/360/202012__lefujt_focieb__tokioi_olimpia__virusfelelmek__zarodo_korben&#34; target=&#34;_blank&#34;&gt;sport helyzetéről&lt;/a&gt; szóló mellett kapott helyet. Sajnos a teljes szöveg csak a paywall mögött érhető el, de a havi hozzáférési díj mindössze 1.03 euró vagy 360 forint forint. Az álhírek világában csak az ilyen intézkedések, az olvasók hozzájárulása tudja a minőségi tartalmakat fenntartani.&lt;/p&gt;
+
+&lt;p&gt;A cikkem konklúziója:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mit lehet ilyenkor tenni? A magasabb hozzáadott értékű, fejlettebb gazdaságokban válságban szokták az évek óta halogatott továbbképzésüket megoldani, de ez jelenleg ezer ok miatt lehetetlen: a döntően szabadúszó dolgozók beiskolázása intézményesen megoldatlan, a képzőhelyek maguk is zárva vannak, az online elérhető képzések száma korlátozott és a minősége nem mindig ellenőrzött. Az idegőrlő várakozással, bezártsággal járó hetekben, hónapokban úgy gondolom, hogy két dolgot tehetnek a kreatív szakmákban dolgozó művészek, technikusok és menedzserek. Egyrészt az internet segítségével elindítják azokat az ágazati önszerveződéseket, amelyek később lehetővé teszik, hogy egy gazdasági válságban szervezett át- és továbbképzések induljanak, létrejöjjenek a mikrovállalatok felett átívelő szolidaritási formák, például a munkanélküli-ellátás keretei, és a gazdasági érdekegyeztetésbe való bekapcsolódás szervezetei. Másrészt az elkerülhetetlen recesszió utáni kilábalásra olyan programokat dolgoznak ki, amelyet a gyártóiparágaknál, a mezőgazdaságnál lényegesen magasabb foglalkoztatási, hozzáadott-érték teremtési és adózási potenciállal rendelkező kreatív ágazatok számára megteremtik a nemzetgazdaságon belüli jobb érvényesülés, gyorsabb növekedés lehetőségét.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Kollégáimmal néhány hete mutattuk be az első Közép-európai zeneipari jelentést, ami 10-12 országra jellemző problémákat és javaslatokat fogalmaz meg. Az elmúlt években szerzett tapasztalataim alapján azt gondolom, hogy a magyar zenészek, filmesek, színházi szakemberek helyzete nagyon hasonló a visegrádi régióban dolgozókhoz, és sok tekintetben az egész európai kreatív iparágakéhoz. Bár ezeket az elképzeléseket jobb lett volna a nyolc éve tartó konjunktúra idején megvalósítani, a mostani járvány utáni gazdasági visszaesésben talán az EU-s sorstársakkal együtt a társadalom többi részének nagyobb megértése mellett lehet ezekhez a reformokhoz hozzákezdeni. A következő fellendülés idején a magyar társadalom még elöregedettebb lesz, az automatizáció még több ipari és szolgáltató munkahelyet fog megszüntetni, és európaiságunk, fejlettségünk elsősorban a kreatív területeken fog számunkra igazi, értékes munkahelyteremtő lehetőségeket szülni.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;hvg.hu teljes cikk: &lt;a href=&#34;https://hvg.hu/360/20200318_Antal_Daniel_A_jarvany_megrengeti_a_kreativ_iparagakat&#34; target=&#34;_blank&#34;&gt;Antal Dániel: A járvány megrengeti a kreatív iparágakat&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A szerző az első &lt;a href=&#34;/publication/hungary_music_industry_2014/&#34;&gt;magyar&lt;/a&gt;, &lt;a href=&#34;/publication/slovak_music_industry_2019/&#34;&gt;szlovák&lt;/a&gt; és horvát és &lt;a href=&#34;/publication/ceereport_2020/&#34;&gt;közép-európai zeneipari jelentés&lt;/a&gt; szerzője, illetve a Magyar Nemzeti Filmalap számára készült gazdasági hatáselemzések szerzője és társszerzője.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/hu/project/</link>
+      <title>Közép- és keleteurópai zeneipari jelentés 2020</title>
+      <link>/hu/publication/ceereport_2020/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/ceereport_2020/</guid>
+      <description>&lt;p&gt;CEEMID és a  Consolidated Independent bemutatta és az európai érdekeltekkel megvitatta az első &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34;&gt;Közép- és kelet-európai Zeneipari jelentést&lt;/a&gt;, mint a nemzeti (magyar, szlovák, cseh) és nemzetközi összehasonlító, tényalapú kulturális- és kreatívipari közpolitika alkotás egy esettanulmányát. Az eseménynek az Európai Bizottság és a Geothe Intézet társszervezésében megrendezett &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; adott helyszínt.&lt;/p&gt;
+
+&lt;p&gt;A kutatási eredményeinket korábban bemutattuk és megvitattuk a regionális érintettekkel Bécsben, Prágában, Budapesten és Pozsonyban.&lt;br /&gt;
+A vontakozó korábbi prezentációk a &lt;a href=&#34;#posts&#34;&gt;blog&lt;/a&gt; szekcióban találhatók meg.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Budapest Showcase Hub &amp; Conference 2019</title>
+      <link>/hu/post/2019-11-18-bush/</link>
+      <pubDate>Mon, 18 Nov 2019 16:00:00 +0100</pubDate>
+      
+      <guid>/hu/post/2019-11-18-bush/</guid>
+      <description>&lt;p&gt;A HAIL szervezésében egy nagyon hasznos workshopon vettem részt a Budapest Showcase Hub konferencián.  Másnap koncertszervezőkkel és oktatókkal beszélgettünk az előadásom kapcsán.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A nyilvános előadásom itt található meg &lt;a href=&#34;https://danielantal.eu/presentation/building-BUSH-2019&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. A prezentáció összesen közel 11Mb, eltart egy kis ideig amíg a böngésző betölti.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A showcase fesztiválon fellépő kiváló zenekarok felvételeit pedig itt lehet meghallgatni:&lt;/p&gt;
+
+&lt;iframe src=&#34;https://open.spotify.com/embed/playlist/4DHRVFk6U3pQzYE0I2lpJT&#34; width=&#34;680&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digitáils zeneipar éves szeminárium</title>
+      <link>/hu/talk/2019_11_19_mokk/</link>
+      <pubDate>Mon, 18 Nov 2019 10:16:00 +0100</pubDate>
+      
+      <guid>/hu/talk/2019_11_19_mokk/</guid>
+      <description>&lt;p&gt;Olvasnivalók:&lt;/p&gt;
+
+&lt;p&gt;Antal Dániel, 2015. “A Proart zeneipari jelentése. [The Music Industry Report of Proart].” ProArt Szövetség a Szerzői Jogokért Egyesület. &lt;a href=&#34;http://zeneipar.info/letoltes/proart-zeneipari-jelentes-2015.pdf&#34; target=&#34;_blank&#34;&gt;http://zeneipar.info/letoltes/proart-zeneipari-jelentes-2015.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Az Európai Parlament és a Tanács (EU) &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;790&lt;/sub&gt; irányelve (2019. április 17.) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról. 2019. Official Journal of the European Union. &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32019L0790&#34; target=&#34;_blank&#34;&gt;https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32019L0790&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;EYGM. 2014. “Creating Growth – Measuring Cultural and Creative Industries in Europe.” EYGM Limited. &lt;a href=&#34;http://www.creatingeurope.eu/en/wp-content/uploads/2014/11/study-full-en.pdf&#34; target=&#34;_blank&#34;&gt;http://www.creatingeurope.eu/en/wp-content/uploads/2014/11/study-full-en.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Haan, Jos de, and Andries van den Broek. 2012. “Nowadays Cultural Participation - an Update of What to Look for and Where to Look for It.” In &lt;em&gt;ESSnet-CULTURE, European Statistical System Network on Culture. Final Report&lt;/em&gt;, 397–417. Luxembourg. &lt;a href=&#34;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&#34; target=&#34;_blank&#34;&gt;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Leurdijk, Adnra, and Nieuwenhuis Ottilie. 2012. “Statistical, Ecosystems and Competitiveness Analysis of the Media and Content Industries. The Music Industry.” 25277 EN. Edited by Jean Paul Simon. Luxembourg: Publications Office of the European Union, 2012: Joint Research Centre Institute for Prospective Technological Studies (IPTS). &lt;a href=&#34;http://ftp.jrc.es/EURdoc/JRC69816.pdf&#34; target=&#34;_blank&#34;&gt;http://ftp.jrc.es/EURdoc/JRC69816.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Music Venues Trust. 2015. “Understanding Small Music Venues.” Music Venues Trust. &lt;a href=&#34;https://www.musicvenuetrust.com/wp-content/uploads/2015/03/music_venue_trust_Report_V5-1.pdf&#34; target=&#34;_blank&#34;&gt;https://www.musicvenuetrust.com/wp-content/uploads/2015/03/music_venue_trust_Report_V5-1.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Prezentáció:
+&lt;a href=&#34;https://danielantal.eu/presentation/digitalis-zeneipar&#34; target=&#34;_blank&#34;&gt;https://danielantal.eu/presentation/digitalis-zeneipar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Független kiadók kihívásai 2020-ban</title>
+      <link>/hu/talk/2019_11_14_hail/</link>
+      <pubDate>Mon, 11 Nov 2019 10:18:00 +0100</pubDate>
+      
+      <guid>/hu/talk/2019_11_14_hail/</guid>
+      <description>&lt;p&gt;A Magyaországra és a Balkánra vonatkozó adatokat fogom kiemelni a &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34;&gt;Central European Music Industry Report&lt;/a&gt; piacelemzésből, és a digitális csatornákon való terjesztés illetve a DSM Irányelv átültetésével kapcsolatos néhány aktuális témáról fogunk beszélgetni. Szóba fog kerülni egy, a balkáni zeneipar feltérképezését és fejlesztését célzó projekt is a helyi partnerekkel.&lt;/p&gt;
+
+&lt;p&gt;Egyúttal alkalmat szeretnék teremetni arra, hogy személyes visszajelzéseket adjak azoknak a zeneipari szakembereknek, akik megadták a személyes adataikat a CEEMID zeneipari szakemberek felmérése 2019 felmérésben.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Közös analitikai eszközök építése: jobb turnétervezés, belföldi és nemzetközi promóció</title>
+      <link>/hu/talk/2019_11_15_bush/</link>
+      <pubDate>Mon, 11 Nov 2019 10:16:00 +0100</pubDate>
+      
+      <guid>/hu/talk/2019_11_15_bush/</guid>
+      <description>&lt;p&gt;I am going to look back on the needs assessment of &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/post/2015-11-12_cstp/&#34; target=&#34;_blank&#34;&gt;Hungarian music professionals&lt;/a&gt; in 2015 and &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34;&gt;Czechs&lt;/a&gt; in 2019.I will also compare the problems of the Hungarian scene in 2015, 2019 with the current issues in Czechia, Slovakia and Austria.&lt;/p&gt;
+
+&lt;p&gt;I would like to provide an opportunity on BUSH to give personal feedback to the artists and professionals who gave their personal details in our annual CEEMID Music Professional Survey from Hungary, or anywhere else in the region if they make it to BUSH. More details will be sent to your e-mail addresses, provided you have given us one.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comperative Study On The Music Markets of the CEE Region</title>
+      <link>/hu/talk/2019_11_08_nouvelle_prague/</link>
+      <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
+      
+      <guid>/hu/talk/2019_11_08_nouvelle_prague/</guid>
+      <description>&lt;p&gt;I am going to present the Czech results from our regional &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34;&gt;Central European Music Industry Report&lt;/a&gt;, and the first version of a comprehensive, national music development program that we started to work on in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop.&lt;/p&gt;
+
+&lt;p&gt;I would like to provide an opportunity on Nouvelle Prague to give personal feedback to the artists and professionals who gave their personal details in our annual CEEMID Music Professional Survey from Czechia, or anywhere else in the region if they make it to Nouvelle Prague. More details will be sent to your e-mail addresses, provided you have given us one.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Panelbeszélgetés az első Közép-európai Zeneipari Jelentésről</title>
+      <link>/hu/talk/waves_2019/</link>
+      <pubDate>Fri, 20 Sep 2019 10:16:00 +0200</pubDate>
+      
+      <guid>/hu/talk/waves_2019/</guid>
+      <description>&lt;p&gt;A panelbeszélgetés az első közép-európai jelentés (Ausztria, Bulgária, Csehország, Horvátország, Észtország, Lengyelország, Litvánia, Magyarország, Örményország, Románia, Szerbia, Szlovákia, Szlovénia) &lt;a href=&#34;https://www.wavesvienna.com/conference/conference-schedule/&#34; target=&#34;_blank&#34;&gt;Waves Music Showcase Fesztviál és Konferencia&lt;/a&gt; keretében.&lt;/p&gt;
+
+&lt;p&gt;Az alábbiak a konferencia programjában szerepelnek, amit fordítás nélkül teszek közzé.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;CEEMID – Central &amp;amp; Eastern European Music Databases was created out of necessity: many Central and Eastern European countries are lacking effective cross-industry or governmental statistics on music or on cultural industries in general. The lack of data makes the work of tour planning, record promotion, grant evaluation or royalty tariff setting very difficult in those countries where the need would be even greater for such activities than in the most advanced markets.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Musicians are the most known source of information&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Daniel Antal developed a survey distributed among music professionals asking them about their experience. These surveys were designed to fill the gaps in the data collection of official statistics and other music and film industry sources. The first survey was made in 2014 in Hungary, and in 2019 it already included 11 countries. They had been filled out in the past years by more than 5000 creative industry professional, in 2019 in Austria, too.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Daniel Antal believes that the music business in most of Europe, including Austria, has many common, similar challenges and would need a lot more regional cooperation to solve them. With the CEEMID-report, presented at the Waves Vienna Conference. Daniel Antal gives a fact-based comparison and will suggest some possible policy and strategic solutions to be debated after.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Szlovák Zeneipari Jelentés 2019 bemutatója</title>
+      <link>/hu/talk/slovak_report19/</link>
+      <pubDate>Tue, 26 Mar 2019 13:00:00 +0100</pubDate>
+      
+      <guid>/hu/talk/slovak_report19/</guid>
+      <description>&lt;p&gt;The venue is &lt;a href=&#34;http://vecko.sk/kontakt/&#34; target=&#34;_blank&#34;&gt;V klub, Národné Osvetové Centrum&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Szlovák zeneipari jelentés</title>
+      <link>/hu/publication/slovak_music_industry_2019/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/slovak_music_industry_2019/</guid>
+      <description>&lt;p&gt;Az egész jelentés ingyenesen letölthető &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34;&gt;a SOZA honlapjáról&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sajtóbeszámolók:&lt;/p&gt;
+
+&lt;p&gt;Magyarul:
+Új Szó: &lt;a href=&#34;https://ujszo.com/kultura/tudomanyosan-a-hazai-zeneiparrol&#34; target=&#34;_blank&#34;&gt;Tudományosan a hazai zeneiparról&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Szlovákul:&lt;/p&gt;
+
+&lt;p&gt;SME: &lt;a href=&#34;https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html&#34; target=&#34;_blank&#34;&gt;SOZA predstavila prvú Správu o slovenskom hudobnom priemysle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kreatívna Europa: &lt;a href=&#34;http://www.cedslovakia.eu/clanky/sprava-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34;&gt;Historicky prvá Správa o slovenskom hudobnom priemysle prináša okrem analýz aj odporúčania pre budúcnosť&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/86x5wKAlsIetxA&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018&#34; title=&#34;Spáva o hudobnom priemysle na Slovensku&#34; target=&#34;_blank&#34;&gt;Spáva o hudobnom priemysle na Slovensku&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My economic impact package, iotables, has a much updated released on CRAN</title>
+      <link>/hu/post/iotables_04/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>/hu/post/iotables_04/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://zenodo.org/badge/latestdoi/108267715&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/108267715.svg&#34; alt=&#34;DOI&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This package was related to several of my works for Slovak, Hungarian and Croatian music industry and the Hungarian Film Fund, and my collaboration with Eeconomic impacT s.r.o in the Czech Republic. My R package downloads symmetric input-output and related tax, margins, use tables from the Eurostat bulk data warehouse, and organizes them for macroeconomic analysis.&lt;/p&gt;
+
+&lt;p&gt;The analytical functions of the package create the usual economic impact analysis, including direct effects, multipliers on gross value added, employment, CO2 or other factors. The package creates a programmatic interface to compare economic impact changes in time, or compare any country with any country in the European Union.&lt;/p&gt;
+
+&lt;p&gt;The package is accompanied by three articles (or ‘vignettes’).  The &lt;a href=&#34;http://iotables.ceemid.eu/articles/germany_1990.html&#34; target=&#34;_blank&#34;&gt;Germany 1990&lt;/a&gt; re-creataes almost all of the practical examples of the &lt;a href=&#34;http://ec.europa.eu/eurostat/documents/3859598/5902113/KS-RA-07-013-EN.PDF/b0b3d71e-3930-4442-94be-70b36cea9b39?version=1.0&#34; target=&#34;_blank&#34;&gt;Eurostat Manual of Supply, Use and Input-Output Tables&lt;/a&gt; by Jörg Beutel.  This may be used as a tutorial to input-ouput analysis or understanding the package interface. Furthermore, it creates as a verification tool in the package testthat infrastructure to make sure that the functions correctly return all published, verified examples by Prof. Beutel.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://iotables.ceemid.eu/articles/united_kingdom_2010.html&#34; target=&#34;_blank&#34;&gt;United Kingdom Input-Output Analyitcal Tables&lt;/a&gt; article similarly recreates the analytical results, such as GVA and employment cost effects for the &lt;a href=&#34;https://webarchive.nationalarchives.gov.uk/20160114044923tf_/http://www.ons.gov.uk/ons/rel/input-output/input-output-analytical-tables/2010/index.html&#34; target=&#34;_blank&#34;&gt;United Kingdom 2010&lt;/a&gt; table.  While the current UK tables and standard Eurstat tables are somewhat different, this table is accompanied by Richard Wild’s excellent article and published analytical results.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://iotables.ceemid.eu/articles/working_with_eurostat.html&#34; target=&#34;_blank&#34;&gt;Working with Eurostat data article&lt;/a&gt; shows how to work with real-life, current, SNA2010 compatible data from the Eurostat data warehouse. It contains some comparative results between Czechia and Slovakia.  The package is in itself is extending the functionality of the eurostat package, and it is released with eurostat in the rOpenGov community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jogdíjak meghatározása</title>
+      <link>/hu/esetek/jogdijak_meghatorozasa/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/esetek/jogdijak_meghatorozasa/</guid>
+      <description>
+
+&lt;p&gt;The copyright royalty is the wage of the music performer, composer and producer. Musicians earn their income after their recorded performances when it is played in a public performance or when it is mechanically copied.   Like wages and services in a market economy, the remuneration for the use of their work should reflect some sort of market value.  In the case of copyrighted music, this market value is a part of the added value in a service.&lt;/p&gt;
+
+&lt;p&gt;##CEEMID
+The following steps apply to collective rights management, which is most of rights management in the Central, Eastern and Southern European markets.  In individual rights managements, some of these techniques can be useful, but further methods can be used, because they are usually not limited to the same extent by competition law restrictions.&lt;/p&gt;
+
+&lt;p&gt;CEEMID, the Central Eastern European Music Industry Database was set up after a memorandum was signed by several collective management entities and my former consulting company.  Its main objective was to collect and organize data in a way that allows to calculate the economic value added of music and other relevant data for setting the price of music. CEEMID contains hundreds of indicators about music consumption, price, and related economic, sociocultural and consumption data.&lt;/p&gt;
+
+&lt;h2 id=&#34;appropirate-benchmarks&#34;&gt;Appropirate benchmarks&lt;/h2&gt;
+
+&lt;p&gt;The jurisprudence of the Court of the European Union has touched upon music collective royalties with increasing frequency in the last decade.  I believe that currently the most applicable case law is &lt;a href=&#34;http://curia.europa.eu/juris/document/document.jsf?text=&amp;amp;docid=194436&amp;amp;pageIndex=0&amp;amp;doclang=EN&amp;amp;mode=lst&amp;amp;dir=&amp;amp;occ=first&amp;amp;part=1&amp;amp;cid=273330&#34; target=&#34;_blank&#34;&gt;Autortiesību un komunicēšanās konsultāciju aģentūra/Latvijas Autoru apvienība v Konkurences padome&lt;/a&gt;, or shortly, &lt;em&gt;AKKA/LAA vs Konkurences padome&lt;/em&gt;. A notable precursor to this decision the one made in the Czech case between the Czech collective management organization OSA and hotels, &lt;a href=&#34;http://curia.europa.eu/juris/liste.jsf?oqp=&amp;amp;for=&amp;amp;mat=or&amp;amp;lgrec=en&amp;amp;jge=&amp;amp;td=%3BALL&amp;amp;jur=C%2CT%2CF&amp;amp;num=C-351%252F12&amp;amp;page=1&amp;amp;dates=&amp;amp;pcs=Oor&amp;amp;lg=&amp;amp;pro=&amp;amp;nat=or&amp;amp;cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&amp;amp;language=en&amp;amp;avg=&amp;amp;cid=1996526&#34; target=&#34;_blank&#34;&gt;OSA v Léčebné lázně Mariánské Lázně&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;According the Court decision, significant differences between royalty prices on the European Single Market must be based on objective differences of economic, sociocultural factors and consumption habits.  In the past 5 years, CEEMID has collected hundreds of economic, sociocultural consumption indicators to understand the differences of European markets in live music, recorded music, and in the important connecting markets of films, software games, restaurants, hotels, tv, radio and other big users of music.&lt;/p&gt;
+
+&lt;h2 id=&#34;international-comparison&#34;&gt;International comparison&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;adding-original-valuation&#34;&gt;Adding original valuation&lt;/h2&gt;
+
+&lt;p&gt;An important problem with international comparison is that it will create a deadly vortex to the bottom if it is not applied in all territories, and no independent valuations are made.  The international comparison is a benchmarking exercise at most, but it gives no direct valuation of music royalties. It is a very useful start, but it should be combined with true valuation.&lt;/p&gt;
+
+&lt;p&gt;The value of music, when used by business entities, such as radio stations, restaurants, or software game producers is based on the value in use, or the value added by combining music with some other service or product.  A study commissioned by IFPI, the international record industry body, has enumerated several methods to value music in &lt;a href=&#34;https://www.ifpi.org/content/library/valuing_the_use_of_recorded_music.pdf&#34; target=&#34;_blank&#34;&gt;a study&lt;/a&gt;  created by PWC.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Analysing ‘comparable’ market outcomes&lt;/strong&gt; is a very powerful tool, because it uses information that is most trusted by auditors and courts: market prices. The CEEMID full market model, powered by CEEMID indicators and nationally representative special consumer surveys, is very advanced application of the comparable market outcomes model, and it can be used to measure the value gap, set the value of private copying, or price collectively managed or individually managed royalties.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Analysing the value music adds to businesses&lt;/strong&gt; has an economic and a financial model.  The financial model is not very useful in Central and Eastern Europe because of the lack of information, but the hedonic pricing economic model is a very powerful tool. We used it with CEE clients for setting restaurant and hotel tariffs.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Analysing the behaviour and preferences of consumers&lt;/strong&gt; leads to various experimental models, such as test screenings / hearings.  They are widely used in the radio, film, television industry, and generally they are a very good tool for individual royalties.  However, we also used them successfully to establish royalty tariffs for restaurants and department stores.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Which model to choose? In my experience, the best is to use as many as possible, because data limitations, and limitations of competition authorities or regulators to understand the models may not be foreseen.  A good international comparison following the guidelines of the CJEU and at least two independent valuations usually wins the argument.&lt;/p&gt;
+
+&lt;h2 id=&#34;adding-original-valuation-1&#34;&gt;Adding original valuation&lt;/h2&gt;
+
+&lt;h2 id=&#34;documentation-and-data-maintenance&#34;&gt;Documentation and data maintenance&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Market Reports</title>
+      <link>/hu/project/market_report/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>/hu/project/</guid>
-      <description></description>
+      <guid>/hu/project/market_report/</guid>
+      <description>&lt;p&gt;I have been creating market reports for 20 years, mainly in emerging markets where data is scarce and often has little history.&lt;/p&gt;
+
+&lt;p&gt;Starting as a junior consultant, I learned a lot about data acquisition. Later I held a &amp;lsquo;strategic information management&amp;rsquo; position in the Ministry of Economy and Transport in Hungary with oversight on the national statistical data collection. As a senior consultant and a former lecture, I used to train junior colleagues and journalists on data acquisition. Nowadays most of my data collection is automatized via custom software developed for CEEMID. This leaves a bit of extra time to think about novel ways to add to the picture.&lt;/p&gt;
+
+&lt;p&gt;I work completely in the reproducible research paradigm, where my consulting slide presentations and reports include all the data used, the program code to manipulate, organize them, and the models applied for forecasting, calculation, estimation.  As a CFA charterholder I follow very strict data retention and transparency rules and I found this the state of the art method to comply with the ever growing client and regulatory expectations in this field.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Press the tag below to see more examples&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/hu/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
+      <link>/hu/post/how_many_ever_pay/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/hu/post/</guid>
-      <description></description>
+      <guid>/hu/post/how_many_ever_pay/</guid>
+      <description>&lt;p&gt;In our recent private copying reports we compiled European survey data relevant to analysis.  In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.&lt;/p&gt;
+
+&lt;p&gt;In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.  These survey data, accompanied by other objective data, can help explaining 96% of the variance among digital music sales levels within the EU countries, and it is highly relevant in calculating the economic benefit of home copying for users, and the harm for rightsholders.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/hu/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Slovak Music Industry Report</title>
+      <link>/hu/post/ceemid_19/</link>
+      <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
       
-      <guid>/hu/publication/</guid>
-      <description></description>
-    </item>
+      <guid>/hu/post/ceemid_19/</guid>
+      <description>&lt;p&gt;You can review the slides here.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
     
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/hu/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>/hu/talk/</guid>
-      <description></description>
-    </item>
     
-    <item>
-      <title>Slides</title>
-      <link>/hu/slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Slovak Music Industry Report&#34; href=&#34;/img/Slide1.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slide1.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
       
-      <guid>/hu/slides/</guid>
-      <description></description>
+    
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Music industry has a great potential to create jobs…&#34; href=&#34;/img/Slide2.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slide2.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Mapping the Slovak Music Industry&#34; href=&#34;/img/Slide3.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slide3.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Mapping the Slovak Music industry&#34; href=&#34;/img/Slide4.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slide4.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;The importance of the changing VAT regulation&#34; href=&#34;/img/Slide5.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slide5.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;The need of stronger copyright protection and higher royalty values&#34; href=&#34;/img/Slide6.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slide6.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Critical size in the global market requires strong national players&#34; href=&#34;/img/Slide7.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slide7.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Part of an animation, not animated here.&#34; href=&#34;/img/Slide8.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slide8.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Short-term growth with foreign revenues&#34; href=&#34;/img/Slide9.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slide9.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Get involved&#34; href=&#34;/img/Slidez10.JPG&#34;&gt;
+    &lt;img src=&#34;/img/Slidez10.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

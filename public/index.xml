@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Antal, CFA on Daniel Antal, CFA</title>
@@ -6,74 +7,402 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 11 Mar 2020 12:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0100</pubDate>
+      <title>ESCO Focus Group on CCI Occupations and Skills</title>
+      <link>/talk/2020_03_12_esco/</link>
+      <pubDate>Wed, 11 Mar 2020 14:16:00 +0100</pubDate>
       
-      <guid>/project/</guid>
-      <description></description>
+      <guid>/talk/2020_03_12_esco/</guid>
+      <description>&lt;p&gt;I will be participating in the &lt;strong&gt;ESCO Focus group on Cultural and Creative Occupations and Skills&lt;/strong&gt; of the &lt;a href=&#34;https://creativeflip.creativehubs.net/&#34; target=&#34;_blank&#34;&gt;Creative FLIP&lt;/a&gt; project.&lt;/p&gt;
+
+&lt;p&gt;CEEMID has a large enough answer pool for an empirical clustering of occupations. We are able to perform clustering of job descriptions, earnings, educational levels, and work output (such as films, documentaries, TV programmes, live music performances, music compositions, etc) to empirically create groups with a “set of jobs whose main tasks and duties are characterised by a high degree of similarity” in terms of economic activity and work output. Further details in the &lt;a href=&#34;/post/2020-03-11-esco/&#34;&gt;blog post here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Use Cases</title>
-      <link>/usecase/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      <title>An Empirical Approach To Modernizing The Cultural and Creative Occupations and Skills Classifications</title>
+      <link>/post/2020-03-11-esco/</link>
+      <pubDate>Wed, 11 Mar 2020 12:30:00 +0100</pubDate>
       
-      <guid>/usecase/</guid>
-      <description>&lt;p&gt;In this section I will give a few examples of how I work.  Please review my approach to:&lt;/p&gt;
+      <guid>/post/2020-03-11-esco/</guid>
+      <description>&lt;p&gt;CEEMID has been conducting surveys among music and film professionals for 6 years.  So far, about 5000 music and 1500 film professionals filled out our detailed questionnaire about their working conditions, skills, tasks.  Some of our surveys were related to training needs assessments, and other professional growth assessments.&lt;/p&gt;
+
+&lt;p&gt;The ESCO system builds on occupations, skills and qualifications. Our general experience is that in the music and film industry, because of the lack of life-long learning opportunities, the absence of large employers, low level of unionization, and generally the mixed nature of occupations, informal learning practices play a very important role.  Therefore, the skills and especially the qualifications pillars of the ESCO system are less helpful in their current forms.&lt;/p&gt;
+
+&lt;p&gt;A very important problem with the occupations pillar is that creative workers tend to work in microenterprises without a high degree of specialization, and they tend to mix artistic professional, technician and other occupational tasks.  Obviously, in these microenterprises, where there are no HR professional present, we cannot talk about job descriptions, and we devised an empirical strategy to evaluate the actual occupation of our respondents.  We created industry-specific taxonomies of economic activities that we tried to map with economic activities (which came more natural in microenterprises than job descriptions), education, and occupational groups.  In our surveys, we asked music and film professionals to self-identify with a primary, and an optional secondary 100 music industry specific and about 250 film industry specific role.&lt;/p&gt;
+
+&lt;p&gt;The creation of a recorded music product or a live music performance typically requires the contribution of 9-250 professionals, while a film may require 30-3000 people to produce, including almost all elements of the music output. Unsurprisingly, we found a higher level of specialization in the film industry than in the music industry, but in both industries, it was common that a creative worker’s occupation could be mapped to both an artistic professional and a technician role.  The role of qualifications played a very little role, particularly in the popular music field, where most roles are anyway learned in informal learning practices.
+Because most creative workers work in some entrepreneurial form, we used both ESCO and NACE coding to identify their main tasks.  As a starting point, we used the 5-digit national NACE economic activity descriptions of Hungary, and adjusted them in consultation with key professionals, film producers as employers and professional associations.&lt;/p&gt;
+
+&lt;p&gt;We have a large enough answer pool — sometimes proven to be representative of the country’s professional group population — that we would be able to create new occupational descriptions on an empirical basis. We are able to perform clustering of job descriptions, earnings, educational levels, and work output (such as films, documentaries, TV programmes, live music performances, music compositions, etc) to empirically create groups with a “set of jobs whose main tasks and duties are characterised by a high degree of similarity” in terms of economic activity and work output.&lt;/p&gt;
+
+&lt;p&gt;It is a well-known fact that creative economic activities require complex mapping because freelancer, micro- and small enterprises are mixing heterogenous activities that are stretching across various economic activity (NACE) classes and ESCO occupational groups.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/ceemid/rolepairs-ceereport-3-2.png&#34; alt=&#34;Mixed Career Routes: Primary And Secondary Roles&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Empirically, we see that creative people are usually combining various artistic roles.(The chart above is taken from the &lt;a href=&#34;http://ceereport2020.ceemid.eu/supply.html#creators-of-music&#34; target=&#34;_blank&#34;&gt;3.2 chapter&lt;/a&gt; of the Central European Music Industry Report)&lt;/p&gt;
+
+&lt;p&gt;The combination of technical and artistic roles is also very frequent, and a sizeable minority combines artistic and educational, artistic and managerial or artistic and technical roles.  The ‘occupation’ chosen for the workshop, i.e. ‘singer’, is a rather rare one, as the most likely artistic occupation in popular music is ‘singer-songwriter’.  Singers can be found often to work in sound engineering, too. Generally, up to half of the roles that creatives are performing are combining 264-265 artistic Professional elements and the very broad 3435 Other artistic and cultural associate professionals’ roles. Furthermore, in both the music and the film industry, the general educational level can be quiet low — both industries create a lot of jobs for young, not highly-educated people —, where clerical support work elements, or elementary professions elements are mixing with either technician or artistic roles.&lt;/p&gt;
+
+&lt;p&gt;Our research was not designed to identify new ESCO groups, but we believe that our data is very well suited for this. Interestingly, much of our research arrived at occupational groupings from a learning needs assessment or educational needs assessment perspective, which we believe to be very problematic in both the music and film industry.  Almost all creative industry professionals in the music and film industry work in microenterprises, a small minority in small enterprises, and only a very few people in medium-sized enterprises.  Micro-enterprises and small enterprises usually have no strategic HR functions, do not perform learning needs, do not offer in-house training, and do not have the ability to send workers to any regular formal training.  This leads to a very wasteful human resources management, because there is a huge workforce surplus present, but at the same time, because of skills shortages, key workers are extremely overworked, and generally there is a huge structural workforce shortage present.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/usecase/royalty_setting/&#34;&gt;Royalty Setting&lt;/a&gt; including private copying remuneration and value transfer calculations;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/usecase/music_industry_mapping/&#34;&gt;Mapping the Music Industry&lt;/a&gt; such as re-use of public sector information and big data sources.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/usecase/impact/&#34;&gt;Economic Impact Assessments&lt;/a&gt; including private copying remuneration and value transfer calculations;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/usecase/musicians/&#34;&gt;Surveys&lt;/a&gt; about cultural access and participation and about creating value and jobs in the music and film sector;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/usecase/big_data/&#34;&gt;Experimental and Innovative Data Sources&lt;/a&gt; such as re-use of public sector information and big data sources.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ec.europa.eu/esco/portal/document/en/0a89839c-098d-4e34-846c-54cbd5684d24&#34; target=&#34;_blank&#34;&gt;ESCO handbook - European Skills, Competences,
+Qualifications and Occupations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34;&gt;Central Euorpean Music Industry Report 2020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Programatic Approach To Work With European Regional Data Panels</title>
+      <link>/post/2020-02-13-regional_eurostat/</link>
+      <pubDate>Thu, 13 Feb 2020 12:30:00 +0100</pubDate>
       
-      <guid>/post/</guid>
-      <description></description>
+      <guid>/post/2020-02-13-regional_eurostat/</guid>
+      <description>&lt;p&gt;A very important part of my work is to pre-process data, and integrate various data tables into tidy, comprehensive data tables or databases.  This is particularly difficult but rewarding when I work with statistics on sub-national, regional level.  While country borders are very rarely change in the world, regional boundaries are changing on average every three years withing the European Union. Putting together data with 2010, 2013, 2017 and the forthcoming 2021 regional boundaries is a very difficult task.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/nuts_history.png&#34; alt=&#34;Regional borders are changing very frequently&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I released as open source code some of my work withing the &lt;a href=&#34;http://ropengov.github.io/&#34; target=&#34;_blank&#34;&gt;rOpenGov&lt;/a&gt; collaboration in the form of the 3.6.1 version of the R package &lt;a href=&#34;http://ropengov.github.io/eurostat/&#34; target=&#34;_blank&#34;&gt;eurostat&lt;/a&gt;, which precisely helps users and researchers with this very painful, error-prone task.  As a result, more and more of my work, and particularly the music indicators of CEEMID, are becoming available not only for the EU member states but for regions, too.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/gerd_by_region.gif&#34; alt=&#34;More difficult to create than you think&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The software code was originally created within a project with IVIR, where we try to understand the drivers of book piracy in Europe.  As 2018 data started pouring into Eurostat’s warehouse, we realized that the NUTS2017 boundary changes made all our reproducible research code fail.   After cleaning, imputing many variables relevant for the internet society, research and book publishing, I created a code that is dealing with all current Eurostat regional products. In the future, I would like to extend this to city/metropolitan area statistical products, too.&lt;/p&gt;
+
+&lt;p&gt;If you work with the R language, you can read &lt;a href=&#34;http://ropengov.github.io/eurostat/articles/website/regional_data.html&#34; target=&#34;_blank&#34;&gt;my tutorial&lt;/a&gt; and dwell into regional data right now. If not, you can always ask me to create a tidy, correctly merged and imputed data panel for regional statistics over the last decade in Europe.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>OpenData</title>
+      <link>/project/opendata/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0100</pubDate>
       
-      <guid>/publication/</guid>
-      <description></description>
+      <guid>/project/opendata/</guid>
+      <description>&lt;p&gt;I have been involved in various OpenData projects since 2007, shortly after the introduction of the groundbreaking &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098&#34; target=&#34;_blank&#34;&gt;Re-Use of Public Sector Information Directive&lt;/a&gt; (last year replaced with the new &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&amp;amp;uri=CELEX:32019L1024&#34; target=&#34;_blank&#34;&gt;Open Data Directive&lt;/a&gt;) of the Euroepan Union. (A brief history of this important EU policy can be found &lt;a href=&#34;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and its importance &lt;a href=&#34;https://www.europeandataportal.eu/sites/default/files/re-using_open_data.pdf&#34; target=&#34;_blank&#34;&gt;(pdf)&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Press the tag below to see more examples&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>CCS Ecosystems: Evidence-Driven CCI Policy &amp; The Central &amp; Eastern European Music Industry Report</title>
+      <link>/post/2020-01-30-ceereport/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
       
-      <guid>/talk/</guid>
-      <description></description>
+      <guid>/post/2020-01-30-ceereport/</guid>
+      <description>
+
+&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
+
+&lt;p&gt;My presentation was focused around the question on invisibility of the CCI sector in the economic, education and labour policymaking, and the low level of data use in fact-based cultural policy design, and the following policy design problems. Our CEE Music Industry Report 2020 created with the help and support of Consolidated Independent was used as a use case for the problems.&lt;/p&gt;
+
+&lt;p&gt;This blog post is an edited version of my presentation and the subsequent panel discussion with the stakeholders and organizers.&lt;/p&gt;
+
+&lt;p&gt;The CEE Report builds on the results of the first &lt;a href=&#34;https://danielantal.eu/publication/hungary_music_industry_2014/&#34; target=&#34;_blank&#34;&gt;Hungarian&lt;/a&gt;, &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34;&gt;Slovak&lt;/a&gt;, &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34;&gt;Croatian&lt;/a&gt; and &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp;amp; Eastern European Music Industry Report 2020&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;invisibility&#34;&gt;Invisibility&lt;/h2&gt;
+
+&lt;p&gt;The measurement problems and the ‘invisibility’ of creative and cultural industries is a consequence of the fact that these industries are predominantly comprised of microenterprises and individual, freelancing entrepreneurs.  Even larger entities, such as collective management organizations can be classified as small enterprises.
+In the EU, small- and medium enterprises, and especially microenterprises usually have reduced reporting duties to the statistical authorities and tax authorities (which is the most important secondary source of government statistics in anonymized, aggregated form.)  This means that the supply side is not visible for policymakers. The recommendation is to conduct sample-based surveys among these microenterprises, but very few member states do that.&lt;/p&gt;
+
+&lt;p&gt;Another problem is that on the demand side, not all member states create statistics.  ESSNet-Culture created recommendations how to measure cultural access and participation, which is a broader term than cultural consumption, as it includes non-market forms, for example, liturgical music, amateur acting, and so on.  The European Commission sometimes makes excellent, but not detailed &lt;a href=&#34;https://danielantal.eu/usecase/cap/&#34; target=&#34;_blank&#34;&gt;CAP surveys&lt;/a&gt;, which are the most important sources of Eurostat’s relevant pan-European statistics.&lt;/p&gt;
+
+&lt;p&gt;CEEMID has been making such surveys, both on the supply side (in music and film) and in the audience side (in music, film, theatre, opera, and artistic activities) in several member states, and has plenty of experience with using the EU-mandated CAP surveys of 2007 and 2013. The CEE report relies on the latter date set in first part of the &lt;a href=&#34;http://ceereport2020.ceemid.eu/audience.html&#34; target=&#34;_blank&#34;&gt;audience analysis&lt;/a&gt;. Our work was already presented in 2015 as a best use case in &lt;a href=&#34;https://danielantal.eu/publication/creating_better_2015/&#34; target=&#34;_blank&#34;&gt;Creating better national cultural statistics with Eurobarometer datasets and ESSNet-Culture technical recommendations&lt;/a&gt; at GESIS, which maintains the Eurobarometer archives, on the Eurobarometer Symposium &lt;a href=&#34;https://www.gesis.org/fileadmin/upload/events/EB-Symposium/Announcement_EB_Symposium.pdf&#34; target=&#34;_blank&#34;&gt;Four Decades of Surveying Europe –
+Perspectives on Academic Research with the European Commission’s Eurobarometer Surveys&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For the EU the lowest hanging fruit would be to critically assess the past surveys, including the partial CAP survey made in 2017 for the cultural heritage part of culture, and the national surveys conducted by CEEMID and its partners, and to mandate an annual or biannual CAP survey within the Eurobarometer series, probably as a specially sampled “Special Eurobarometer”.  This would very significantly reduce the costs compared to a country-to-country basis, and probably could be shared by other institutions, for example, with the European Audiovisual Observatory.  This alone would greatly increase the demand / consumption side information on the services of creative and cultural enterprises.&lt;/p&gt;
+
+&lt;p&gt;In the panel discussion Consolidated Independent highlighted the problem of leaving sample-based statistics making to the industry itself, which leads to myopical incentives to create ‘policy-based evidence’ that is cherry picked by industry trade associations to fit their often not very well thought out policy agenda.  In our view, the most important role of a future European Music Observatory would be to set standards to data collection and integration.  The music industry is  one of the most data-rich industries globally, but the publicly available, verified, trustworthy information is scarce both for policy-making and for business planning among microenterprises who have know specialized research know-how. Our already existing, representative &lt;a href=&#34;http://survey2019.ceemid.eu/&#34; target=&#34;_blank&#34;&gt;national surveys&lt;/a&gt; should and could be extended to the whole Europe with the quality control and visibility offered by such an Observatory.&lt;/p&gt;
+
+&lt;h2 id=&#34;industry-organization&#34;&gt;Industry organization&lt;/h2&gt;
+
+&lt;p&gt;A very significant challenge with evidence-based policymaking, or, in fact, with any policy making is that the extremely fragmented nature of the industry makes national and EU-level consultations very difficult.  Most of the workforce is neither a classical employer nor employee but works as a freelancer or a micro-entrepreneur. Their views are very rarely represented by trade unions or employee associations or chambers of commerce. Despite all efforts on EU level to make the social dialogue more representative for atypical and flexible work forms, the problems and the views of the creative and cultural sectors are largely unrepresented in policy debate.&lt;/p&gt;
+
+&lt;p&gt;A prime example of this problem is the very heavy over-taxation of the music industry that we have shown in the &lt;a href=&#34;https://danielantal.eu/publication/hungary_music_industry_2014/&#34; target=&#34;_blank&#34;&gt;Hungarian&lt;/a&gt; and &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34;&gt;Slovak&lt;/a&gt; national music industry reports, and in other documents in Croatia.  The problem is not only characteristic for the music industry, but generally all CCIs because they share similar economic properties: no real chance to use tax breaks, high level of labour input and high level of value added.  While policy makers and granting authorities spend much time on trying to improve the financing of this sector, in fact, reducing over-taxation would make a much more imminent impact on the liquidity, profitability and growth opportunities of the sector.&lt;/p&gt;
+
+&lt;p&gt;However, in the making of economic and tax policies, the fragmented creative and cultural industries hardly can represent their special situation.&lt;/p&gt;
+
+&lt;h2 id=&#34;policy-issues&#34;&gt;Policy issues&lt;/h2&gt;
+
+&lt;p&gt;Apart from taxation issues, which significantly reduce the liquidity, profitability and growth opportunities of these sectors in many EU countries, particularly in the CEE, where corporate taxes are low but value-added taxes are high, there are other important policy problem that reduce the long-term growth capacity of the sector.&lt;/p&gt;
+
+&lt;p&gt;The very small enterprise size leads to missing strategic human resources (HR) and research and development (R&amp;amp;D) functions in almost all enterprises – including simple market research activities.  Companies with 1-2 employees do not have specialized management and support functions, and thus they have a very strong handicap in HR and R&amp;amp;D.&lt;/p&gt;
+
+&lt;p&gt;A good example of this problem is the motion picture and TV industry.  These industries were comprised of medium-sized enterprises in the 1980s with significant in-house education functions. The current structure of these industries, however, resembles music, with almost all enterprises staying below the 5-person threshold.  In our experience, based on development needs assessments in the Hungarian motion picture and the &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34;&gt;Czech music industry&lt;/a&gt;, this creates an acute skills and labor shortage.  Missing skills cannot be well replaced by recruitment, or with strategic HR development via life-long learning.&lt;/p&gt;
+
+&lt;p&gt;Similarly to very reduced opportunities to participate in, and create life-long learning schemes, there are very little chances to engage in market research and R&amp;amp;D.  While the music industry, for example, is one of the most data-driven industries in the world, the microenterprise size does not allow that these enterprises commission market research or hire data scientists. This leads to very asymmetrical relationships with the main distributors of music and media content on platforms that are owned by global data companies.&lt;/p&gt;
+
+&lt;h2 id=&#34;recommendations&#34;&gt;Recommendations&lt;/h2&gt;
+
+&lt;p&gt;I made a few concrete recommendations in the panel.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Creating the European Music Observatory, and the creation of similar industry initiatives, and commissioning collaborative (multi-stakeholder) market research, as CEEMID works in many countries, can only replace the missing market research function in the extremely fragmented industries, such as motion picture production, the music industry, but to a certain degree architecture and design.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A low-hanging fruit would be a critical assessment of the previous Pan-European CAP surveys and the comparable national CAP surveys conducted by CEEMID and its partners following the ESSNet Culture recommendations and the inclusion of the CAP surveys in an annual or bi-annual form in the Eurobarometer (Special) series. A Special Eurobarometer may be more suitable because usually a non-proportional weighting of the sample gives the best value for money in these surveys.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Critically reviewing the participation of micro-enterprises in the current forms of social dialogue and looking for formal or informal ways to increase participation in policy making can gradually lead to more creative-friendly economic regulation and tax policies.  The Hungarian Music Industry Report 2015 and the Slovak Music Industry Report 2019 contains very interesting case studies for this problem that we briefly summarize in the &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34;&gt;CEE Music Industry Report 2020&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Critically reviewing the few examples from mainly Nordic member states where collective agreements and other collaborative institutions allow microenterprises and freelancers to participate in life-long learning problems can help designing policies that will gradually reduce the huge skill gap of the CCIs in management know-how, data know-how, or renew their technical skills necessary in the production of their services and content. Our work with the Hungarian National Film Fund and surveys among more than a thousand film makers can give much insight into this problem.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;further-links&#34;&gt;Further links&lt;/h2&gt;
+
+&lt;p&gt;Our research findings were earlier presented and discussed in &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34;&gt;Vienna&lt;/a&gt;, &lt;a href=&#34;https://danielantal.eu/post/2019-11-09-nouvelle-prague/&#34; target=&#34;_blank&#34;&gt;Prague&lt;/a&gt;, &lt;a href=&#34;https://danielantal.eu/post/2019-11-18-bush/&#34; target=&#34;_blank&#34;&gt;Budapest&lt;/a&gt; and &lt;a href=&#34;https://danielantal.eu/talk/slovak_report19/&#34; target=&#34;_blank&#34;&gt;Bratislava&lt;/a&gt; with stakeholders.&lt;/p&gt;
+
+&lt;p&gt;You can follow Creative FLIP project on &lt;a href=&#34;https://twitter.com/creativeflip_eu?lang=en&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>/slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Central &amp; Eastern European Music Industry Report 2020</title>
+      <link>/publication/ceereport_2020/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
       
-      <guid>/slides/</guid>
-      <description></description>
+      <guid>/publication/ceereport_2020/</guid>
+      <description>
+
+&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
+
+&lt;p&gt;The CEE Report builds on the results of the first &lt;a href=&#34;https://danielantal.eu/publication/hungary_music_industry_2014/&#34; target=&#34;_blank&#34;&gt;Hungarian&lt;/a&gt;, &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34;&gt;Slovak&lt;/a&gt;, &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34;&gt;Croatian&lt;/a&gt; and &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
+
+&lt;p&gt;Our research findings were earlier presented and discussed in Vienna, Prague, Budapest and Bratislava with stakeholders.&lt;/p&gt;
+
+&lt;p&gt;You can find the earlier presentations in the &lt;a href=&#34;#posts&#34;&gt;blog&lt;/a&gt; section of the website.&lt;/p&gt;
+
+&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
+
+&lt;p&gt;The first Central European Music Industry Report is the result of a co-operation that started among stakeholders in three EU countries five years ago to measure the economic value added of music – the basis of a modern royalty pricing system. This gave birth to CEEMID, originally the Central &amp;amp; Eastern European Music Industry Databases, a data integration programme that now in 2020, covers all of Europe. CEEMID fulfils similar roles to the planned European Music Observatory and supports all pillars of the future pan-European system.&lt;/p&gt;
+
+&lt;p&gt;The comparison of Western and Eastern music audiences reveals key demographic differences that make the unchanged adoption of business practices from mature markets in the region questionable. &lt;a href=&#34;http://ceereport2020.ceemid.eu/audience.html&#34; target=&#34;_blank&#34;&gt;Chapter 2&lt;/a&gt; of this report will show these differences and their consequences on music markets, in terms of visiting and acquisition likelihood, frequency, seasonality and purchasing capacity. This is an example of how CEEMID fulfils the role of Pillar 3 (music, society and citizenship) in the planned European Music Observatory.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ceereport2020.ceemid.eu/supply.html&#34; target=&#34;_blank&#34;&gt;Chapter 3&lt;/a&gt; contrasts market demand with the supply strategies of musicians. CEEMID has been surveying music professionals, including artists, technicians and managers about their working conditions, market conditions and plans for five years across a growing number of countries. In 2019 we invited 100 national and regional stakeholders to distribute our surveys. In some countries, our surveys already have several years of historic data, making the resulting musician database probably the largest ever source of data about how music is produced and how musicians live. We are constantly looking for partners to roll out this survey to new countries in new languages.&lt;/p&gt;
+
+&lt;p&gt;The CEE region has comparative advantages in big music events like festivals, and it has become one of the most important hubs for cultural tourism in the world. We explain this phenomenon in Chapter 4 by showing the differences in demand composition, demography and supply of venues in the second chapter. The lack of a modern and dense network of permanent music venues gave rise to magnificent music festivals in the CEE. Open’er, Sziget and Exit are among the biggest and best festivals in the world, closely followed by several smaller festivals in all countries. The share of festivals in the live music market is many times higher than in Western Europe and they provide vital export revenues to the local music economies. However, they play a limited role in finding new audiences for local artists, as they are increasingly programming for Western audiences by providing shows of international hits. They can only very partially fill in the gaps left by the small venue problem that hit the emerging markets harder than the UK or Australia, where policy action had been already taken to reverse the decline of the availability of smaller live music venues.&lt;/p&gt;
+
+&lt;p&gt;On the recording side, our analysis shows that modern digital services are growing at a faster rate than in mature markets. Because of lower repertoire competition, streaming quantities are similar for a typical Austrian, Czech, Hungarian, Polish or Slovak track than in the mature markets. However, revenue growth is limited because of the interplay of several analysed factors. Our analysis of the live and recorded music markets shows that CEEMID fulfils the roles of the Pillar 1 (music economy) of the planned European Music Observatory.&lt;/p&gt;
+
+&lt;p&gt;Most recorded music sales revenue in the region comes from streaming platforms, just like in the mature markets. Successful sales strategies require a solid knowledge of the global marketplace and the ability to understand and train sales algorithms. Micro-enterprises, such as independent labels, have very limited ability to cope with these functions, given that they do not have market research or R&amp;amp;D functions. CEEMID and Consolidated Independent have started initiating open, national R&amp;amp;D consortia to create the necessary concentration in data assets, analytical capacity and budgets to close this gap. As a first step, CEEMID and Consolidated Independent have created a large, independent music dataset based on hundreds of millions of royalty statement entries to create our market indexes, styled after stock market and bond market indexes. Streaming opportunities are fast changing as roll-out of streaming services is happening at a different rate in various territories; subscription charges and the exchange rate to the producer’s currency vary and repertoire competition emerges in the market. Our volume and revenue indexes in &lt;a href=&#34;http://ceereport2020.ceemid.eu/export.html#recexport&#34; target=&#34;_blank&#34;&gt;Chapter 5.3&lt;/a&gt; are aimed at creating sales algorithms that optimize sales volumes and expected revenues. We believe that this analysis also reveals that CEEMID partially fulfils the roles of Pillar 2 (music diversity and circulation) and feeds important data into Pillar 4 (innovation).&lt;/p&gt;
+
+&lt;p&gt;The region has far bigger untapped potential than most music business executives believe. Households in the region spend a significantly lower share of their recreational budget on music than their Western, Southern or Nordic peers. The region has a lot of untapped cultural purchasing power because servicing is particularly challenging in both the live and recorded sides of the business.&lt;/p&gt;
+
+&lt;p&gt;This upside potential cannot be tapped without better pricing. Royalty levels are often very low in the region. Due to many combined effects analysed in this short report, the gap between royalties earned in the CEE and Western Europe is several times bigger than the difference in GDP or national average wage. These gaps are partly caused by special interests preventing collective management from charging appropriate tariffs for restaurants, media companies or electronic appliance importers and manufacturers, and partly by unfavourable taxation of cultural products and services.&lt;/p&gt;
+
+&lt;p&gt;CEEMID was designed to create economic evidence on royalty pricing, private copying compensation and the creation of economic value added in the industry. In the first Hungarian Music Industry Report of ProArt and in the first Slovak Music Industry Report we have shown that economic and taxation policies of the CEE countries aimed to support car and electronics manufacturing create a distorted, unfavourable economic regime for creative industries. We want to help local stakeholders with economic evidence to correct these discriminatory policies during the overhaul of the EU VAT system. We have been helping various national organizations with economic evidence, presented in the light of latest EU jurisprudence, to improve their pricing activities. Our thousands of indicators were also used in ex ante evaluations of granting schemes.&lt;/p&gt;
+
+&lt;p&gt;In 2020, all EU member states will change their copyright administration legislation because of the national implementations of the &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;790&lt;/sub&gt; Digital Single Market directive. CEEMID provides evidence in several countries about the size and impact mechanism of the value transfer, and generally the widespread use of the copyright exemption for private copying. We believe that the thousands of pan-European music industry indicators that we have aggregated over the five years will play a vital role in these regulatory processes.&lt;/p&gt;
+
+&lt;p&gt;CEEMID fulfils its roles with a very thorough exploitation of the EU’s 17-years-old Open Data regime with the re-use of public sector information, and a very careful mapping of the music industry. These maps help us conduct annual surveys among musicians and the audience, and they help us connect (always with pre-approval and with a user mandate) to industry databases. We do not only cover the EU countries, but increasingly (potential) candidate countries and neighbourhood countries.&lt;/p&gt;
+
+&lt;p&gt;In our vision, this data collection and integration, i.e. Pillars 1-3 should be available for all music stakeholders, should remain public and publicly funded. The last Pillar of the observatory, innovation, is where private entities should compete. The founders of CEEMID and Consolidated Independent believe that this report demonstrates the business and policy benefits of such a system with the analysis of the Central &amp;amp; Eastern European music markets. We believe that this way CEEMID is in a position to serve most of the planned functions of the envisioned European Music Observatory, and we are looking for ways to make either our thousands of indicators, or our data collection and integration software open source and available for all stakeholders in the EU and its neighbours. CEEMID was born out of necessity to level out the different levels of public research and statistical coverage of the EU member states. In our view, private entities in the future should focus their investments in Pillar 4 of the planned observatory, i.e. competing in innovation with creating new models, algorithms and services based on data that is available throughout the European Union without giving further advantage to the already mature markets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Central European Music Industry Report 2020</title>
+      <link>/talk/2020_01_29_flip/</link>
+      <pubDate>Wed, 22 Jan 2020 14:16:00 +0100</pubDate>
+      
+      <guid>/talk/2020_01_29_flip/</guid>
+      <description>
+
+&lt;p&gt;CEEMID &amp;amp; Consolidated Independent will present to the audience the &lt;em&gt;Central European Music Industry Report 2020&lt;/em&gt; (will be availale in all formats on the presentation day) on the &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
+
+&lt;p&gt;Creative FLIP stands for Finance, Learning, Innovation and Patenting is a Pilot project co-funded by the EU whose main objective is to support healthy and sustainable ecosystems for Cultural and Creative Industries (CCIs) with respect to these four key policy areas.&lt;/p&gt;
+
+&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
+
+&lt;p&gt;The first Central European Music Industry Report is the result of a co-operation that started among stakeholders in three EU countries five years ago to measure the economic value added of music – the basis of a modern royalty pricing system. This gave birth to CEEMID, originally the Central &amp;amp; Eastern European Music Industry Databases, a data integration programme that now in 2020, covers all of Europe. CEEMID fulfils similar roles to the planned European Music Observatory and supports all pillars of the future pan-European system.&lt;/p&gt;
+
+&lt;p&gt;The comparison of Western and Eastern music audiences reveals key demographic differences that make the unchanged adoption of business practices from mature markets in the region questionable. Chapter 2 of this report will show these differences and their consequences on music markets, in terms of visiting and acquisition likelihood, frequency, seasonality and purchasing capacity. This is an example of how CEEMID fulfils the role of Pillar 3 (music, society and citizenship) in the planned European Music Observatory.&lt;/p&gt;
+
+&lt;p&gt;Chapter 3 contrasts market demand with the supply strategies of musicians. CEEMID has been surveying music professionals, including artists, technicians and managers about their working conditions, market conditions and plans for five years across a growing number of countries. In 2019 we invited 100 national and regional stakeholders to distribute our surveys. In some countries, our surveys already have several years of historic data, making the resulting musician database probably the largest ever source of data about how music is produced and how musicians live. We are constantly looking for partners to roll out this survey to new countries in new languages.&lt;/p&gt;
+
+&lt;p&gt;The CEE region has comparative advantages in big music events like festivals, and it has become one of the most important hubs for cultural tourism in the world. We explain this phenomenon in Chapter 4 by showing the differences in demand composition, demography and supply of venues in the second chapter. The lack of a modern and dense network of permanent music venues gave rise to magnificent music festivals in the CEE. Open’er, Sziget and Exit are among the biggest and best festivals in the world, closely followed by several smaller festivals in all countries. The share of festivals in the live music market is many times higher than in Western Europe and they provide vital export revenues to the local music economies. However, they play a limited role in finding new audiences for local artists, as they are increasingly programming for Western audiences by providing shows of international hits. They can only very partially fill in the gaps left by the small venue problem that hit the emerging markets harder than the UK or Australia, where policy action had been already taken to reverse the decline of the availability of smaller live music venues.&lt;/p&gt;
+
+&lt;p&gt;On the recording side, our analysis shows that modern digital services are growing at a faster rate than in mature markets. Because of lower repertoire competition, streaming quantities are similar for a typical Austrian, Czech, Hungarian, Polish or Slovak track than in the mature markets. However, revenue growth is limited because of the interplay of several analysed factors. Our analysis of the live and recorded music markets shows that CEEMID fulfils the roles of the Pillar 1 (music economy) of the planned European Music Observatory.&lt;/p&gt;
+
+&lt;p&gt;Most recorded music sales revenue in the region comes from streaming platforms, just like in the mature markets. Successful sales strategies require a solid knowledge of the global marketplace and the ability to understand and train sales algorithms. Micro-enterprises, such as independent labels, have very limited ability to cope with these functions, given that they do not have market research or R&amp;amp;D functions. CEEMID and Consolidated Independent have started initiating open, national R&amp;amp;D consortia to create the necessary concentration in data assets, analytical capacity and budgets to close this gap. As a first step, CEEMID and Consolidated Independent have created a large, independent music dataset based on hundreds of millions of royalty statement entries to create our market indexes, styled after stock market and bond market indexes. Streaming opportunities are fast changing as roll-out of streaming services is happening at a different rate in various territories; subscription charges and the exchange rate to the producer’s currency vary and repertoire competition emerges in the market. Our volume and revenue indexes in Chapter 5.3 are aimed at creating sales algorithms that optimize sales volumes and expected revenues. We believe that this analysis also reveals that CEEMID partially fulfils the roles of Pillar 2 (music diversity and circulation) and feeds important data into Pillar 4 (innovation).&lt;/p&gt;
+
+&lt;p&gt;The region has far bigger untapped potential than most music business executives believe. Households in the region spend a significantly lower share of their recreational budget on music than their Western, Southern or Nordic peers. The region has a lot of untapped cultural purchasing power because servicing is particularly challenging in both the live and recorded sides of the business.&lt;/p&gt;
+
+&lt;p&gt;This upside potential cannot be tapped without better pricing. Royalty levels are often very low in the region. Due to many combined effects analysed in this short report, the gap between royalties earned in the CEE and Western Europe is several times bigger than the difference in GDP or national average wage. These gaps are partly caused by special interests preventing collective management from charging appropriate tariffs for restaurants, media companies or electronic appliance importers and manufacturers, and partly by unfavourable taxation of cultural products and services.&lt;/p&gt;
+
+&lt;p&gt;CEEMID was designed to create economic evidence on royalty pricing, private copying compensation and the creation of economic value added in the industry. In the first Hungarian Music Industry Report of ProArt and in the first Slovak Music Industry Report we have shown that economic and taxation policies of the CEE countries aimed to support car and electronics manufacturing create a distorted, unfavourable economic regime for creative industries. We want to help local stakeholders with economic evidence to correct these discriminatory policies during the overhaul of the EU VAT system. We have been helping various national organizations with economic evidence, presented in the light of latest EU jurisprudence, to improve their pricing activities. Our thousands of indicators were also used in ex ante evaluations of granting schemes.&lt;/p&gt;
+
+&lt;p&gt;In 2020, all EU member states will change their copyright administration legislation because of the national implementations of the &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;790&lt;/sub&gt; Digital Single Market directive. CEEMID provides evidence in several countries about the size and impact mechanism of the value transfer, and generally the widespread use of the copyright exemption for private copying. We believe that the thousands of pan-European music industry indicators that we have aggregated over the five years will play a vital role in these regulatory processes.&lt;/p&gt;
+
+&lt;p&gt;CEEMID fulfils its roles with a very thorough exploitation of the EU’s 17-years-old Open Data regime with the re-use of public sector information, and a very careful mapping of the music industry. These maps help us conduct annual surveys among musicians and the audience, and they help us connect (always with pre-approval and with a user mandate) to industry databases. We do not only cover the EU countries, but increasingly (potential) candidate countries and neighbourhood countries.&lt;/p&gt;
+
+&lt;p&gt;In our vision, this data collection and integration, i.e. Pillars 1-3 should be available for all music stakeholders, should remain public and publicly funded. The last Pillar of the observatory, innovation, is where private entities should compete. The founders of CEEMID and Consolidated Independent believe that this report demonstrates the business and policy benefits of such a system with the analysis of the Central &amp;amp; Eastern European music markets. We believe that this way CEEMID is in a position to serve most of the planned functions of the envisioned European Music Observatory, and we are looking for ways to make either our thousands of indicators, or our data collection and integration software open source and available for all stakeholders in the EU and its neighbours. CEEMID was born out of necessity to level out the different levels of public research and statistical coverage of the EU member states. In our view, private entities in the future should focus their investments in Pillar 4 of the planned observatory, i.e. competing in innovation with creating new models, algorithms and services based on data that is available throughout the European Union without giving further advantage to the already mature markets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Industry Mapping</title>
+      <link>/usecase/music_industry_mapping/</link>
+      <pubDate>Thu, 05 Dec 2019 09:00:00 +0100</pubDate>
+      
+      <guid>/usecase/music_industry_mapping/</guid>
+      <description>
+
+&lt;p&gt;The copyright and neighboring right royalty is the wage-like earning of the music performer, the composer and producer. In popular music performers usually play their own composition and sing their own lyrics. If the musician is self-published, all the three royalties directly pay the artist’s work. If a professional publisher is helping the artist as a composer, or a record producer as a recorded performer, they usually share the respective royalty revenues. In emerging markets fewer, in mature markets more composers are represented by publishers and performers by record labels.&lt;/p&gt;
+
+&lt;h2 id=&#34;classification-of-industries&#34;&gt;Classification of Industries&lt;/h2&gt;
+
+&lt;p&gt;The nature of the creative jobs is that they contain a wide range of activities. Economists and government policymakers classify industries with the &lt;em&gt;Nomenclature statistique des activités économiques dans la Communauté européenne&lt;/em&gt;, in short, with the NACE classification in Europe. This classification is largely harmonized on UN level and can be used to compare almost all economies in the world. The NACE classification has its origins in the economic structure of the middle 20th century, and it is more appropriate for the classification of manufacturing and trading activities, such as car manufacturing, or retail sale of cars.&lt;/p&gt;
+
+&lt;p&gt;The music industry is not even recognized by the NACE classification. For example, musicians often perform music (NACE group 90), compose music (NACE group 90), and at the same time do sound recordings (NACE group 58) and teach music (NACE group 85). Many EU member states do not even create government economic statistics for the NACE 90 classes.&lt;/p&gt;
+
+&lt;p&gt;This is the main reason why music is not well represented in governmental statistics, which is mainly based on tax returns data from ‘clear’ activity groups, such as sound recordings only. Most creative enterprises, and music businesses are no excemptions, do not have a clear economic activity.&lt;/p&gt;
+
+&lt;h2 id=&#34;microenterprises-freelancers&#34;&gt;Microenterprises &amp;amp; Freelancers&lt;/h2&gt;
+
+&lt;p&gt;The music industry, for various reasons, is not part of the NACE industry, and music industry data must be mapped from different data sources.  A further difficulty is that music industry, similarly to the other creative and cultural industries, mainly works in freelancer networks and microenterprises.  All over Europe, microenterprises are exempted from many statistical reporting, and they are filing simplified tax and financial reports.&lt;/p&gt;
+
+&lt;p&gt;The government statistics are largely based on tax returns and other filings of corporate entities with at least 5 employees.  While most manufacturing or trading activities, or licensed service activities such as insurance or banking, are easy to classify, the creative industries are different.  &lt;strong&gt;Because most creative enterprises are smaller than 5 people, they do not file many data for the government or the tax authorities, and they often carry out heterogeneous activities&lt;/strong&gt;.  For example, the music industry is not even recognized by the NACE classification – the live music and compositions can be found in the NACE 90 class, and the sound recordings in the NACE 58 class, and many countries do not even create government economic statistics for the NACE 90 classes.&lt;/p&gt;
+
+&lt;h2 id=&#34;standardized-mapping&#34;&gt;Standardized mapping&lt;/h2&gt;
+
+&lt;p&gt;CEEMID has been mapping data sources for composer, producer and performer royalties, and other data sources since 2014, based on the standard mapping technique developed originally in the United States and later adopted to the EU &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Hull-Geoffrey-P&#34;&gt;&lt;a href=&#34;#fn:Hull-Geoffrey-P&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;CEEMID designed and administered the world&amp;rsquo;s biggest data collection on how musicians work and earn their living.  Over the course of 6 years we collected anonymous data among musicians related to their touring habits, income, costs, recording expenses and income in various channels.&lt;/p&gt;
+
+&lt;p&gt;About 100 stakeholders, among them many collective management organizations helped our work.  Some collective management organizations provided us with anonymous payout lists, which was essential to validate the representativeness of our samples.  We reconstructed the density function of actual payouts, and collected data until our anonymous responses showed a very accurately similar shape.&lt;/p&gt;
+
+&lt;p&gt;Because the music industry all over Europe is mainly made of microenterprise and freelancers, getting an overal picture of the music industry is very difficult.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:Hull-Geoffrey-P&#34;&gt;Hull, Geoffrey P., Thomas W. Hutchison, Richard Strasser, and Geoffrey P. Hull. 2011. &lt;em&gt;The Music Business and Recording Industry Delivering Music in the 21st Century.&lt;/em&gt; New York: Routledge; Leurdijk, Adnra, and Nieuwenhuis Ottilie. 2012. &lt;em&gt;Statistical, Ecosystems and Competitiveness Analysis of the Media and Content Industries. The Music Industry.&lt;/em&gt; 25277 EN. Edited by Jean Paul Simon. Luxembourg: Publications Office of the European Union, 2012: Joint Research Centre Institute for Prospective Technological Studies (IPTS). &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Hull-Geoffrey-P&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Budapest Showcase Hub &amp; Conference 2019</title>
+      <link>/post/2019-11-18-bush/</link>
+      <pubDate>Mon, 18 Nov 2019 16:00:00 +0100</pubDate>
+      
+      <guid>/post/2019-11-18-bush/</guid>
+      <description>&lt;p&gt;We had a very interesting discussion day on the Budapest Showcase Hub with the regional independent labels in the workshop hosted by HAIL and with some concert promoters and music educators in the main conference program.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You can find the full presentation, including slides not shown in the workshop &lt;a href=&#34;https://danielantal.eu/presentation/building-BUSH-2019&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. The presentation is a self-contained big file of 11Mb, takes time to load.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;And here you can review the recordings of the great bands and performers who participated in the showcase festival:&lt;/p&gt;
+
+&lt;iframe src=&#34;https://open.spotify.com/embed/playlist/4DHRVFk6U3pQzYE0I2lpJT&#34; width=&#34;680&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Music Industry 2019</title>
+      <link>/talk/2019_11_19_mokk/</link>
+      <pubDate>Mon, 18 Nov 2019 10:16:00 +0100</pubDate>
+      
+      <guid>/talk/2019_11_19_mokk/</guid>
+      <description>&lt;p&gt;Reading list for students:&lt;/p&gt;
+
+&lt;p&gt;Antal Dániel, 2015. “A Proart zeneipari jelentése. [The Music Industry Report of Proart].” ProArt Szövetség a Szerzői Jogokért Egyesület. &lt;a href=&#34;http://zeneipar.info/letoltes/proart-zeneipari-jelentes-2015.pdf&#34; target=&#34;_blank&#34;&gt;http://zeneipar.info/letoltes/proart-zeneipari-jelentes-2015.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Directive (EU) &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;790&lt;/sub&gt; of the European Parliament and the Council of 17 April 2019 on Copyright and Related Rights in the Digital Single Market and Amending Directives 96/9/EC and 2001/29/EC. 2019. Official Journal of the European Union. &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0790&amp;amp;from=EN&#34; target=&#34;_blank&#34;&gt;https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0790&amp;amp;from=EN&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;EYGM. 2014. “Creating Growth – Measuring Cultural and Creative Industries in Europe.” EYGM Limited. &lt;a href=&#34;http://www.creatingeurope.eu/en/wp-content/uploads/2014/11/study-full-en.pdf&#34; target=&#34;_blank&#34;&gt;http://www.creatingeurope.eu/en/wp-content/uploads/2014/11/study-full-en.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Haan, Jos de, and Andries van den Broek. 2012. “Nowadays Cultural Participation - an Update of What to Look for and Where to Look for It.” In &lt;em&gt;ESSnet-CULTURE, European Statistical System Network on Culture. Final Report&lt;/em&gt;, 397–417. Luxembourg. &lt;a href=&#34;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&#34; target=&#34;_blank&#34;&gt;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Leurdijk, Adnra, and Nieuwenhuis Ottilie. 2012. “Statistical, Ecosystems and Competitiveness Analysis of the Media and Content Industries. The Music Industry.” 25277 EN. Edited by Jean Paul Simon. Luxembourg: Publications Office of the European Union, 2012: Joint Research Centre Institute for Prospective Technological Studies (IPTS). &lt;a href=&#34;http://ftp.jrc.es/EURdoc/JRC69816.pdf&#34; target=&#34;_blank&#34;&gt;http://ftp.jrc.es/EURdoc/JRC69816.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Music Venues Trust. 2015. “Understanding Small Music Venues.” Music Venues Trust. &lt;a href=&#34;https://www.musicvenuetrust.com/wp-content/uploads/2015/03/music_venue_trust_Report_V5-1.pdf&#34; target=&#34;_blank&#34;&gt;https://www.musicvenuetrust.com/wp-content/uploads/2015/03/music_venue_trust_Report_V5-1.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Presentation slides (with Hungarian text):
+&lt;a href=&#34;https://danielantal.eu/presentation/digitalis-zeneipar&#34; target=&#34;_blank&#34;&gt;https://danielantal.eu/presentation/digitalis-zeneipar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges for Independent Labels in 2020</title>
+      <link>/talk/2019_11_14_hail/</link>
+      <pubDate>Mon, 11 Nov 2019 10:18:00 +0100</pubDate>
+      
+      <guid>/talk/2019_11_14_hail/</guid>
+      <description>&lt;p&gt;I am going to present the Hungarian results from our regional &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34;&gt;Central European Music Industry Report&lt;/a&gt;, and reflect on current challenges with promoting music in digital streaming and changes due to the new DSM directive. We will discuss some projects, including market development projects for the non-EU Balkans countries.&lt;/p&gt;
+
+&lt;p&gt;I would like to provide an opportunity on BUSH to give personal feedback to the artists and professionals who gave their personal details in our annual CEEMID Music Professional Survey from Hungary, or anywhere else in the region if they make it to BUSH. More details will be sent to your e-mail addresses, provided you have given us one.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Practical Tools To Plan Better Tours, Record Promotion and Grants. Evidence from 10 countries</title>
+      <link>/talk/2019_11_15_bush/</link>
+      <pubDate>Mon, 11 Nov 2019 10:16:00 +0100</pubDate>
+      
+      <guid>/talk/2019_11_15_bush/</guid>
+      <description>&lt;p&gt;I am going to look back on the needs assessment of &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/post/2015-11-12_cstp/&#34; target=&#34;_blank&#34;&gt;Hungarian music professionals&lt;/a&gt; in 2015 and &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34;&gt;Czechs&lt;/a&gt; in 2019.I will also compare the problems of the Hungarian scene in 2015, 2019 with the current issues in Czechia, Slovakia and Austria.&lt;/p&gt;
+
+&lt;p&gt;I would like to provide an opportunity on BUSH to give personal feedback to the artists and professionals who gave their personal details in our annual CEEMID Music Professional Survey from Hungary, or anywhere else in the region if they make it to BUSH. More details will be sent to your e-mail addresses, provided you have given us one.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Czech Music Development Program &amp; Comparative Market Research</title>
+      <link>/post/2019-11-09-nouvelle-prague/</link>
+      <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
+      
+      <guid>/post/2019-11-09-nouvelle-prague/</guid>
+      <description>&lt;p&gt;I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop in the context of the comparative &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34;&gt;Central European Music Industry Report&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You can find the full presentation, including slides not shown in the workshop &lt;a href=&#34;https://danielantal.eu/presentation/nouvelle-prague&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. The presentation is a self-contained big file of 20Mb, takes time to load.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The work is done in a collaborative manner with the open Research Consortium started by SoundCzech, CEEMID &amp;amp; Consolidated Independent.  We would like to invite any Czech stakeholders, or even individuals to join our efforts.  Because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools.&lt;/p&gt;
+
+&lt;p&gt;A very interesting part of the discussion in the morning was around transparency and potential conflict between stronger and weaker markets. Thank you for all colleagues who came on a Saturday morning after great showcase concerts the night before, and let&amp;rsquo;s stay in touch!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Private Copying in Croatia</title>
+      <link>/post/2019-10-31-croatia_pcr/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      
+      <guid>/post/2019-10-31-croatia_pcr/</guid>
+      <description>&lt;p&gt;After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.&lt;/p&gt;
+
+&lt;p&gt;You can find the whole study in English, a Croatian language summary and a press release in the &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34;&gt;Publications&lt;/a&gt; section.&lt;/p&gt;
+
+&lt;p&gt;The models presented are simplified models of the Hungarian and Slovak models, with less detailed data. However, they show clearly that in less developed markets, compensation for unlicensed use remains a key issue. Only a very small fraction of households pay for music and film, and creators, performers, film writers are massively undercompensated in the Croatia, Bulgaria, Romania, Poland or the Baltic states of the EU.&lt;/p&gt;
+
+&lt;p&gt;My study, Private Copying in Croatia, argues that the cultural and welfare benefits of this private copying regime are enormous and important to create a good quality of life in Croatia for all age groups, but especially for young people, and it must be maintained. Furthermore, it is very advantageous for the tech sector, because their products are mainly used with unlicensed music and film copies, given that only a very small portion of the population pays for downloads, or subscribes to services like Spotify, Deezer or Netflix.&lt;/p&gt;
+
+&lt;p&gt;Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century.&lt;/p&gt;
+
+&lt;p&gt;This project was a continuation of the &lt;a href=&#34;https://danielantal.eu/post/2016-04-20_makk15/&#34; target=&#34;_blank&#34;&gt;mapping of the Croatian music sector&lt;/a&gt;. I have created more detailed valuation and use studies of private copying and YouTube in Hungary (2015, 2017, 2018, 2019) and currently preparing similar studies in other countries, including Slovakia, as a continuation of the work started with the &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34;&gt;Slovak Music Industry Report&lt;/a&gt; and generally my home copying work started in 2012 with &lt;a href=&#34;https://danielantal.eu/post/cisac_goodg_13/&#34; target=&#34;_blank&#34;&gt;Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Private Copying in Croatia</title>
+      <link>/publication/private_copying_croatia_2019/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      
+      <guid>/publication/private_copying_croatia_2019/</guid>
+      <description>&lt;p&gt;Press release: &lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Short summary in Croatian: &lt;a href=&#34;https://www.zamp.hr/uploads/documents/Saetak_studije_na_hrvatskom_jeziku.pdf&#34; target=&#34;_blank&#34;&gt;Privatno kopiranje u Hrvatskoj&lt;/a&gt;
+Full text in English: &lt;a href=&#34;https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u_Hrvatskoj_DA_CEEMID.pdf&#34; target=&#34;_blank&#34;&gt;Private Copying in Croatia&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
