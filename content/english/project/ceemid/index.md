@@ -77,7 +77,7 @@ We believe that a very large segment of CEEMID's and the European Music Observat
 
 ## Open source, open data, open collaboration
 
-In the EU, open data is governed by the [Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019/1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024). It entered into force on 16 July 2019. It replaces the [Public Sector Information Directive](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098), also known as the ‘PSI Directive’ which dated from 2003 and was subsequently amended in 2013^[@eu_directive_2019_1024; @eu_directive_2013_37; @eu_directive_2003_98]. The founder of CEEMID, Daniel Antal has been involved in Open Data and PSI since 2008.
+In the EU, open data is governed by the [Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019 / 1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024). It entered into force on 16 July 2019. It replaces the [Public Sector Information Directive](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098), also known as the ‘PSI Directive’ which dated from 2003 and was subsequently amended in 2013. The founder of CEEMID, Daniel Antal has been involved in Open Data and PSI since 2008.
 
 We believe that the European Music Observatory must rely on open-source statistical software written in the R statistical language like CEEMID. (Read [why](https://ceemid.miraheze.org/wiki/Open-source_software).)
 

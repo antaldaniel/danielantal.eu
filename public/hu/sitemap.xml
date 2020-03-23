@@ -4,6 +4,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/post/2020-03-18-covid19/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/post/2020-03-18-covid19/" hreflang="en"/>
+    
       <loc>/hu/post/2020-03-18-covid19/</loc>
       <lastmod>2020-03-19T10:30:00+01:00</lastmod>
     </url>
@@ -577,6 +580,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/covid-19/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/covid-19/" hreflang="en"/>
     
       <loc>/hu/tags/covid-19/</loc>
       <lastmod>2020-03-19T10:30:00+01:00</lastmod>

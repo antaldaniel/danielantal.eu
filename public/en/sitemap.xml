@@ -4,6 +4,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/post/2020-03-18-covid19/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/post/2020-03-18-covid19/" hreflang="hu"/>
+    
+      <loc>/post/2020-03-18-covid19/</loc>
+      <lastmod>2020-03-23T10:30:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/2020_03_12_esco/</loc>
       <lastmod>2020-03-11T14:16:00+01:00</lastmod>
     </url>
@@ -774,7 +785,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/cci/" hreflang="hu"/>
     
       <loc>/tags/cci/</loc>
-      <lastmod>2020-03-11T14:16:00+01:00</lastmod>
+      <lastmod>2020-03-23T10:30:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -808,6 +819,18 @@
     
       <loc>/tags/ceemid-observatory/</loc>
       <lastmod>2020-03-11T14:16:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/covid-19/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/covid-19/" hreflang="hu"/>
+    
+      <loc>/tags/covid-19/</loc>
+      <lastmod>2020-03-23T10:30:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -893,7 +916,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/hungary/" hreflang="hu"/>
     
       <loc>/tags/hungary/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <lastmod>2020-03-23T10:30:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1342,7 +1365,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/hungary/" hreflang="hu"/>
     
       <loc>/tags/hungary/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+      <lastmod>2020-03-23T10:30:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
