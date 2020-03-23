@@ -11,7 +11,7 @@ tags = ["market-report", "CEEMID", "rOpenGov"]
 
 summary = "My open source program code was released within the 3.6.1 version of eurostat R package, making the painful boundary alignment with frequent region border changes, and resulting data imputation work automatic and less error-prone. As a result, more and more of my work, and particularly the music indicators of CEEMID are becoming available on provincial/regional level."
 
-projects = ["opendata"]
+projects = ["opendata", "CEEMID"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

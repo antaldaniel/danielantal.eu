@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["market-report", "music-industry", "opendata", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
+tags = ["market-report", "music-industry", "CCI", "CEEMID", "opendata", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
 
 summary = "The Central & Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector."
 
