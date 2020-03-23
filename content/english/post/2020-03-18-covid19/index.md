@@ -34,7 +34,6 @@ https://www.linkedin.com/pulse/j%C3%A1rv%C3%A1ny-megrengeti-kreat%C3%ADv-ipar%C3
 
 hvg.hu full-text article: [Antal Dániel: A járvány megrengeti a kreatív iparágakat](https://hvg.hu/360/20200318_Antal_Daniel_A_jarvany_megrengeti_a_kreativ_iparagakat)
 
-
 The conclusion is that the creative and cultural industries were not in a favorable position in Hungary, Slovakia or Croatia before the crisis, and they must use the workless epidemic crisis to re-organize themselves for the economic recovery. 
 
 Their extremely fragmented industry structure does not allow them to participate meaningfully in the social dialog and in influence economic policymaking, which results in very unfavorable arrangements, for example, in taxation.  However, the creative and cultural industries are very well suited to play a much larger role in the national economy in the century of automation, robotization and global competition for tax revenues.  We have shown in Hungary and Slovakia that the creative industries pay proportionally far more taxes and social contributions that car manufacturers and other favored industries of the 2010s.

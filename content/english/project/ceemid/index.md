@@ -47,6 +47,7 @@ __CEEMID__ is a data integration system that could provide to be a model and sta
 
 CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide acces timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals. (Read more about our [data coverage](https://ceemid.miraheze.org/wiki/Main_Page#Data_Coverage))
 
+CEEMID is a private initiative. We developed data products for the needs of the industry: to calculate adequate royalty price (tariff) levels, to calculate adequate compensation for damages, to design [better grants](https://danielantal.eu/project/grants/), to advocate [better CCI policies](https://danielantal.eu/tags/cci/), to pinpoint discriminative taxation of the industry, to monitor public performance licenses, to calculate the size of the [value gap](https://danielantal.eu/tags/value-gap/),  to train algorithms that find new audience for small nation repertoires [abroad](https://danielantal.eu/project/music-export/), and so on. Because the industry is made of microenterprises all over Europe and the world, and even larger organizations, such as collective management societies are at most SMEs, the industry has very limited market research or research & development capacities. This makes .
 
 ## Data Coverage 
 
@@ -105,10 +106,11 @@ CEEMID makes sure that the Client's data (collective management organizations, m
 
 * Automatic data retrieval from open data sources, including statistical data and EU-funded research. See example [blog post](https://danielantal.eu/post/how_many_ever_pay/)
 
-## Use Cases
+## The Future of CEEMID
 
-In combination with collective management data and industry data the music professional surveys can help establish the value of certain rights, or estimate the compensation needed for home copying or the value transfer to platforms like YouTube. 
+Historically CEEMID started out as the _Central and Eastern European Music Industry Databases_ out of necessity following a [CISAC Good Governance Seminar for European Societies](https://ceemid.eu/post/2013-11-18_cisac_goodgov/) in 2013. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available.
 
-In combination with granting data, it can be used for both ex ante evaluation to design better aimed, more cost-efficient and helpful grant calls, or to ex post evaluate the efficiency of grants and the (perceived) honesty and professionalism of the granting process.
+In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-à-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantitiy of industry and government data sources available, but quickly covered the whole European area (Read more about our [data coverage](https://ceemid.miraheze.org/wiki/Main_Page#Data_Coverage) and our pan-European [geographical coverage](https://ceemid.miraheze.org/wiki/Main_Page#Geographic_Coverage).)
 
-In combination with the anonymized State51 test data set, it can support machine learning and deep learning (AI) algorithms to establish the potential foreign markets of certain songs, artists or national repertoires, or asses the value of recordings to optimize promotion. 
+We believe that CEEMID could fulfil the functions of the European Music Industry if it would find a sustainable financing that makes access to all our data open. We need to be able to avoid the [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), where only a few industry users contribute to the financing of thousands of indicators that could potentially benefits tens of thousands of stakeholders in the EU.
+
