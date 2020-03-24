@@ -1,8 +1,8 @@
 +++
-title = "Documenting CEEMID for open data use"
+title = "Documenting CEEMID For Open Data Use"
 
-date = 2020-03-25T13:30:00
-lastmod = 2020-03-25T13:30:00
+date = 2020-03-24T13:30:00
+lastmod = 2020-03-24T13:30:00
 draft = false
 
 authors = ["Daniel Antal, CFA"]
@@ -84,6 +84,6 @@ We released the program code, because it requires special geostatistical knowled
 
 Historically CEEMID started out as the _Central and Eastern European Music Industry Databases_ out of necessity following a [CISAC Good Governance Seminar for European Societies](https://ceemid.eu/post/2013-11-18_cisac_goodgov/) in 2013. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available.
 
-In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-à-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts. The decentralized, [data integration](https://documentation.ceemid.eu/index.php?title=Main_Page#Data_integration) strategy chosen by CEEMID however allowed a quick expansion of CEEMID to be a Pan-European data resource.
+In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-?-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts. The decentralized, [data integration](https://documentation.ceemid.eu/index.php?title=Main_Page#Data_integration) strategy chosen by CEEMID however allowed a quick expansion of CEEMID to be a Pan-European data resource.
 
 
