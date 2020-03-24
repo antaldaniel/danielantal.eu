@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music-observatory on Daniel Antal, CFA</title>
+    <link>/tags/music-observatory/</link>
+    <description>Recent content in music-observatory on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 25 Mar 2020 13:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/music-observatory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Documenting CEEMID for open data use</title>
+      <link>/post/2020-03-24-documentation/</link>
+      <pubDate>Wed, 25 Mar 2020 13:30:00 +0100</pubDate>
+      
+      <guid>/post/2020-03-24-documentation/</guid>
+      <description>CEEMID is a data integration system that could provide to be a model and starting point of building a European Music Observatory based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources.
+CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide access timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals.</description>
+    </item>
+    
+  </channel>
+</rss>

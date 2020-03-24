@@ -69,7 +69,7 @@
     <item>
       <title>CCI</title>
       <link>/tags/cci/</link>
-      <pubDate>Wed, 18 Mar 2020 18:30:00 +0100</pubDate>
+      <pubDate>Wed, 25 Mar 2020 13:30:00 +0100</pubDate>
       
       <guid>/tags/cci/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>CEEMID</title>
       <link>/tags/ceemid/</link>
-      <pubDate>Wed, 11 Mar 2020 14:16:00 +0100</pubDate>
+      <pubDate>Wed, 25 Mar 2020 13:30:00 +0100</pubDate>
       
       <guid>/tags/ceemid/</guid>
       <description></description>
@@ -294,7 +294,7 @@
     <item>
       <title>ceemid</title>
       <link>/tags/ceemid/</link>
-      <pubDate>Wed, 11 Mar 2020 14:16:00 +0100</pubDate>
+      <pubDate>Wed, 25 Mar 2020 13:30:00 +0100</pubDate>
       
       <guid>/tags/ceemid/</guid>
       <description></description>
@@ -351,6 +351,15 @@
       <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
       
       <guid>/tags/dataanimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentation</title>
+      <link>/tags/documentation/</link>
+      <pubDate>Wed, 25 Mar 2020 13:30:00 +0100</pubDate>
+      
+      <guid>/tags/documentation/</guid>
       <description></description>
     </item>
     
@@ -562,6 +571,15 @@
     </item>
     
     <item>
+      <title>music-observatory</title>
+      <link>/tags/music-observatory/</link>
+      <pubDate>Wed, 25 Mar 2020 13:30:00 +0100</pubDate>
+      
+      <guid>/tags/music-observatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>music-publishing</title>
       <link>/tags/music-publishing/</link>
       <pubDate>Fri, 29 Sep 2017 22:00:00 +0200</pubDate>
@@ -576,6 +594,15 @@
       <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
       
       <guid>/tags/musicinan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opea data</title>
+      <link>/tags/opea-data/</link>
+      <pubDate>Wed, 25 Mar 2020 13:30:00 +0100</pubDate>
+      
+      <guid>/tags/opea-data/</guid>
       <description></description>
     </item>
     

@@ -11,6 +11,84 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Documenting CEEMID for open data use</title>
+      <link>/post/2020-03-24-documentation/</link>
+      <pubDate>Wed, 25 Mar 2020 13:30:00 +0100</pubDate>
+      
+      <guid>/post/2020-03-24-documentation/</guid>
+      <description>
+
+&lt;p&gt;CEEMID is a data integration system that could provide to be a model and starting point of building a European Music Observatory based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources.&lt;/p&gt;
+
+&lt;p&gt;CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide access timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals. (Read more about our &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Data_CoverageMain_Page#Data_Coverage&#34; target=&#34;_blank&#34;&gt;data coverage&lt;/a&gt; and our pan-European &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Geographic_Coverage&#34; target=&#34;_blank&#34;&gt;geographical coverage&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;With the help of Consolidated Independent, CEEMID created the &lt;a href=&#34;http://ceereport2020.ceemid.eu/appendix.html&#34; target=&#34;_blank&#34;&gt;Central European Music Industry Report - online, pdf and epub versions 2020&lt;/a&gt;, which provides a rich illustration on European cross-country research to provide the music industry businesses and music policymakers with rich data and  high-quality indicators for analysis and AI for the &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Innovation_pillar&#34; target=&#34;_blank&#34;&gt;innovation pillar&lt;/a&gt; of the European Music Observatory by creating input data on the  &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Music_Economy_of_Europe&#34; target=&#34;_blank&#34;&gt;Music Economy of Europe&lt;/a&gt;, &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Music_Diversity_and_Circulation&#34; target=&#34;_blank&#34;&gt;Music Diversity and Circulation&lt;/a&gt; and on &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Music,_Society_and_Citizenship&#34; target=&#34;_blank&#34;&gt;Music, Society &amp;amp; Citizenship&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;CEEMID is a private initiative. We developed data products for the needs of the industry: to calculate adequate royalty price (tariff) levels, to calculate adequate compensation for damages, to design &lt;a href=&#34;https://danielantal.eu/project/grants/&#34; target=&#34;_blank&#34;&gt;better grants&lt;/a&gt;, to advocate &lt;a href=&#34;https://danielantal.eu/tags/cci/&#34; target=&#34;_blank&#34;&gt;better CCI policies&lt;/a&gt;, to pinpoint discriminative taxation of the industry, to monitor public performance licenses, to calculate the size of the &lt;a href=&#34;https://danielantal.eu/tags/value-gap/&#34; target=&#34;_blank&#34;&gt;value gap&lt;/a&gt;,  to train algorithms that find new audience for small nation repertoires &lt;a href=&#34;https://danielantal.eu/project/music-export/&#34; target=&#34;_blank&#34;&gt;abroad&lt;/a&gt;, and so on. Because the industry is made of microenterprises all over Europe and the world, and even larger organizations, such as collective management societies are at most SMEs, the industry has very limited market research or research &amp;amp; development capacities. This puts the music industry in a particularly vulnerable position because the biggest distributors of music, such as Alphabet’s Google and YouTube, or Apple’s iTunes and streaming services, or Spotify are data-driven companies that apply AI in all their workflows.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-open-data&#34;&gt;Why open data?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The music industry cannot get more favourable position in disputes if it is not able to ramp up its data analytics capacities. This is only possible in a collaborative way, because the combined research capacity of the European industry is smaller than its main partner’s capacities individually.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We believe that CEEMID could fulfil the functions of the European Music Industry if it would find a sustainable financing that makes access to all our data open. We need to be able to avoid the &lt;a href=&#34;https://en.wikipedia.org/wiki/Tragedy_of_the_commons&#34; target=&#34;_blank&#34;&gt;tragedy of the commons&lt;/a&gt;, where only a few industry users contribute to the financing of thousands of indicators that could potentially benefits tens of thousands of stakeholders in the EU.&lt;/p&gt;
+
+&lt;p&gt;We believe that a very large segment of CEEMID&amp;rsquo;s and the European Music Observatory&amp;rsquo;s data coverage is based on public-interest data that is collected by public authorities.  We have also realized that the music industry stakeholders and policymakers, particularly in cultural ministries and similar functions in cities and regions underestimate the availability of open data.  The EU open data regime gives access to almost all information stored in government data systems. Because this is in fact re-use of the information, the data for this purpose is usually not documented. While the data is available for free or almost free, only high level of metadata and data processing know-how is required to access it. This know-how is usually missing from cultural policy institutions and music industry bodies.&lt;/p&gt;
+
+&lt;p&gt;Therefore, CEEMID was based on the regulatory framework provided by the Directive on open data and the re-use of public sector information provides a common legal framework for a European market for government-held data (public sector information). It a regulatory framework that is built around two key pillars of the internal market: transparency and fair competition.  In our view, &lt;em&gt;these principles should apply to European Music Observatory, too&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the EU, open data is governed by the &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&amp;amp;uri=CELEX:32019L1024&#34; target=&#34;_blank&#34;&gt;Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) &lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1024&lt;/sub&gt;&lt;/a&gt;. It entered into force on 16 July 2019. It replaces the &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098&#34; target=&#34;_blank&#34;&gt;Public Sector Information Directive&lt;/a&gt;, also known as the ‘PSI Directive’ which dated from 2003 and was subsequently amended in 2013&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:eu-directive-201&#34;&gt;&lt;a href=&#34;#fn:eu-directive-201&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The founder of CEEMID, Daniel Antal has been involved in Open Data and PSI since 2008.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-open-collaboration-in-data-integration&#34;&gt;Why open collaboration in data integration?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;We believe that the European Music Observatory must rely on &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Open-source_software&#34; target=&#34;_blank&#34;&gt;open-source statistical software&lt;/a&gt; written in the R statistical language like CEEMID, and it must be funded on the principle of &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Open_collaboration&#34; target=&#34;_blank&#34;&gt;open collaboration&lt;/a&gt; with the industry, public authorities and academia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Open-source software (OSS) is a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software is often developed in a collaborative public manner, and which is a prominent example of &lt;strong&gt;open collaboration&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Generally, the use of open source software, including the open source R language and its software packages or libraries in the national statistical offices are encouraged by four important considerations:
+1. lower cost, 2. security, 3. no vendor &amp;lsquo;lock in&amp;rsquo; and 4. &lt;strong&gt;better quality&lt;/strong&gt;.  We believe that the number of data scientists in the music domain is so few that only an open collaboration can guarantee adequate data quality. (In our CEEMID documentation you find more information about the &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=R_(programming_language) and the concept of [open-source software](https://documentation.ceemid.eu/index.php?title=Open-source_software).&#34; target=&#34;_blank&#34;&gt;R language&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We believe that the European Music Observatory must rely on open-source statistical software written in the R statistical language like CEEMID, and it must be funded on the principle of open collaboration with the industry, public authorities and academia.&lt;/p&gt;
+
+&lt;p&gt;CEEMID uses the open source statistical programming language R, and various open source R programs.  CEEMID also releases some of its customary program code developed to create its indicators. This allows an open collaboration with statisticians working in national statistics authorities and in independent research institutions in the EU and globally.&lt;/p&gt;
+
+&lt;p&gt;The use of open source software and the open source R statistical language allows a continuous peer-review of data ingestion, processing, corrections and indicator creation by statisticians, data scientists and academics.  Statistical products of national statistical offices, sometimes Eurostat itself, not to mention data providers that are not part of the system of national statistical offices, such as the European Audiovisual Observatory, are plagued with data errors that are corrected and amended relatively slowly. We believe that unless the &lt;em&gt;European Music Observatory&lt;/em&gt; becomes part of Eurostat (a highly unlikely organizational scenario), it &lt;em&gt;should embrace the priniciples of open collaboration in creating its indicators&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;CEEMID has been releasing some of its data processing, integration and indicator creation code on an open-source license on the &lt;a href=&#34;https://cran.r-project.org/doc/FAQ/R-FAQ.html#What-is-CRAN_003f&#34; target=&#34;_blank&#34;&gt;Comprehensive R Archive Network&lt;/a&gt;, or CRAN, is a collection of sites which carry identical material, consisting of the R distribution(s), the contributed extensions, documentation for R, and binaries. (More information in &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Comprehensive_R_Archive_Network&#34; target=&#34;_blank&#34;&gt;our&lt;/a&gt; documentation.) &lt;em&gt;We would like to find funding to release thousands of reproducible data sets and the reproduction code from source to end result on an open data, open collaboration basis&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;our-economic-impact-assessment-code&#34;&gt;Our economic impact assessment code&lt;/h3&gt;
+
+&lt;p&gt;Our &lt;a href=&#34;http://iotables.ceemid.eu/&#34; target=&#34;_blank&#34;&gt;iotables&lt;/a&gt; package programmatically creates gross-value added, employment, taxation effect and multiplier indicators from real national accounts data for all EU countries by providing a data processing and modelling software to implement the use cases of the
+&lt;a href=&#34;http://ec.europa.eu/eurostat/documents/3859598/5902113/KS-RA-07-013-EN.PDF/b0b3d71e-3930-4442-94be-70b36cea9b39?version=1.0&#34; target=&#34;_blank&#34;&gt;Eurostat Manual of Supply, Use and Input-Output Tables&lt;/a&gt;. It was released on &lt;a href=&#34;http://ropengov.github.io/&#34; target=&#34;_blank&#34;&gt;rOpenGov&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The package was originally designed for the economic impact assessment of film production in Hungary and for the Slovak music industry. (See &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34;&gt;related&lt;/a&gt; publication.) With the help of this package, we can, for example, calculate the effect of 1 million euro crisis relief package on the GDP, employment and future tax receipts between car manufacturing, banking, the music industry and book publishing in &lt;em&gt;all EU countries&lt;/em&gt;. By releasing our software code, we could compare test results on calculating economic impact indicators for the creative industries and other industries with the &lt;a href=&#34;http://iotables.ceemid.eu/articles/united_kingdom_2010.html&#34; target=&#34;_blank&#34;&gt;UK statistical office&lt;/a&gt;. We want to release more and more of CEEMID&amp;rsquo;s software code, so that professional statisticians can validate that they work perfectly or suggest improvements.&lt;/p&gt;
+
+&lt;h3 id=&#34;creating-regional-indicators&#34;&gt;Creating regional indicators&lt;/h3&gt;
+
+&lt;p&gt;Our second major open-source release makes it possible to create regional statistical time series and data panels from Eurostat&amp;rsquo;s regional data - not only for the creative industries, although our original aim was to support scientific research into book piracy in a project with IVIR at the University of Amsterdam.&lt;/p&gt;
+
+&lt;p&gt;While national borders do not change frequently, the borders of more than 1000 European NUTS1, NUTS2 and NUTS3 regions change on average every three years.  The change of regional boundaries makes time-wise comparison very difficult.  Because the current statistical regulations to do not make it compulsory that member states re-cast their historical data after a boundary change, Eurostat does not contain, for example, comparable data on French or Lithuanian or Hungarian regions in the previous decade.&lt;/p&gt;
+
+&lt;p&gt;CEEMID&amp;rsquo;s program code does exactly this, because it traces, and whenever possible, corrects boundary changes back till 2007.  We released this very complicated program code as part of the &lt;a href=&#34;http://ropengov.github.io/eurostat/index.html&#34; target=&#34;_blank&#34;&gt;eurostat&lt;/a&gt; R package within the &lt;a href=&#34;http://ropengov.github.io/&#34; target=&#34;_blank&#34;&gt;rOpenGov&lt;/a&gt; initiative.  This program package has tens of thousands of users in research institutions, industry and in the national statistical offices themselves.&lt;/p&gt;
+
+&lt;p&gt;We released the program code, because it requires special geostatistical knowledge, and we believe it is such a critical application that only open peer-review can guarantee its flawless and error-free work.&lt;/p&gt;
+
+&lt;h2 id=&#34;from-the-centre-of-europe-to-the-european-music-observatory&#34;&gt;From the Centre of Europe to the European Music Observatory&lt;/h2&gt;
+
+&lt;p&gt;Historically CEEMID started out as the &lt;em&gt;Central and Eastern European Music Industry Databases&lt;/em&gt; out of necessity following a &lt;a href=&#34;https://ceemid.eu/post/2013-11-18_cisac_goodgov/&#34; target=&#34;_blank&#34;&gt;CISAC Good Governance Seminar for European Societies&lt;/a&gt; in 2013. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available.&lt;/p&gt;
+
+&lt;p&gt;In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-�-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts. The decentralized, &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Data_integration&#34; target=&#34;_blank&#34;&gt;data integration&lt;/a&gt; strategy chosen by CEEMID however allowed a quick expansion of CEEMID to be a Pan-European data resource.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:eu-directive-201&#34;&gt;@eu_directive_2019_1024; @eu_directive_2013_37; @eu_directive_2003_98 &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:eu-directive-201&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Effect of COVID-19 On Creative &amp; Cultural Industries</title>
       <link>/post/2020-03-18-covid19/</link>
       <pubDate>Wed, 18 Mar 2020 18:30:00 +0100</pubDate>
@@ -389,26 +467,6 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
 &lt;p&gt;The work is done in a collaborative manner with the open Research Consortium started by SoundCzech, CEEMID &amp;amp; Consolidated Independent.  We would like to invite any Czech stakeholders, or even individuals to join our efforts.  Because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools.&lt;/p&gt;
 
 &lt;p&gt;A very interesting part of the discussion in the morning was around transparency and potential conflict between stronger and weaker markets. Thank you for all colleagues who came on a Saturday morning after great showcase concerts the night before, and let&amp;rsquo;s stay in touch!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Private Copying in Croatia</title>
-      <link>/post/2019-10-31-croatia_pcr/</link>
-      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      
-      <guid>/post/2019-10-31-croatia_pcr/</guid>
-      <description>&lt;p&gt;After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.&lt;/p&gt;
-
-&lt;p&gt;You can find the whole study in English, a Croatian language summary and a press release in the &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34;&gt;Publications&lt;/a&gt; section.&lt;/p&gt;
-
-&lt;p&gt;The models presented are simplified models of the Hungarian and Slovak models, with less detailed data. However, they show clearly that in less developed markets, compensation for unlicensed use remains a key issue. Only a very small fraction of households pay for music and film, and creators, performers, film writers are massively undercompensated in the Croatia, Bulgaria, Romania, Poland or the Baltic states of the EU.&lt;/p&gt;
-
-&lt;p&gt;My study, Private Copying in Croatia, argues that the cultural and welfare benefits of this private copying regime are enormous and important to create a good quality of life in Croatia for all age groups, but especially for young people, and it must be maintained. Furthermore, it is very advantageous for the tech sector, because their products are mainly used with unlicensed music and film copies, given that only a very small portion of the population pays for downloads, or subscribes to services like Spotify, Deezer or Netflix.&lt;/p&gt;
-
-&lt;p&gt;Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century.&lt;/p&gt;
-
-&lt;p&gt;This project was a continuation of the &lt;a href=&#34;https://danielantal.eu/post/2016-04-20_makk15/&#34; target=&#34;_blank&#34;&gt;mapping of the Croatian music sector&lt;/a&gt;. I have created more detailed valuation and use studies of private copying and YouTube in Hungary (2015, 2017, 2018, 2019) and currently preparing similar studies in other countries, including Slovakia, as a continuation of the work started with the &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34;&gt;Slovak Music Industry Report&lt;/a&gt; and generally my home copying work started in 2012 with &lt;a href=&#34;https://danielantal.eu/post/cisac_goodg_13/&#34; target=&#34;_blank&#34;&gt;Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
