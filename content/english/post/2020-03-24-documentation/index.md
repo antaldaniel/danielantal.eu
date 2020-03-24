@@ -17,11 +17,11 @@ summary = "The Central European Music Industry Report 2020 was updated with a te
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "See documentation.ceemid.eu"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point = "TopLeft"
 
   # Show image only in page previews?
   preview_only = false
