@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 25 Mar 2020 13:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 13:30:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/opea-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Documenting CEEMID for open data use</title>
+      <title>Documenting CEEMID For Open Data Use</title>
       <link>/post/2020-03-24-documentation/</link>
-      <pubDate>Wed, 25 Mar 2020 13:30:00 +0100</pubDate>
+      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
       
       <guid>/post/2020-03-24-documentation/</guid>
       <description>CEEMID is a data integration system that could provide to be a model and starting point of building a European Music Observatory based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources.
