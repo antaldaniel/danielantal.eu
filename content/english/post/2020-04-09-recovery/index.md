@@ -32,7 +32,7 @@ My [presentation](https://danielantal.eu/presentation/covid-recovery) provided f
 
 ## The conclusions
 
-- We are arguing for crisis and recovery policies that prioritize re-employment, domestic value-added growth and domestic tax income, and public investments into sectors that favour domestic value added and domestic tax base growth.  [&#11206; More on public investments](#creativeinfrastructure) or [&#11208; Next topics](#policy)
+- We are arguing for crisis and recovery policies that prioritize re-employment, domestic value-added growth and domestic tax income, and public investments into sectors that favour domestic value added and domestic tax base growth.  [&#11206; More on public investments](https://danielantal.eu/presentation/covid-recovery#/publicinvestments) or [&#11208; Next topics](https://danielantal.eu/presentation/covid-recovery#/policy)
 
 - Our policy proposals are summarized in the [Central European Muisc Industry Report 2020](http://ceereport2020.ceemid.eu/) (see particularly [recommendations](http://ceereport2020.ceemid.eu/conclusions-policy-business-strategy-recommendations.html)), 
 for [Croatia](https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u_Hrvatskoj_DA_CEEMID.pdf), [Slovak Music Industry Report 2019](https://danielantal.eu/publication/slovak_music_industry_2019), [Hungarian Music Industry Report](https://danielantal.eu/publication/hungary_music_industry_2014).
@@ -41,6 +41,4 @@ for [Croatia](https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u
 
 - We also strongly recommend the revision of collective tariffs, to build in automatic stabilizers for crises (automatic tariff changes in recession and in economic growth.)
 
-- For artists, technicians and managers this is the best time to build up the missing, representative organizations of the sector that can meaningfully engage in the social dialogue about crisis recovery, tax, vocational educations and future economic policies.
-
-
+- For artists, technicians and managers this is the best time to build up the missing, representative organizations of the sector that can meaningfully engage in the social dialogue about crisis recovery, tax, vocational educations and future economic policies (see earlier blog post about this [in English](https://danielantal.eu/post/2020-03-18-covid19/) and [article in Hungarian](https://danielantal.eu/hu/post/2020-03-18-covid19/)).
