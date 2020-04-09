@@ -41,6 +41,6 @@ for [Croatia](https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u
 
 - We also strongly recommend the revision of collective tariffs, to build in automatic stabilizers for crises (automatic tariff changes in recession and in economic growth.)
 
-- For artists, technicians and managers this is the best time to build up the missing, representative organizations of the sector that can meaningfully engage in the social dialogue about crisis recovery, tax, vocational educations and future economic policies. [&#11206; More on the recorded market](#digitalgap) or [&#11208; Next topics](#creativework) 
+- For artists, technicians and managers this is the best time to build up the missing, representative organizations of the sector that can meaningfully engage in the social dialogue about crisis recovery, tax, vocational educations and future economic policies.
 
 
