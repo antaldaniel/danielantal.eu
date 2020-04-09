@@ -28,7 +28,7 @@ summary = "My presentation provided for the Slovak music industry stakeholders i
 
 I have made some propsals for the Hungarian and Slovak stakeholders on how to represent the particular interests of the creative industries, particuarly the music industry in the social dialogue and policy discussion on crisis recovery policies.
 
-My [presentation](https://danielantal.eu/presentation/covid-recovery) provided for the Slovak music industry stakeholders in this dialogue are not made available in a more general form, because the problems in Croatia, Hungary, Poland,  Slovakia, and to a great extent in the broader region including Austria, Slovenia and Czechia are very similar. 
+My [presentation](https://danielantal.eu/presentation/covid-recovery) provided for the Slovak music industry stakeholders in this dialogue are now made available in a more general form, because the problems in Croatia, Hungary, Poland,  Slovakia, and to a great extent in the broader region including Austria, Slovenia and Czechia are very similar. 
 
 Around Easter and Passover, we are hoping in redemption and a new beginning. It will not be easy for these industries, but there were a lot of problems in the past decade of economic growth that did not allow musicians, film makers, broadcaster to participate in the overall benign conditions of the market.  This crisis will change many economic, labor and education policies, and the creative sectors have particularly lot to gain from this.
 
