@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ceemid on Daniel Antal, CFA</title>
+    <title>CEEMID on Daniel Antal, CFA</title>
     <link>/tags/ceemid/</link>
-    <description>Recent content in ceemid on Daniel Antal, CFA</description>
+    <description>Recent content in CEEMID on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
@@ -18,8 +18,7 @@
       <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
       
       <guid>/post/2020-03-24-documentation/</guid>
-      <description>CEEMID is a data integration system that could provide to be a model and starting point of building a European Music Observatory based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources.
-CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide access timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals.</description>
+      <description>The Central European Music Industry Report 2020 was updated with a technical annex that points out to the new wiki documentation website of CEEMID to make our work more accessible for designing the European Music Observatory.</description>
     </item>
     
     <item>
@@ -38,8 +37,7 @@ CEEMID has a large enough answer pool for an empirical clustering of occupations
       <pubDate>Wed, 11 Mar 2020 12:30:00 +0100</pubDate>
       
       <guid>/post/2020-03-11-esco/</guid>
-      <description>CEEMID has been conducting surveys among music and film professionals for 6 years. So far, about 5000 music and 1500 film professionals filled out our detailed questionnaire about their working conditions, skills, tasks. Some of our surveys were related to training needs assessments, and other professional growth assessments.
-The ESCO system builds on occupations, skills and qualifications. Our general experience is that in the music and film industry, because of the lack of life-long learning opportunities, the absence of large employers, low level of unionization, and generally the mixed nature of occupations, informal learning practices play a very important role.</description>
+      <description>CEEMID has a large enough answer pool for an empirical clustering of occupations. We are able to perform clustering of job descriptions, earnings, educational levels, and work output (such as films, documentaries, TV programmes, live music performances, music compositions, etc) to empirically create groups with a “set of jobs whose main tasks and duties are characterised by a high degree of similarity” in terms of economic activity and work output.</description>
     </item>
     
     <item>
@@ -48,7 +46,7 @@ The ESCO system builds on occupations, skills and qualifications. Our general ex
       <pubDate>Thu, 13 Feb 2020 12:30:00 +0100</pubDate>
       
       <guid>/post/2020-02-13-regional_eurostat/</guid>
-      <description>A very important part of my work is to pre-process data, and integrate various data tables into tidy, comprehensive data tables or databases. This is particularly difficult but rewarding when I work with statistics on sub-national, regional level. While country borders are very rarely change in the world, regional boundaries are changing on average every three years withing the European Union. Putting together data with 2010, 2013, 2017 and the forthcoming 2021 regional boundaries is a very difficult task.</description>
+      <description>My open source program code was released within the 3.6.1 version of eurostat R package, making the painful boundary alignment with frequent region border changes, and resulting data imputation work automatic and less error-prone. As a result, more and more of my work, and particularly the music indicators of CEEMID are becoming available on provincial/regional level.</description>
     </item>
     
     <item>
@@ -57,8 +55,7 @@ The ESCO system builds on occupations, skills and qualifications. Our general ex
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
       
       <guid>/post/2020-01-30-ceereport/</guid>
-      <description>CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the Central &amp;amp; Eastern European Music Industry Report 2020 as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the CCS Ecosystems: FLIPPING THE ODDS Conference – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
-My presentation was focused around the question on invisibility of the CCI sector in the economic, education and labour policymaking, and the low level of data use in fact-based cultural policy design, and the following policy design problems.</description>
+      <description>The Central &amp;amp; Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector.</description>
     </item>
     
     <item>
@@ -77,9 +74,7 @@ Creative FLIP stands for Finance, Learning, Innovation and Patenting is a Pilot 
       <pubDate>Mon, 18 Nov 2019 16:00:00 +0100</pubDate>
       
       <guid>/post/2019-11-18-bush/</guid>
-      <description>We had a very interesting discussion day on the Budapest Showcase Hub with the regional independent labels in the workshop hosted by HAIL and with some concert promoters and music educators in the main conference program.
-You can find the full presentation, including slides not shown in the workshop here. The presentation is a self-contained big file of 11Mb, takes time to load.
-And here you can review the recordings of the great bands and performers who participated in the showcase festival:</description>
+      <description>We had a very interesting discussion day on the Budapest Showcase Hub with the regional independent labels in the workshop hosted by HAIL and with some concert promoters and music educators in the main conference program.</description>
     </item>
     
     <item>
@@ -88,8 +83,7 @@ And here you can review the recordings of the great bands and performers who par
       <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
       
       <guid>/post/2019-11-09-nouvelle-prague/</guid>
-      <description>I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the How We Would Like To Work in the Czech Music Industry in 2020 ex ante evaluation workshop in the context of the comparative Central European Music Industry Report.
-You can find the full presentation, including slides not shown in the workshop here. The presentation is a self-contained big file of 20Mb, takes time to load.</description>
+      <description>A Progress Report on the Czech Music Development Program and problems in an international context. We would like to invite any Czech stakeholders, or even individuals to join our Research Consortium, because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools.</description>
     </item>
     
     <item>
@@ -98,9 +92,7 @@ You can find the full presentation, including slides not shown in the workshop h
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
       
       <guid>/post/2019-10-31-croatia_pcr/</guid>
-      <description>After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.
-You can find the whole study in English, a Croatian language summary and a press release in the Publications section.
-The models presented are simplified models of the Hungarian and Slovak models, with less detailed data.</description>
+      <description>My study, Private Copying in Croatia, argues for an overhaul of the Croatian private copying remuneration scheme and gives some empirical evidence for the transposition of the DSM Directive. Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century.</description>
     </item>
     
     <item>
@@ -109,9 +101,7 @@ The models presented are simplified models of the Hungarian and Slovak models, w
       <pubDate>Mon, 30 Sep 2019 08:05:00 +0200</pubDate>
       
       <guid>/post/2019-09-27_cee_report/</guid>
-      <description>We had the first public and panel discussion of the forthcoming Central European Music Industry Report. After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail.
-You can review the whole presentation here (10Mb self-contained HTML file, takes some time to load).
-After mapping and analysing (see most recently Slovakia) in depth the music industries of several CEE countries, with the help of Consolidated Independent I put together a regional report in previously unseen detail.</description>
+      <description>We had the first public and panel discussion of the forthcoming Central European Music Industry Report.  After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail.</description>
     </item>
     
     <item>
@@ -120,7 +110,16 @@ After mapping and analysing (see most recently Slovakia) in depth the music indu
       <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
       
       <guid>/talk/impala_cee_2019/</guid>
-      <description>IMPALA CEE 2019 Workshop  from Dániel Antal</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEEMID</title>
+      <link>/project/ceemid/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/project/ceemid/</guid>
+      <description>CEEMID</description>
     </item>
     
     <item>
@@ -129,8 +128,16 @@ After mapping and analysing (see most recently Slovakia) in depth the music indu
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/post/how_many_ever_pay/</guid>
-      <description>In our recent private copying reports we compiled European survey data relevant to analysis. In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.
-In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.</description>
+      <description>In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.</description>
+    </item>
+    
+    <item>
+      <title>CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives</title>
+      <link>/post/ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/post/ceempc/</guid>
+      <description>CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.</description>
     </item>
     
     <item>
@@ -139,8 +146,7 @@ In some countries of Europe, less then 10 percent of the population ever pays fo
       <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
       
       <guid>/post/career_path/</guid>
-      <description>In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.
-In the 21st century the live music stream is far more important than the recordings.</description>
+      <description>In our survey, we ask musicians about the most important milestones of their career and their achievement in the past 12 month. So far we have surveyed more than 2000 music professionals and 900 film production professionals in Croatia, Hungary and Slovakia.</description>
     </item>
     
     <item>
@@ -149,8 +155,7 @@ In the 21st century the live music stream is far more important than the recordi
       <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/made_in_hungary/</guid>
-      <description>Being visible in the world is always difficult in the Central and Eastern European region. Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region. A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book.
- </description>
+      <description>Being visible in the world is always difficult in the Central and Eastern European region. Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region. A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book.</description>
     </item>
     
     <item>
@@ -159,8 +164,7 @@ In the 21st century the live music stream is far more important than the recordi
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/2016-04-20_makk15/</guid>
-      <description>Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference (Međunarodna autorska kreativna konferencija, #MAKK2015) in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.
-The Central European music industry, as shown by processing the data of more than 2000 musicians in the region is even more reliant on live performances than the British music industry.</description>
+      <description>Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.</description>
     </item>
     
   </channel>

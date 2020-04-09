@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Daniel Antal, CFA</title>
@@ -18,8 +18,7 @@
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>/project/opendata/</guid>
-      <description>I have been involved in various OpenData projects since 2007, shortly after the introduction of the groundbreaking Re-Use of Public Sector Information Directive (last year replaced with the new Open Data Directive) of the Euroepan Union. (A brief history of this important EU policy can be found here and its importance (pdf).)
-Press the tag below to see more examples</description>
+      <description>Market sizing, research and forecasting reports.</description>
     </item>
     
     <item>
@@ -28,9 +27,7 @@ Press the tag below to see more examples</description>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0200</pubDate>
       
       <guid>/project/music-export/</guid>
-      <description>Europe, like most regions of the world, is a net importer of music, but has very signficant export potential. Intra-European export is also very significant, especially from Germany, France, Sweden and the Netherlands.
-The Central and Eastern European region is relatively weak in exporting recorded and live performances, but it is among global leaders in creating export revenues from festivals.
-Currently I am involved in creating predicitve models that help finding the best potential foreign market for music, and I make economic impact assessments of cultural tourism.</description>
+      <description>Understanding how concerts, festival audiences and recordings are crossing borders</description>
     </item>
     
     <item>
@@ -39,8 +36,7 @@ Currently I am involved in creating predicitve models that help finding the best
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/ceemid/</guid>
-      <description>CEEMID is a data integration system that could provide to be a model and starting point of building a European Music Observatory based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources. (More on this site)
-CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide acces timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals.</description>
+      <description>CEEMID</description>
     </item>
     
     <item>
@@ -49,8 +45,7 @@ CEEMID is aiming to transfer thousands of indicators and a verifiable, open-sour
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/market-report/</guid>
-      <description>I have been creating market reports for 20 years, mainly in emerging markets where data is scarce and often has little history.
-Starting as a junior consultant, I learned a lot about data acquisition. Later I held a &amp;lsquo;strategic information management&amp;rsquo; position in the Ministry of Economy and Transport in Hungary with oversight on the national statistical data collection. As a senior consultant and a former lecture, I used to train junior colleagues and journalists on data acquisition.</description>
+      <description>Market sizing, research and forecasting reports.</description>
     </item>
     
     <item>
@@ -59,7 +54,7 @@ Starting as a junior consultant, I learned a lot about data acquisition. Later I
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
       
       <guid>/project/r/</guid>
-      <description>The symmetric input-output tables (SIOTs) are complex statistical products that present inter-related statistics in a predefined structure. They are often found in spreadsheets that follow this structure, or in the case Eurostat in a data repository. In both cases they in reproducible research must be downloaded and restructured to programmatically accessible form. Often these highly structured statistics need to be analyzed together with other data, for example, when employment effects and multipliers are calculated.</description>
+      <description>Creation of the economic impact assessement package iotables.</description>
     </item>
     
     <item>
@@ -68,8 +63,7 @@ Starting as a junior consultant, I learned a lot about data acquisition. Later I
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/grants/</guid>
-      <description>Governments, the EU, international organizations and private donors often support causes of public interest with grants and donations. In some cases, these grants are aimed to help starting or sustaining economic activities. In other cases, they are supporting artistic activities or education.
-I had been involved in the professional assessment of granting schemes and grant applications since 2000. I have learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.</description>
+      <description>Ex ante and ex post grant evaluation</description>
     </item>
     
     <item>
@@ -78,7 +72,7 @@ I had been involved in the professional assessment of granting schemes and grant
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/pricing/</guid>
-      <description>At a very early stage of my career I specialized in regulated prices and acquired a second degree in Economic Regulation and Competition Policy. As an advisor to the minister, I set up a regulatory framework with new regulation for Hungarian freight railways. As a regulator or as a consultant to the authority I participated in price reviews. As a consultant to regulated industries, I helped making legally allowed pricing decisions or helped to challenge regulatory decisions.</description>
+      <description>Optimize pricing or review regulated prices</description>
     </item>
     
     <item>
@@ -87,8 +81,7 @@ I had been involved in the professional assessment of granting schemes and grant
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/royalties/</guid>
-      <description>Royalties are earnings on intellectual properties. In music, they are the earnings of the music composer, the performer and the producer and the recorded performance. Creators of films, books, software, and other artistic works or intellectual products are entitled to various forms of royalties.
-Many royalties are collectively managed, like the musicians pay after radio or restaurant plays. Other royalties, like revenues of app developers, are directly or indirectly paid to them by the buyer of their products.</description>
+      <description>Valuing music, film, and projecting royalty flows.</description>
     </item>
     
   </channel>

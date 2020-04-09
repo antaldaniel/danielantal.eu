@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music-export on Daniel Antal, CFA</title>
@@ -18,9 +18,7 @@
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0200</pubDate>
       
       <guid>/project/music-export/</guid>
-      <description>Europe, like most regions of the world, is a net importer of music, but has very signficant export potential. Intra-European export is also very significant, especially from Germany, France, Sweden and the Netherlands.
-The Central and Eastern European region is relatively weak in exporting recorded and live performances, but it is among global leaders in creating export revenues from festivals.
-Currently I am involved in creating predicitve models that help finding the best potential foreign market for music, and I make economic impact assessments of cultural tourism.</description>
+      <description>Understanding how concerts, festival audiences and recordings are crossing borders</description>
     </item>
     
     <item>
@@ -29,8 +27,7 @@ Currently I am involved in creating predicitve models that help finding the best
       <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
       
       <guid>/post/2019-09-23_cross-border_europe/</guid>
-      <description>If we take a look at the streaming charts of the region, we usually find that the vast majority of the streamed songs are foreign songs - except for Austria, U.S. songs. For comparison, we added a similar, middle-income emerging market (Argentina) and a rich, small-population English-speaking country, Australia to the chart. These countries seem to be in a similar position to the CEE countries.
-Arguably, the strongest countries of songwriting are the United States and Brazil - these are the countries that have ran out of the ISRC recording identifier range.</description>
+      <description>Which are the European countries that can successfully export songs on a streaming platform? What are the differences in cross-border hits from the UK, France, Germany, the Netherlands and Sweden?</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CCI on Daniel Antal, CFA</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 24 Mar 2020 13:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 13:30:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/cci/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Effect of COVID-19 On Creative &amp; Cultural Industries</title>
+      <link>/post/2020-04-09-recovery/</link>
+      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      
+      <guid>/post/2020-04-09-recovery/</guid>
+      <description>My presentation provided for the Slovak music industry stakeholders in this dialogue are not made available in a more general form, because the problems in Croatia, Hungary, Poland,  Slovakia, and to a great extent in the broader region including Austria, Slovenia and Czechia are very similar.</description>
+    </item>
     
     <item>
       <title>Documenting CEEMID For Open Data Use</title>
@@ -18,8 +27,7 @@
       <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
       
       <guid>/post/2020-03-24-documentation/</guid>
-      <description>CEEMID is a data integration system that could provide to be a model and starting point of building a European Music Observatory based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources.
-CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide access timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals.</description>
+      <description>The Central European Music Industry Report 2020 was updated with a technical annex that points out to the new wiki documentation website of CEEMID to make our work more accessible for designing the European Music Observatory.</description>
     </item>
     
     <item>
@@ -28,8 +36,7 @@ CEEMID is aiming to transfer thousands of indicators and a verifiable, open-sour
       <pubDate>Wed, 18 Mar 2020 18:30:00 +0100</pubDate>
       
       <guid>/post/2020-03-18-covid19/</guid>
-      <description>I was asked to contribute an article to the COVID-19 economic crisis series of the Hungarian business weekly and portal hgv.hu. While the article is only available in Hungarian, and behind a paywall, it draws on experiences that are very similar across the CEE region, and in some cases, in most the European Union. (If you undersand the language, click to the Hungarian version of this post.)
-LinkedIn version in Hungarian</description>
+      <description>I was asked to contribute an article to the COVID-19 economic crisis series of the Hungarian business weekly and portal hgv.hu.  While the article is only available in Hungarian, and behind a paywall, it draws on experiences that are very similar across the CEE region, and in some cases, in most the European Union.</description>
     </item>
     
     <item>
@@ -48,8 +55,7 @@ CEEMID has a large enough answer pool for an empirical clustering of occupations
       <pubDate>Wed, 11 Mar 2020 12:30:00 +0100</pubDate>
       
       <guid>/post/2020-03-11-esco/</guid>
-      <description>CEEMID has been conducting surveys among music and film professionals for 6 years. So far, about 5000 music and 1500 film professionals filled out our detailed questionnaire about their working conditions, skills, tasks. Some of our surveys were related to training needs assessments, and other professional growth assessments.
-The ESCO system builds on occupations, skills and qualifications. Our general experience is that in the music and film industry, because of the lack of life-long learning opportunities, the absence of large employers, low level of unionization, and generally the mixed nature of occupations, informal learning practices play a very important role.</description>
+      <description>CEEMID has a large enough answer pool for an empirical clustering of occupations. We are able to perform clustering of job descriptions, earnings, educational levels, and work output (such as films, documentaries, TV programmes, live music performances, music compositions, etc) to empirically create groups with a “set of jobs whose main tasks and duties are characterised by a high degree of similarity” in terms of economic activity and work output.</description>
     </item>
     
     <item>
@@ -58,8 +64,7 @@ The ESCO system builds on occupations, skills and qualifications. Our general ex
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
       
       <guid>/post/2020-01-30-ceereport/</guid>
-      <description>CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the Central &amp;amp; Eastern European Music Industry Report 2020 as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the CCS Ecosystems: FLIPPING THE ODDS Conference – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
-My presentation was focused around the question on invisibility of the CCI sector in the economic, education and labour policymaking, and the low level of data use in fact-based cultural policy design, and the following policy design problems.</description>
+      <description>The Central &amp;amp; Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector.</description>
     </item>
     
   </channel>

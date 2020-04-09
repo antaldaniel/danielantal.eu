@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Antal Dániel, CFA</title>
@@ -20,7 +20,7 @@
       <guid>/hu/talk/2019_11_19_mokk/</guid>
       <description>Olvasnivalók:
 Antal Dániel, 2015. “A Proart zeneipari jelentése. [The Music Industry Report of Proart].” ProArt Szövetség a Szerzői Jogokért Egyesület. http://zeneipar.info/letoltes/proart-zeneipari-jelentes-2015.pdf.
-Az Európai Parlament és a Tanács (EU) 2019&amp;frasl;790 irányelve (2019. április 17.) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról. 2019. Official Journal of the European Union. https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32019L0790.
+Az Európai Parlament és a Tanács (EU) 2019/790 irányelve (2019. április 17.) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról. 2019. Official Journal of the European Union. https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32019L0790.
 EYGM. 2014. “Creating Growth – Measuring Cultural and Creative Industries in Europe.” EYGM Limited.</description>
     </item>
     
@@ -90,7 +90,7 @@ CEEMID – Central &amp;amp; Eastern European Music Databases was created out of
       
       <guid>/hu/talk/makk/</guid>
       <description>Click on the Slides button above to view the built-in slides feature.
-Slides can be added in a few ways:
+Slides can be added in a few ways:
  Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
     </item>
     

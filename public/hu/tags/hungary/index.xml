@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hungary on Antal Dániel, CFA</title>
+    <title>Hungary on Antal Dániel, CFA</title>
     <link>/hu/tags/hungary/</link>
-    <description>Recent content in hungary on Antal Dániel, CFA</description>
+    <description>Recent content in Hungary on Antal Dániel, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 18 Mar 2020 18:30:00 +0100</pubDate>
       
       <guid>/hu/post/2020-03-18-covid19/</guid>
-      <description>Bezártak a mozik, törölték a koncerteket és a színházi előadásokat, a stand-upokat. Nagyobb stábokkal lehetetlen filmet forgatni, a turnézás, az utazás szinte lehetetlenné vált. Európa egyes országaiban már bezárták az éttermeket, a kávézókat és a plázákat is. Ezek az intézkedések rövid távon borzalmas hatással lesznek a kreatív iparágakra, de általában a munkaerő-intenzív szolgáltató iparágakra, például a vendéglátásra, a hotelszolgáltatásokra is. A makrogazdasági értelemben ciklikus ágazatok mindig élesen reagálnak a kereslet változására, de ilyen drasztikus keresletváltozásra legfeljebb háborús időkben volt eddig példa.</description>
+      <description>A magyarországi kreatívipar a járvány előtt is komoly kihívásokkal küzdött – a helyzet most csak fokozódik majd.</description>
     </item>
     
     <item>
@@ -38,10 +38,7 @@ A vontakozó korábbi prezentációk a blog szekcióban találhatók meg.</descr
       <pubDate>Mon, 18 Nov 2019 16:00:00 +0100</pubDate>
       
       <guid>/hu/post/2019-11-18-bush/</guid>
-      <description>A HAIL szervezésében egy nagyon hasznos workshopon vettem részt a Budapest Showcase Hub konferencián. Másnap koncertszervezőkkel és oktatókkal beszélgettünk az előadásom kapcsán.
-A nyilvános előadásom itt található meg here. A prezentáció összesen közel 11Mb, eltart egy kis ideig amíg a böngésző betölti.
-A showcase fesztiválon fellépő kiváló zenekarok felvételeit pedig itt lehet meghallgatni:
- </description>
+      <description>A HAIL szervezésében egy nagyon hasznos workshopon vettem részt a Budapest Showcase Hub konferencián.  Másnap koncertszervezőkkel és oktatókkal beszélgettünk az előadásom kapcsán.</description>
     </item>
     
     <item>
@@ -52,8 +49,17 @@ A showcase fesztiválon fellépő kiváló zenekarok felvételeit pedig itt lehe
       <guid>/hu/talk/2019_11_19_mokk/</guid>
       <description>Olvasnivalók:
 Antal Dániel, 2015. “A Proart zeneipari jelentése. [The Music Industry Report of Proart].” ProArt Szövetség a Szerzői Jogokért Egyesület. http://zeneipar.info/letoltes/proart-zeneipari-jelentes-2015.pdf.
-Az Európai Parlament és a Tanács (EU) 2019&amp;frasl;790 irányelve (2019. április 17.) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról. 2019. Official Journal of the European Union. https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32019L0790.
+Az Európai Parlament és a Tanács (EU) 2019/790 irányelve (2019. április 17.) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról. 2019. Official Journal of the European Union. https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32019L0790.
 EYGM. 2014. “Creating Growth – Measuring Cultural and Creative Industries in Europe.” EYGM Limited.</description>
+    </item>
+    
+    <item>
+      <title>The Growth of the Hungarian Popular Music Repertoire: Who Creates It And How Does It Find An Audience</title>
+      <link>/hu/publication/made_in_hungary/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/hu/publication/made_in_hungary/</guid>
+      <description>Being visible in the world is always difficult in the Central and Eastern European region. Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region. A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book.</description>
     </item>
     
     <item>
@@ -62,7 +68,7 @@ EYGM. 2014. “Creating Growth – Measuring Cultural and Creative Industries in
       <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
       
       <guid>/hu/publication/hungary_music_industry_2014/</guid>
-      <description>A ProArt zeneipari jelentése  from Dániel Antal</description>
+      <description></description>
     </item>
     
     <item>
@@ -89,7 +95,7 @@ EYGM. 2014. “Creating Growth – Measuring Cultural and Creative Industries in
       <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
       
       <guid>/hu/publication/hungary_psi_2009/</guid>
-      <description>Original title in Hungarian: - A közintézmények újrahasznosítható információinak piaca Magyarországon</description>
+      <description>A localization of the measuring European Public Sector Information resources for Hungary in the fields of Business information, geographic information, legal information, meteorological information, social data and transport information. Market sizing, service levels, pricing.</description>
     </item>
     
     <item>

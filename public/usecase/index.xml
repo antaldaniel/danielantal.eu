@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Use Cases on Daniel Antal, CFA</title>
@@ -47,7 +47,8 @@ The European governments, and the EU itself, collects information that is worth 
       <pubDate>Sat, 04 May 2019 19:36:00 +0200</pubDate>
       
       <guid>/usecase/big_data/</guid>
-      <description>CEEMID was made out of necessity in EU member states when official statistics are missing key elements of the music or other creative industries. We had been experimenting with big data sources since 2017, especially to find ways to break down statistics to regional or city level, and to find leading indictors or estimators where government statistics are not available, or available only with a very long time delay.</description>
+      <description>CEEMID was made out of necessity in EU member states when official statistics are missing key elements of the music or other creative industries. We had been experimenting with big data sources since 2017, especially to find ways to break down statistics to regional or city level, and to find leading indictors or estimators where government statistics are not available, or available only with a very long time delay.
+ESSnet Big Data is a project within the European statistical system (ESS) jointly undertaken by 28 partners.</description>
     </item>
     
     <item>

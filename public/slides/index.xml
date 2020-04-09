@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides on Daniel Antal, CFA</title>
@@ -12,33 +12,15 @@
     
     
     <item>
-      <title></title>
-      <link>/slides/ceemid-observatory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/slides/ceemid-observatory/</guid>
-      <description>Introducing the CEEMID Observatoryhtml, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal iframe,.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p, .reveal blockquote, .reveal pre,.reveal a, .reveal abbr, .reveal acronym, .reveal address, .reveal big, .reveal cite, .reveal code,.reveal del, .reveal dfn, .reveal em, .reveal img, .reveal ins, .reveal kbd, .reveal q, .reveal s, .reveal samp,.reveal small, .</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/slides/presentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/slides/presentation/</guid>
-      <description>Example Presentationhtml, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal iframe,.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p, .reveal blockquote, .reveal pre,.reveal a, .reveal abbr, .reveal acronym, .reveal address, .reveal big, .reveal cite, .reveal code,.reveal del, .reveal dfn, .reveal em, .reveal img, .reveal ins, .reveal kbd, .reveal q, .reveal s, .reveal samp,.reveal small, .reveal strike, .</description>
-    </item>
-    
-    <item>
       <title>Slides</title>
       <link>/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/slides/example-slides/</guid>
       <description>Welcome to Slides Academic
-Features  Efficiently write slides in Markdown 3-in-1: Create, Present, and Publish your slides Supports speaker notes Mobile friendly slides  Controls  Next: Right Arrow or Space Previous: Left Arrow Start: Home Finish: End Overview: Esc Speaker notes: S Fullscreen: F Zoom: Alt + Click PDF Export: E  Code Highlighting Inline code: variable
+ Features  Efficiently write slides in Markdown 3-in-1: Create, Present, and Publish your slides Supports speaker notes Mobile friendly slides   Controls  Next: Right Arrow or Space Previous: Left Arrow Start: Home Finish: End Overview: Esc Speaker notes: S Fullscreen: F Zoom: Alt + Click PDF Export: E   Code Highlighting Inline code: variable
 Code block:
-porridge = &amp;quot;blueberry&amp;quot; if porridge == &amp;quot;blueberry&amp;quot;: print(&amp;quot;Eating...&amp;quot;)  Math In-line math: $x + y = z$</description>
+porridge = &amp;#34;blueberry&amp;#34;if porridge == &amp;#34;blueberry&amp;#34;:print(&amp;#34;Eating.</description>
     </item>
     
     <item>
@@ -48,9 +30,9 @@ porridge = &amp;quot;blueberry&amp;quot; if porridge == &amp;quot;blueberry&amp;
       
       <guid>/slides/example-slides2/</guid>
       <description>Welcome to Slides Academic
-Features  Efficiently write slides in Markdown 3-in-1: Create, Present, and Publish your slides Supports speaker notes Mobile friendly slides  Images Controls  Next: Right Arrow or Space Previous: Left Arrow Start: Home Finish: End Overview: Esc Speaker notes: S Fullscreen: F Zoom: Alt + Click PDF Export: E  Code Highlighting Inline code: variable
+ Features  Efficiently write slides in Markdown 3-in-1: Create, Present, and Publish your slides Supports speaker notes Mobile friendly slides   Images  Controls  Next: Right Arrow or Space Previous: Left Arrow Start: Home Finish: End Overview: Esc Speaker notes: S Fullscreen: F Zoom: Alt + Click PDF Export: E   Code Highlighting Inline code: variable
 Code block:
-porridge = &amp;quot;blueberry&amp;quot; if porridge == &amp;quot;blueberry&amp;quot;: print(&amp;quot;Eating.</description>
+porridge = &amp;#34;blueberry&amp;#34;if porridge == &amp;#34;blueberry&amp;#34;:print(&amp;#34;Eating.</description>
     </item>
     
     <item>
@@ -60,9 +42,9 @@ porridge = &amp;quot;blueberry&amp;quot; if porridge == &amp;quot;blueberry&amp;
       
       <guid>/slides/example-slides2/example-slides2/</guid>
       <description>Welcome to Slides Academic
-Features  Efficiently write slides in Markdown 3-in-1: Create, Present, and Publish your slides Supports speaker notes Mobile friendly slides  Images Controls  Next: Right Arrow or Space Previous: Left Arrow Start: Home Finish: End Overview: Esc Speaker notes: S Fullscreen: F Zoom: Alt + Click PDF Export: E  Code Highlighting Inline code: variable
+ Features  Efficiently write slides in Markdown 3-in-1: Create, Present, and Publish your slides Supports speaker notes Mobile friendly slides   Images  Controls  Next: Right Arrow or Space Previous: Left Arrow Start: Home Finish: End Overview: Esc Speaker notes: S Fullscreen: F Zoom: Alt + Click PDF Export: E   Code Highlighting Inline code: variable
 Code block:
-porridge = &amp;quot;blueberry&amp;quot; if porridge == &amp;quot;blueberry&amp;quot;: print(&amp;quot;Eating.</description>
+porridge = &amp;#34;blueberry&amp;#34;if porridge == &amp;#34;blueberry&amp;#34;:print(&amp;#34;Eating.</description>
     </item>
     
   </channel>

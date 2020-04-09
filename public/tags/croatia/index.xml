@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Croatia on Daniel Antal, CFA</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 31 Oct 2019 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 13:30:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/croatia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Effect of COVID-19 On Creative &amp; Cultural Industries</title>
+      <link>/post/2020-04-09-recovery/</link>
+      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      
+      <guid>/post/2020-04-09-recovery/</guid>
+      <description>My presentation provided for the Slovak music industry stakeholders in this dialogue are not made available in a more general form, because the problems in Croatia, Hungary, Poland,  Slovakia, and to a great extent in the broader region including Austria, Slovenia and Czechia are very similar.</description>
+    </item>
     
     <item>
       <title>Private Copying in Croatia</title>
@@ -18,9 +27,7 @@
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
       
       <guid>/post/2019-10-31-croatia_pcr/</guid>
-      <description>After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.
-You can find the whole study in English, a Croatian language summary and a press release in the Publications section.
-The models presented are simplified models of the Hungarian and Slovak models, with less detailed data.</description>
+      <description>My study, Private Copying in Croatia, argues for an overhaul of the Croatian private copying remuneration scheme and gives some empirical evidence for the transposition of the DSM Directive. Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century.</description>
     </item>
     
     <item>
@@ -39,8 +46,7 @@ Short summary in Croatian: Privatno kopiranje u Hrvatskoj Full text in English: 
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/2016-04-20_makk15/</guid>
-      <description>Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference (Međunarodna autorska kreativna konferencija, #MAKK2015) in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.
-The Central European music industry, as shown by processing the data of more than 2000 musicians in the region is even more reliant on live performances than the British music industry.</description>
+      <description>Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.</description>
     </item>
     
   </channel>

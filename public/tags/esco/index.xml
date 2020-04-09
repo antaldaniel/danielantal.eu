@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ESCO on Daniel Antal, CFA</title>
@@ -28,8 +28,7 @@ CEEMID has a large enough answer pool for an empirical clustering of occupations
       <pubDate>Wed, 11 Mar 2020 12:30:00 +0100</pubDate>
       
       <guid>/post/2020-03-11-esco/</guid>
-      <description>CEEMID has been conducting surveys among music and film professionals for 6 years. So far, about 5000 music and 1500 film professionals filled out our detailed questionnaire about their working conditions, skills, tasks. Some of our surveys were related to training needs assessments, and other professional growth assessments.
-The ESCO system builds on occupations, skills and qualifications. Our general experience is that in the music and film industry, because of the lack of life-long learning opportunities, the absence of large employers, low level of unionization, and generally the mixed nature of occupations, informal learning practices play a very important role.</description>
+      <description>CEEMID has a large enough answer pool for an empirical clustering of occupations. We are able to perform clustering of job descriptions, earnings, educational levels, and work output (such as films, documentaries, TV programmes, live music performances, music compositions, etc) to empirically create groups with a “set of jobs whose main tasks and duties are characterised by a high degree of similarity” in terms of economic activity and work output.</description>
     </item>
     
   </channel>

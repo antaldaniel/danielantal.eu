@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>surveys on Daniel Antal, CFA</title>
@@ -18,8 +18,7 @@
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/ceemid/</guid>
-      <description>CEEMID is a data integration system that could provide to be a model and starting point of building a European Music Observatory based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources. (More on this site)
-CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide acces timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals.</description>
+      <description>CEEMID</description>
     </item>
     
     <item>
@@ -28,8 +27,7 @@ CEEMID is aiming to transfer thousands of indicators and a verifiable, open-sour
       <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
       
       <guid>/post/career_path/</guid>
-      <description>In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.
-In the 21st century the live music stream is far more important than the recordings.</description>
+      <description>In our survey, we ask musicians about the most important milestones of their career and their achievement in the past 12 month. So far we have surveyed more than 2000 music professionals and 900 film production professionals in Croatia, Hungary and Slovakia.</description>
     </item>
     
   </channel>
