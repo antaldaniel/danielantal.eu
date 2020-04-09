@@ -1,7 +1,7 @@
 +++
 title = "The Effect of COVID-19 On Creative & Cultural Industries"
 
-date = 2020-04-09T13:30:00
+date = 2020-04-09T13:00:00
 lastmod = 2020-04-09T13:30:00
 draft = false
 
@@ -28,7 +28,7 @@ summary = "My presentation provided for the Slovak music industry stakeholders i
 
 I have made some propsals for the Hungarian and Slovak stakeholders on how to represent the particular interests of the creative industries, particuarly the music industry in the social dialogue and policy discussion on crisis recovery policies.
 
-My presentation provided for the Slovak music industry stakeholders in this dialogue are not made available in a more general form, because the problems in Croatia, Hungary, Poland,  Slovakia, and to a great extent in the broader region including Austria, Slovenia and Czechia are very similar. 
+My [presentation](https://danielantal.eu/presentation/covid-recovery) provided for the Slovak music industry stakeholders in this dialogue are not made available in a more general form, because the problems in Croatia, Hungary, Poland,  Slovakia, and to a great extent in the broader region including Austria, Slovenia and Czechia are very similar. 
 
 ## The conclusions
 
