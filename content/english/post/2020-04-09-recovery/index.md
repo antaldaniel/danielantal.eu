@@ -1,5 +1,5 @@
 +++
-title = "The Effect of COVID-19 On Creative & Cultural Industries"
+title = "Crisis Recovery in the CEE & SEE Creative & Cultural Sectors"
 
 date = 2020-04-09T13:00:00
 lastmod = 2020-04-09T13:30:00
