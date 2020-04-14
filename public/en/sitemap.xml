@@ -3,6 +3,60 @@
     
     <url>
     
+      <loc>/post/yes-delft-co-lab/</loc>
+      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/covid19/</loc>
+      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+    
+      <loc>/</loc>
+      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/geolocations/</loc>
+      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/social-distancing/</loc>
+      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tags/austria/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/tags/austria/" hreflang="hu"/>
     
@@ -36,10 +90,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/croatia/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/croatia/" hreflang="hu"/>
-    
-      <loc>/tags/croatia/</loc>
+      <loc>/post/2020-04-09-recovery/</loc>
       <lastmod>2020-04-09T13:30:00+02:00</lastmod>
     </url>
     
@@ -47,10 +98,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/croatia/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/croatia/" hreflang="hu"/>
     
-      <loc>/</loc>
+      <loc>/tags/croatia/</loc>
       <lastmod>2020-04-09T13:30:00+02:00</lastmod>
     </url>
     
@@ -89,25 +140,6 @@
     <url>
     
       <loc>/tags/slovenia/</loc>
-      <lastmod>2020-04-09T13:30:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-    
-      <loc>/tags/</loc>
-      <lastmod>2020-04-09T13:30:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2020-04-09-recovery/</loc>
       <lastmod>2020-04-09T13:30:00+02:00</lastmod>
     </url>
     

@@ -7,15 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 09 Apr 2020 13:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>covid19</title>
+      <link>/tags/covid19/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geolocations</title>
+      <link>/tags/geolocations/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/geolocations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social-distancing</title>
+      <link>/tags/social-distancing/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social-distancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Austria</title>
       <link>/tags/austria/</link>
-      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/austria/</guid>
       <description></description>
@@ -24,7 +51,7 @@
     <item>
       <title>CCI</title>
       <link>/tags/cci/</link>
-      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/cci/</guid>
       <description></description>
@@ -33,7 +60,7 @@
     <item>
       <title>COVID-19</title>
       <link>/tags/covid-19/</link>
-      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/covid-19/</guid>
       <description></description>
@@ -42,7 +69,7 @@
     <item>
       <title>Croatia</title>
       <link>/tags/croatia/</link>
-      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/croatia/</guid>
       <description></description>
@@ -51,7 +78,7 @@
     <item>
       <title>Hungary</title>
       <link>/tags/hungary/</link>
-      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/hungary/</guid>
       <description></description>
@@ -60,7 +87,7 @@
     <item>
       <title>Poland</title>
       <link>/tags/poland/</link>
-      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/poland/</guid>
       <description></description>
@@ -69,7 +96,7 @@
     <item>
       <title>Slovakia</title>
       <link>/tags/slovakia/</link>
-      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/slovakia/</guid>
       <description></description>
@@ -78,7 +105,7 @@
     <item>
       <title>Slovenia</title>
       <link>/tags/slovenia/</link>
-      <pubDate>Thu, 09 Apr 2020 13:30:00 +0200</pubDate>
+      <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/slovenia/</guid>
       <description></description>
