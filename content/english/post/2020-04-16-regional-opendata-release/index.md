@@ -114,7 +114,7 @@ _Internet use: participating in social networks (creating user profile, posting 
 
 The chosen dataset is highlighting several new priorities of CEEMID.  This indicator, which is based on a [Eurostat statistical product](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=isoc_r_iuse_i&lang=en), has a much higher data quality than the Eurostat release, it is easier to use, and goes beyond the detail of national statistics.  It contains data on 411 territories in Europe, including countries, provinces and smaller regions, even some metropolitan areas.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3754574.svg)](https://doi.org/10.5281/zenodo.3754574) The dataset is available on the European open research data repository, [Zenodo](https://zenodo.org/). It will be updated annually.
+The dataset is available on the European open research data repository, [Zenodo](https://zenodo.org/). It will be updated annually. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3754574.svg)](https://doi.org/10.5281/zenodo.3754574) 
 
 The processing information is available in the dataset.  First, we have used our open source software to correct the regional boundary changes during the decade (see [Programatic Approach To Work With European Regional Data Panels](/post/2020-02-13-regional_eurostat/)).
 
