@@ -7,35 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 13:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>covid19</title>
-      <link>/tags/covid19/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <title>COVID-19</title>
+      <link>/tags/covid-19/</link>
+      <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
       
-      <guid>/tags/covid19/</guid>
+      <guid>/tags/covid-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geolocations</title>
       <link>/tags/geolocations/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/geolocations/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>social-distancing</title>
-      <link>/tags/social-distancing/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <title>public-policy</title>
+      <link>/tags/public-policy/</link>
+      <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
       
-      <guid>/tags/social-distancing/</guid>
+      <guid>/tags/public-policy/</guid>
       <description></description>
     </item>
     
@@ -54,15 +54,6 @@
       <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
       
       <guid>/tags/cci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID-19</title>
-      <link>/tags/covid-19/</link>
-      <pubDate>Thu, 09 Apr 2020 13:00:00 +0200</pubDate>
-      
-      <guid>/tags/covid-19/</guid>
       <description></description>
     </item>
     
@@ -643,6 +634,15 @@
     </item>
     
     <item>
+      <title>PSI</title>
+      <link>/tags/psi/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/psi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>statistics</title>
       <link>/tags/statistics/</link>
       <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
@@ -729,15 +729,6 @@
       <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
       
       <guid>/tags/market-size/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>psi</title>
-      <link>/tags/psi/</link>
-      <pubDate>Tue, 15 Dec 2009 19:00:00 +0100</pubDate>
-      
-      <guid>/tags/psi/</guid>
       <description></description>
     </item>
     

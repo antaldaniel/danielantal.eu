@@ -12,7 +12,7 @@ tags = ["market-report", "Slovakia", "multipliers", "music-industry"]
 summary = "We presented the most important findings of the Slovak Music Industry Report with the project sponsor, Mgr. Tomas Miks, member of SOZA’s management team in the first SHARPE music conference in Bratislava."
 
 # Projects (optional).
-# projects = ["market-report", "royalties"]
+projects = ["market-report", "royalties"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

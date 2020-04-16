@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>psi on Daniel Antal, CFA</title>
+    <title>PSI on Daniel Antal, CFA</title>
     <link>/tags/psi/</link>
-    <description>Recent content in psi on Daniel Antal, CFA</description>
+    <description>Recent content in PSI on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 15 Dec 2009 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2015 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/psi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creating better national cultural statistics with Eurobarometer datasets and ESSNet-Culture technical recommendations</title>
+      <link>/publication/creating_better_2015/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/creating_better_2015/</guid>
+      <description>You can download the poster presentation here  or you can zoom into it with prezi.</description>
+    </item>
     
     <item>
       <title>Market size of the re-usable public sector information in Hungary</title>

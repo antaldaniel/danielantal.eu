@@ -3,16 +3,19 @@
     
     <url>
     
-      <loc>/post/yes-delft-co-lab/</loc>
-      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+      <loc>/post/2020-04-15-comparing-social-distancing/</loc>
+      <lastmod>2020-04-16T13:30:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/covid19/</loc>
-      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+      <xhtml:link rel="alternate" href="/tags/covid-19/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/covid-19/" hreflang="hu"/>
+    
+      <loc>/tags/covid-19/</loc>
+      <lastmod>2020-04-16T13:30:00+02:00</lastmod>
     </url>
     
   
@@ -23,7 +26,7 @@
       <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
     
       <loc>/</loc>
-      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+      <lastmod>2020-04-16T13:30:00+02:00</lastmod>
     </url>
     
   
@@ -31,15 +34,15 @@
     <url>
     
       <loc>/tags/geolocations/</loc>
-      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+      <lastmod>2020-04-16T13:30:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/social-distancing/</loc>
-      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+      <loc>/tags/public-policy/</loc>
+      <lastmod>2020-04-16T13:30:00+02:00</lastmod>
     </url>
     
   
@@ -50,7 +53,7 @@
       <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
     
       <loc>/tags/</loc>
-      <lastmod>2020-04-14T22:23:37+01:00</lastmod>
+      <lastmod>2020-04-16T13:30:00+02:00</lastmod>
     </url>
     
   
@@ -72,17 +75,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/cci/" hreflang="hu"/>
     
       <loc>/tags/cci/</loc>
-      <lastmod>2020-04-09T13:30:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/covid-19/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/covid-19/" hreflang="hu"/>
-    
-      <loc>/tags/covid-19/</loc>
       <lastmod>2020-04-09T13:30:00+02:00</lastmod>
     </url>
     
@@ -1068,10 +1060,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/post/sharpe_18/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/post/sharpe_18/" hreflang="hu"/>
-    
-      <loc>/post/sharpe_18/</loc>
+      <loc>/post/2018-04-18_sharpe_18/</loc>
       <lastmod>2019-05-05T19:00:00+02:00</lastmod>
     </url>
     
@@ -1273,10 +1262,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/publication_types/0/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/publication_types/0/" hreflang="hu"/>
-    
-      <loc>/publication_types/0/</loc>
+      <loc>/publication_types/1/</loc>
       <lastmod>2015-11-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -1310,6 +1296,17 @@
       <xhtml:link rel="alternate" href="/hu/tags/methodology/" hreflang="hu"/>
     
       <loc>/tags/methodology/</loc>
+      <lastmod>2015-11-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/psi/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/psi/" hreflang="hu"/>
+    
+      <loc>/tags/psi/</loc>
       <lastmod>2015-11-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -1427,6 +1424,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/publication_types/0/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication_types/0/" hreflang="hu"/>
+    
+      <loc>/publication_types/0/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/amchan_energy_2010/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/publication/amchan_energy_2010/" hreflang="hu"/>
     
@@ -1497,17 +1505,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/market-size/" hreflang="hu"/>
     
       <loc>/tags/market-size/</loc>
-      <lastmod>2009-12-15T19:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/psi/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/psi/" hreflang="hu"/>
-    
-      <loc>/tags/psi/</loc>
       <lastmod>2009-12-15T19:00:00+01:00</lastmod>
     </url>
     

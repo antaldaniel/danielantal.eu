@@ -15,7 +15,7 @@ authors = ["Daniel Antal"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 
@@ -27,11 +27,11 @@ selected = true
 
 # Projects (optional).
 
-projects = ["market_report", "music-export"]
+projects = ["market-report", "opendata", "ceemid"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["statistics", "CAP", "survey", "methodology"]
+tags = ["statistics", "CAP", "survey", "methodology", "PSI", "open-data"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -58,11 +58,13 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**John Liu*](https://www.flickr.com/photos/8047705@N02/5427063703/)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+You can download the poster presentation here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3754226.svg)](https://doi.org/10.5281/zenodo.3754226) or you can zoom into it with prezi.
 
 <iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" width="550" height="400" src="https://prezi.com/embed/oar71vqxjoq4/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0dCs2TTYrQjNOY0VXWUFnaGUySS9RVnRnPT0&amp;landing_sign=SrA-iYgwejSc75tmUrPjHaAHQpUXuxhxq6DZcREMEGk"></iframe>
