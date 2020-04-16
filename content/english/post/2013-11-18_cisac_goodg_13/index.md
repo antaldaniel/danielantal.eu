@@ -1,7 +1,7 @@
 +++
 title = "Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting"
-date = 2013-11-18T00:00:00  # Schedule page publish date.
-
+date = 2013-11-18T00:00:00
+lastmod = 2013-11-18T00:00:00
 draft = false
 
 authors = ["Daniel Antal"]
