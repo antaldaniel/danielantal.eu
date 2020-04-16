@@ -1,17 +1,16 @@
 +++
 # Project title.
-title = "The first national Hungarian Music Industry Report"
+title = "First National Hungarian Music Industry Report"
 
 # Date this page was created.
 date = 2015-04-27T00:00:00
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["music-industry", "report", "Hungary"]`
-tags = ["Industry Reports"]
+tags = ["music-industry", "report", "Hungary"]
 
 summary = "The report was compiled with joining data and knowledge from collective management agencies for composer, producer and performer royalties, and market leading companies Sziget (organizer of Sziget festival and many more festivals), WMMD music distribution company, market-leading Schubert Music Publishing and A38, Hungary’s leading music club, together with producer and audience survey data, tax authority data and other government sources."
 
-# projects = ["market-report"]
+# projects = ["market-report", "ceemid"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://www.zeneipar.info/index-2015.html"
@@ -22,7 +21,7 @@ external_link = "http://www.zeneipar.info/index-2015.html"
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+slides = ""
 
 # Links (optional).
 url_pdf = ""
@@ -38,7 +37,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

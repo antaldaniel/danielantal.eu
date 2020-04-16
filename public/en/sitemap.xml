@@ -1338,10 +1338,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/industry-reports/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/industry-reports/" hreflang="hu"/>
-    
-      <loc>/tags/industry-reports/</loc>
+      <loc>/post/2015-04-27_proart_report_15/</loc>
       <lastmod>2015-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -1349,10 +1346,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/post/proart_report_15/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/post/proart_report_15/" hreflang="hu"/>
-    
-      <loc>/post/proart_report_15/</loc>
+      <loc>/tags/report/</loc>
       <lastmod>2015-04-27T00:00:00+02:00</lastmod>
     </url>
     
