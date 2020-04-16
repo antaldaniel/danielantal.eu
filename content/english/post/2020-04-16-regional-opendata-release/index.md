@@ -32,33 +32,8 @@ caption = "Internet use: participating in social networks (2011)"
 
 [[gallery_item]]
 album = "gallery"
-image = "ceemid_regional_social_media_use_2013.jpg"
-caption = "Internet use: participating in social networks (2013)"
-
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2014.jpg"
-caption = "Internet use: participating in social networks (2014)"
-
-[[gallery_item]]
-album = "gallery"
 image = "ceemid_regional_social_media_use_2015.jpg"
 caption = "Internet use: participating in social networks (2015)"
-
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2016.jpg"
-caption = "Internet use: participating in social networks (2016)"
-
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2017.jpg"
-caption = "Internet use: participating in social networks (2017)"
-
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2018.jpg"
-caption = "Internet use: participating in social networks (2018)"
 
 [[gallery_item]]
 album = "gallery"
@@ -72,33 +47,9 @@ caption = "CEEMID metadata summary (2011)"
 
 [[gallery_item]]
 album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2013.jpg"
-caption = "CEEMID metadata summary (2013)"
-
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2014.jpg"
-caption = "CEEMID metadata summary (2014)"
-
-[[gallery_item]]
-album = "gallery"
 image = "metadata_ceemid_regional_social_media_use_2015.jpg"
 caption = "CEEMID metadata summary (2015)"
 
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2016.jpg"
-caption = "CEEMID metadata summary (2016)"
-
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2017.jpg"
-caption = "CEEMID metadata summary (2017)"
-
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2018.jpg"
-caption = "CEEMID metadata summary (2018)"
 
 [[gallery_item]]
 album = "gallery"
