@@ -22,7 +22,7 @@ projects = ["market-report", "ceemid"]
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Visualizaton: Daniel Antal, ceemid.eu"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

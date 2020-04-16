@@ -12,7 +12,6 @@ tags = ["geolocations", "public-policy", "COVID-19"]
 summary = "Based on the locational data of various smartphones and application data, we know that people spend 10-15% more time at home since January, and 40-50% less in their workplaces.  Similar data is available for other locations."
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
   caption = "Staying home or going to work? Visualization by Daniel Antal"
