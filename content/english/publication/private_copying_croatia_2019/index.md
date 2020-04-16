@@ -30,7 +30,7 @@ projects = ["market-report", "pricing", "CEEMID"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "Croatia", "private-copying", "PCR", "value-gap", "value-transfer"]
+tags = ["market-report", "Croatia", "private-copying", "PCR", "value-gap"]
 
 # Links (optional).
 url_pdf = "https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u_Hrvatskoj_DA_CEEMID.pdf"
