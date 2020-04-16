@@ -67,11 +67,11 @@ The chosen dataset is highlighting several new priorities of CEEMID.  This indic
 
 The dataset is available on the European open research data repository, [Zenodo](https://zenodo.org/record/3754574#.XpimX8gzbIU). It will be updated annually. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3754574.svg)](https://doi.org/10.5281/zenodo.3754574) 
 
-The processing information is available in the dataset.  First, we have used our open source software to correct the regional boundary changes during the decade (see [Programatic Approach To Work With European Regional Data Panels](/post/2020-02-13-regional_eurostat/)).
+The processing information is available in the dataset.  First, the CEEMID open source software corrects the regional boundaries when changes affected them in the past decade (_see [Programatic Approach To Work With European Regional Data Panels](/post/2020-02-13-regional_eurostat/)_).
 
-When data was missing in the end of the dataset, we used the last observation carry forward, when in the beginning, the next observation carry backwards data.  Gaps in the data were interpolated using linear interpolation. Whenever data was available on a larger (provincial level), we imputed it to the smaller regional units. 
+When data was missing in the end of the dataset, the last observation is carried forward, when in the beginning, the next observation is carried backwards.  Gaps in the data are interpolated using linear interpolation. Whenever data was available on a larger (provincial level), we imputed it to the smaller regional units. In the next release, panel and time series model based forecasts will be included, too. 
 
-The data contains standard national / regional references according the European NUTS2013 standard for backwards compatibility. Further documentation will be available on our methodology on the [documentation.ceemid.eu](https://documentation.ceemid.eu) wiki website.
+The data contains both current NUTS2016 standard national/regional references, and the NUTS2013 standard for backward compatibility. Further documentation will be available on our methodology on the [documentation.ceemid.eu](https://documentation.ceemid.eu) wiki website.
 
 At last, the data was put into a table that complies with the [tidy data](https://www.jstatsoft.org/article/view/v059i10) principles for easier processing on computers and immediate use in spreadsheet applications. 
 
