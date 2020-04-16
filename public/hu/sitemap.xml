@@ -633,9 +633,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/post/ceempc/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/post/ceempc/" hreflang="en"/>
-    
       <loc>/hu/post/ceempc/</loc>
       <lastmod>2017-09-29T00:00:00+02:00</lastmod>
     </url>
