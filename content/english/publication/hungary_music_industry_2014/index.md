@@ -26,12 +26,7 @@ abstract_short = "Hungary's first music industry report. Following the three inc
 selected = true
 
 # Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["market-report"]
+projects = ["market-report", "ceemid"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

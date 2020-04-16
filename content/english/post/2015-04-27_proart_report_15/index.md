@@ -6,7 +6,7 @@ title = "First National Hungarian Music Industry Report"
 date = 2015-04-27T00:00:00
 
 # Tags: can be used for filtering projects.
-tags = ["music-industry", "report", "Hungary"]
+tags = ["music-industry", "Hungary", "CEEMID"]
 
 summary = "The report was compiled with joining data and knowledge from collective management agencies for composer, producer and performer royalties, and market leading companies Sziget (organizer of Sziget festival and many more festivals), WMMD music distribution company, market-leading Schubert Music Publishing and A38, Hungary’s leading music club, together with producer and audience survey data, tax authority data and other government sources."
 
