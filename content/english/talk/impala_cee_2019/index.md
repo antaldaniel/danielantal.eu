@@ -8,13 +8,12 @@ draft = false
 time_start = 2019-05-20T10:30:00
 time_end = 2019-05-20T12:00:00
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
 abstract = "Presentation of latest market results and competitiveness indicators."
 
-abstract_short = "The CEE indepdendent labels in global competition."
+abstract_short = "The CEE indepdendent labels in global competition"
 
 
 # Location of event.
@@ -29,7 +28,7 @@ projects = ["market-report", "royalties"]
 
 # Tags (optional).
 
-tags = ["2019", "CEEMID", "charts", "algorithms"]
+tags = ["2019", "CEEMID", "hitlists", "algorithms"]
 
 # Slides (optional).
 
