@@ -1,5 +1,5 @@
 +++
-title = "First CEEMID Regional Opendata Release"
+title = "First CEEMID Regional Open Data Release"
 
 date = 2020-04-16T17:00:00
 lastmod = 2020-04-16T17:30:00
