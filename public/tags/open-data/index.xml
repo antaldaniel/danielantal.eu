@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First CEEMID Regional Opendata Release</title>
+      <link>/post/2020-04-16-regional-opendata-release/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/post/2020-04-16-regional-opendata-release/</guid>
+      <description>In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today.</description>
+    </item>
+    
+    <item>
+      <title>Documenting CEEMID For Open Data Use</title>
+      <link>/post/2020-03-24-documentation/</link>
+      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
+      
+      <guid>/post/2020-03-24-documentation/</guid>
+      <description>The Central European Music Industry Report 2020 was updated with a technical annex that points out to the new wiki documentation website of CEEMID to make our work more accessible for designing the European Music Observatory.</description>
+    </item>
     
     <item>
       <title>OpenData</title>

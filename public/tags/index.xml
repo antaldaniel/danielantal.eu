@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 13:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cee</title>
+      <link>/tags/cee/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/tags/cee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEEMID</title>
+      <link>/tags/ceemid/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/tags/ceemid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European Music Observatory</title>
+      <link>/tags/european-music-observatory/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/tags/european-music-observatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-demand</title>
+      <link>/tags/music-demand/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/tags/music-demand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-data</title>
+      <link>/tags/open-data/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/tags/open-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID-19</title>
@@ -103,24 +157,6 @@
     </item>
     
     <item>
-      <title>cee</title>
-      <link>/tags/cee/</link>
-      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
-      
-      <guid>/tags/cee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CEEMID</title>
-      <link>/tags/ceemid/</link>
-      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
-      
-      <guid>/tags/ceemid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>documentation</title>
       <link>/tags/documentation/</link>
       <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
@@ -130,29 +166,11 @@
     </item>
     
     <item>
-      <title>music</title>
-      <link>/tags/music/</link>
-      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
-      
-      <guid>/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>music-observatory</title>
       <link>/tags/music-observatory/</link>
       <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
       
       <guid>/tags/music-observatory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>opea data</title>
-      <link>/tags/opea-data/</link>
-      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
-      
-      <guid>/tags/opea-data/</guid>
       <description></description>
     </item>
     
@@ -207,15 +225,6 @@
       <pubDate>Thu, 13 Feb 2020 12:30:00 +0100</pubDate>
       
       <guid>/tags/ropengov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-data</title>
-      <link>/tags/open-data/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/open-data/</guid>
       <description></description>
     </item>
     
@@ -279,15 +288,6 @@
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
       
       <guid>/tags/serbia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>European Music Observatory</title>
-      <link>/tags/european-music-observatory/</link>
-      <pubDate>Wed, 22 Jan 2020 14:16:00 +0100</pubDate>
-      
-      <guid>/tags/european-music-observatory/</guid>
       <description></description>
     </item>
     
@@ -382,15 +382,6 @@
     </item>
     
     <item>
-      <title>value-transfer</title>
-      <link>/tags/value-transfer/</link>
-      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      
-      <guid>/tags/value-transfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>concerts</title>
       <link>/tags/concerts/</link>
       <pubDate>Fri, 11 Oct 2019 10:16:00 +0200</pubDate>
@@ -427,11 +418,11 @@
     </item>
     
     <item>
-      <title>dataanimation</title>
-      <link>/tags/dataanimation/</link>
+      <title>data-animation</title>
+      <link>/tags/data-animation/</link>
       <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
       
-      <guid>/tags/dataanimation/</guid>
+      <guid>/tags/data-animation/</guid>
       <description></description>
     </item>
     
@@ -522,15 +513,6 @@
       <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
       
       <guid>/tags/algorithms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>charts</title>
-      <link>/tags/charts/</link>
-      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
-      
-      <guid>/tags/charts/</guid>
       <description></description>
     </item>
     
@@ -648,15 +630,6 @@
       <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>report</title>
-      <link>/tags/report/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/report/</guid>
       <description></description>
     </item>
     

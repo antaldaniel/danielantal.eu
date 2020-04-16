@@ -3,6 +3,93 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/cee/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/cee/" hreflang="hu"/>
+    
+      <loc>/tags/cee/</loc>
+      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/ceemid/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
+    
+      <loc>/tags/ceemid/</loc>
+      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+    
+      <loc>/</loc>
+      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/european-music-observatory/</loc>
+      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/2020-04-16-regional-opendata-release/</loc>
+      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/music/" hreflang="hu"/>
+    
+      <loc>/tags/music/</loc>
+      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/music-demand/</loc>
+      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/open-data/</loc>
+      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2020-04-15-comparing-social-distancing/</loc>
       <lastmod>2020-04-16T13:30:00+02:00</lastmod>
     </url>
@@ -22,17 +109,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-    
-      <loc>/</loc>
-      <lastmod>2020-04-16T13:30:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/geolocations/</loc>
       <lastmod>2020-04-16T13:30:00+02:00</lastmod>
     </url>
@@ -42,17 +118,6 @@
     <url>
     
       <loc>/tags/public-policy/</loc>
-      <lastmod>2020-04-16T13:30:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-    
-      <loc>/tags/</loc>
       <lastmod>2020-04-16T13:30:00+02:00</lastmod>
     </url>
     
@@ -139,28 +204,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/cee/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/cee/" hreflang="hu"/>
-    
-      <loc>/tags/cee/</loc>
-      <lastmod>2020-03-24T13:30:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/ceemid/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
-    
-      <loc>/tags/ceemid/</loc>
-      <lastmod>2020-03-24T13:30:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/documentation/</loc>
       <lastmod>2020-03-24T13:30:00+01:00</lastmod>
     </url>
@@ -177,26 +220,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/music/" hreflang="hu"/>
-    
-      <loc>/tags/music/</loc>
-      <lastmod>2020-03-24T13:30:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/music-observatory/</loc>
-      <lastmod>2020-03-24T13:30:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/opea-data/</loc>
       <lastmod>2020-03-24T13:30:00+01:00</lastmod>
     </url>
     
@@ -287,14 +311,6 @@
     
       <loc>/tags/ropengov/</loc>
       <lastmod>2020-02-13T12:30:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/open-data/</loc>
-      <lastmod>2020-02-13T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -436,14 +452,6 @@
     <url>
     
       <loc>/talk/2020_01_29_flip/</loc>
-      <lastmod>2020-01-22T14:16:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/european-music-observatory/</loc>
       <lastmod>2020-01-22T14:16:00+01:00</lastmod>
     </url>
     
@@ -634,14 +642,6 @@
     
     <url>
     
-      <loc>/tags/value-transfer/</loc>
-      <lastmod>2019-10-31T12:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/talk/2019_11_08_nouvelle_prague/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/talk/2019_11_08_nouvelle_prague/" hreflang="hu"/>
     
@@ -718,7 +718,7 @@
     
     <url>
     
-      <loc>/tags/dataanimation/</loc>
+      <loc>/tags/data-animation/</loc>
       <lastmod>2019-09-23T19:00:00+02:00</lastmod>
     </url>
     
@@ -742,7 +742,7 @@
     
     <url>
     
-      <loc>/post/2019-09-24_index/</loc>
+      <loc>/post/2019-09-24_streaming-market/</loc>
       <lastmod>2019-09-23T19:00:00+02:00</lastmod>
     </url>
     
@@ -864,14 +864,6 @@
     <url>
     
       <loc>/tags/algorithms/</loc>
-      <lastmod>2019-05-17T10:30:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/charts/</loc>
       <lastmod>2019-05-17T10:30:00+02:00</lastmod>
     </url>
     
@@ -1339,14 +1331,6 @@
     <url>
     
       <loc>/post/2015-04-27_proart_report_15/</loc>
-      <lastmod>2015-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/report/</loc>
       <lastmod>2015-04-27T00:00:00+02:00</lastmod>
     </url>
     

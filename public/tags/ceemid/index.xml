@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 24 Mar 2020 13:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/ceemid/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First CEEMID Regional Opendata Release</title>
+      <link>/post/2020-04-16-regional-opendata-release/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/post/2020-04-16-regional-opendata-release/</guid>
+      <description>In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today.</description>
+    </item>
     
     <item>
       <title>Documenting CEEMID For Open Data Use</title>
@@ -165,6 +174,15 @@ Creative FLIP stands for Finance, Learning, Innovation and Patenting is a Pilot 
       
       <guid>/post/2016-04-20_makk15/</guid>
       <description>Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.</description>
+    </item>
+    
+    <item>
+      <title>First National Hungarian Music Industry Report</title>
+      <link>/post/2015-04-27_proart_report_15/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/post/2015-04-27_proart_report_15/</guid>
+      <description>The report was compiled with joining data and knowledge from collective management agencies for composer, producer and performer royalties, and market leading companies Sziget (organizer of Sziget festival and many more festivals), WMMD music distribution company, market-leading Schubert Music Publishing and A38, Hungary’s leading music club, together with producer and audience survey data, tax authority data and other government sources.</description>
     </item>
     
   </channel>

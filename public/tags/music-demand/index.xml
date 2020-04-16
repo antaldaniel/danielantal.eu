@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music-demand on Daniel Antal, CFA</title>
+    <link>/tags/music-demand/</link>
+    <description>Recent content in music-demand on Daniel Antal, CFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 16 Apr 2020 17:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/music-demand/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First CEEMID Regional Opendata Release</title>
+      <link>/post/2020-04-16-regional-opendata-release/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/post/2020-04-16-regional-opendata-release/</guid>
+      <description>In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today.</description>
+    </item>
+    
+  </channel>
+</rss>

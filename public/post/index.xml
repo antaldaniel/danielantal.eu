@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>First CEEMID Regional Opendata Release</title>
+      <link>/post/2020-04-16-regional-opendata-release/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/post/2020-04-16-regional-opendata-release/</guid>
+      <description>In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today.</description>
+    </item>
+    
+    <item>
       <title>Comparing Social Distancing in Europe</title>
       <link>/post/2020-04-15-comparing-social-distancing/</link>
       <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
@@ -113,10 +122,10 @@
     
     <item>
       <title>Streaming Market Growth on European Markets</title>
-      <link>/post/2019-09-24_index/</link>
+      <link>/post/2019-09-24_streaming-market/</link>
       <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
       
-      <guid>/post/2019-09-24_index/</guid>
+      <guid>/post/2019-09-24_streaming-market/</guid>
       <description>Total national sales reflect the growing number of subscribers, the price, the exchange rate, and many factors that are not important for an artists or music label. Instead we design indexes that show the real growth for a typical domestic or foreign rightsholder in a country.  The aim is to provide useful sales and performance guidance for smaller countries, genres and exporting destinations.</description>
     </item>
     

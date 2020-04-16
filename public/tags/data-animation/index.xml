@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hitlists on Daniel Antal, CFA</title>
-    <link>/tags/hitlists/</link>
-    <description>Recent content in hitlists on Daniel Antal, CFA</description>
+    <title>data-animation on Daniel Antal, CFA</title>
+    <link>/tags/data-animation/</link>
+    <description>Recent content in data-animation on Daniel Antal, CFA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 - &amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 23 Sep 2019 19:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/hitlists/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/data-animation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,15 +28,6 @@
       
       <guid>/post/2019-09-23_cross-border_europe/</guid>
       <description>Which are the European countries that can successfully export songs on a streaming platform? What are the differences in cross-border hits from the UK, France, Germany, the Netherlands and Sweden?</description>
-    </item>
-    
-    <item>
-      <title>IMPALA CEE Workshop 2019</title>
-      <link>/talk/impala_cee_2019/</link>
-      <pubDate>Fri, 17 May 2019 10:30:00 +0200</pubDate>
-      
-      <guid>/talk/impala_cee_2019/</guid>
-      <description></description>
     </item>
     
   </channel>

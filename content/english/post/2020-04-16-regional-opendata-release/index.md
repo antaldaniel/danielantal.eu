@@ -7,14 +7,16 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["CEEMID", "open-data", "music-demand"]
+tags = ["CEEMID", "open-data", "music-demand", "European Music Observatory"]
+
+projects = ["CEEMID", "opendata"]
 
 summary = "In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today."
 
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Staying home or going to work? Visualization by Daniel Antal"
+  caption = "Six years of regional data visualized"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -124,5 +126,5 @@ The data contains standard national / regional references according the European
 
 At last, the data was put into a table that complies with the [tidy data](https://www.jstatsoft.org/article/view/v059i10) principles for easier processing on computers and immediate use in spreadsheet applications. 
 
-_Use this in your article? Further research? Collaboration? The data & code is available in a private github repo. Let's get in touch on [LinkedIn](https://www.linkedin.com/in/antaldaniel/), [Twitter](https://twitter.com/antaldaniel), or via [danielantal.eu](https://danielantal.eu/#contact)_
+_Use this in your article? Further research? Collaboration? Let's get in touch on [LinkedIn](https://www.linkedin.com/in/antaldaniel/), [Twitter](https://twitter.com/antaldaniel), or via [danielantal.eu](https://danielantal.eu/#contact)_
 
