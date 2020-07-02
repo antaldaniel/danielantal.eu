@@ -11,6 +11,7 @@ tags = ["CEEMID", "open-data", "music-demand", "European Music Observatory"]
 
 projects = ["CEEMID", "opendata"]
 
+
 summary = "In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today."
 
 # Featured image
@@ -50,12 +51,10 @@ album = "gallery"
 image = "metadata_ceemid_regional_social_media_use_2015.jpg"
 caption = "CEEMID metadata summary (2015)"
 
-
 [[gallery_item]]
 album = "gallery"
 image = "metadata_ceemid_regional_social_media_use_2019.jpg"
 caption = "CEEMID metadata summary (2019)"
-
 
 +++
 
