@@ -3,17 +3,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/cee/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/cee/" hreflang="hu"/>
-    
-      <loc>/tags/cee/</loc>
-      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/tags/ceemid/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/tags/ceemid/" hreflang="hu"/>
     
@@ -45,17 +34,6 @@
     <url>
     
       <loc>/post/2020-04-16-regional-opendata-release/</loc>
-      <lastmod>2020-04-16T17:30:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/music/" hreflang="hu"/>
-    
-      <loc>/tags/music/</loc>
       <lastmod>2020-04-16T17:30:00+02:00</lastmod>
     </url>
     
@@ -239,6 +217,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/cee/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/cee/" hreflang="hu"/>
+    
+      <loc>/tags/cee/</loc>
+      <lastmod>2020-03-11T14:16:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/ceemid-observatory/</loc>
       <lastmod>2020-03-11T14:16:00+01:00</lastmod>
     </url>
@@ -291,17 +280,6 @@
     <url>
     
       <loc>/post/2020-02-13-regional_eurostat/</loc>
-      <lastmod>2020-02-13T12:30:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/r/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/r/" hreflang="hu"/>
-    
-      <loc>/tags/r/</loc>
       <lastmod>2020-02-13T12:30:00+01:00</lastmod>
     </url>
     
@@ -707,17 +685,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/data/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/data/" hreflang="hu"/>
-    
-      <loc>/tags/data/</loc>
-      <lastmod>2019-09-23T19:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/data-animation/</loc>
       <lastmod>2019-09-23T19:00:00+02:00</lastmod>
     </url>
@@ -972,6 +939,17 @@
     <url>
     
       <loc>/post/2019-01-04_iotables_released/</loc>
+      <lastmod>2019-01-04T19:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/r/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/r/" hreflang="hu"/>
+    
+      <loc>/tags/r/</loc>
       <lastmod>2019-01-04T19:00:00+01:00</lastmod>
     </url>
     
@@ -1245,6 +1223,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/music/" hreflang="hu"/>
+    
+      <loc>/tags/music/</loc>
+      <lastmod>2015-11-12T19:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/1/</loc>
       <lastmod>2015-11-09T00:00:00+01:00</lastmod>
     </url>
@@ -1456,6 +1445,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/data/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/data/" hreflang="hu"/>
+    
+      <loc>/tags/data/</loc>
+      <lastmod>2009-12-15T19:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/hungary_psi_2009/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/publication/hungary_psi_2009/" hreflang="hu"/>
     
@@ -1549,6 +1549,25 @@
     
       <loc>/publication/money_functions/</loc>
       <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/ceemid-observatory/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/slides/presentation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/slides/presentation/" hreflang="hu"/>
+    
+      <loc>/slides/presentation/</loc>
+      <priority>0</priority>
     </url>
     
   

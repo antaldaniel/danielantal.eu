@@ -33,9 +33,7 @@ url_pdf = "https://www.academia.edu/7752804/A_k%C3%B6zint%C3%A9zm%C3%A9nyek_%C3%
 
 +++
 
-
-- _A közintézmények újrahasznosítható információinak piaca Magyarországon_
-
+## Vezetői összefoglaló: A közintézmények újrahasznosítható információinak piaca Magyarországon
 
 A tanulmány elvégezte az újrahasznosítható hazai közintézményi információk körének piaci felmérést. (A felmérésben az önkormányzati közintézményi kör nem szerepelt.) A felmérés eladói és vevői interjúk, kérdőívek, közérdekűadatkérések, illetve a közintézmények költségvetési terveinek és beszámolóinak, illetve a cégnyilvános adatok ésa vállalkozások beszámolóinak elemzésével készült. A hazai empirikus adatokat más, a világ- és európai piacra,illetve egyes országok fejlett piacaira készült empirikus piacelemzések adataival vetettük össze. A felmérés nemtartalmaz megbízható adatokat a hazai bíróságokra nézve, mivel teljes mértékben elzárkóztak a felmérésbenvaló részvételtől. 
 

@@ -165,17 +165,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/music/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
-    
-      <loc>/hu/tags/music/</loc>
-      <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/tags/music-industry/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/tags/music-industry/" hreflang="en"/>
     
@@ -374,17 +363,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/r/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/r/" hreflang="en"/>
-    
-      <loc>/hu/tags/r/</loc>
-      <lastmod>2019-10-11T10:16:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/hu/tags/royalties/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/tags/royalties/" hreflang="en"/>
     
@@ -471,6 +449,17 @@
     <url>
     
       <loc>/hu/post/iotables_04/</loc>
+      <lastmod>2019-01-04T19:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/r/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/r/" hreflang="en"/>
+    
+      <loc>/hu/tags/r/</loc>
       <lastmod>2019-01-04T19:00:00+01:00</lastmod>
     </url>
     
@@ -959,6 +948,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/tags/music/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
+    
+      <loc>/hu/tags/music/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/hu/tags/regulation/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/tags/regulation/" hreflang="en"/>
     
@@ -1085,6 +1085,17 @@
     
       <loc>/hu/publication/money_functions/</loc>
       <lastmod>1998-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/slides/presentation/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/slides/presentation/" hreflang="en"/>
+    
+      <loc>/hu/slides/presentation/</loc>
+      <priority>0</priority>
     </url>
     
   
